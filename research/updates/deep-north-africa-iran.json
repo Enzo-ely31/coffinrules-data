@@ -1,0 +1,327 @@
+[
+ {
+  "cc": "TN",
+  "name": "Tunisia",
+  "status": "requirements",
+  "summary": "Bringing the body of a Tunisian national into Tunisia needs a transport permit for a mortal remains (permis de transport de dépouille mortelle), which for entry is issued by the Tunisian embassy or consulate covering the place of death. The core documents are the death certificate extract and a medical certificate that the death was not caused by a contagious disease; on arrival the civil registrar issues the burial order on sight of these papers.",
+  "documents": [
+   "Full death certificate issued by the foreign authorities (acte de décès intégral)",
+   "Medical certificate that the cause of death is not a contagious disease",
+   "Identity document of the deceased (Tunisian passport or national ID card) and proof of residence",
+   "Copy of the declarant's identity document",
+   "Copy of the deceased's medical insurance, if any",
+   "Transport or export authorisation from the country of death (e.g. prefecture permit in France)",
+   "Tunisian consular transport permit for the remains, issued by the consulate after these papers are filed"
+  ],
+  "coffin": "No Tunisian text on coffin specifications for international transport was found. The usual international standard (hermetically sealed zinc-lined inner coffin inside a wooden coffin, sealed by the funeral home with the sealing authority of the country of death) is expected by airlines; confirm with the consulate.",
+  "embalming": "Not required by any Tunisian text found. Some countries of departure or airlines may require it; many Muslim families prefer to avoid it. Confirm with the consulate and the carrier.",
+  "consular": "For a Tunisian who dies abroad, the Tunisian embassy or consulate with jurisdiction over the place of death issues the transport permit for entry into Tunisia (Ministry of Interior service sheet). The MFA e-consulat repatriation service requires that the deceased was Tunisian and died within the consular district, and lists the documents. The consulate can also transcribe the death and issue an Arabic death extract. State coverage of repatriation costs for nationals has been reported in the press but is not confirmed on an official page; ask the consulate. For a foreign national to be buried in Tunisia, no official procedure was found; ask the Tunisian consulate.",
+  "arrival": "The coffin is cleared at the arrival airport and released to the family or funeral service. The civil registrar who receives the remains with the transport permit, the medical certificate and the death extract must issue the burial order without further inquiry into the cause of death. Cremation is not allowed in Tunisia. Muslim burial is usually very prompt.",
+  "pouch_accepted": null,
+  "pouch": null,
+  "private_aviation": "No Tunisian rule specific to remains on private aircraft was found. Land at an international airport with customs and health services and have the handling agent arrange release of the coffin with the consular permit and documents.",
+  "private_jet_alert": false,
+  "private_jet_note": null,
+  "export": "Leaving Tunisia: the death is registered at the municipality (certificate within 72 hours, French version available, no cause of death shown). The transport permit for taking remains abroad is issued by the Direction des réglementations of the Sûreté nationale for the Tunis district governorates, and by the governor for other governorates, on the death certificate extract and a non-contagious disease certificate; the service sheet says it is issued immediately. The UK also lists police permission to remove the body, the passport and an undertaker's statement that the body is properly coffined. A post-mortem may be ordered for sudden, unnatural or unexplained deaths.",
+  "export_points": [
+   "Death certificate from the municipality within 72 hours",
+   "Transport permit: Sûreté nationale (Tunis) or governor",
+   "Non-contagious disease certificate required",
+   "Post-mortem possible for unexplained deaths"
+  ],
+  "at_a_glance": {
+   "death_certificate": "Full certificate plus Arabic extract",
+   "embalming": "Not required by Tunisian law found",
+   "coffin": "Sealed zinc-lined coffin expected by airlines",
+   "laissez_passer": "Consular transport permit for remains",
+   "consular": "Tunisian consulate of place of death",
+   "permit": "Consulate permit; export permit abroad",
+   "arrival": "Burial order issued on documents"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Contact the Tunisian consulate covering the place of death and a funeral home; book a consular appointment."
+   },
+   {
+    "when": "Day 0-1",
+    "what": "Obtain the full death certificate and the non-contagious disease certificate; gather the deceased's ID and proof of residence."
+   },
+   {
+    "when": "Day 1-2",
+    "what": "Funeral home coffins and seals the body and obtains the export permit of the country of death."
+   },
+   {
+    "when": "Day 1-3",
+    "what": "File the file at the consulate, which issues the transport permit for the remains."
+   },
+   {
+    "when": "Departure",
+    "what": "Fly the coffin with the permit, death certificate and medical certificate."
+   },
+   {
+    "when": "Arrival",
+    "what": "Airport release to the family; civil registrar issues the burial order."
+   }
+  ],
+  "key_points": [
+   "Entry permit for nationals is issued by the consulate",
+   "Non-contagious disease certificate is required",
+   "Cremation is not allowed in Tunisia",
+   "Ask the consulate about State coverage of costs"
+  ],
+  "lead_days": 3,
+  "authority": "Tunisian embassies and consulates (Ministry of Foreign Affairs) for entry; Ministry of Interior (Sûreté nationale, governors) for exit",
+  "sources": [
+   "http://www.sicad.gov.tn/Fr/Permis-de-transport-de-depouille-mortelle_57_3_D2203",
+   "https://www.econsulat.tn/fr/services-sociaux/rapatriement-de-depouille-mortelle",
+   "https://www.gov.uk/guidance/when-someone-dies-in-tunisia"
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "LY",
+  "name": "Libya",
+  "status": "requirements",
+  "summary": "Bringing a casket into Libya goes through the Libyan embassy or consulate in the country of death, which registers the death and issues Libyan civil status documents including a burial permit. Libyan missions ask for the local death certificate translated into Arabic and the transfer permit of the country of death; check airspace restrictions before planning any flight.",
+  "documents": [
+   "Original death certificate from the competent authority, translated into Arabic",
+   "Permit from the authority of the place of death authorising transfer of the body to Libya",
+   "Passport of the deceased (copy, or original as some missions ask) and copy of the family booklet",
+   "Copy of the passport of the person declaring the death",
+   "Libyan consular forms: death notification, death record, death certificate and burial permit (forms 10, 38 and 40)",
+   "Medical certificate of cause of death or non-contagious disease and embalming certificate (usual practice; confirm)"
+  ],
+  "coffin": "No Libyan official rule was found. A hermetically sealed, metal-lined casket in an outer case is the usual standard for air transport; confirm with the mission and the carrier.",
+  "embalming": "No Libyan official rule was found; airlines and the country of death may require it. Confirm with the Libyan mission.",
+  "consular": "The Libyan embassy or consulate registers the death on Libyan forms and its consular officer signs a Libyan death certificate and a burial permit (تصريح بالدفن) after checking the identity of the deceased and the cause of death. Libyan missions ask for the foreign death certificate translated into Arabic. Copies taken with a phone camera are not accepted by the Manchester consulate. No fees or delays are published.",
+  "arrival": "No official description of arrival formalities was found. Expect customs and health clearance at the arrival airport, release to the family with the Libyan burial permit, and prompt Muslim burial.",
+  "pouch_accepted": null,
+  "pouch": null,
+  "private_aviation": "EASA (CZIB-2017-02R20, revised 24 July 2026, valid to 31 January 2027) advises EU operators not to operate in the Tripoli FIR below FL320, except to coastal airports approached from the sea, with full coordination with local authorities and a robust risk assessment. US operators and US-registered aircraft are barred from Libyan territory and airspace by FAA SFAR 112 (14 CFR 91.1603) until 20 March 2028, unless the FAA approves an exemption. The UK advises against all travel except to Tripoli, Misrata, Benghazi, Al-Bayda and Derna (all but essential travel there) and has no in-person consular support in Libya.",
+  "private_jet_alert": true,
+  "private_jet_note": "Coastal airports only, sea approach; US-registered aircraft barred by FAA SFAR 112.",
+  "export": "No official published procedure for sending a body out of Libya was found. The UK handles Libya cases from its embassy in Tunis. Confirm the local steps (death certificate, police and prosecutor release, sealing, airport and airline availability) with a local funeral service and the deceased's embassy.",
+  "export_points": [
+   "No official exit procedure published",
+   "UK consular help for Libya comes from Tunis",
+   "Expect police or prosecutor release before export",
+   "Security and airspace limits can delay everything"
+  ],
+  "at_a_glance": {
+   "death_certificate": "Original, translated into Arabic",
+   "embalming": "Not confirmed; ask the mission",
+   "coffin": "Sealed metal-lined casket expected",
+   "laissez_passer": "Libyan consular burial permit",
+   "consular": "Libyan embassy registers the death",
+   "permit": "Transfer permit from country of death",
+   "arrival": "Not published; prompt Muslim burial"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Contact the Libyan embassy or consulate and a funeral home in the country of death."
+   },
+   {
+    "when": "Day 0-1",
+    "what": "Check airspace restrictions, arrival airport status and landing permits for the flight."
+   },
+   {
+    "when": "Day 1-2",
+    "what": "Obtain the death certificate, its Arabic translation and the local transfer permit."
+   },
+   {
+    "when": "Day 1-3",
+    "what": "File the Libyan death forms; the mission issues the Libyan death certificate and burial permit."
+   },
+   {
+    "when": "Departure",
+    "what": "Fly the sealed casket once the mission confirms the paperwork."
+   },
+   {
+    "when": "Arrival",
+    "what": "Family or funeral service collects after airport clearance."
+   }
+  ],
+  "key_points": [
+   "Arabic translation of the death certificate is required",
+   "Libyan mission issues a burial permit",
+   "EASA: coastal airports only, sea approach",
+   "US operators barred by FAA until March 2028"
+  ],
+  "lead_days": null,
+  "authority": "Libyan Ministry of Foreign Affairs and International Cooperation (embassies and consulates)",
+  "sources": [
+   "https://embassies.foreign.gov.ly/embae/2022/07/%D8%AA%D8%B3%D8%AC%D9%8A%D9%84-%D8%AD%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D9%81%D8%A7%D8%A9/",
+   "https://embassies.foreign.gov.ly/consgb/2025/01/%d9%88%d8%a7%d9%82%d8%b9%d8%a9-%d9%88%d9%81%d8%a7%d8%a9/",
+   "https://embassies.foreign.gov.ly/embza/wp-content/uploads/sites/30/2024/08/%D9%86%D9%85%D9%88%D8%B0%D8%AC-%D8%AE%D8%A7%D8%B5-%D8%A8%D9%88%D8%A7%D9%82%D8%B9%D8%A9-%D8%A7%D9%84%D9%88%D9%81%D8%A7%D8%A9.pdf",
+   "https://www.easa.europa.eu/en/domains/air-operations/czibs/czib-2017-02r20",
+   "https://www.law.cornell.edu/cfr/text/14/91.1603",
+   "https://www.gov.uk/foreign-travel-advice/libya"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "IR",
+  "name": "Iran",
+  "status": "requirements",
+  "summary": "To bring a casket into Iran, contact the Iranian embassy or consulate in the country of death, which registers the death and processes the transfer request. Iranian consular pages could not be opened for verification, and flights face serious constraints: EASA advises against operating in Iranian airspace at all levels and US aircraft sanctions licences are suspended.",
+  "documents": [
+   "Original local death certificate, legalised and translated as the Iranian mission requires",
+   "Iranian identity documents of the deceased (shenasnameh, passport, national ID card)",
+   "ID of the applicant",
+   "Transfer request filed with the Iranian consulate (death registration is often started on the Mikhak consular portal)",
+   "Embalming certificate and non-contagious disease certificate from the country of death (practice; confirm)",
+   "Export or transit permit from the country of death"
+  ],
+  "coffin": "No Iranian official rule was found. A hermetically sealed, metal-lined casket in an outer case is the usual standard for air transport; confirm with the mission and the carrier.",
+  "embalming": "Not confirmed for entry. For exits from Iran, embalming to international standards is done at the State Forensic (Legal Medicine) Organization in Tehran, which issues a letter confirming it.",
+  "consular": "The Iranian embassy or consulate registers the death and processes the transfer request. For a foreign national to be buried in Iran, the MFA portal reportedly requires a permit from the MFA's civil registration office in Tehran, with costs borne by the family (the page could not be opened during this check; confirm). Iranian missions are absent in some countries (the US is served by the Interests Section in Washington); confirm opening and procedure first.",
+  "arrival": "No official description of arrival formalities was found. Expect customs and health checks at the arrival airport, release to the family or a funeral service and prompt Muslim burial.",
+  "pouch_accepted": null,
+  "pouch": null,
+  "private_aviation": "EASA CZIB-2026-04-R2 (revised 30 September 2026, valid to 16 November 2026) recommends not operating within the Tehran FIR (OIIX) at any altitude. OFAC indefinitely suspended General License J-1 (temporary sojourn of civil aircraft to Iran) and the overflight payment authorisation from 8 September 2026, so business jets with US content cannot fly to Iran without serious sanctions risk. US rules (31 CFR 560.542) still authorise exporting human remains and their coffin to Iran, which does not cover the aircraft. The UK advises against all travel to Iran and says Iranian airspace may close at short notice.",
+  "private_jet_alert": true,
+  "private_jet_note": "EASA: do not operate in Iranian airspace; OFAC J-1 aircraft licence suspended.",
+  "export": "Leaving Iran: the body goes to the State Forensic (Legal Medicine) Organization in Tehran, which decides on autopsy and is the only place that embalms and prepares bodies for repatriation; it issues a letter confirming embalming. The death certificate must be translated and certified by the Iranian MFA. A police report and local permits are needed, plus documents from the deceased's embassy. Airfreight is booked with the airline cargo office at Imam Khomeini airport (charged by coffin weight, 120 kg minimum per the Swiss interests section), and customs seal the coffin at the airport. If tests are pending, the cause may be shown as under investigation; results can take up to 3 months.",
+  "export_points": [
+   "Tehran forensic organisation handles autopsy and embalming",
+   "Death certificate translated and certified by Iranian MFA",
+   "Customs seal the coffin at Imam Khomeini airport",
+   "Few airlines currently accept remains from Iran"
+  ],
+  "at_a_glance": {
+   "death_certificate": "Original, legalised for Iranian mission",
+   "embalming": "Usual practice; confirm with mission",
+   "coffin": "Sealed metal-lined casket expected",
+   "laissez_passer": "Iranian consular transfer processing",
+   "consular": "Iranian embassy or consulate involved",
+   "permit": "Export permit from country of death",
+   "arrival": "Airport clearance, prompt Muslim burial"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Contact the Iranian embassy, consulate or interests section and a funeral home in the country of death."
+   },
+   {
+    "when": "Day 0-1",
+    "what": "Check which airlines currently carry remains to Iran; private flights need airspace and sanctions advice first."
+   },
+   {
+    "when": "Day 1-2",
+    "what": "Obtain the death certificate and local export permits; legalise and translate as the mission asks."
+   },
+   {
+    "when": "Day 1-3",
+    "what": "Register the death and file the transfer request with the Iranian mission."
+   },
+   {
+    "when": "Departure",
+    "what": "Fly the sealed casket; family or funeral service collects after airport clearance."
+   }
+  ],
+  "key_points": [
+   "No official Iranian entry checklist could be verified",
+   "EASA advises no flights in Iranian airspace",
+   "OFAC General License J-1 is suspended since 8 September 2026",
+   "Exits from Iran run through the Tehran forensic organisation"
+  ],
+  "lead_days": null,
+  "authority": "Iranian Ministry of Foreign Affairs (embassies, consulates and interests sections)",
+  "sources": [
+   "https://www.gov.uk/guidance/when-someone-dies-in-iran",
+   "https://www.gov.uk/foreign-travel-advice/iran",
+   "https://www.schweiz-iran.eda.admin.ch/en/shipment-of-remains",
+   "https://www.easa.europa.eu/en/domains/air-operations/czibs/czib-2026-04-r2",
+   "https://public-inspection.federalregister.gov/2026-18461.pdf",
+   "https://www.law.cornell.edu/cfr/text/31/560.542"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "PS",
+  "name": "Palestine",
+  "status": "unknown",
+  "summary": "Palestine has no operating airport, so a casket for burial in the West Bank arrives by air in Jordan (Amman) or Israel (Ben Gurion) and continues by road. Via Jordan, the Jordanian foreign ministry runs a free body-transit service on its consular portal; the crossing into the West Bank is at the King Hussein (Allenby / Karama) bridge. No official Palestinian procedure was found.",
+  "documents": [
+   "Original valid passport of the deceased (Jordan body-transit service)",
+   "Death notification and disease-free certificate, if available (Jordan body-transit service)",
+   "Death certificate from the country of death, legalised as the missions require",
+   "Export or transit permit from the country of death",
+   "Palestinian ID of the deceased, if any, and any Palestinian embassy papers requested (confirm)",
+   "Clearance for the bridge crossing into the West Bank (confirm with the Palestinian embassy)"
+  ],
+  "coffin": "No official rule found. A hermetically sealed, metal-lined casket in an outer case is the usual standard for air transport and onward road transit.",
+  "embalming": "No official rule found. Transit through a third country and a land crossing often make preservation necessary; Muslim families may prefer to avoid embalming. Confirm with the missions and carrier.",
+  "consular": "Via Jordan: a body-transit request (عبور جثمان) is filed on the Jordanian MFA e-services portal or through a Jordanian embassy; applicants and recipients can be Jordanian or non-Jordanian, including holders of Gaza temporary passports. The ministry lists no fee and a one-hour processing time. Via Israel: Israeli import and crossing requirements apply; no official page could be verified. The Palestinian embassy usually coordinates, but no published checklist was found.",
+  "arrival": "After landing in Jordan or Israel, the coffin continues by road to the West Bank, with Israeli security control at the crossing (King Hussein / Allenby bridge from Jordan). Gaza border crossings have been closed to civilians and general traffic since May 2024, so repatriation to Gaza is currently not possible.",
+  "pouch_accepted": null,
+  "pouch": null,
+  "private_aviation": "A private jet cannot land in the West Bank or Gaza; it must land in Jordan or Israel. EASA CZIB-2026-08-R3 (revised 14 October 2026, valid to 16 November 2026) asks operators in the Amman FIR to factor in the risks and be ready for short-notice state instructions; an EASA information note (valid to 16 November 2026) asks operators to take potential risk into account in the Tel Aviv FIR.",
+  "private_jet_alert": true,
+  "private_jet_note": "No airport in Palestine; land in Amman or Israel, then road crossing.",
+  "export": "No official published procedure for sending a body out of the West Bank or Gaza was found. Exits go by road through Jordan (King Hussein bridge) or Israel and need the transit state's clearance. Gaza crossings have been closed to general traffic since May 2024.",
+  "export_points": [
+   "No airport; exit via Jordan or Israel by road",
+   "Transit state clearance needed at the crossing",
+   "Gaza crossings closed to general traffic since May 2024",
+   "Confirm every step with the embassies involved"
+  ],
+  "at_a_glance": {
+   "death_certificate": "Original, legalised; confirm with embassy",
+   "embalming": "Not confirmed; ask the missions",
+   "coffin": "Sealed metal-lined casket expected",
+   "laissez_passer": "Jordan body-transit approval if via Amman",
+   "consular": "Palestinian embassy plus transit state",
+   "permit": "Transit approval and bridge crossing",
+   "arrival": "Land in Jordan or Israel, then road"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Contact the Palestinian embassy and a funeral home in the country of death."
+   },
+   {
+    "when": "Day 0-1",
+    "what": "Choose the transit airport (Amman or Ben Gurion) and contact that state's mission."
+   },
+   {
+    "when": "Day 1-2",
+    "what": "Gather the death certificate, disease-free certificate and export permit."
+   },
+   {
+    "when": "Day 1-3",
+    "what": "Via Jordan, file the body-transit request on the Jordanian MFA portal; arrange the bridge crossing."
+   },
+   {
+    "when": "Departure",
+    "what": "Fly the sealed casket to the transit airport."
+   },
+   {
+    "when": "Arrival",
+    "what": "Road transfer across the bridge to the family for burial."
+   }
+  ],
+  "key_points": [
+   "There is no usable airport in Palestine",
+   "Jordan body-transit approval is free and fast",
+   "Crossings can close at short notice",
+   "Gaza is currently not reachable for repatriation"
+  ],
+  "lead_days": null,
+  "authority": "Palestinian embassy in the country of death, with the transit state (Jordanian MFA or Israeli authorities)",
+  "sources": [
+   "https://www.gov.uk/foreign-travel-advice/the-occupied-palestinian-territories",
+   "https://mfa.gov.jo//documents/230726Body Transit Through Jordan Service.pdf",
+   "https://mfa.gov.jo//documents/290126كيفية تنظيم طلب عبور جثمان .pdf",
+   "https://www.easa.europa.eu/en/domains/air-operations/czibs/czib-2026-08-r3",
+   "https://www.easa.europa.eu/en/information-note-threat-and-risk-situation-airspace-israel-fir-tel-aviv-llll"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ }
+]

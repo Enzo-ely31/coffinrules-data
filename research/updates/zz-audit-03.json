@@ -1,0 +1,539 @@
+[
+  {
+    "cc": "CK",
+    "status": "requirements",
+    "name": "Cook Islands",
+    "summary": "Under the Public Health Act 2004, remains brought into the Cook Islands for burial or cremation must be kept embalmed and in a sealed, impervious container, and must be buried or cremated within 48 hours of arrival unless the Secretary of Health grants a written exemption.",
+    "coffin": "Section 44 of the Public Health Act 2004: remains must be kept encased in a sealed and impervious container at all times while held or transported in the Cook Islands. Land burial must be in a sealed and impervious crypt (section 46). Who witnesses the sealing is not specified.",
+    "embalming": "Required by law: remains brought in must be kept embalmed until burial or cremation (section 44).",
+    "consular": "No consular transfer permit is set out in the Act. Most repatriations come from New Zealand (Cook Islanders are NZ citizens); the Cook Islands High Commission in Wellington and Consulate in Auckland can advise.",
+    "arrival": "Burial or cremation must take place within 48 hours of the remains being brought into the Cook Islands (section 44), unless the Secretary of Health issues a written exemption with conditions (section 45). Where infection with a notifiable condition is suspected, the medical officer may direct special handling (section 86). The family or funeral director collects at Rarotonga.",
+    "pouch": null,
+    "private_aviation": "Rarotonga International Airport is the port of entry. No rule specific to private flights carrying remains was found; the 48-hour burial clock starts when the remains are brought into the Cook Islands (section 44), including when burial is on an outer island, so the funeral and any domestic connection must be ready before landing.",
+    "export": "Remains received in the Cook Islands must be buried or cremated within 24 hours, or, if they are to be buried or cremated elsewhere, embalmed and sealed in an impervious container within 24 hours and transported out of the Cook Islands within 48 hours of receipt (section 43), unless the Secretary of Health grants a written exemption (section 45).",
+    "authority": "Te Marae Ora, Ministry of Health (Secretary of Health), Cook Islands",
+    "last_checked": "2026-10",
+    "documents": [
+      "Certified death certificate stating the cause of death, in English (expected; not listed in the Act)",
+      "Embalming certificate (embalming is legally required)",
+      "Casket sealing certificate from the funeral director (expected)",
+      "Written exemption from the Secretary of Health if burial cannot take place within 48 hours of arrival"
+    ],
+    "sources": [
+      "https://www.health.gov.ck/wp-content/uploads/2020/06/PublicHealthAct2004.pdf"
+    ],
+    "pouch_accepted": false,
+    "private_jet_alert": true,
+    "at_a_glance": {
+      "death_certificate": "English death certificate expected",
+      "embalming": "Required by law",
+      "coffin": "Sealed, impervious container required",
+      "laissez_passer": "Not used",
+      "consular": "No consular permit in the law",
+      "permit": "Exemption needed beyond 48 hours",
+      "arrival": "Burial within 48 hours of arrival"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact Te Marae Ora (Ministry of Health) and the family in the Cook Islands to set the funeral date."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Embalm, seal the casket and gather the death certificate and embalming and sealing certificates."
+      },
+      {
+        "when": "Day 2",
+        "what": "If burial cannot happen within 48 hours of arrival, apply to the Secretary of Health for a written exemption."
+      },
+      {
+        "when": "Day of flight",
+        "what": "Fly to Rarotonga with the original documents."
+      },
+      {
+        "when": "Within 48 hours of arrival",
+        "what": "Burial or cremation, unless an exemption has been granted."
+      }
+    ],
+    "key_points": [
+      "Embalming and a sealed casket are legal requirements",
+      "Burial within 48 hours of arrival unless exempted",
+      "Outgoing remains must leave within 48 hours"
+    ],
+    "export_points": [
+      "Embalm and seal within 24 hours of receipt",
+      "Remains must leave the Cook Islands within 48 hours",
+      "Exemptions only by written decision of the Secretary of Health"
+    ],
+    "private_jet_note": "Burial within 48 hours of arrival is a legal requirement; have the funeral ready before take-off.",
+    "confidence": "medium",
+    "lead_days": 2
+  },
+  {
+    "cc": "CL",
+    "status": "requirements",
+    "name": "Chile",
+    "summary": "Under Chile's General Cemeteries Regulation (Decree 357 of 1970), a body may enter Chile only with documents from the health authority of the place of origin, endorsed by the Chilean consul, showing the transport poses no public health risk, and with authorisation of the competent Regional Ministerial Health Secretary (SEREMI de Salud).",
+    "coffin": "Coffins used to transport bodies must be impermeable and able to be hermetically closed (Art. 67); burial in a vault or niche requires a hermetically sealed coffin (Art. 51). A metal-lined sealed coffin with an outer wooden case is the practical standard.",
+    "embalming": "Not expressly required for entry in the regulation; in practice expected for international transport. Bodies normally must be buried within 48 hours unless embalmed with health authority approval or a judicial or health order applies (Art. 48), so embalming matters for the timing in Chile.",
+    "consular": "Decree 357 requires the origin health documents to be endorsed by the Chilean consul. Chile has joined the Hague Apostille Convention, so ask the consulate whether an apostille now replaces the consular endorsement. Chile is not a party to the 1973 Strasbourg Agreement.",
+    "arrival": "The SEREMI de Salud authorises the entry and transfer. Funeral homes may not change coffins or move bodies without health authority authorisation (Art. 66). A Chilean funeral home collects the coffin; burial needs the civil registry burial pass. Cremation needs SEREMI authorisation and, after an accident or suspected crime, judicial authorisation.",
+    "pouch": null,
+    "private_aviation": "Decree 357 Art. 77 requires a coffin moved between cities or abroad to travel in a separate compartment of the aircraft under the captain's responsibility. A coffin in the passenger cabin of a business jet may not satisfy this; check with the SEREMI de Salud and the operator. Land at an international airport with customs, police and health services.",
+    "export": "The SEREMI de Salud authorises international transport (Decree 357 Art. 75). The health authority checks that the coffin is impermeable and in good condition, draws up a record, seals the coffin and issues the authorisation; the seal may not be removed before arrival at destination (Art. 77). The civil registry death certificate is usually issued within 24 to 72 hours. If a judge is involved the body is released only when the judge is satisfied; straightforward cases take one to two weeks according to UK guidance.",
+    "authority": "Secretaria Regional Ministerial de Salud (SEREMI de Salud); Chilean consulates abroad",
+    "last_checked": "2026-10",
+    "documents": [
+      "Death certificate, apostilled or legalised, with Spanish translation (to confirm with the consulate)",
+      "Health authority document from the place of origin stating the transport poses no public health risk, endorsed (visado) by the Chilean consul (Decree 357 Art. 78)",
+      "Embalming certificate (to confirm)",
+      "Authorisation of the competent SEREMI de Salud for international transport and entry (Art. 75)",
+      "Passport of the deceased (confirm with the consulate)"
+    ],
+    "sources": [
+      "https://www.leychile.cl/Consulta/obtxml?opt=7&idNorma=12643",
+      "https://www.gov.uk/government/publications/chile-bereavement-packinformation/chile-bereavement-information",
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+    ],
+    "pouch_accepted": false,
+    "private_jet_alert": true,
+    "at_a_glance": {
+      "death_certificate": "Apostilled; confirm translation with consulate",
+      "embalming": "Expected in practice; confirm",
+      "coffin": "Impermeable, hermetically closed coffin",
+      "laissez_passer": "Origin health document endorsed by Chilean consul",
+      "consular": "Chilean consul endorses health documents",
+      "permit": "SEREMI de Salud authorisation",
+      "arrival": "Funeral home collects; SEREMI authorises transfer"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the Chilean consulate and appoint funeral homes at both ends"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain death certificate and health authority document stating no public health risk"
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Embalming and sealing in an impermeable hermetic coffin"
+      },
+      {
+        "when": "Day 3-4",
+        "what": "Chilean consul endorses (or apostille) the documents; SEREMI de Salud authorisation requested"
+      },
+      {
+        "when": "Arrival",
+        "what": "Chilean funeral home collects the coffin and obtains the burial pass"
+      }
+    ],
+    "key_points": [
+      "Health documents must be endorsed by the Chilean consul",
+      "Coffin must travel in a separate compartment",
+      "Health authority seal must stay intact to destination",
+      "Ashes need no health authorisation if in a closed urn"
+    ],
+    "export_points": [
+      "SEREMI de Salud authorisation and seal on the coffin",
+      "Coffin travels in a separate compartment of the aircraft",
+      "Judicial release needed after violent or unexplained death",
+      "Usually one to two weeks"
+    ],
+    "private_jet_note": "Chilean rules require the coffin in a separate aircraft compartment under the captain's responsibility.",
+    "confidence": "medium",
+    "lead_days": 4
+  },
+  {
+    "cc": "CM",
+    "status": "strict",
+    "name": "Cameroon",
+    "summary": "A Certificate of Repatriation (mortuary laissez-passer) must be obtained from the Cameroonian embassy or high commission in the country of death, applied for and paid on the evisacam.cm portal. The UK mission also requires a regional authorisation signed by the Prefect for entry into Douala or Yaounde.",
+    "coffin": "Not detailed by the missions whose pages were opened; confirm the casket specification with the mission and the airline. The UK mission asks for an affidavit of contents.",
+    "embalming": "Embalming certificate required (UK mission).",
+    "consular": "Certificate of Repatriation / mortuary laissez-passer issued by the Cameroonian mission; documents uploaded and fee paid online at evisacam.cm (Laissez-Passer section). Berlin embassy: fee EUR 153, non-refundable; apply at least 7 days before departure, indicative processing 7 days. The death certificate issued by the Tokyo embassy is free. Without the Prefect's regional authorisation the UK mission may not issue the certificate.",
+    "arrival": "Customs and health clearance at Douala or Yaounde-Nsimalen; the family or funeral home collects. The regional authorisation covers transfer into the region. No burial deadline published.",
+    "pouch": null,
+    "private_aviation": "No published rule specific to private or charter flights was found. A casket on a private aircraft should arrive at an international airport with customs and health (port health) officers, with landing permission arranged through a local handling agent, and the original documents travelling with the casket. The consular Certificate of Repatriation and the regional authorisation must be obtained before departure.",
+    "export": "A funeral home obtains authorisation to repatriate the body. Needed: death certificate (after hospital registration), cause-of-death certificate (usually within a week), post-mortem report if death outside hospital, passport. Embalming offered by funeral homes. Autopsy reports can take long. UK guidance cites about GBP 2,000 for repatriation to the UK (estimate).",
+    "authority": "Cameroonian embassies/high commissions (Ministry of External Relations); Prefect of Centre or Littoral region",
+    "last_checked": "2026-10",
+    "documents": [
+      "Request letter addressed to the Ambassador / High Commissioner",
+      "Death certificate (English or French translation if needed)",
+      "Deceased's passport or Cameroonian ID, birth certificate",
+      "Embalming certificate",
+      "Free-from-infection certificate",
+      "Authorisation to remove the body from the country of death",
+      "Affidavit of contents (UK mission)",
+      "Burial permit and regional authorisation from the Service of Social and Cultural Affairs (Centre or Littoral), signed by the Prefect (UK mission)",
+      "Funeral company details, flight ticket copy if available (Germany mission)"
+    ],
+    "sources": [
+      "https://cameroonhighcommission.co.uk/repatriation.html",
+      "https://www.ambacam.de/en/authorization-to-repatriate-a-corpse",
+      "https://cameroonemb-jp.org/consular-affairs/death/",
+      "https://www.gov.uk/guidance/what-to-do-after-a-british-person-dies-in-cameroon",
+      "https://www.gov.uk/guidance/when-someone-dies-in-cameroon"
+    ],
+    "pouch_accepted": null,
+    "private_jet_alert": true,
+    "at_a_glance": {
+      "death_certificate": "Translated into English or French",
+      "embalming": "Embalming certificate required",
+      "coffin": "Sealed coffin, contents certified",
+      "laissez_passer": "Certificate of Repatriation from mission",
+      "consular": "Apply and pay on evisacam.cm",
+      "permit": "Prefect's regional authorisation",
+      "arrival": "Douala or Yaounde customs clearance"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Obtain the death certificate and translation; family in Cameroon starts the burial permit and Prefect's regional authorisation."
+      },
+      {
+        "when": "Day 1",
+        "what": "Embalming and free-from-infection certificate; local removal permit."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Upload documents and pay the fee on evisacam.cm (Laissez-Passer section); the Berlin embassy asks for this at least 7 days before departure."
+      },
+      {
+        "when": "Up to about 7 days",
+        "what": "Mission examines the file and issues the Certificate of Repatriation / mortuary laissez-passer (Berlin: indicative 7 days)."
+      },
+      {
+        "when": "Departure",
+        "what": "Coffin sealed and flown with the original documents."
+      },
+      {
+        "when": "Arrival",
+        "what": "Clearance at Douala or Yaounde; family or funeral home collects."
+      }
+    ],
+    "key_points": [
+      "Requirements vary by mission: check the one where death occurred",
+      "Applications and fees go through evisacam.cm",
+      "UK mission requires a Prefect-signed regional authorisation",
+      "Apply at least 7 days before departure (Berlin embassy)",
+      "Not a party to the 1973 Strasbourg Agreement on the transfer of corpses, so a laissez-passer alone does not suffice."
+    ],
+    "export_points": [
+      "Funeral home obtains the repatriation authorisation",
+      "Cause-of-death certificate usually within a week",
+      "Agree costs in writing beforehand",
+      "Autopsy reports can be slow"
+    ],
+    "private_jet_note": "Consular laissez-passer via evisacam.cm and Prefect's authorisation needed before take-off.",
+    "confidence": "medium",
+    "lead_days": 7
+  },
+  {
+    "cc": "CN",
+    "status": "strict",
+    "name": "China",
+    "summary": "Cross-border transport of a body is allowed only for funeral or medical purposes and must be handled by the China Funeral Association's international body transport service centre or a local funeral home. Entry needs approval from the civil affairs and foreign affairs authorities and an entry permit from border quarantine (customs).",
+    "coffin": "No public text sets the casket specification; the casket is checked by border quarantine before release. Use a hermetically sealed casket to IATA standard and confirm with the designated carrier.",
+    "embalming": "No published Chinese rule sets embalming for incoming remains; it is expected for long-haul transport, so confirm with the designated carrier. Exit files from China include embalming, encoffining and quarantine certificates (Indian Embassy Beijing).",
+    "consular": "The Chinese embassy or consulate in the country of death advises on approvals and document legalisation. Approval comes from Chinese civil affairs and foreign affairs authorities; only the China Funeral Association's international body transport network and authorised funeral homes may carry out the transport.",
+    "arrival": "Customs releases the remains only on the quarantine permit. The designated carrier or funeral home collects the casket. Cremation is the general rule in many areas; burial follows local funeral reform rules.",
+    "pouch": null,
+    "private_aviation": "No rule specific to private flights found. The remains must still go through border quarantine and customs at an international port, with the designated carrier involved; foreign private aircraft also need CAAC permits.",
+    "export": "For foreigners: the hospital issues the death certificate (or a forensic certificate for unnatural deaths), and the public security exit-entry bureau issues a foreigner's death certificate when the body will go abroad. Notarisation and authentication follow if required. Only the China Funeral Association's international network and authorised funeral homes (three in Shanghai) handle repatriation; they embalm, encoff and obtain quarantine and exit permits. The Indian Embassy in Beijing reports about 25-30 days for natural deaths and about 45 days for unnatural deaths.",
+    "authority": "Ministry of Civil Affairs / China Funeral Association international body transport service centre; General Administration of Customs (border quarantine)",
+    "last_checked": "2026-10",
+    "documents": [
+      "Application filed by a relative, the consulate or the receiving unit, approved by the civil affairs, overseas Chinese affairs and foreign affairs authorities of the place of death, origin or burial",
+      "Corpse/coffin entry permit from the entry-exit inspection and quarantine authority (now under customs)",
+      "Death certificate and identity document of the deceased (confirm the exact list with the carrier)",
+      "Embalming and encoffining certificates (expected; confirm the current list)",
+      "Customs declaration of the remains"
+    ],
+    "sources": [
+      "https://www.sz.gov.cn/szzt2010/zdlyzl/ggsy/mzxx/bzgl/zcfg/content/post_1320025.html",
+      "https://www.sz.gov.cn/szzt2010/zdlyzl/ggsy/mzxx/bzgl/zcfg/content/post_1320171.html",
+      "https://english.shanghai.gov.cn/en-FuneralServices/20260519/aee8d96328664c73a5f3a01c2514a9a9.html",
+      "https://www.eoibeijing.gov.in/page/death-cases/",
+      "https://guangzhou-bk.mfa.gov.tr/Content/assets/consulate/images/localCache/1/4e92dfa8-129a-4333-b3f0-eeef269bfedb.pdf"
+    ],
+    "pouch_accepted": null,
+    "private_jet_alert": true,
+    "at_a_glance": {
+      "death_certificate": "Legalised, with official approval",
+      "embalming": "Expected; confirm with designated carrier",
+      "coffin": "Sealed, checked by quarantine",
+      "laissez_passer": "Not applicable",
+      "consular": "Chinese consulate advises; approvals in China",
+      "permit": "Quarantine entry permit and civil affairs approval",
+      "arrival": "Customs release, designated carrier collects"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the Chinese consulate and a carrier linked to the China Funeral Association network"
+      },
+      {
+        "when": "Day 1-5",
+        "what": "Embalming, encoffining, death certificate legalisation abroad (confirm requirements with the carrier)"
+      },
+      {
+        "when": "Day 3-10",
+        "what": "Approval by Chinese civil affairs or foreign affairs authorities obtained"
+      },
+      {
+        "when": "Before flight",
+        "what": "Declaration to border quarantine (customs) for the entry permit"
+      },
+      {
+        "when": "Arrival",
+        "what": "Quarantine check and customs release; designated carrier takes the casket"
+      }
+    ],
+    "key_points": [
+      "Only funeral or medical purposes allowed",
+      "Designated funeral carrier mandatory",
+      "Quarantine permit required for customs release",
+      "Expect long lead times"
+    ],
+    "export_points": [
+      "Designated funeral carrier only",
+      "Foreigner's death certificate from the public security exit-entry bureau",
+      "Embalming, encoffining and quarantine certificates plus exit permit",
+      "Expect several weeks (25-45 days reported)"
+    ],
+    "private_jet_note": "Only the designated funeral carrier may handle the remains; plan quarantine clearance at the arrival airport.",
+    "confidence": "medium",
+    "lead_days": 10
+  },
+  {
+    "cc": "CO",
+    "status": "requirements",
+    "name": "Colombia",
+    "summary": "Colombia's Ministry of Health Resolution 717 of 21 April 2026 now regulates international transfers: an embalmed body in a hermetically sealed inner coffin, IATA/ISPM-15 packaging, and a documentary check by the departmental, district or municipal health authority at the airport of arrival, which signs the entry authorisation form. A Colombian funeral home normally files it.",
+    "coffin": "Resolution 717 (art. 27): a non-reusable first coffin in direct contact with the body, impermeable, leak- and odour-proof and hermetically closed (sealed with plastic or rubber adhesive, or a welded or fused metal lining), with absorbent material sprayed with antiseptic; an optional second hermetic coffin depending on airline requirements; outer packaging compliant with ISPM 15 (ICA Resolution 1079 of 2004). No witness for the sealing is required by the text.",
+    "embalming": "Mandatory: every body transported by air must undergo thanatopraxy (embalming) (Resolution 717, arts. 21 and 26), performed by a qualified thanatopractor. Substances that are dangerous goods under ICAO rules, or whose concentration or volume endangers air safety, are prohibited. Ashes in an urn need no health requirement beyond the cremation certificate.",
+    "consular": "Colombian consulates advise families (Decree 869 of 2016 limits the Foreign Ministry's role to advice and assistance); no consular transfer permit is listed in Resolution 717. The state has no budget for repatriation (the Foreign Ministry cites USD 10,000 to 30,000 and recommends travel insurance); ashes may in some cases be sent by diplomatic bag. Colombia is not a party to the 1973 Strasbourg Agreement.",
+    "arrival": "At the point of entry the departmental, district or municipal health authority checks the documents and signs the 'formato de revision documental de cadaveres en puntos de entrada y salida' (Resolution 717, art. 50 and Annex 7); the acta de preservacion, embalaje y traslado must be shown to the port/airport health authorities (art. 49). A Colombian funeral home collects the coffin and obtains the burial or cremation licence. Resolution 717 gives operators 12 months (to April 2027) to comply fully.",
+    "pouch": null,
+    "private_aviation": "Resolution 717 applies to all air transport: the funeral provider must coordinate safety requirements with the air operator and comply with the Colombian Aeronautical Regulations (RAC), and the manifest names the carrier and flight. Land at an international airport with a health authority presence (for example Bogota El Dorado) so the document check can be signed; arrange for the receiving funeral home to meet the aircraft with all originals.",
+    "export": "Formal identification by the Instituto Nacional de Medicina Legal comes first (weeks, or months if DNA is needed), and the Fiscalia (prosecutor) must confirm release. The Registraduria death certificate is usually ready in about 2 days and should be apostilled by the Foreign Ministry. The funeral home embalms the body (mandatory for air), packs it per Resolution 717 art. 27, completes the acta de preservacion, embalaje y traslado and manifest, and presents the death certificate, cemetery/crematorium certificate of destination and applicant ID to the health authority at the exit airport, which signs the Annex 7 form. Cremation requires prosecutor authorisation and is only possible for natural deaths or after a full autopsy.",
+    "authority": "Ministry of Health and Social Protection (Resolution 717 of 2026); departmental, district or municipal health authorities at points of entry; Colombian consulates (advice)",
+    "last_checked": "2026-10",
+    "documents": [
+      "Death certificate (apostille and Spanish translation advisable; not spelled out in Resolution 717, confirm with the consulate)",
+      "Certificate from the Colombian cemetery or crematorium stating place, municipality, date and expected time of burial or cremation",
+      "Record of preservation, packaging and transfer (acta de preservacion, embalaje y traslado, Annex 3) with the transport responsibility manifest naming airline/operator, flight and destination",
+      "Copy of the applicant's identity document",
+      "Entry/exit document review form (Annex 7), signed by the health authority at the point of entry"
+    ],
+    "sources": [
+      "https://minsalud.gov.co/Normatividad_Nuevo/Resolucion%20No%20717%20de%202026.pdf",
+      "https://cancilleria.gov.co/sala-de-prensa/noticias/cancilleria-explica-sus-alcances-en-materia-de-repatriacion-de-restos-humanos-y-reitera-la-importancia-de-adquirir-una-poliza-de-viaje",
+      "https://www.gov.uk/government/publications/colombia-bereavement-pack/colombia-bereavement-pack",
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+    ],
+    "pouch_accepted": false,
+    "private_jet_alert": false,
+    "at_a_glance": {
+      "death_certificate": "Required; apostille and translation advisable",
+      "embalming": "Mandatory for air transport",
+      "coffin": "Hermetic inner coffin, ISPM-15 outer packaging",
+      "laissez_passer": "Not used; Colombia not Strasbourg party",
+      "consular": "Consulate advises only; no consular permit",
+      "permit": "Health authority signs form at airport",
+      "arrival": "Document check, then funeral home collects"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Appoint a Colombian funeral home and a funeral director at the place of death; inform the Colombian consulate"
+      },
+      {
+        "when": "Day 0-1",
+        "what": "Book the burial or cremation in Colombia and obtain the cemetery's certificate of destination"
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Death certificate (apostilled, translated), embalming, hermetic sealing and ISPM-15 outer packaging"
+      },
+      {
+        "when": "Day 2-4",
+        "what": "Complete the preservation, packaging and transfer record and manifest with the flight details"
+      },
+      {
+        "when": "Arrival",
+        "what": "Health authority checks documents and signs the Annex 7 form; funeral home collects the coffin"
+      }
+    ],
+    "key_points": [
+      "Resolution 717 of 2026 sets air transport rules",
+      "Embalming is mandatory for every air transfer",
+      "A hermetically sealed coffin is required; no body bag alone",
+      "Colombian state does not pay repatriation"
+    ],
+    "export_points": [
+      "Medicina Legal identification and prosecutor release first",
+      "Embalming mandatory for any air transport",
+      "Health authority signs Annex 7 form at exit airport",
+      "Apostille the death certificate at the Foreign Ministry"
+    ],
+    "private_jet_note": "Health document check and signature are done at the airport of arrival; use an international airport with health staff.",
+    "confidence": "high",
+    "lead_days": 4
+  },
+  {
+    "cc": "CU",
+    "status": "strict",
+    "name": "Cuba",
+    "summary": "To bring a body into Cuba, the death must first be transcribed at the Cuban consulate, and the embalming certificate, burial licence and health ministry authorisation for the transfer (with official Spanish translations) must be authenticated by the foreign ministry of the country of death and then legalised by the Cuban consulate, which also issues a declaration on the preparation of the body. The family must also contact the Funeraria de Calzada y K in Havana.",
+    "coffin": "The Cuban consulate certifies that the body is prepared according to the stipulated measures; the exact casket specification is not published on the page consulted. Use a hermetically sealed coffin and confirm with the consulate.",
+    "embalming": "Required: a medical certificate that the body was embalmed according to the stipulated measures.",
+    "consular": "Each document and its Spanish translation is authenticated by the foreign ministry of the country of death (in Canada, Global Affairs Canada) and then legalised by the Cuban consulate. Fees vary by consulate: the Cuban consulates in Canada charge CAD 256 per document (each original and each translation) plus CAD 176 for the declaration on the preparation of the body, while the Cuban consular fee list in Mexico shows body transfer and death transcription as free, stating that every procedure linked to the death of a Cuban citizen is exempt. Other Cuban consulates advise families to contact the nearest consulate directly.",
+    "arrival": "The family contacts the Funeraria de Calzada y K in Havana with the name, date and cause of death, the person in Cuba responsible for the body and the cemetery of burial. Customs and health clearance on arrival are handled with the funeral service; timing was not found officially.",
+    "pouch": null,
+    "private_aviation": "No official rule for remains on private flights was found. Private flights must land at a Cuban international airport with customs and health; flights from the United States are subject to US sanctions and export-control rules, which must be checked before planning.",
+    "export": "In Cuba, the local funeral director registers the death; bodies of foreign nationals are held at the Institute of Legal Medicine in Havana until repatriation, where post-mortems are done the day of arrival. The funeral home provides the Spanish death certificate, the embalming certificate and burial licence, and a certificate permitting transfer of the remains. Mortuary storage is free for 3 days, then charged daily.",
+    "authority": "Cuban consulates (Ministerio de Relaciones Exteriores, MINREX); Ministerio de Salud Publica",
+    "last_checked": "2026-10",
+    "documents": [
+      "Consular transcription of the death (Transcripcion de la Defuncion)",
+      "Medical certificate that the body was embalmed according to the stipulated measures, with official Spanish translation",
+      "Burial licence from the authorities of the country of death, with official Spanish translation",
+      "Document from the health ministry of the country of death authorising the transfer, with official Spanish translation",
+      "Consular declaration that the body is prepared according to the stipulated measures"
+    ],
+    "sources": [
+      "https://misiones.cubaminrex.cu/es/canada/servicios-consulares",
+      "https://misiones.cubaminrex.cu/es/mexico/servicios-consulares",
+      "https://www.gov.uk/guidance/when-someone-dies-in-cuba"
+    ],
+    "pouch_accepted": null,
+    "private_jet_alert": true,
+    "at_a_glance": {
+      "death_certificate": "Transcribed at the Cuban consulate",
+      "embalming": "Required, medical certificate",
+      "coffin": "Prepared per stipulated measures",
+      "laissez_passer": "Consular declaration on body preparation",
+      "consular": "Authentication then Cuban legalisation; fees vary",
+      "permit": "Health ministry transfer authorisation",
+      "arrival": "Funeraria de Calzada y K, Havana"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the Cuban consulate for the place of death and a funeral home there."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Embalming; obtain the burial licence and health ministry transfer authorisation."
+      },
+      {
+        "when": "Day 2-4",
+        "what": "Official Spanish translations; authentication by the foreign ministry of the country of death."
+      },
+      {
+        "when": "Day 4-6",
+        "what": "Cuban consulate transcribes the death, legalises documents and issues its declaration."
+      },
+      {
+        "when": "Before departure",
+        "what": "Contact the Funeraria de Calzada y K in Havana to arrange reception and burial."
+      },
+      {
+        "when": "Arrival",
+        "what": "Clearance in Cuba and transfer to the cemetery."
+      }
+    ],
+    "key_points": [
+      "Every document and translation must be authenticated, then legalised by Cuba.",
+      "Consular fees vary: per document in Canada, free in Mexico for Cuban citizens.",
+      "Procedures are published for Cuban nationals; others should ask the consulate."
+    ],
+    "export_points": [
+      "Death registered by the local funeral director",
+      "Institute of Legal Medicine holds foreign nationals' bodies",
+      "Embalming certificate and permission to transfer the remains",
+      "Mortuary storage charged after 3 days"
+    ],
+    "private_jet_note": "Flights from the US to Cuba face US sanctions rules; check authorisations first.",
+    "confidence": "medium",
+    "lead_days": 6
+  },
+  {
+    "cc": "CV",
+    "status": "requirements",
+    "name": "Cabo Verde",
+    "summary": "Cabo Verde's Decreto-Lei 15/2015 governs bodies arriving from abroad: the transfer document (alvará) must be endorsed by the Conservador dos Registos Centrais (or the registrar of the island of entry), the death record is transcribed in Cabo Verde, and burial or cremation must take place within 72 hours of entry.",
+    "coffin": "A zinc coffin of at least 0.4 mm is mandatory for burial in a vault (jazigo), with gas filters and pressure devices; a wooden coffin suffices for a grave. When carried as normal freight by air or sea, the coffin must be placed in solid packaging that hides its appearance, marked 'manusear com precaução' (handle with care). Opening a zinc coffin is prohibited except on judicial order, for burial in a grave or for cremation.",
+    "embalming": "Not regulated by the decree for incoming bodies; embalming is expected by airlines and departure countries.",
+    "consular": "Decreto-Lei 15/2015 (art. 26): a body or ashes transferred from abroad need the transfer permit endorsed by the Conservador dos Registos Centrais in Praia, and the foreign death record is transcribed there; if the remains do not pass through Praia, the registrar of the area of entry endorses it. If the deceased was not Cabo Verdean, the diplomatic or consular representative of his or her country may apply. Cabo Verdean consulates do not publish a separate checklist. Not a party to the 1973 Strasbourg Agreement.",
+    "arrival": "Customs and health clearance at the international airport (Praia, Sal, Boa Vista or São Vicente); the coffin is carried by a hearse to the cemetery with a copy of the death certificate. Burial or cremation must take place within 72 hours of entry into Cabo Verde. Burial is requested from the municipal cemetery. Cremation is not available in practice.",
+    "pouch": null,
+    "private_aviation": "No published rule specific to private or charter flights. A casket on a private aircraft should arrive at an international airport with customs and health officers, with the original documents. Plan the arrival island carefully: the transfer permit must be endorsed by the registrar and burial must follow within 72 hours of entry.",
+    "export": "The death must be registered at the Conservatória do Registo Civil, usually by the funeral director; certificates are only in Portuguese. No coffin may be sealed in zinc before 24 hours after death, nor before the death record or certificate is issued. Post mortems can take up to 10 days (only two pathologists). No legal timescale for repatriation; no cremation in Cabo Verde.",
+    "authority": "Conservatória dos Registos Centrais (Praia); municipal cemetery administration; Delegado de Saúde",
+    "last_checked": "2026-10",
+    "documents": [
+      "Death certificate or death record from the country of death (for transcription at the Conservatória dos Registos Centrais; Portuguese translation if needed)",
+      "Transfer/removal authorisation (alvará) from the country of death, to be endorsed (visto) by the Cabo Verdean registrar",
+      "Medical certificate of cause of death / non-contagious disease (expected)",
+      "Embalming certificate (expected for air transport)",
+      "Passport or ID of the deceased (confirm with the registrar)",
+      "Burial request to the receiving municipal cemetery (Annex I form)"
+    ],
+    "sources": [
+      "https://boe.incv.cv/Bulletins/Download/1983",
+      "https://www.gov.uk/guidance/when-someone-dies-in-cape-verde"
+    ],
+    "pouch_accepted": false,
+    "private_jet_alert": false,
+    "at_a_glance": {
+      "death_certificate": "Transcribed by the Central Registry",
+      "embalming": "Expected for air transport",
+      "coffin": "Zinc 0.4 mm for vaults; hidden packaging",
+      "laissez_passer": "Not Strasbourg party",
+      "consular": "Consulate may apply for foreigners",
+      "permit": "Registrar endorses transfer permit",
+      "arrival": "Burial within 72 hours of entry"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Obtain the death certificate and the transfer permit in the country of death; contact a funeral home in Cabo Verde."
+      },
+      {
+        "when": "Day 1",
+        "what": "Embalming and sealing of the coffin (zinc if a vault burial is planned)."
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Send the death record and transfer permit for endorsement by the Conservatória dos Registos Centrais; reserve the cemetery."
+      },
+      {
+        "when": "Day 2-4",
+        "what": "Pack the coffin in an opaque case marked 'handle with care' and book the flight."
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs and health clearance; burial within 72 hours of entry."
+      }
+    ],
+    "key_points": [
+      "Decreto-Lei 15/2015 regulates transfers from abroad",
+      "Registrar must endorse the transfer permit",
+      "Burial or cremation within 72 hours of entry",
+      "No cremation available in Cabo Verde"
+    ],
+    "export_points": [
+      "Registration at the Conservatória do Registo Civil",
+      "Certificates only in Portuguese",
+      "No zinc sealing before 24 hours after death",
+      "Post mortem can take up to 10 days"
+    ],
+    "private_jet_note": "Burial within 72 hours of entry: arrange the registrar endorsement and cemetery in advance.",
+    "confidence": "medium",
+    "lead_days": null
+  }
+]

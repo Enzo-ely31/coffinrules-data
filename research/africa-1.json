@@ -1,0 +1,825 @@
+[
+  {
+    "cc": "AO",
+    "name": "Angola",
+    "status": "requirements",
+    "summary": "Before departure, the Angolan consulate in the country of death reviews a transfer (trasladação) file: legalised death certificate, transport permit from the local authority and a health certificate. The casket then travels with these originals to Luanda.",
+    "documents": [
+      "Full death certificate, legalised by the foreign ministry of the country of death (Lisbon consulate: issued within the last 6 months)",
+      "Transport/transfer permit issued by the local authority of the country of death (in Portugal: PSP 'alvara de trasladacao'), legalised",
+      "Medical health certificate (atestado medico sanitario), legalised",
+      "Deceased's passport or Angolan ID",
+      "Portuguese translations by an official translator where documents are in another language (practice of the London consulate)"
+    ],
+    "coffin": "Not published by Angolan authorities. A hermetically sealed zinc-lined coffin in an outer wooden case is the international standard and should be expected; confirm with the consulate.",
+    "embalming": "Not specified in official Angolan sources found; embalming is normally performed for long-haul transfer. Confirm with the consulate.",
+    "consular": "The Angolan Consulate General (e.g. Lisbon, London) handles the trasladacao request. Lisbon lists legalisation of each document by the foreign ministry of the country of death; London requires official Portuguese translation, notarisation and foreign-office authentication before consular authentication. Lisbon states 8 working days, no fee. The consulate may ask for extra documents or an interview.",
+    "arrival": "Customs and health clearance at Luanda airport; a funeral agent collects the casket. No legal burial deadline was found; funerals in Angola usually take place quickly. A 2017 tariff revision reportedly exempts coffins from customs duty (press report, unverified).",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No published rule specific to private or charter flights was found. A casket on a private aircraft should arrive at an international airport with customs and health (port health) officers, with landing permission arranged through a local handling agent, and the original documents travelling with the casket.",
+    "private_jet_alert": false,
+    "private_jet_note": "Arrive at Luanda (or another customs airport) with the consular file approved before take-off.",
+    "export": "The next of kin instructs a funeral agent, who registers the death with the Angolan Civil Registration Office (can take some time) and handles local procedures. Sudden, accidental or suspicious deaths involve the police and Public Prosecutor; post-mortem reports may take months. No legal timescale for repatriation. Mortuary standards vary; only one crematorium (Luanda).",
+    "export_points": [
+      "Funeral agent needs the next of kin's signed authority",
+      "Death registration at the Civil Registration Office is mandatory",
+      "Prosecutor inquiry can delay release in unnatural deaths",
+      "One crematorium only, in Luanda"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Legalised, with Portuguese translation",
+      "embalming": "Expected; confirm with consulate",
+      "coffin": "Sealed zinc-lined coffin expected",
+      "laissez_passer": "Local transport permit, legalised",
+      "consular": "Angolan consulate transfer file",
+      "permit": "Health certificate, legalised",
+      "arrival": "Customs and health clearance in Luanda"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Register the death locally and obtain the full death certificate and medical health certificate."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain the local transport permit (e.g. PSP alvara in Portugal) and have all documents legalised and translated into Portuguese."
+      },
+      {
+        "when": "Day 2-3",
+        "what": "File the trasladacao request at the Angolan consulate with originals and copies."
+      },
+      {
+        "when": "Day 3-10",
+        "what": "Consulate processes the file (Lisbon: 8 working days, no fee)."
+      },
+      {
+        "when": "Departure",
+        "what": "Casket sealed by the funeral director and flown with the original documents."
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs and health clearance in Luanda; local funeral agent collects the casket."
+      }
+    ],
+    "key_points": [
+      "Every document must be legalised; missing papers can lead to refusal",
+      "Allow about 8 working days at the consulate",
+      "Casket specifications are not published: confirm with the consulate",
+      "Not a party to the 1973 Strasbourg Agreement on the transfer of corpses, so a laissez-passer alone does not suffice."
+    ],
+    "lead_days": 8,
+    "authority": "Consulates of the Republic of Angola (Ministry of External Relations, MIREX)",
+    "sources": [
+      "https://consuladogeral-angola.pt/wp-content/uploads/2024/01/Transcricao-Registo-de-Obito-1.pdf",
+      "https://consuladogeralangola-uk.org/assets/documentos/29_Death_Registration.pdf",
+      "https://www.gov.uk/government/publications/bereavement-information-for-angola/angola-bereavement-information"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "BJ",
+    "name": "Benin",
+    "status": "unknown",
+    "summary": "No official Beninese guidance on bringing a casket into Benin was found. Contact the Beninese embassy or consulate in the country of death before arranging transport. Expect a consular authorisation and a hermetically sealed coffin.",
+    "documents": [
+      "Death certificate (French translation if needed)",
+      "Burial/removal permit from the country of death",
+      "Certificate of embalming",
+      "Non-contagious disease certificate",
+      "Deceased's passport or ID",
+      "Consular authorisation from the Beninese mission (to be confirmed)"
+    ],
+    "coffin": "Not published for entry. For exit, the UK government describes a galvanised tin coffin with a special filter inside a strong packing case; expect the same standard for entry.",
+    "embalming": "Not published for entry; UK guidance states bodies are embalmed before leaving Benin, so embalming should be expected.",
+    "consular": "Not published. The Beninese consulate (e.g. Consulate General in Paris) is the contact for civil status documents and any transfer authorisation; confirm requirements and legalisation.",
+    "arrival": "Customs and health clearance at Cotonou airport; a local funeral director collects. No official burial deadline found.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No published rule specific to private or charter flights was found. A casket on a private aircraft should arrive at an international airport with customs and health (port health) officers, with landing permission arranged through a local handling agent, and the original documents travelling with the casket.",
+    "private_jet_alert": false,
+    "private_jet_note": "Confirm entry documents with the Beninese consulate before departure.",
+    "export": "A local funeral director registers the death at the registry office (certificate in French, English version on request). The hospital certifies the cause of death, usually within a week; deaths outside hospital need a coroner and take longer. The body is embalmed and placed in a galvanised tin coffin with a special filter, inside a strong packing case. No cremation facilities in Benin.",
+    "export_points": [
+      "Death registered at the local registry office",
+      "Cause-of-death certificate takes about a week",
+      "Embalming and galvanised coffin with filter",
+      "No cremation in Benin"
+    ],
+    "at_a_glance": {
+      "death_certificate": "French; confirm translation needs",
+      "embalming": "Expected",
+      "coffin": "Sealed metal-lined coffin expected",
+      "laissez_passer": "Confirm with consulate",
+      "consular": "Beninese consulate: confirm",
+      "permit": "Permit from country of death",
+      "arrival": "Customs and health clearance, Cotonou"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the Beninese embassy or consulate for the current list of entry documents."
+      },
+      {
+        "when": "Day 1",
+        "what": "Obtain the death certificate, removal permit and medical certificates in the country of death."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Embalming and sealing of the coffin by the funeral director."
+      },
+      {
+        "when": "Day 2-4",
+        "what": "Submit documents for any consular authorisation; book the flight."
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs and health clearance in Cotonou; a local funeral director collects."
+      }
+    ],
+    "key_points": [
+      "Entry rules not published officially: confirm with the consulate",
+      "No cremation available in Benin",
+      "Not a party to the 1973 Strasbourg Agreement on the transfer of corpses, so a laissez-passer alone does not suffice."
+    ],
+    "lead_days": null,
+    "authority": "Embassies/consulates of Benin; Beninese civil registry",
+    "sources": [
+      "https://www.gov.uk/guidance/when-someone-dies-in-benin"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "BW",
+    "name": "Botswana",
+    "status": "strict",
+    "summary": "By law, no dead body may be brought into Botswana without a prior permit from the Minister of Health. The application must describe the deceased, cause of death, transport, health precautions and place of burial, with a medical cause-of-death certificate.",
+    "documents": [
+      "Import permit from the Minister (Ministry of Health), obtained before arrival",
+      "Medical certificate of the cause of death (or certified copy)",
+      "Death certificate",
+      "Deceased's passport",
+      "Certificate that the death was not from a contagious/epidemic disease",
+      "Embalming certificate",
+      "Burial order from the family",
+      "Import/export permit from the Botswana Unified Revenue Service (BURS), as reported by government in 2022"
+    ],
+    "coffin": "The Act requires an unburied body not in cold storage to be in a strong hermetically sealed sheet-metal shell inside a stout wooden coffin, or else carefully embalmed. Exhumed remains must be sealed in a sheet-metal shell in a wooden coffin. The permit may impose further conditions.",
+    "embalming": "Embalming certificate listed among required documents (government statement, 2022). The Act accepts embalming as an alternative to a sealed metal shell for keeping bodies.",
+    "consular": "The application is addressed to the Minister; Botswana missions abroad help families coordinate with local authorities. Government said in 2022 it has no standing repatriation policy, so requirements may be set case by case.",
+    "arrival": "Customs clearance (BURS permit) and health checks on arrival; a local undertaker collects. Exhumed remains can only be imported at least 2 years after burial (4 years for infectious disease deaths). Ashes do not need a permit.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No published rule specific to private or charter flights was found. A casket on a private aircraft should arrive at an international airport with customs and health (port health) officers, with landing permission arranged through a local handling agent, and the original documents travelling with the casket. The ministerial import permit must be obtained before the body enters Botswana, whatever the type of flight.",
+    "private_jet_alert": true,
+    "private_jet_note": "Ministerial import permit required before the flight; bring the BURS permit for customs.",
+    "export": "Removal from Botswana also needs a permit from the Minister, with the cause-of-death certificate and written approval from the authorities of the destination country. UK guidance lists death certificate, passport copy, embalming certificate and a certificate permitting transfer. Deaths should be registered within 30 days; certificates are in English.",
+    "export_points": [
+      "Minister's removal permit required",
+      "Destination country's written approval must be attached",
+      "Embalming certificate and transfer certificate",
+      "Ashes need no permit"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Medical cause-of-death certificate required",
+      "embalming": "Embalming certificate expected",
+      "coffin": "Sealed metal shell in wooden coffin",
+      "laissez_passer": "Ministerial import permit",
+      "consular": "Missions assist, no fixed policy",
+      "permit": "Ministry of Health permit before arrival",
+      "arrival": "BURS customs and health clearance"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Collect the death and cause-of-death certificates and a non-contagious disease certificate."
+      },
+      {
+        "when": "Day 0-1",
+        "what": "Apply to the Minister of Health for the import permit, stating transport, precautions and burial place."
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Embalming and sealing in a metal-lined coffin by the funeral director."
+      },
+      {
+        "when": "Before departure",
+        "what": "Receive the import permit and obtain the BURS import permit."
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs and health clearance; a local undertaker collects for burial."
+      }
+    ],
+    "key_points": [
+      "Statutory permit required to bring a body in (Conveyance of Dead Bodies Act)",
+      "Ashes do not need a permit",
+      "Exhumed remains: minimum 2 years after burial",
+      "Not a party to the 1973 Strasbourg Agreement on the transfer of corpses, so a laissez-passer alone does not suffice."
+    ],
+    "lead_days": null,
+    "authority": "Minister of Health (Conveyance of Dead Bodies Act, Cap. 65:01); BURS for customs",
+    "sources": [
+      "https://www.tradebarriers.org/library/regulations/Botswana/Conveyance of Dead Bodies Act.pdf",
+      "https://www.gov.uk/guidance/what-to-do-after-a-british-person-dies-in-botswana",
+      "https://mmegi.bw/ampArticle/111040"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "BF",
+    "name": "Burkina Faso",
+    "status": "unknown",
+    "summary": "No official Burkinabe guidance on bringing a casket into Burkina Faso was found. Contact the Burkina Faso embassy or consulate in the country of death for the transfer authorisation and document list.",
+    "documents": [
+      "Death certificate (French translation if needed)",
+      "Removal/transport permit from the country of death",
+      "Certificate of embalming",
+      "Non-contagious disease certificate",
+      "Deceased's passport or ID",
+      "Consular authorisation from the Burkinabe mission (to be confirmed)"
+    ],
+    "coffin": "Not published. A hermetically sealed zinc-lined coffin in an outer wooden case is the international standard; confirm with the consulate.",
+    "embalming": "Not published for entry. UK guidance states bodies leaving Burkina Faso for the UK must be embalmed.",
+    "consular": "Not published; contact the Burkinabe embassy or consulate for the authorisation, legalisation and translation requirements.",
+    "arrival": "Customs and health clearance at Ouagadougou airport; a local funeral director collects. No official burial deadline found.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No published rule specific to private or charter flights was found. A casket on a private aircraft should arrive at an international airport with customs and health (port health) officers, with landing permission arranged through a local handling agent, and the original documents travelling with the casket. Check current security and airspace notices for Burkina Faso with the handling agent.",
+    "private_jet_alert": false,
+    "private_jet_note": "Confirm entry documents and landing arrangements before departure.",
+    "export": "The death is registered at the local registry office, usually by a funeral director (certificate in French; English version costs extra). Hospital deaths: certificate in about a week; other deaths need a coroner first. An export licence is required and bodies sent to the UK must be embalmed, usually after a post mortem. Cremation of foreigners is possible.",
+    "export_points": [
+      "Register the death at the local registry office",
+      "Export licence required",
+      "Embalming required for the UK",
+      "Coroner involved for deaths outside hospital"
+    ],
+    "at_a_glance": {
+      "death_certificate": "French; confirm translation needs",
+      "embalming": "Expected",
+      "coffin": "Sealed zinc-lined coffin expected",
+      "laissez_passer": "Confirm with consulate",
+      "consular": "Burkinabe consulate: confirm",
+      "permit": "Permit from country of death",
+      "arrival": "Customs and health clearance, Ouagadougou"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the Burkina Faso embassy or consulate for the current entry documents."
+      },
+      {
+        "when": "Day 1",
+        "what": "Obtain the death certificate, removal permit and medical certificates."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Embalming and sealing of the coffin by the funeral director."
+      },
+      {
+        "when": "Day 2-4",
+        "what": "Obtain any consular authorisation and book the flight."
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs and health clearance; a local funeral director collects."
+      }
+    ],
+    "key_points": [
+      "Entry rules not published officially: confirm with the consulate",
+      "An export licence is needed to leave Burkina Faso",
+      "Not a party to the 1973 Strasbourg Agreement on the transfer of corpses, so a laissez-passer alone does not suffice."
+    ],
+    "lead_days": null,
+    "authority": "Embassies/consulates of Burkina Faso",
+    "sources": [
+      "https://www.gov.uk/guidance/when-someone-dies-in-burkina-faso"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "BI",
+    "name": "Burundi",
+    "status": "unknown",
+    "summary": "No official Burundian guidance on bringing a casket into Burundi was found. Contact the Burundian embassy in the country of death; expect a death certificate, embalming certificate, transfer permit and a special international casket.",
+    "documents": [
+      "Death certificate (French translation if needed)",
+      "Certificate of embalming",
+      "Permit to transfer the remains from the country of death",
+      "Non-contagious disease certificate",
+      "Deceased's passport or ID",
+      "Consular authorisation from the Burundian mission (to be confirmed)"
+    ],
+    "coffin": "Not published. UK guidance notes funeral directors use special caskets for the international carriage of human remains; a sealed zinc-lined coffin should be expected.",
+    "embalming": "Not published for entry; a certificate of embalming is always required for exit, so embalming should be expected.",
+    "consular": "Not published; contact the Burundian embassy for authorisation, legalisation and translation requirements.",
+    "arrival": "Customs and health clearance at Bujumbura airport; a local funeral director collects. No official burial deadline found.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No published rule specific to private or charter flights was found. A casket on a private aircraft should arrive at an international airport with customs and health (port health) officers, with landing permission arranged through a local handling agent, and the original documents travelling with the casket.",
+    "private_jet_alert": false,
+    "private_jet_note": "Confirm entry documents with the Burundian embassy before departure.",
+    "export": "A local or international funeral director arranges a local death certificate (French, usually within a day), a certificate of embalming and a certificate permitting transfer. Local formalities normally take 3 to 4 days for natural deaths; suspicious deaths involve police and may take much longer. Hospital bills must be paid before release. No cremation in Burundi.",
+    "export_points": [
+      "Death certificate, embalming certificate, transfer permit",
+      "3-4 days of local formalities for natural deaths",
+      "Hospital bills paid before release",
+      "No cremation available"
+    ],
+    "at_a_glance": {
+      "death_certificate": "French; confirm translation needs",
+      "embalming": "Expected",
+      "coffin": "Special sealed casket expected",
+      "laissez_passer": "Confirm with embassy",
+      "consular": "Burundian embassy: confirm",
+      "permit": "Transfer permit from country of death",
+      "arrival": "Customs and health clearance, Bujumbura"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the Burundian embassy for the current entry documents."
+      },
+      {
+        "when": "Day 1",
+        "what": "Obtain the death certificate, transfer permit and medical certificates."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Embalming and sealing of the casket by the funeral director."
+      },
+      {
+        "when": "Day 2-4",
+        "what": "Obtain any consular authorisation and book the flight."
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs and health clearance; a local funeral director collects."
+      }
+    ],
+    "key_points": [
+      "Entry rules not published officially: confirm with the embassy",
+      "Leaving Burundi usually takes 3-4 days for natural deaths",
+      "Not a party to the 1973 Strasbourg Agreement on the transfer of corpses, so a laissez-passer alone does not suffice."
+    ],
+    "lead_days": null,
+    "authority": "Embassies of the Republic of Burundi",
+    "sources": [
+      "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/733240/Berevement_pack_-_Burundi.pdf"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "CV",
+    "name": "Cabo Verde",
+    "status": "unknown",
+    "summary": "No official Cabo Verdean guidance on bringing a casket into Cabo Verde was found. Contact the Cabo Verde embassy or consulate in the country of death before transport.",
+    "documents": [
+      "Death certificate (Portuguese translation if needed)",
+      "Transport/removal permit from the country of death",
+      "Certificate of embalming",
+      "Non-contagious disease certificate",
+      "Deceased's passport or ID",
+      "Consular authorisation (to be confirmed)"
+    ],
+    "coffin": "Not published. A hermetically sealed zinc-lined coffin in an outer wooden case is the international standard; confirm with the consulate.",
+    "embalming": "Not published for entry; embalming should be expected for an international flight.",
+    "consular": "Not published; contact the Cabo Verde embassy or consulate for authorisation, legalisation and translation requirements.",
+    "arrival": "Customs and health clearance at the international airport (Praia, Sal, Boa Vista or Sao Vicente); a local funeral director collects. Local burials normally take place within 24 hours.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No published rule specific to private or charter flights was found. A casket on a private aircraft should arrive at an international airport with customs and health (port health) officers, with landing permission arranged through a local handling agent, and the original documents travelling with the casket.",
+    "private_jet_alert": false,
+    "private_jet_note": "Confirm entry documents and the arrival island's customs airport before departure.",
+    "export": "The death must be registered at the Conservatoria do Registo Civil, usually by the funeral director; certificates are only in Portuguese. Post mortems can take up to 10 days (only 2 pathologists). Embalming is done at the hospital morgue by the funeral director. No legal timescale for repatriation; no cremation in Cabo Verde.",
+    "export_points": [
+      "Registration at the Conservatoria do Registo Civil",
+      "Certificates only in Portuguese",
+      "Post mortem can take up to 10 days",
+      "No cremation available"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Portuguese; confirm translation needs",
+      "embalming": "Expected",
+      "coffin": "Sealed zinc-lined coffin expected",
+      "laissez_passer": "Confirm with consulate",
+      "consular": "Cabo Verde consulate: confirm",
+      "permit": "Permit from country of death",
+      "arrival": "Burial usually within 24 hours"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the Cabo Verde embassy or consulate for the current entry documents."
+      },
+      {
+        "when": "Day 1",
+        "what": "Obtain the death certificate, removal permit and medical certificates."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Embalming and sealing of the coffin by the funeral director."
+      },
+      {
+        "when": "Day 2-4",
+        "what": "Obtain any consular authorisation and book the flight."
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs and health clearance; local funeral director collects; burial usually within 24 hours."
+      }
+    ],
+    "key_points": [
+      "Entry rules not published officially: confirm with the consulate",
+      "Local burials happen within 24 hours",
+      "No cremation in Cabo Verde",
+      "Not a party to the 1973 Strasbourg Agreement on the transfer of corpses, so a laissez-passer alone does not suffice."
+    ],
+    "lead_days": null,
+    "authority": "Embassies/consulates of Cabo Verde",
+    "sources": [
+      "https://www.gov.uk/guidance/when-someone-dies-in-cape-verde",
+      "https://www.gov.uk/government/publications/bereavement-information-for-cape-verde/cape-verde-bereavement-pack"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "CM",
+    "name": "Cameroon",
+    "status": "strict",
+    "summary": "A Certificate of Repatriation (mortuary laissez-passer) must be obtained from the Cameroonian embassy or high commission in the country of death, applied for and paid on the evisacam.cm portal. The UK mission also requires a regional authorisation signed by the Prefect for entry into Douala or Yaounde.",
+    "documents": [
+      "Request letter addressed to the Ambassador / High Commissioner",
+      "Death certificate (English or French translation if needed)",
+      "Deceased's passport or Cameroonian ID, birth certificate",
+      "Embalming certificate",
+      "Free-from-infection certificate",
+      "Authorisation to remove the body from the country of death",
+      "Affidavit of contents (UK mission)",
+      "Burial permit and regional authorisation from the Service of Social and Cultural Affairs (Centre or Littoral), signed by the Prefect (UK mission)",
+      "Funeral company details, flight ticket copy if available (Germany mission)"
+    ],
+    "coffin": "Not detailed by the missions whose pages were opened. A sealed zinc-lined coffin in an outer wooden case should be expected; some missions reportedly also ask for a photo of the empty casket and a funeral-home statement that it contains only the body.",
+    "embalming": "Embalming certificate required (UK mission).",
+    "consular": "Certificate of Repatriation / mortuary laissez-passer issued by the Cameroonian mission; documents uploaded and fee paid online at evisacam.cm (Laissez-Passer section). Fee example: Germany EUR 153, non-refundable. The death certificate issued by the Tokyo embassy is free. Without the Prefect's regional authorisation the UK mission may not issue the certificate.",
+    "arrival": "Customs and health clearance at Douala or Yaounde-Nsimalen; the family or funeral home collects. The regional authorisation covers transfer into the region. No burial deadline published.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No published rule specific to private or charter flights was found. A casket on a private aircraft should arrive at an international airport with customs and health (port health) officers, with landing permission arranged through a local handling agent, and the original documents travelling with the casket. The consular Certificate of Repatriation and the regional authorisation must be obtained before departure.",
+    "private_jet_alert": true,
+    "private_jet_note": "Consular laissez-passer via evisacam.cm and Prefect's authorisation needed before take-off.",
+    "export": "A funeral home obtains authorisation to repatriate the body. Needed: death certificate (after hospital registration), cause-of-death certificate (usually within a week), post-mortem report if death outside hospital, passport. Embalming offered by funeral homes. Autopsy reports can take long. UK guidance cites about GBP 2,000 for repatriation to the UK (estimate).",
+    "export_points": [
+      "Funeral home obtains the repatriation authorisation",
+      "Cause-of-death certificate usually within a week",
+      "Agree costs in writing beforehand",
+      "Autopsy reports can be slow"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Translated into English or French",
+      "embalming": "Embalming certificate required",
+      "coffin": "Sealed coffin, contents certified",
+      "laissez_passer": "Certificate of Repatriation from mission",
+      "consular": "Apply and pay on evisacam.cm",
+      "permit": "Prefect's regional authorisation",
+      "arrival": "Douala or Yaounde customs clearance"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Obtain the death certificate and translation; family in Cameroon starts the burial permit and Prefect's regional authorisation."
+      },
+      {
+        "when": "Day 1",
+        "what": "Embalming and free-from-infection certificate; local removal permit."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Upload documents and pay the fee on evisacam.cm (Laissez-Passer section)."
+      },
+      {
+        "when": "Day 2-5",
+        "what": "Mission issues the Certificate of Repatriation."
+      },
+      {
+        "when": "Departure",
+        "what": "Coffin sealed and flown with the original documents."
+      },
+      {
+        "when": "Arrival",
+        "what": "Clearance at Douala or Yaounde; family or funeral home collects."
+      }
+    ],
+    "key_points": [
+      "Requirements vary by mission: check the one where death occurred",
+      "Applications and fees go through evisacam.cm",
+      "UK mission requires a Prefect-signed regional authorisation",
+      "Not a party to the 1973 Strasbourg Agreement on the transfer of corpses, so a laissez-passer alone does not suffice."
+    ],
+    "lead_days": null,
+    "authority": "Cameroonian embassies/high commissions (Ministry of External Relations); Prefect of Centre or Littoral region",
+    "sources": [
+      "https://cameroonhighcommission.co.uk/repatriation.html",
+      "https://www.ambacam.de/en/authorization-to-repatriate-a-corpse",
+      "https://cameroonemb-jp.org/consular-affairs/death/",
+      "https://www.gov.uk/guidance/what-to-do-after-a-british-person-dies-in-cameroon",
+      "https://www.gov.uk/guidance/when-someone-dies-in-cameroon"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "CF",
+    "name": "Central African Republic",
+    "status": "unknown",
+    "summary": "No official Central African guidance on bringing a casket into the Central African Republic was found. Contact the CAR embassy in the country of death before arranging transport to Bangui.",
+    "documents": [
+      "Death certificate (French translation if needed)",
+      "Removal/transport permit from the country of death",
+      "Certificate of embalming",
+      "Non-contagious disease certificate",
+      "Deceased's passport or ID",
+      "Consular authorisation (to be confirmed)"
+    ],
+    "coffin": "Not published. A hermetically sealed zinc-lined coffin in an outer wooden case is the international standard; confirm with the embassy.",
+    "embalming": "Not published for entry; embalming should be expected.",
+    "consular": "Not published; contact the CAR embassy for authorisation, legalisation and translation requirements.",
+    "arrival": "Customs and health clearance at Bangui M'Poko airport; a local undertaker collects. Temperature-controlled storage exists in Bangui but may not elsewhere.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No published rule specific to private or charter flights was found. A casket on a private aircraft should arrive at an international airport with customs and health (port health) officers, with landing permission arranged through a local handling agent, and the original documents travelling with the casket. Check current security and airspace notices for the CAR with the handling agent.",
+    "private_jet_alert": false,
+    "private_jet_note": "Confirm entry documents and Bangui landing arrangements before departure.",
+    "export": "Documents: hospital medical death certificate (several days, French), civil registry death certificate, certificate of identification and autopsy report from judicial police/prosecutor for sudden or violent deaths, certificate of embalming and transfer permission from local authorities. Few local undertakers can supply international caskets quickly. Release usually within a few days; road deaths can take over a month. No cremation.",
+    "export_points": [
+      "Prosecutor documents for sudden or violent deaths",
+      "Few undertakers have international caskets",
+      "Release usually within a few days",
+      "No cremation available"
+    ],
+    "at_a_glance": {
+      "death_certificate": "French; confirm translation needs",
+      "embalming": "Expected",
+      "coffin": "Sealed zinc-lined coffin expected",
+      "laissez_passer": "Confirm with embassy",
+      "consular": "CAR embassy: confirm",
+      "permit": "Permit from country of death",
+      "arrival": "Customs and health clearance, Bangui"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the CAR embassy for the current entry documents."
+      },
+      {
+        "when": "Day 1",
+        "what": "Obtain the death certificate, removal permit and medical certificates."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Embalming and sealing of the coffin."
+      },
+      {
+        "when": "Day 2-4",
+        "what": "Obtain any consular authorisation and book the flight."
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs and health clearance in Bangui; local undertaker collects."
+      }
+    ],
+    "key_points": [
+      "Entry rules not published officially: confirm with the embassy",
+      "No cremation in the CAR",
+      "Not a party to the 1973 Strasbourg Agreement on the transfer of corpses, so a laissez-passer alone does not suffice."
+    ],
+    "lead_days": null,
+    "authority": "Embassies of the Central African Republic",
+    "sources": [
+      "https://www.gov.uk/government/publications/when-someone-dies-in-central-african-republic/central-african-republic-bereavement-information"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "TD",
+    "name": "Chad",
+    "status": "unknown",
+    "summary": "No official Chadian guidance on bringing a casket into Chad was found. Contact the Chadian embassy in the country of death before arranging transport to N'Djamena.",
+    "documents": [
+      "Death certificate (French or Arabic translation if needed)",
+      "Removal/transport permit from the country of death",
+      "Certificate of embalming",
+      "Non-contagious disease certificate",
+      "Deceased's passport or ID",
+      "Consular authorisation (to be confirmed)"
+    ],
+    "coffin": "Not published. A hermetically sealed zinc-lined coffin in an outer wooden case is the international standard; confirm with the embassy.",
+    "embalming": "Not published for entry; embalming should be expected.",
+    "consular": "Not published; contact the Chadian embassy for authorisation, legalisation and translation requirements.",
+    "arrival": "Customs and health clearance at N'Djamena airport; family or a local undertaker collects. No official burial deadline found; Muslim families usually bury quickly.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No published rule specific to private or charter flights was found. A casket on a private aircraft should arrive at an international airport with customs and health (port health) officers, with landing permission arranged through a local handling agent, and the original documents travelling with the casket. Check current security and airspace notices for Chad with the handling agent.",
+    "private_jet_alert": false,
+    "private_jet_note": "Confirm entry documents and N'Djamena landing arrangements before departure.",
+    "export": "The next of kin must instruct a funeral director (no state repatriation service). The death is registered with local authorities; certificates in Arabic and/or French, issued on a medical certificate, and do not state the cause of death. Authorities must be told of infectious conditions (e.g. hepatitis, HIV). The passport may be needed for repatriation. No cremation in Chad.",
+    "export_points": [
+      "Family must appoint a funeral director",
+      "Certificate in Arabic/French, no cause of death",
+      "Declare infectious conditions",
+      "No cremation available"
+    ],
+    "at_a_glance": {
+      "death_certificate": "French/Arabic; confirm translation",
+      "embalming": "Expected",
+      "coffin": "Sealed zinc-lined coffin expected",
+      "laissez_passer": "Confirm with embassy",
+      "consular": "Chadian embassy: confirm",
+      "permit": "Permit from country of death",
+      "arrival": "Customs and health clearance, N'Djamena"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the Chadian embassy for the current entry documents."
+      },
+      {
+        "when": "Day 1",
+        "what": "Obtain the death certificate, removal permit and medical certificates."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Embalming and sealing of the coffin."
+      },
+      {
+        "when": "Day 2-4",
+        "what": "Obtain any consular authorisation and book the flight."
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs and health clearance in N'Djamena; family or undertaker collects."
+      }
+    ],
+    "key_points": [
+      "Entry rules not published officially: confirm with the embassy",
+      "No cremation in Chad",
+      "Not a party to the 1973 Strasbourg Agreement on the transfer of corpses, so a laissez-passer alone does not suffice."
+    ],
+    "lead_days": null,
+    "authority": "Embassies of the Republic of Chad",
+    "sources": [
+      "https://www.gov.uk/guidance/chad-bereavement-information"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "KM",
+    "name": "Comoros",
+    "status": "unknown",
+    "summary": "No official Comorian guidance on bringing a casket into the Comoros was found. Contact the Comoros embassy (Paris) or consulate (e.g. Marseille) in the country of death before transport.",
+    "documents": [
+      "Death certificate (French translation if needed)",
+      "Removal/transport permit from the country of death",
+      "Non-contagious disease certificate",
+      "Deceased's passport or ID",
+      "Consular authorisation (to be confirmed)"
+    ],
+    "coffin": "Not published. A hermetically sealed zinc-lined coffin in an outer wooden case is the international standard; confirm with the consulate.",
+    "embalming": "Not published; confirm with the consulate (Muslim families often prefer no embalming).",
+    "consular": "Not published; contact the Comoros embassy or consulate for authorisation, legalisation and translation requirements.",
+    "arrival": "Customs and health clearance at Moroni Prince Said Ibrahim airport; family or a local undertaker collects. No official burial deadline found; Muslim burial is usually rapid.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No published rule specific to private or charter flights was found. A casket on a private aircraft should arrive at an international airport with customs and health (port health) officers, with landing permission arranged through a local handling agent, and the original documents travelling with the casket.",
+    "private_jet_alert": false,
+    "private_jet_note": "Confirm entry documents with the Comoros consulate before departure.",
+    "export": "No official information on exit procedures from the Comoros was found; confirm with the local civil registry and the consulate of the destination country.",
+    "export_points": [
+      "Exit procedure not published",
+      "Confirm with local civil registry and destination consulate"
+    ],
+    "at_a_glance": {
+      "death_certificate": "French; confirm translation needs",
+      "embalming": "Confirm with consulate",
+      "coffin": "Sealed zinc-lined coffin expected",
+      "laissez_passer": "Confirm with consulate",
+      "consular": "Comoros consulate: confirm",
+      "permit": "Permit from country of death",
+      "arrival": "Customs and health clearance, Moroni"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the Comoros embassy or consulate for the current entry documents."
+      },
+      {
+        "when": "Day 1",
+        "what": "Obtain the death certificate, removal permit and medical certificates."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Prepare and seal the coffin."
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Obtain any consular authorisation and book the flight."
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs and health clearance in Moroni; family collects for burial."
+      }
+    ],
+    "key_points": [
+      "No official rules found: confirm everything with the consulate",
+      "Use an operator the consulate recognises",
+      "Not a party to the 1973 Strasbourg Agreement on the transfer of corpses, so a laissez-passer alone does not suffice."
+    ],
+    "lead_days": null,
+    "authority": "Embassy and consulates of the Union of the Comoros",
+    "sources": [],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "CG",
+    "name": "Congo (Republic)",
+    "status": "unknown",
+    "summary": "No official Congolese (Brazzaville) guidance on bringing a casket into the Republic of Congo was found. Contact the Congolese embassy in the country of death before arranging transport.",
+    "documents": [
+      "Death certificate (French translation if needed)",
+      "Removal/transport permit from the country of death",
+      "Certificate of embalming",
+      "Non-contagious disease certificate",
+      "Deceased's passport or ID",
+      "Consular authorisation (to be confirmed)"
+    ],
+    "coffin": "Not published. A hermetically sealed zinc-lined coffin in an outer wooden case is the international standard; confirm with the embassy.",
+    "embalming": "Not published for entry; embalming should be expected.",
+    "consular": "Not published; contact the embassy of the Republic of Congo for authorisation, legalisation and translation requirements.",
+    "arrival": "Customs and health clearance at Brazzaville Maya-Maya or Pointe-Noire airport; a local undertaker collects. No official burial deadline found.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No published rule specific to private or charter flights was found. A casket on a private aircraft should arrive at an international airport with customs and health (port health) officers, with landing permission arranged through a local handling agent, and the original documents travelling with the casket.",
+    "private_jet_alert": false,
+    "private_jet_note": "Confirm entry documents with the Congolese embassy before departure.",
+    "export": "Documents: hospital medical death certificate (several days), civil registry death certificate (French), certificate of identification and autopsy report from judicial police/prosecutor for sudden or violent deaths, certificate of embalming and permit to transfer, arranged through local and international undertakers. Translators must be recognised locally. Release usually within a few days; road deaths can take over a month. Cremation is available.",
+    "export_points": [
+      "Prosecutor documents for sudden or violent deaths",
+      "Embalming certificate and transfer permit",
+      "Local offices work 07:30-15:30",
+      "Cremation available"
+    ],
+    "at_a_glance": {
+      "death_certificate": "French; confirm translation needs",
+      "embalming": "Expected",
+      "coffin": "Sealed zinc-lined coffin expected",
+      "laissez_passer": "Confirm with embassy",
+      "consular": "Congolese embassy: confirm",
+      "permit": "Permit from country of death",
+      "arrival": "Customs and health clearance, Brazzaville"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the Congolese embassy for the current entry documents."
+      },
+      {
+        "when": "Day 1",
+        "what": "Obtain the death certificate, removal permit and medical certificates."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Embalming and sealing of the coffin."
+      },
+      {
+        "when": "Day 2-4",
+        "what": "Obtain any consular authorisation and book the flight."
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs and health clearance; local undertaker collects."
+      }
+    ],
+    "key_points": [
+      "Entry rules not published officially: confirm with the embassy",
+      "Not to be confused with the DR Congo",
+      "Not a party to the 1973 Strasbourg Agreement on the transfer of corpses, so a laissez-passer alone does not suffice."
+    ],
+    "lead_days": null,
+    "authority": "Embassies of the Republic of Congo",
+    "sources": [
+      "https://www.gov.uk/government/publications/republic-of-congo-bereavement-packinformation/republic-of-congo-bereavement-inormation"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  }
+]

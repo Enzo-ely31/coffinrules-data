@@ -1,0 +1,298 @@
+[
+  {
+    "cc": "GI",
+    "status": "requirements",
+    "name": "Gibraltar",
+    "summary": "To bring a coffin into Gibraltar, the body must be embalmed and placed in a hermetically sealed coffin (often zinc-lined), travelling with the death certificate, embalming certificate and repatriation permit from the country of origin; the Environmental Agency and HM Customs must be notified in advance. Private flights need a Prior Permission Request accepted by the handling agent.",
+    "coffin": "Hermetically sealed coffin, often zinc-lined, meeting transport standards (Environmental Agency Gibraltar).",
+    "embalming": "Required for remains entering and leaving Gibraltar (Environmental Agency Gibraltar).",
+    "consular": "No Gibraltar consular permit is described. Gibraltar is not covered by the Strasbourg Agreement (the UK is not a party). The departure country issues the repatriation permit.",
+    "arrival": "The Environmental Agency and HM Customs Gibraltar must be notified in advance; airlines accept remains only with the correct paperwork. A Gibraltar funeral director usually liaises with the airline, consulates and local authorities and collects the coffin.",
+    "pouch": null,
+    "private_aviation": "All non-scheduled flights into Gibraltar airport need a Prior Permission Request accepted by the handling agent (GibAir, handling@gibair.gi). Third-country commercial operators also need Gibraltar Civil Aviation Authority permission and a Foreign Operator Permit (fees from 1 September 2026). A zinc-lined coffin is about 2.2 m long and often 70-100 kg or more, so it must fit the aircraft's cargo door or a cabin configured for it, which rules out many light and midsize jets.",
+    "export": "The same rules apply when leaving: embalming, hermetically sealed coffin, Gibraltar death certificate (Civil Status and Registration Office), embalming certificate and a repatriation permit; notify the Environmental Agency and HM Customs in advance. Extra documents may be requested for infectious disease. The Coroner is involved where a death is reported to him. Destination countries apply their own consular rules.",
+    "authority": "Environmental Agency Gibraltar; HM Customs Gibraltar; Civil Status and Registration Office; Coroner of Gibraltar",
+    "last_checked": "2026-10",
+    "documents": [
+      "Death certificate from the country of origin",
+      "Embalming certificate",
+      "Repatriation (removal) permit from the country of origin",
+      "From England or Wales: the coroner's acknowledgement of the Form 104 notice of removal"
+    ],
+    "sources": [
+      "https://www.environmental-agency.gi/other-services/repatriation-of-human-remains-and-ashes",
+      "https://www.gibraltar.gov.gi/civil-aviation/third-country-aircraft-requirements",
+      "https://www.gibraltarlaws.gov.gi/legislations/coroner-act-47",
+      "https://www.newham.gov.uk/births-deaths-marriages/repatriation-bodies"
+    ],
+    "pouch_accepted": false,
+    "private_jet_alert": true,
+    "at_a_glance": {
+      "death_certificate": "From the country of origin",
+      "embalming": "Required",
+      "coffin": "Hermetically sealed, often zinc-lined",
+      "laissez_passer": "Not applicable (not a Strasbourg party)",
+      "consular": "No Gibraltar consular step",
+      "permit": "Origin country's repatriation permit",
+      "arrival": "Notify Environmental Agency and Customs first"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Appoint funeral directors in the country of death and in Gibraltar."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain the death certificate, the embalming certificate and the repatriation permit."
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Seal the coffin; notify the Environmental Agency and HM Customs; request PPR for a private flight."
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs clearance at Gibraltar airport; the funeral director collects the coffin."
+      }
+    ],
+    "key_points": [
+      "Embalming and a hermetically sealed coffin are required",
+      "Notify the Environmental Agency and HM Customs in advance",
+      "Private flights need PPR from GibAir"
+    ],
+    "export_points": [
+      "Gibraltar death certificate and repatriation permit",
+      "Embalming and hermetically sealed coffin",
+      "Notify Environmental Agency and HM Customs",
+      "Coroner clearance where the death is reported"
+    ],
+    "private_jet_note": "Get PPR acceptance from GibAir and, for charter operators, a GCAA permit before take-off.",
+    "confidence": "medium",
+    "lead_days": null
+  },
+  {
+    "cc": "GL",
+    "status": "requirements",
+    "name": "Greenland",
+    "summary": "Most coffins reach Greenland via Denmark. Although Greenland is part of the Danish Realm, Danish rules treat transport to Greenland like transport abroad: a ligpas (mortuary passport) from the Danish Patient Safety Authority is required, with a zinc coffin and, for air transport, an embalming certificate or an approved pressure-equalising device. Rules for coffins coming directly from other countries are not published.",
+    "coffin": "Under Danish order no. 152 of 14 April 1983 (sections 2-3), as stated on the Patient Safety Authority's request form for transport abroad including Greenland: an outer wooden coffin (sides at least 20 mm) with an inner carefully soldered zinc coffin (soldering certificate attached), or a single wooden coffin with sides of at least 30 mm lined with zinc. The carrier may set additional requirements; confirm with the airline.",
+    "embalming": "For air transport from Denmark: embalming certificate or an approved pressure-equalising device with filter (required with the double coffin; the device is required with the zinc-lined single coffin).",
+    "consular": "No consular step from Denmark. From other countries, Danish embassies represent Greenland; no specific Greenland entry permit was found. Denmark is not listed as a party to the 1973 Strasbourg Agreement.",
+    "arrival": "No official Greenland arrival procedure was found; a local funeral service or the family collects the coffin, and burial formalities are handled locally (confirm with the municipality). The Greenland health service refunds only an amount equal to one seated passenger ticket for patients who died while treated outside their home municipality; coffin costs fall on the estate.",
+    "pouch": null,
+    "private_aviation": "No official rule specific to private flights carrying human remains was found; confirm customs clearance with the arrival airport. A zinc-lined coffin is about 2.2 m long and often 70-100 kg or more, so it must fit the aircraft's cargo door or a cabin configured for it, which rules out many light and midsize jets.",
+    "export": "Not verified from Greenland sources: confirm with Landslaegeembedet, the airline and the destination country's consulate. Danish rules require a ligpas for bodies transported from Denmark to Greenland; for transport into Denmark the ligpas must be issued by the competent authority of the sending state.",
+    "authority": "Danish Patient Safety Authority (Styrelsen for Patientsikkerhed) for transport from Denmark; Landslaegeembedet (Greenland chief medical officer); Naalakkersuisut",
+    "last_checked": "2026-10",
+    "documents": [
+      "From Denmark: ligpas issued by the Danish Patient Safety Authority's medical officer service (in Copenhagen, the Stadslægen), on the request form for transport abroad including Greenland",
+      "Soldering certificate for the zinc coffin",
+      "Embalming certificate or certificate for an approved pressure-equalising device with filter (air transport)",
+      "Death certificate (Danish death certificate extract)"
+    ],
+    "sources": [
+      "https://stps.dk/Media/638484279056493252/Ligtransport-ua.pdf",
+      "https://www.borger.dk/sundhed-og-sygdom/doedsfald--hospice-og-behandlingstestamente/doedsfald-i-udlandet",
+      "https://inatsisartut.gl/media/amjbac1y/040_2019_lig_transport_aqqhe_svar.pdf",
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+    ],
+    "pouch_accepted": null,
+    "private_jet_alert": false,
+    "at_a_glance": {
+      "death_certificate": "Required; extract goes with ligpas",
+      "embalming": "Or pressure device for air",
+      "coffin": "Zinc coffin (Danish order 152/1983)",
+      "laissez_passer": "Danish ligpas required from Denmark",
+      "consular": "None from Denmark",
+      "permit": "Ligpas from Patient Safety Authority",
+      "arrival": "Local funeral service collects"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Appoint a Danish funeral director and a receiving contact in Greenland."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain the death certificate; embalm or fit a pressure-equalising device; solder the zinc coffin."
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Apply for the ligpas (Danish Patient Safety Authority / medical officer)."
+      },
+      {
+        "when": "Day 3-5",
+        "what": "Book the flight to Greenland with the airline's agreement."
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs clearance and collection; local burial."
+      }
+    ],
+    "key_points": [
+      "Greenland counts as abroad for Danish ligpas rules",
+      "Zinc coffin required from Denmark (order 152/1983)",
+      "Airline may add its own coffin requirements"
+    ],
+    "export_points": [
+      "Not verified from Greenland sources",
+      "Destination country's rules apply",
+      "Confirm with Landslaegeembedet and the airline"
+    ],
+    "private_jet_note": "Carry the Danish ligpas even on a private flight from Denmark; confirm customs at the arrival airport.",
+    "confidence": "medium",
+    "lead_days": null
+  },
+  {
+    "cc": "GP",
+    "status": "requirements",
+    "name": "Guadeloupe",
+    "summary": "Guadeloupe is a French overseas department: French rules apply. A casket coming from abroad needs a transport authorisation from the French embassy or consulate in the country of death, and for air transport the body must be in an airtight metal-lined coffin.",
+    "coffin": "For air transport an airtight coffin (metal box) is mandatory under French rules (service-public.fr); in practice a soldered zinc lining inside a wooden coffin. A hermetic coffin cannot normally be cremated without being reopened, so plan cremation before departure.",
+    "embalming": "No general French embalming requirement for incoming bodies is stated in the official guidance; it is usually required by the departure country and by carriers. Confirm with the consulate.",
+    "consular": "The French embassy or consulate in the country of death issues the authorisation to transport the body to France (including overseas departments) and can transcribe the death certificate. France is a party to the 1973 Strasbourg Agreement, so a laissez-passer from another party state is accepted. From mainland France, no consulate is involved: the prefect of the department where the coffin is closed authorises transport to Guadeloupe.",
+    "arrival": "The receiving funeral director in Guadeloupe takes charge after customs and health formalities. French rules set burial no later than the 14th calendar day after death; how this applies to deaths abroad is not stated, so confirm with the funeral director and the prefecture of Guadeloupe.",
+    "pouch": null,
+    "private_aviation": "Same documents as airline cargo; they travel with the coffin and are shown to customs and health officials at the arrival airport. The airtight zinc-lined coffin rule applies to any flight. Use an airport with customs (the main international airport) and arrange for the funeral director to meet the aircraft.",
+    "export": "To send a coffin out of Guadeloupe, the funeral director obtains authorisation from the prefect of Guadeloupe (the department where the coffin is closed), for EU, non-EU and mainland France destinations alike. An airtight metal coffin is mandatory for air transport. The destination country's consular requirements also apply.",
+    "authority": "French embassy or consulate abroad (entry); Prefect of Guadeloupe (exit)",
+    "last_checked": "2026-10",
+    "documents": [
+      "Local death certificate (transcription into French civil status advised, done by the consulate)",
+      "Medical certificate / non-contagious disease certificate as required by the departure country",
+      "Embalming (soins de conservation) certificate where required at departure",
+      "Authorisation to transport the body issued by the French embassy or consulate (or a mortuary laissez-passer from a Strasbourg Agreement state)",
+      "Coffin closing / sealing report",
+      "Receiving funeral director and burial or cremation arrangements in Guadeloupe"
+    ],
+    "sources": [
+      "https://www.service-public.gouv.fr/particuliers/vosdroits/F35706?lang=en",
+      "https://www.diplomatie.gouv.fr/fr/services-aux-francaises-et-aux-francais/assistance-et-securite/deces-a-l-etranger",
+      "https://www.service-public.gouv.fr/particuliers/vosdroits/F16507",
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+    ],
+    "pouch_accepted": false,
+    "private_jet_alert": false,
+    "at_a_glance": {
+      "death_certificate": "Local certificate; consular transcription advised",
+      "embalming": "Per departure country and airline",
+      "coffin": "Airtight zinc-lined coffin by air",
+      "laissez_passer": "Accepted from Strasbourg Agreement states",
+      "consular": "French consulate authorises transport",
+      "permit": "Consular authorisation (prefect if from France)",
+      "arrival": "Burial within 14 days; confirm locally"
+    },
+    "steps": [
+      {
+        "when": "Day 0-1",
+        "what": "Register the death locally; contact the French consulate; appoint funeral directors"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain death certificate, medical certificate and embalming as required at departure"
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Coffin placed in airtight zinc-lined coffin and sealed; consulate issues transport authorisation"
+      },
+      {
+        "when": "Day 3-5",
+        "what": "Flight to Guadeloupe with documents travelling with the coffin"
+      },
+      {
+        "when": "On arrival",
+        "what": "Customs/health formalities; local funeral director collects; funeral within the legal limit"
+      }
+    ],
+    "key_points": [
+      "French national rules apply in full",
+      "Hermetic coffins complicate cremation",
+      "Strasbourg laissez-passer accepted"
+    ],
+    "export_points": [
+      "Prefect of Guadeloupe authorises transport",
+      "Airtight metal-lined coffin mandatory by air",
+      "Same prefect authorisation for transport to mainland France",
+      "Check the destination consulate's requirements"
+    ],
+    "private_jet_note": "Airtight zinc-lined coffin mandatory on any flight into France, including overseas departments.",
+    "confidence": "medium",
+    "lead_days": 3
+  },
+  {
+    "cc": "HT",
+    "status": "requirements",
+    "name": "Haiti",
+    "summary": "To bring a body into Haiti, the Haitian embassy or consulate issues a consular death certificate after reviewing a file with the burial permit, certified death certificate, notarised and authenticated non-contagious disease and embalming letters, and the deceased's passport. The body must be embalmed and travel in a sealer casket, to a named funeral home in Haiti.",
+    "coffin": "A sealer (properly sealed) casket is required; a wood-base air tray is acceptable.",
+    "embalming": "Mandatory, certified by a notarised and authenticated letter from the funeral home.",
+    "consular": "The consular section of the Embassy of Haiti in Washington (or a Haitian consulate) issues the death certificate for transport after reviewing the file; the Washington fee is USD 160 (money order or credit card). Other consulates may differ.",
+    "arrival": "The remains are released to the named funeral home in Haiti, which handles customs and burial. Haitian civil death certificates do not show the cause of death. Confirm timing with the receiving funeral home.",
+    "pouch": null,
+    "private_aviation": "No official Haitian rule specific to private flights carrying human remains was found. The security situation can disrupt flights and airport operations in Haiti, so check current aviation notices (NOTAMs) and the arrival airport's status before planning, and make sure a funeral home and handling agent can receive the casket. The consular death certificate and originals travel with the casket.",
+    "export": "Leaving Haiti, the next of kin (or a funeral director with a letter of authorisation) registers the death with the Civil Registry (Etat Civil); the funeral home provides the death certificate, an embalming certificate and a certificate permitting transfer of the remains, and meets the destination's requirements (for the US, CDC leak-proof container rules). Post-mortems are carried out by court-appointed forensic doctors.",
+    "authority": "Embassy of Haiti consular section and Haitian consulates; Ministere de la Sante Publique et de la Population",
+    "last_checked": "2026-10",
+    "documents": [
+      "Death certificate issued by a Haitian consul",
+      "Burial permit from the place of death",
+      "Certified copy of the death certificate",
+      "Copy of the funeral home's health department registration and embalmer's licence",
+      "Copy of the complete funeral bill",
+      "Letter from the county health office that the deceased had no contagious disease, signed, notarised and authenticated",
+      "Letter on funeral home letterhead confirming embalming and a properly sealed coffin, signed, notarised and authenticated",
+      "Passport of the deceased (need not be current), flight itinerary and the name and address of the funeral home in Haiti"
+    ],
+    "sources": [
+      "https://www.haiti.org/body-repatriation/",
+      "https://www.haiti.org/transporting-human-remains-from-the-united-states-to-haiti/",
+      "https://www.gov.uk/guidance/when-someone-dies-in-haiti"
+    ],
+    "pouch_accepted": false,
+    "private_jet_alert": true,
+    "at_a_glance": {
+      "death_certificate": "Haitian consular death certificate",
+      "embalming": "Mandatory; notarised embalming letter",
+      "coffin": "Sealer casket; wood air tray accepted",
+      "laissez_passer": "Consular death certificate serves",
+      "consular": "Embassy Washington fee USD 160",
+      "permit": "Burial permit from place of death",
+      "arrival": "Named funeral home in Haiti"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Funeral home abroad obtains the death certificate and burial permit."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Embalming and sealer casket; prepare the non-contagious disease and embalming letters."
+      },
+      {
+        "when": "Day 2-4",
+        "what": "Notarise and authenticate the letters; submit the file to the Haitian embassy or consulate and pay the fee."
+      },
+      {
+        "when": "Day 4-5",
+        "what": "Consulate issues the death certificate; book a flight to an operating Haitian airport."
+      },
+      {
+        "when": "Arrival",
+        "what": "Named Haitian funeral home receives the casket."
+      }
+    ],
+    "key_points": [
+      "A Haitian consular death certificate is required.",
+      "Embalming and a sealer casket are mandatory.",
+      "Security conditions can disrupt flights; check before booking."
+    ],
+    "export_points": [
+      "Death registered at the Civil Registry (Etat Civil)",
+      "Embalming certificate and permission to transfer the remains",
+      "Death certificates do not show the cause of death",
+      "Check flight availability given security conditions"
+    ],
+    "private_jet_note": "Check current airport status and aviation notices for Haiti before booking.",
+    "confidence": "medium",
+    "lead_days": 5
+  }
+]

@@ -1,0 +1,618 @@
+[
+  {
+    "cc": "TZ",
+    "name": "Tanzania",
+    "status": "requirements",
+    "summary": "A Tanzanian embassy or high commission must authenticate the paperwork and issue an embassy permit to ship the remains to Tanzania before departure. The file centres on a certified death certificate, a burial-transit permit, a health-department non-contagious-disease letter and a notarised embalming certificate.",
+    "documents": [
+      "Certified copy of the death certificate",
+      "Burial transit permit from the country of death",
+      "Letter from the local health department stating the death was not caused by a contagious disease",
+      "Notarised embalming letter or certificate of embalming",
+      "Passport of the deceased (or two passport photos if the passport is unavailable)",
+      "Letter from the funeral director",
+      "Embassy permit to ship human remains to Tanzania, issued by the Tanzanian mission after authentication"
+    ],
+    "coffin": "The Tanzanian missions' published checklists do not specify casket construction. In practice airlines and the departure country require a hermetically sealed (zinc- or metal-lined) coffin in an outer wooden case for international carriage; confirm with the mission and the airline. No published rule on who witnesses the sealing.",
+    "embalming": "Embalming is required: the missions ask for a notarised embalming certificate.",
+    "consular": "Send the documents to the Tanzanian embassy or high commission covering the country of death (e.g. Washington; Brussels files go via the High Commission in Nairobi per the Brussels page). The mission authenticates them and issues the permit to ship the remains; the US and Brussels pages say permission is issued immediately when the file is complete. Tanzania is not a party to the 1973 Strasbourg Agreement. Tanzanian missions can legalise death certificates; no fee is published.",
+    "arrival": "Arrival procedure is not published. The original authenticated documents travel with the coffin for customs and port-health clearance at the arrival airport (e.g. Dar es Salaam, Kilimanjaro, Zanzibar); a family member or Tanzanian funeral home collects. No national burial deadline was found; Muslim families typically bury quickly.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No published rule specific to private or charter flights was found. Human remains travel with the same documents as on an airline (originals with the coffin), and the aircraft should land at an international airport with customs, immigration and port-health officers on duty; usual landing and overflight permissions for foreign-registered aircraft apply. The zinc-lined coffin (about 2.2 m, often 100 kg or more) must fit the cargo door or a cabin configured for it. Zanzibar has its own authorities; confirm with the receiving funeral home whether Zanzibar requires additional clearance.",
+    "private_jet_alert": false,
+    "private_jet_note": "Carry the embassy shipping permit and originals on board; land at an airport with customs and port health.",
+    "export": "Per the UK FCDO bereavement guide, local undertakers provide the special casket for international carriage, and shipping requires a civil registry death certificate, a certificate of embalming and a certificate giving permission to transfer the remains abroad. Local formalities normally take 3 to 4 days. Unnatural or unexplained deaths involve the police and possibly a post-mortem; criminal cases can delay release.",
+    "export_points": [
+      "Civil registry death certificate",
+      "Embalming certificate and permission-to-transfer certificate",
+      "Undertaker supplies casket for international carriage",
+      "Usually 3 to 4 days; longer if police investigate"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Certified copy, authenticated by Tanzanian mission",
+      "embalming": "Required, notarised certificate",
+      "coffin": "Airline-standard sealed casket; not specified",
+      "laissez_passer": "Not applicable; embassy shipping permit",
+      "consular": "Tanzanian embassy authenticates and issues permit",
+      "permit": "Burial transit permit plus embassy permit",
+      "arrival": "Originals travel with the coffin"
+    },
+    "steps": [
+      {
+        "when": "Day 0-1",
+        "what": "Register the death locally and appoint funeral directors in both countries"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain death certificate, burial transit permit and health-department non-contagion letter"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Embalming and notarised embalming certificate; coffin sealed for air transport"
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Submit file to the Tanzanian embassy for authentication and the shipping permit"
+      },
+      {
+        "when": "Day 3-4",
+        "what": "Flight to Tanzania with original documents; family or funeral home collects"
+      }
+    ],
+    "key_points": [
+      "Requirements are the same on the US and Brussels mission pages",
+      "Permit issued immediately once the file is complete",
+      "No published casket specification; follow airline rules"
+    ],
+    "lead_days": 3,
+    "authority": "Tanzanian embassy or high commission abroad (entry); civil registry and local authorities in Tanzania (exit)",
+    "sources": [
+      "https://www.us.tzembassy.go.tz/services/shipping-human-remains",
+      "https://www.be.tzembassy.go.tz/services/tanzania-citizen-services",
+      "https://www.gov.uk/government/publications/tanzania-bereavement-information-pack",
+      "https://assets.publishing.service.gov.uk/media/621f2657d3bf7f4f06550230/Bereavement_in_Tanzania_Update_02_March_2022.pdf",
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "TG",
+    "name": "Togo",
+    "status": "requirements",
+    "summary": "A Togolese embassy issues the authorisation to transfer the body to Lomé; the Berlin embassy requires the complete file at least 8 days before the flight. Togo's Ministry of Security also issues transfer authorisations (exit, and entry plus exit for transit).",
+    "documents": [
+      "Written request to the Togolese embassy giving departure date, airline, flight number and arrival date in Lomé",
+      "Death certificate",
+      "Municipal authorisation to close the coffin (coffin closure permit)",
+      "Medical certificate of non-contagion",
+      "Embalming certificate",
+      "Copy of the deceased's passport, Togolese nationality certificate or other ID",
+      "Name, address and phone of the family representative in Lomé",
+      "Proof of payment of the embassy processing fee"
+    ],
+    "coffin": "The Togolese embassy in Berlin asks for the municipal authorisation to close the coffin but publishes no technical specification. Airlines and departure countries generally require a hermetically sealed zinc-lined coffin in a wooden case; confirm with the embassy.",
+    "embalming": "Embalming is required: an embalming certificate is part of the embassy file.",
+    "consular": "The Togolese embassy covering the country of death issues the authorisation to transfer the body (Berlin: 50 EUR normal, 70 EUR express, file due at least 8 days before transfer). Togo is not a party to the 1973 Strasbourg Agreement. Documents in a language other than French may need translation; legalisation requirements are not published, confirm with the embassy.",
+    "arrival": "The original documents travel with the coffin to Lomé airport for police, customs and health checks; the family representative named in the file or a Togolese funeral home collects. For transit, the Ministry of Security issues an entry authorisation and an exit order. No national burial deadline was found.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No published rule specific to private or charter flights was found. Human remains travel with the same documents as on an airline (originals with the coffin), and the aircraft should land at an international airport with customs, immigration and port-health officers on duty; usual landing and overflight permissions for foreign-registered aircraft apply. The zinc-lined coffin (about 2.2 m, often 100 kg or more) must fit the cargo door or a cabin configured for it. Plan arrival at Lomé-Tokoin (Gnassingbe Eyadema) International Airport.",
+    "private_jet_alert": false,
+    "private_jet_note": "Book the embassy authorisation at least 8 days before the planned flight.",
+    "export": "Leaving Togo requires an authorisation to transfer remains (arrete de sortie) from the Ministry of Security in Lome: death certificate, cause-of-death or non-contagion certificate from the hospital, ID of the deceased and of the applicant, 500 FCFA fiscal stamp, online application on service-public.gouv.tg, processed in 72 hours and collected in person. The UK FCDO notes an export licence is needed, bodies must be embalmed, hospital death certificates may take about a week, and deaths outside hospital need a coroner's finding, which can take longer.",
+    "export_points": [
+      "Ministry of Security transfer authorisation (72 hours, 500 FCFA)",
+      "Hospital or coroner death certificate first",
+      "Embalming required for repatriation",
+      "Apply online via service-public.gouv.tg"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Required; French or translated",
+      "embalming": "Required, certificate in the file",
+      "coffin": "Municipal closure permit; sealed coffin",
+      "laissez_passer": "Embassy transfer authorisation",
+      "consular": "Togolese embassy, file 8 days ahead",
+      "permit": "Embassy authorisation; Ministry of Security in Togo",
+      "arrival": "Family representative in Lome collects"
+    },
+    "steps": [
+      {
+        "when": "Day 0-1",
+        "what": "Register the death locally and appoint funeral directors"
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Obtain death certificate, non-contagion certificate and embalming certificate"
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Obtain municipal coffin closure authorisation; coffin sealed"
+      },
+      {
+        "when": "At least 8 days before flight",
+        "what": "Send complete file and fee to the Togolese embassy"
+      },
+      {
+        "when": "Flight day",
+        "what": "Fly to Lome with originals; family representative collects"
+      }
+    ],
+    "key_points": [
+      "Embassy wants the complete file 8 days before the flight",
+      "Name a family contact in Lome in the request",
+      "Exit from Togo needs a Ministry of Security authorisation"
+    ],
+    "lead_days": 8,
+    "authority": "Togolese embassy abroad (entry); Ministry of Security, Lome (transfer authorisation)",
+    "sources": [
+      "https://ambatogoberlin.de/autorisation-de-transfert-de-depouille-mortelle/",
+      "https://service-public.gouv.tg/service/68892e5ccd5d771319b084e1/securite-surete/demande-d-autorisation-de-transfert-de-restes-ou-de-depouill",
+      "https://www.gov.uk/guidance/when-someone-dies-in-togo",
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "UG",
+    "name": "Uganda",
+    "status": "requirements",
+    "summary": "A Ugandan embassy or consulate certifies the repatriation documents free of charge, usually within 1 to 3 working days. The file includes the death certificate, embalming certificate, local burial permit, no-contagious-disease certificate and a post-mortem or medical report.",
+    "documents": [
+      "Signed request for certification from a responsible person (relative or employer)",
+      "Passport of the deceased",
+      "Death certificate",
+      "Certificate of embalmment",
+      "Burial permit from the local authority where the deceased lived",
+      "Certificate of no contagious diseases",
+      "Post-mortem report or comprehensive medical report from the attending doctor or facility"
+    ],
+    "coffin": "The Ugandan missions do not set a casket standard: the transporting airline advises on the appropriate casket. A hermetically sealed metal-lined coffin in a wooden case is the usual airline requirement.",
+    "embalming": "Embalming is required: a certificate of embalmment is part of the file.",
+    "consular": "Originals are sent by express mail to the Ugandan mission with a prepaid return envelope; the mission certifies them free of charge (1 to 3 working days in Copenhagen and Mombasa, 1 working day in Washington) and returns them with a cover note. Uganda is not a party to the 1973 Strasbourg Agreement. Ashes: request letter, passport, death certificate and cremation certificate, certified the same way.",
+    "arrival": "The certified originals travel with the coffin to Entebbe International Airport for customs and health clearance; the family or a Ugandan funeral home collects. No national burial deadline was found.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No published rule specific to private or charter flights was found. Human remains travel with the same documents as on an airline (originals with the coffin), and the aircraft should land at an international airport with customs, immigration and port-health officers on duty; usual landing and overflight permissions for foreign-registered aircraft apply. The zinc-lined coffin (about 2.2 m, often 100 kg or more) must fit the cargo door or a cabin configured for it. Entebbe International Airport is the main port of entry.",
+    "private_jet_alert": false,
+    "private_jet_note": "Carry the mission-certified originals on board for clearance at Entebbe.",
+    "export": "Per the UK FCDO, shipping a body from Uganda requires a local civil registry death certificate, a certificate of embalming and a certificate giving permission to transfer the remains. The death is registered with NIRA (online or via a funeral director; Form 12, plus Form 13 for hospital deaths); the Ugandan certificate does not show the cause of death. The process usually takes 7 to 10 days. The body can be repatriated before organ tests are finished.",
+    "export_points": [
+      "Register the death with NIRA",
+      "Embalming certificate and permission to transfer",
+      "Usually 7 to 10 days",
+      "Cause of death not on the Ugandan certificate"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Original, certified by Ugandan mission",
+      "embalming": "Required, certificate needed",
+      "coffin": "Airline advises; sealed casket usual",
+      "laissez_passer": "Not applicable; mission certification",
+      "consular": "Ugandan mission certifies free, 1-3 days",
+      "permit": "Local burial permit from country of death",
+      "arrival": "Originals travel with the coffin to Entebbe"
+    },
+    "steps": [
+      {
+        "when": "Day 0-1",
+        "what": "Register the death locally and appoint funeral directors"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain death certificate, medical or post-mortem report and no-contagion certificate"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Embalming, sealed casket and local burial permit"
+      },
+      {
+        "when": "Day 2-4",
+        "what": "Ugandan mission certifies the originals (free, 1-3 working days)"
+      },
+      {
+        "when": "Day 4-5",
+        "what": "Flight to Entebbe with originals; family or funeral home collects"
+      }
+    ],
+    "key_points": [
+      "Mission certification is free",
+      "Send originals by express mail with a return envelope",
+      "Leaving Uganda typically takes 7 to 10 days"
+    ],
+    "lead_days": 3,
+    "authority": "Ugandan embassy or consulate abroad (entry); NIRA and local authorities in Uganda (exit)",
+    "sources": [
+      "https://copenhagen.mofa.go.ug/node/110",
+      "https://mombasa.mofa.go.ug/node/155",
+      "https://washington.mofa.go.ug/node/271",
+      "https://www.gov.uk/guidance/what-to-do-after-a-british-person-dies-in-uganda",
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "ZM",
+    "name": "Zambia",
+    "status": "strict",
+    "summary": "Bringing remains into Zambia needs prior written consent from the Permanent Secretary, Ministry of Foreign Affairs in Lusaka, requested through the Zambian embassy. The body must be in a hermetically sealed casket inside a wooden outer box, attested by the local health authority.",
+    "documents": [
+      "Application with the deceased's name and details, reason for the request and tentative transport schedule",
+      "Names and addresses of the Zambian residents responsible for the remains in Zambia",
+      "Notarised statement from the local health authority that there is no danger of infection",
+      "Notarised statement from the local health authority that the body is in a hermetically sealed casket and wooden outer box",
+      "Locally issued burial and/or transit permit",
+      "Certified copy of the death certificate"
+    ],
+    "coffin": "Hermetically sealed casket inside a wooden outer box, attested by a notarised statement from the local health authority of the country of death.",
+    "embalming": "The Washington embassy checklist does not list embalming. The Zambian embassy in Japan lists a health certificate but its page was unavailable when checked. Embalming is usually needed by airlines and departure countries; confirm with the embassy.",
+    "consular": "Contact the Zambian embassy's consular section and send a scanned application package; prior written consent comes from the Ministry of Foreign Affairs in Lusaka (the Japan mission states it issues a No Objection Certificate or Health Clearance Certificate on behalf of the government). No fee or processing time is published. Zambia is not a party to the 1973 Strasbourg Agreement.",
+    "arrival": "The application must name the Zambian residents who will take charge of the remains. Arrival clearance details are not published; originals should travel with the coffin for customs and health checks.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No published rule specific to private or charter flights was found. Human remains travel with the same documents as on an airline (originals with the coffin), and the aircraft should land at an international airport with customs, immigration and port-health officers on duty; usual landing and overflight permissions for foreign-registered aircraft apply. The zinc-lined coffin (about 2.2 m, often 100 kg or more) must fit the cargo door or a cabin configured for it. Main international airports include Lusaka (Kenneth Kaunda) and Ndola.",
+    "private_jet_alert": true,
+    "private_jet_note": "Do not take off before Lusaka's written consent is received.",
+    "export": "The UK FCDO guide covers death registration (Registrar General, Lusaka, or local Boma offices; certificates in English, collectable within 48 hours), body identification and release from the morgue by the next of kin or a nominee. It does not detail export permits, embalming or coffin rules or timelines; the funeral director handles them. Post-mortems and police cases can delay release.",
+    "export_points": [
+      "Death certificate from the Registrar General within 48 hours",
+      "Next of kin or nominee releases the body from the morgue",
+      "Export permits not published; funeral director arranges",
+      "Confirm destination consulate rules"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Certified copy required",
+      "embalming": "Not listed; usually done, confirm",
+      "coffin": "Hermetically sealed casket in wooden box",
+      "laissez_passer": "Not applicable",
+      "consular": "Zambian embassy forwards to Lusaka",
+      "permit": "Prior written consent from Foreign Ministry",
+      "arrival": "Named Zambian residents take charge"
+    },
+    "steps": [
+      {
+        "when": "Day 0-1",
+        "what": "Register the death locally; contact the Zambian embassy consular section"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain death certificate, burial/transit permit and health authority statements"
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Send scanned application package naming the receiving family in Zambia"
+      },
+      {
+        "when": "After consent",
+        "what": "Seal casket in wooden outer box and confirm flight"
+      },
+      {
+        "when": "Arrival",
+        "what": "Named family or funeral home in Zambia takes charge of the remains"
+      }
+    ],
+    "key_points": [
+      "Consent from the Foreign Ministry in Lusaka is needed before shipping",
+      "Health authority must attest the hermetic sealing",
+      "Processing time is not published; allow extra days"
+    ],
+    "lead_days": null,
+    "authority": "Ministry of Foreign Affairs, Lusaka (Permanent Secretary), via Zambian embassies",
+    "sources": [
+      "https://www.zambiaembassy.org/node/1846",
+      "https://www.gov.uk/government/publications/lusaka-bereavement-death-abroad/zambia-bereavement-information",
+      "https://www.gov.uk/guidance/what-to-do-after-a-british-person-dies-in-zambia",
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "ZW",
+    "name": "Zimbabwe",
+    "status": "requirements",
+    "summary": "A Zimbabwean embassy checks and stamps the original documents and obtains a health certificate from head office in Harare; the stamped originals then travel with the remains. Washington estimates about 5 business days.",
+    "documents": [
+      "Original death certificate",
+      "Original post-mortem report",
+      "Original embalming certificate",
+      "Original non-infectious diseases certificate",
+      "Original permit to repatriate (removal permit) from the country of death",
+      "Zimbabwean passport of the deceased (or national ID/birth certificate plus next-of-kin nationality affidavit)",
+      "Funeral home affidavit that the consignment is non-hazardous and non-flammable",
+      "Affidavit or letter from a family representative requesting burial in Zimbabwe"
+    ],
+    "coffin": "The Zimbabwean embassy pages do not specify casket construction. Follow airline and departure-country rules (normally a hermetically sealed metal-lined coffin in a wooden case).",
+    "embalming": "Embalming is required: an embalming certificate is on every embassy checklist.",
+    "consular": "Send originals and copies to the Zimbabwean embassy (Washington: US$35 fee, about 5 business days, forwarded to head office for a health certificate; Ankara: US$10). If the deceased had no Zimbabwean passport, the embassy seeks clearance from Harare first. Zimbabwe is not a party to the 1973 Strasbourg Agreement.",
+    "arrival": "The embassy-stamped original documents must accompany the remains for clearance on arrival. Who collects is the family or a Zimbabwean funeral parlour; arrival procedures are not published.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No published rule specific to private or charter flights was found. Human remains travel with the same documents as on an airline (originals with the coffin), and the aircraft should land at an international airport with customs, immigration and port-health officers on duty; usual landing and overflight permissions for foreign-registered aircraft apply. The zinc-lined coffin (about 2.2 m, often 100 kg or more) must fit the cargo door or a cabin configured for it. Main ports of entry include Harare (Robert Gabriel Mugabe International), Bulawayo and Victoria Falls.",
+    "private_jet_alert": false,
+    "private_jet_note": "Stamped original documents must travel on the aircraft with the coffin.",
+    "export": "Per the UK FCDO, the death is registered with the Registrar General's Office (certificate within about one working week; BD12 medical certificate or BD11 police notice of death as applicable). Shipping requires the civil registry death certificate, a certificate of embalming and a certificate giving permission to transfer the remains. Rural mortuary facilities are limited.",
+    "export_points": [
+      "Registrar General issues death certificate within about a week",
+      "Embalming certificate and transfer permission",
+      "Funeral director can identify the body by affidavit",
+      "Limited mortuary capacity in rural areas"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Original plus copy, stamped by embassy",
+      "embalming": "Required, certificate needed",
+      "coffin": "Not specified; airline-standard sealed casket",
+      "laissez_passer": "Not applicable",
+      "consular": "Embassy stamps originals, about 5 days",
+      "permit": "Removal permit from country of death",
+      "arrival": "Stamped originals travel with the remains"
+    },
+    "steps": [
+      {
+        "when": "Day 0-1",
+        "what": "Register the death and appoint funeral directors"
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Obtain death certificate, post-mortem, embalming and non-infectious disease certificates"
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Obtain removal permit and funeral home non-hazardous affidavit"
+      },
+      {
+        "when": "Day 3-8",
+        "what": "Embassy reviews, obtains Harare health certificate and stamps originals"
+      },
+      {
+        "when": "After stamping",
+        "what": "Fly to Zimbabwe with stamped originals; family collects"
+      }
+    ],
+    "key_points": [
+      "Post-mortem report is on the checklist",
+      "Fees vary by embassy (US$10 to US$35)",
+      "No Zimbabwean passport means Harare clearance first"
+    ],
+    "lead_days": 5,
+    "authority": "Zimbabwean embassy abroad with head office (Ministry of Foreign Affairs) health certificate; Registrar General (exit)",
+    "sources": [
+      "https://zimembassydc.org/repatriation-of-remains/",
+      "https://www.zimembassyberlin.gov.zw/?p=795",
+      "https://zimankara.org.tr/embassy/repatriation-of-human-remains/15d9e4a7",
+      "https://www.gov.uk/guidance/what-to-do-after-a-british-person-dies-in-zimbabwe",
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "RE",
+    "name": "Réunion (France)",
+    "status": "requirements",
+    "summary": "Réunion is an overseas department of France and follows French rules: from abroad, the French embassy or consulate in the country of death authorises the transport; from mainland France, the prefect of the department where the coffin is closed authorises it. An airtight (metal-lined) coffin is mandatory by air.",
+    "documents": [
+      "Local death certificate (transcription into French civil status by the consulate recommended)",
+      "Medical certificate of cause of death or non-contagion certificate",
+      "Embalming or conservation certificate where required by the departure country",
+      "Transport authorisation from the French embassy or consulate (from abroad) or from the prefect where the coffin is closed (from mainland France or another DOM)",
+      "Coffin closure/sealing certificate",
+      "Details of the receiving funeral director and cemetery or crematorium"
+    ],
+    "coffin": "Airtight coffin with a metal box (in practice soldered zinc inside a wooden coffin) is mandatory for air transport under French rules. A hermetic coffin complicates later cremation.",
+    "embalming": "French rules do not impose embalming for an incoming body; the departure country and airline usually require it for long journeys.",
+    "consular": "From abroad, entry into France (including overseas departments) and transport to the place of burial or cremation require authorisation from the French embassy or consulate. France is a party to the 1973 Strasbourg Agreement; whether a Strasbourg laissez-passer alone suffices for this department is not stated, confirm with the consulate. Families bear all costs.",
+    "arrival": "The receiving funeral director takes the coffin at the airport. French law sets a 14 calendar-day limit for burial or cremation; for bodies from abroad the official texts count it from entry into France (the notaires page refers to mainland France), so confirm with the local funeral director how it is counted here. Pierrefonds airport also handles some regional flights.",
+    "pouch_accepted": false,
+    "pouch": null,
+    "private_aviation": "Same documents as airline cargo; the coffin must be airtight for any air transport. Plan arrival at Roland Garros (Saint-Denis) international airport, with customs (douane) and border police, and have the receiving funeral director meet the aircraft. ",
+    "private_jet_alert": false,
+    "private_jet_note": "An airtight zinc-lined coffin is mandatory for any flight.",
+    "export": "The funeral company handles formalities. To mainland France or abroad, the prefect of the department where the coffin is closed authorises the transport; air transport requires an airtight coffin. Ashes need authorisation from the prefect of the place of cremation or of the applicant's residence. The destination country's consular rules also apply.",
+    "export_points": [
+      "Prefect authorises transport out of the department",
+      "Airtight metal-lined coffin mandatory by air",
+      "Ashes: prefect of cremation place or residence",
+      "Family bears costs; check insurance"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Local certificate; French transcription advised",
+      "embalming": "Usually required by departure country",
+      "coffin": "Airtight metal-lined coffin mandatory",
+      "laissez_passer": "French consular authorisation from abroad",
+      "consular": "French consulate authorises entry",
+      "permit": "Prefect authorisation from mainland France",
+      "arrival": "Funeral within 14 days; confirm counting"
+    },
+    "steps": [
+      {
+        "when": "Day 0-1",
+        "what": "Register the death and contact the French consulate (abroad) or a funeral company (mainland)"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain death certificate, medical certificate and embalming as required"
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Coffin sealed in airtight zinc-lined coffin; consular or prefect authorisation issued"
+      },
+      {
+        "when": "Day 3-5",
+        "what": "Flight with documents travelling with the coffin"
+      },
+      {
+        "when": "On arrival",
+        "what": "Local funeral director collects; funeral within the legal deadline"
+      }
+    ],
+    "key_points": [
+      "Same rules as France",
+      "Airtight coffin compulsory for any air transport",
+      "Hermetic coffin complicates cremation"
+    ],
+    "lead_days": 3,
+    "authority": "French embassy or consulate abroad (entry from abroad); Prefect of Réunion (exit) and prefect where the coffin is closed",
+    "sources": [
+      "https://www.service-public.gouv.fr/particuliers/vosdroits/F35706",
+      "https://www.diplomatie.gouv.fr/fr/services-aux-francaises-et-aux-francais/assistance-et-securite/deces-a-l-etranger",
+      "https://www.notaires.fr/fr/actualites/allongement-des-delais-dinhumation-et-de-cremation-14-jours",
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "YT",
+    "name": "Mayotte (France)",
+    "status": "requirements",
+    "summary": "Mayotte is an overseas department of France and follows French rules: from abroad, the French embassy or consulate in the country of death authorises the transport; from mainland France, the prefect of the department where the coffin is closed authorises it. An airtight (metal-lined) coffin is mandatory by air.",
+    "documents": [
+      "Local death certificate (transcription into French civil status by the consulate recommended)",
+      "Medical certificate of cause of death or non-contagion certificate",
+      "Embalming or conservation certificate where required by the departure country",
+      "Transport authorisation from the French embassy or consulate (from abroad) or from the prefect where the coffin is closed (from mainland France or another DOM)",
+      "Coffin closure/sealing certificate",
+      "Details of the receiving funeral director and cemetery or crematorium"
+    ],
+    "coffin": "Airtight coffin with a metal box (in practice soldered zinc inside a wooden coffin) is mandatory for air transport under French rules. A hermetic coffin complicates later cremation.",
+    "embalming": "French rules do not impose embalming for an incoming body; the departure country and airline usually require it for long journeys.",
+    "consular": "From abroad, entry into France (including overseas departments) and transport to the place of burial or cremation require authorisation from the French embassy or consulate. France is a party to the 1973 Strasbourg Agreement; whether a Strasbourg laissez-passer alone suffices for this department is not stated, confirm with the consulate. Families bear all costs.",
+    "arrival": "The receiving funeral director takes the coffin at the airport. French law sets a 14 calendar-day limit for burial or cremation; for bodies from abroad the official texts count it from entry into France (the notaires page refers to mainland France), so confirm with the local funeral director how it is counted here. Most of the population is Muslim and families usually seek a rapid burial; prepare paperwork before the flight.",
+    "pouch_accepted": false,
+    "pouch": null,
+    "private_aviation": "Same documents as airline cargo; the coffin must be airtight for any air transport. Plan arrival at Dzaoudzi-Pamandzi international airport, with customs (douane) and border police, and have the receiving funeral director meet the aircraft. The runway at Dzaoudzi-Pamandzi is short, which limits some long-range jets; check aircraft performance with the operator.",
+    "private_jet_alert": false,
+    "private_jet_note": "An airtight zinc-lined coffin is mandatory for any flight.",
+    "export": "The funeral company handles formalities. To mainland France or abroad, the prefect of the department where the coffin is closed authorises the transport; air transport requires an airtight coffin. Ashes need authorisation from the prefect of the place of cremation or of the applicant's residence. The destination country's consular rules also apply.",
+    "export_points": [
+      "Prefect authorises transport out of the department",
+      "Airtight metal-lined coffin mandatory by air",
+      "Ashes: prefect of cremation place or residence",
+      "Family bears costs; check insurance"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Local certificate; French transcription advised",
+      "embalming": "Usually required by departure country",
+      "coffin": "Airtight metal-lined coffin mandatory",
+      "laissez_passer": "French consular authorisation from abroad",
+      "consular": "French consulate authorises entry",
+      "permit": "Prefect authorisation from mainland France",
+      "arrival": "Funeral within 14 days; confirm counting"
+    },
+    "steps": [
+      {
+        "when": "Day 0-1",
+        "what": "Register the death and contact the French consulate (abroad) or a funeral company (mainland)"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain death certificate, medical certificate and embalming as required"
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Coffin sealed in airtight zinc-lined coffin; consular or prefect authorisation issued"
+      },
+      {
+        "when": "Day 3-5",
+        "what": "Flight with documents travelling with the coffin"
+      },
+      {
+        "when": "On arrival",
+        "what": "Local funeral director collects; funeral within the legal deadline"
+      }
+    ],
+    "key_points": [
+      "Same rules as France",
+      "Airtight coffin compulsory for any air transport",
+      "Muslim families usually seek rapid burial"
+    ],
+    "lead_days": 3,
+    "authority": "French embassy or consulate abroad (entry from abroad); Prefect of Mayotte (exit) and prefect where the coffin is closed",
+    "sources": [
+      "https://www.service-public.gouv.fr/particuliers/vosdroits/F35706",
+      "https://www.diplomatie.gouv.fr/fr/services-aux-francaises-et-aux-francais/assistance-et-securite/deces-a-l-etranger",
+      "https://www.notaires.fr/fr/actualites/allongement-des-delais-dinhumation-et-de-cremation-14-jours",
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "SH",
+    "name": "Saint Helena (UK)",
+    "status": "unknown",
+    "summary": "No published St Helena Government procedure for importing or exporting human remains was found. Contact the St Helena Registrar, HM Customs and Environmental Health before arranging a flight.",
+    "documents": [
+      "Death certificate (translated into English if needed)",
+      "Medical certificate of cause of death / non-contagion certificate (expected, not published)",
+      "Embalming certificate (expected, not published)",
+      "Documents required by the departure country for export",
+      "Burial plot application on St Helena (Dungeon Cemetery plot £80)"
+    ],
+    "coffin": "No St Helena rule is published. Use a hermetically sealed metal-lined coffin in a wooden case to meet airline and departure-country rules.",
+    "embalming": "Not published for incoming remains; embalming is generally expected for international air carriage. Confirm with Environmental Health.",
+    "consular": "St Helena is a UK Overseas Territory with its own government; there is no St Helena consulate abroad. The UK is not a party to the 1973 Strasbourg Agreement. Direct questions to the St Helena Government (Registrar, HM Customs, Environmental Health).",
+    "arrival": "HM Customs operates at St Helena Airport, Jamestown and Rupert's; Environmental Health provides aircraft health clearance under the International Health Regulations. Before a burial on St Helena the death must be registered with the Registrar using a Coroner's Certificate of Fact of Death from the Judicial Office at the Castle; a burial plot application is required.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "St Helena Airport is the only airport and a port of entry with customs. Requirements for landing a private aircraft carrying a coffin were not found in official sources; contact the airport operator and HM Customs well in advance. Remote location and limited alternates mean careful fuel and weather planning.",
+    "private_jet_alert": true,
+    "private_jet_note": "Arrange airport and customs clearance in advance; no published procedure.",
+    "export": "No official procedure for sending a body off the island was found. Deaths are registered with the Registrar (Post Office Building, Jamestown) on a Coroner's Certificate of Fact of Death from the Judicial Office. Export permits, embalming and coffin availability must be confirmed locally; the destination country's consular rules apply.",
+    "export_points": [
+      "Register the death with the Registrar",
+      "Coroner's Certificate of Fact of Death from the Judicial Office",
+      "Export rules not published; confirm locally",
+      "Destination country rules apply"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Required; registration via Registrar",
+      "embalming": "Not published; confirm locally",
+      "coffin": "Not published; use sealed casket",
+      "laissez_passer": "Not applicable",
+      "consular": "No consulate; contact St Helena Government",
+      "permit": "Not published; confirm with Customs",
+      "arrival": "HM Customs and Environmental Health at airport"
+    },
+    "steps": [
+      {
+        "when": "Day 0-1",
+        "what": "Contact St Helena Registrar, HM Customs and Environmental Health"
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Assemble death, medical and embalming certificates and export permit in country of death"
+      },
+      {
+        "when": "Day 2-4",
+        "what": "Coffin sealed; confirm airport and customs clearance for the flight"
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs and health clearance at St Helena Airport; local funeral arrangements"
+      },
+      {
+        "when": "Before burial",
+        "what": "Burial plot application and death registration as required"
+      }
+    ],
+    "key_points": [
+      "No published import procedure; ask officials first",
+      "Only one airport; plan the flight carefully",
+      "Burial plot at Dungeon Cemetery costs £80"
+    ],
+    "lead_days": null,
+    "authority": "St Helena Government (Registrar of Births, Deaths and Marriages; HM Customs; Environmental Health)",
+    "sources": [
+      "https://www.sainthelena.gov.sh/public-services/registry-of-births-deaths-and-marriages/",
+      "https://www.sainthelena.gov.sh/public-services/environmental-health/",
+      "https://www.sainthelena.gov.sh/st-helena/government/portfolios/safety-security-and-home-affairs/hm-customs/",
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  }
+]

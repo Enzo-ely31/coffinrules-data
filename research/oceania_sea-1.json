@@ -1,0 +1,813 @@
+[
+  {
+    "cc": "SG",
+    "name": "Singapore",
+    "status": "requirements",
+    "summary": "A casket can enter Singapore only with a Coffin (Import) Permit from the National Environment Agency (NEA), applied for online by the Singapore funeral director with the family's letter of authorisation. Citizens and permanent residents may be brought home for burial or cremation; foreign nationals are normally admitted for cremation only, burial needing special NEA permission.",
+    "documents": [
+      "Death certificate from the country of death (or cause of death certificate), in English or with English translation; it must travel with the coffin",
+      "Sealing certificate for the coffin (English translation if needed)",
+      "Embalming certificate where applicable (English translation if needed)",
+      "Coffin export permit from the country the body leaves",
+      "Letters of authorisation from the family for the overseas and Singapore funeral directors",
+      "Exhumation certificate for exhumed remains, if applicable",
+      "Air waybill (optional)"
+    ],
+    "coffin": "A sealed coffin with a sealing certificate is required; Singapore MFA guidance describes it as hermetically sealed and metal lined. For burial in Singapore the coffin must not exceed 210 x 90 x 80 cm; Singapore cremators accept coffins only up to 210 x 60 x 56 cm, so size the coffin for the planned disposal. Who witnesses the sealing is not specified by Singapore.",
+    "embalming": "An embalming certificate is required 'where applicable' (NEA). Tell the embalmer about any pacemaker. For infectious diseases of concern (e.g. MERS, Ebola) both undertakers must notify the authorities, and NEA Port Health decides whether the body may be imported at all.",
+    "consular": "No Singapore consular permit or laissez-passer is needed; the import permit is issued by NEA, not by Singapore embassies. MFA and Singapore overseas missions only assist and provide undertaker lists. Documents not in English need an English translation; legalisation is not mentioned by NEA.",
+    "arrival": "No Singapore Customs permit or GST applies to human remains or ashes. The Singapore funeral director collects the coffin. The Permit to Bury or Cremate is issued with the coffin permit (fee 17.50 SGD). Burials take place only at Choa Chu Kang Cemetery, with a 15-year grave lease; foreigners cremated in Singapore can only buy niches in private columbaria.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "Singapore has no published rule specific to private flights carrying remains. The NEA Coffin (Import) Permit must be in place before arrival and the coffin is released on that permit, so arrange clearance with the handling agent and the Singapore funeral director at the arrival airport in advance.",
+    "private_jet_alert": true,
+    "private_jet_note": "Obtain the NEA Coffin (Import) Permit before take-off and confirm the arrival airport can clear the coffin.",
+    "export": "A Coffin (Export) Permit from the NEA Port Health Office is required before a body leaves Singapore. Funeral directors apply on the NEA ePortal with the death certificate, the embalming certificate where applicable and the coffin sealing certificate; approval is at Port Health's discretion. If the Coroner is involved, the body is released only after the Coroner's decision on autopsy; a provisional cause of death may be used to allow repatriation. Embalming of bodies with certain emerging infectious diseases is not allowed in Singapore. No permit is needed to export ashes. Processing time is not published.",
+    "export_points": [
+      "NEA Coffin (Export) Permit via a licensed funeral director",
+      "Death, embalming and sealing certificates required",
+      "Coroner must release the body in coroner's cases",
+      "No export permit needed for ashes"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Foreign certificate, English translation, with coffin",
+      "embalming": "Certificate where applicable",
+      "coffin": "Sealed coffin with sealing certificate",
+      "laissez_passer": "Not used; NEA permit instead",
+      "consular": "No consular permit required",
+      "permit": "NEA Coffin (Import) Permit, 17.50 SGD",
+      "arrival": "No customs permit; funeral director collects"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Appoint a funeral director at the place of death and a licensed funeral director in Singapore; sign letters of authorisation."
+      },
+      {
+        "when": "Day 1",
+        "what": "Register the death locally and obtain the death certificate (with English translation if needed)."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Embalm if applicable and seal the coffin; obtain the embalming and sealing certificates and the exit permit of the country of death."
+      },
+      {
+        "when": "Day 2",
+        "what": "The Singapore funeral director applies online for the NEA Coffin (Import) Permit, which includes the Permit to Bury or Cremate."
+      },
+      {
+        "when": "Arrival",
+        "what": "The coffin travels with the death certificate; the Singapore funeral director collects it and proceeds with cremation or burial."
+      }
+    ],
+    "key_points": [
+      "Foreign nationals are normally imported for cremation only",
+      "Coffin size limits apply for burial and cremation",
+      "No customs permit or GST on human remains",
+      "Infectious-disease deaths need prior NEA assessment"
+    ],
+    "lead_days": null,
+    "authority": "National Environment Agency (NEA), Port Health Office",
+    "sources": [
+      "https://www.nea.gov.sg/our-services/after-death/post-death-matters/when-death-occurs/overseas",
+      "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/what-you-can-bring/remaintransfer",
+      "https://customs.gov.sg/individuals/transfer-of-remains-for-cremation-or-burial",
+      "https://isomer-user-content.by.gov.sg/262/3189d903-0904-41a4-8c43-32f01c1120a4/guide%20for%20bereaved%20families.pdf",
+      "https://www.gov.uk/government/publications/when-someone-dies-in-singapore",
+      "https://assets.publishing.service.gov.uk/media/6a0d1cc4279ebb7d24f8f538/Bereavemnet_pack_2026.docx"
+    ],
+    "confidence": "high",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "MY",
+    "name": "Malaysia",
+    "status": "requirements",
+    "summary": "Bringing a body into Malaysia requires an import permit from the Ministry of Health, obtained by a family member or an agent approved by the family, and a Health Officer checks the remains at the entry point before release. Detailed document and casket rules are not published in an accessible official source; confirm with the Malaysian mission and the District Health Office.",
+    "documents": [
+      "Ministry of Health import permit for the corpse",
+      "Death certificate from the country of death (translation into English or Malay advisable)",
+      "Embalming and coffin certificates and the exit permit of the country of death (expected; confirm with the mission)",
+      "Air waybill or manifest and airport release documents",
+      "Passport or identity card of the deceased"
+    ],
+    "coffin": "No accessible official Malaysian casket standard was found. Use a hermetically sealed, zinc-lined coffin in a wooden outer case meeting airline/IATA requirements and confirm with the Ministry of Health.",
+    "embalming": "Not confirmed by an accessible official Malaysian source for incoming bodies. Embalming is normally required by the country of departure and by airlines.",
+    "consular": "Malaysian missions abroad coordinate the repatriation of Malaysian citizens (death report, letter of authorisation). For non-Malaysians, check with the Malaysian embassy or high commission in the country of death; no laissez-passer system applies.",
+    "arrival": "A Ministry of Health Health Officer verifies the remains at the entry point before release, then customs clears them. The receiving funeral service collects the body. Muslim burials are normally held very quickly, so prepare the permit in advance.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No rule specific to private flights was found. The Ministry of Health import permit and a Health Officer at the entry point are required, so land at an international airport with health and customs staff and confirm the inspection in advance.",
+    "private_jet_alert": true,
+    "private_jet_note": "Secure the Ministry of Health import permit and Health Officer inspection before take-off.",
+    "export": "A local funeral director registers the death with the National Registration Department, which issues a death certificate in Malay and English. Repatriation needs the death certificate, a certificate of embalming and a certificate permitting transfer of the remains (gov.uk); some hospitals require a letter of no objection from the deceased's embassy. Post-mortems are routine for unnatural, sudden or unknown causes. Export permits are issued by state health departments (in Kuala Lumpur, press reports in 2023 said only Monday to Thursday); no official delay is published.",
+    "export_points": [
+      "Death registered with the National Registration Department",
+      "Embalming certificate and permit to transfer the remains",
+      "Embassy letter of no objection may be required",
+      "Health department export permit; allow extra days"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Local certificate, translation advisable",
+      "embalming": "Expected; not officially confirmed",
+      "coffin": "Sealed zinc-lined coffin, airline standard",
+      "laissez_passer": "Not applicable",
+      "consular": "Malaysian mission assists its nationals",
+      "permit": "Ministry of Health import permit",
+      "arrival": "Health Officer check at entry point"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the Malaysian embassy or consulate and appoint funeral directors at both ends."
+      },
+      {
+        "when": "Day 1",
+        "what": "Obtain the death certificate, embalming certificate and exit permit in the country of death."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "The family or its approved agent applies to the Ministry of Health (District Health Office) for the corpse import permit."
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Book the flight and send the permit and documents to the receiving funeral service and handling agent."
+      },
+      {
+        "when": "Arrival",
+        "what": "A Health Officer verifies the remains at the entry point; customs releases them to the funeral service."
+      }
+    ],
+    "key_points": [
+      "Ministry of Health permit is mandatory for a body",
+      "Urns of ashes do not need the Health permit",
+      "Official Malaysian web sources were unreachable; confirm locally"
+    ],
+    "lead_days": null,
+    "authority": "Ministry of Health Malaysia (District Health Office / port health) with Royal Malaysian Customs",
+    "sources": [
+      "https://www.gov.uk/government/publications/malaysia-bereavement-pack"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "TH",
+    "name": "Thailand",
+    "status": "requirements",
+    "summary": "To bring a body into Thailand, a funeral director applies to the Royal Thai Embassy or consulate in the country of death, which issues a Thai death certificate for the repatriation. At the airport, Thai Customs release the remains on the passport, air waybill and that death certificate, with no import declaration form.",
+    "documents": [
+      "Death certificate issued by the Royal Thai Embassy or consulate in the country of death",
+      "Hospital letter confirming death and local death certificate",
+      "Passport of the deceased",
+      "Air waybill (original or copy)",
+      "Embalming certificate and exit permit of the country of death (expected by origin and airline)"
+    ],
+    "coffin": "No Thai-specific casket standard was found in official sources. Use a hermetically sealed, zinc-lined coffin in a wooden outer case per airline/IATA rules.",
+    "embalming": "Not specified by Thai official sources for incoming remains; normally required by the country of departure and by airlines.",
+    "consular": "Royal Thai embassies state that the process must be handled by a funeral director; the embassy issues the Thai death certificate used to send the body to Thailand. Legalisation of the foreign death certificate may be required depending on the post.",
+    "arrival": "Thai Customs at the airport (e.g. Suvarnabhumi, Don Mueang) check the documents, release the remains and record them; the importer signs a pick-up document. No Import Declaration or Special Declaration form is required.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No Thai rule specific to private flights was found. Remains are cleared by Customs at the arrival airport on the same documents; arrange customs clearance and handling in advance.",
+    "private_jet_alert": false,
+    "private_jet_note": "Confirm customs clearance of the coffin at the Thai arrival airport before departure.",
+    "export": "Non-hospital deaths are reported to the police; the death is registered at the district office (amphur), which issues a Thai-language certificate. A letter from the deceased's embassy is usually needed for the hospital or authorities to release the body. Post-mortems are normally required for non-Thai nationals. Repatriation needs the death certificate, a certificate of embalming and a certificate permitting transfer. At the airport, Customs need originals and two copies of the death documents, passport, the destination embassy's certificate for return of remains and the air waybill; no export declaration form. No official overall delay is published.",
+    "export_points": [
+      "Register at the district office; police report if not in hospital",
+      "Embassy letter to release the body",
+      "Embalming and transfer certificates required",
+      "Customs clearance with destination embassy certificate"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Thai death certificate from Thai embassy",
+      "embalming": "Expected by origin and airline",
+      "coffin": "Sealed zinc-lined coffin, airline standard",
+      "laissez_passer": "Not applicable",
+      "consular": "Funeral director applies at Thai embassy",
+      "permit": "No import declaration needed",
+      "arrival": "Customs release with passport and waybill"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Appoint a funeral director, who contacts the Royal Thai Embassy or consulate in the country of death."
+      },
+      {
+        "when": "Day 1",
+        "what": "Obtain the local death certificate, hospital letter, embalming certificate and exit permit."
+      },
+      {
+        "when": "Day 1-3",
+        "what": "The Thai embassy issues the Thai death certificate for the repatriation."
+      },
+      {
+        "when": "Day 3",
+        "what": "Book the flight and send the passport, air waybill and death documents to the Thai receiving party."
+      },
+      {
+        "when": "Arrival",
+        "what": "Thai Customs check the documents and release the remains; the importer signs the pick-up document."
+      }
+    ],
+    "key_points": [
+      "Only funeral directors handle the embassy process",
+      "No customs import form for remains or ashes",
+      "Ashes need death and cremation certificates"
+    ],
+    "lead_days": null,
+    "authority": "Royal Thai Embassy or consulate; Thai Customs Department",
+    "sources": [
+      "https://suvarnabhumi.airportthai.co.th/service/airport-guide/detail/Importing_Human_Remains_or_Ashes_BKK",
+      "https://canberra.thaiembassy.org/en/content/bringing-corpses-human-ash-into-thailand",
+      "https://www.gov.uk/guidance/what-to-do-after-a-british-person-dies-in-thailand"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "VN",
+    "name": "Vietnam",
+    "status": "strict",
+    "summary": "A body may enter Vietnam only with a permit from the Vietnamese embassy or consulate in the country of death, which needs prior written consent from the People's Committee (or cemetery) where the body will be buried. The body must travel in a three-layer coffin with a hermetically sealed zinc inner layer, and deaths from transmissible diseases cannot be brought in.",
+    "documents": [
+      "Vietnamese embassy permit application form (with landing airport, carrier, flight number and arrival time)",
+      "Written consent of the local People's Committee in Vietnam where the body will be buried, obtained by a relative in Vietnam",
+      "Death certificate (certified copy)",
+      "Applicant's passport or ID and proof of relationship",
+      "Deceased's passport and proof of Vietnamese origin where relevant",
+      "Certificate of no infectious or contagious disease and local quarantine / transit permit",
+      "Funeral director certificate that only the body is in the casket"
+    ],
+    "coffin": "Vietnamese law (Ministry of Health Circular 21/2021) requires a three-layer coffin for cross-border transport: an inner layer of zinc or other non-leaking load-bearing material, lined with absorbent and hermetically sealed; a wooden middle layer; and a plywood outer layer. Vietnamese embassy guidance adds that the outer wooden case is sealed with wax by security and health authorities in the country of departure.",
+    "embalming": "Not explicitly required by the embassy pages consulted. Vietnamese hygiene rules limit holding a body to 48 hours without refrigeration and 7 days refrigerated at 4 C or below, so embalming is in practice expected for air transport.",
+    "consular": "The Vietnamese embassy or consulate in the country of death issues the entry permit (Circular 01/2011: within 1 working day of a complete file; embassies in Ottawa and New Delhi announce 5 to 7 business days). The permit also cancels the deceased's Vietnamese passport and is notified to border customs and immigration. Group A infectious disease deaths (e.g. Ebola, cholera, SARS, plague) are refused.",
+    "arrival": "Border customs and health quarantine at the arrival airport check the permit and documents before release to the family or funeral service. Remains must comply with Vietnamese customs and quarantine law.",
+    "pouch_accepted": false,
+    "pouch": null,
+    "private_aviation": "The embassy permit application names the arrival airport, carrier, flight number and arrival time, so a private flight must be scheduled before the permit is requested. Use an international airport with customs and health quarantine.",
+    "private_jet_alert": true,
+    "private_jet_note": "The Vietnamese permit is issued for a named flight and arrival airport; change of flight may require amendment.",
+    "export": "To take a body out of Vietnam, the funeral director obtains an international medical quarantine certificate (in Hanoi from the International Centre for Disease Control) and permission from the Quarantine and Customs and Immigration Office; a certificate of preservation, the death certificate and passport are also needed. Local authorities require a diplomatic note from the deceased's embassy confirming the family's wishes. Hospitals normally embalm. Local formalities take about one week (gov.uk); the death certificate takes about a week.",
+    "export_points": [
+      "International medical quarantine certificate (CDC)",
+      "Quarantine and Customs and Immigration Office permission",
+      "Diplomatic note from the deceased's embassy",
+      "About one week of local formalities"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Certified copy with embassy application",
+      "embalming": "Expected; time limits on holding bodies",
+      "coffin": "Three layers, sealed zinc inner coffin",
+      "laissez_passer": "Not applicable",
+      "consular": "Vietnamese embassy entry permit required",
+      "permit": "People's Committee burial consent required",
+      "arrival": "Customs and health quarantine at airport"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "A relative in Vietnam requests written consent from the local People's Committee where the body will be buried."
+      },
+      {
+        "when": "Day 1",
+        "what": "Obtain the death certificate, no-contagious-disease certificate, transit permit and embalming in the country of death."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Prepare the three-layer coffin with sealed zinc inner layer; have the outer case sealed as required."
+      },
+      {
+        "when": "Day 2-5",
+        "what": "Apply to the Vietnamese embassy or consulate with the flight details; the permit is issued in 1 to 7 working days depending on the post."
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs and health quarantine clear the coffin; the family or funeral service collects it for burial."
+      }
+    ],
+    "key_points": [
+      "Local People's Committee consent is needed first",
+      "Transmissible-disease deaths are refused",
+      "Three-layer coffin with zinc inner is mandatory"
+    ],
+    "lead_days": 5,
+    "authority": "Vietnamese embassy or consulate (Ministry of Foreign Affairs, Consular Department); local People's Committee; border health quarantine",
+    "sources": [
+      "https://vietnamembassy-usa.org/consular/permit-transport-remains-and-dead-bodies-vietnam",
+      "https://vietnamembassydelhi.in/cremated-remains-dead-body-to-vietnam/",
+      "https://vietnamembassy.ca/?p=513",
+      "https://english.luatvietnam.vn/circular-no-01-2011-tt-bng-dated-june-20-2011-of-the-ministry-of-foreign-affairs-stipulating-the-procedures-for-granting-permits-for-the-entry-of-hu-62671-doc1.html",
+      "https://luatvietnam.vn/y-te/thong-tu-21-2021-tt-byt-bo-y-te-213462-d1.html",
+      "https://www.gov.uk/guidance/when-someone-dies-in-vietnam"
+    ],
+    "confidence": "high",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "KH",
+    "name": "Cambodia",
+    "status": "requirements",
+    "summary": "Bringing a body into Cambodia goes through the Cambodian embassy in the country of death, which issues a letter for the transport of the remains; no Cambodian government page sets out the import rules, so confirm the current list with the embassy.",
+    "documents": [
+      "Family request letter stating the burial place in Cambodia (Cambodian embassy practice; confirm)",
+      "Copy of the deceased's passport or Cambodian ID",
+      "Certified death certificate",
+      "Burial / transit permit from the place of death",
+      "Embalmer's affidavit or embalming certificate",
+      "Certificate that death was not caused by a communicable disease",
+      "Flight details"
+    ],
+    "coffin": "No official Cambodian casket standard was found. Use a hermetically sealed, zinc-lined coffin in an outer wooden case per airline/IATA rules.",
+    "embalming": "An embalmer's affidavit has been part of Cambodian embassy requirements (Washington, page now offline); embalming is in any case required by most departure countries and airlines.",
+    "consular": "The Cambodian embassy issues a letter authorising the transport of remains to Cambodia; the Washington embassy listed about 7 working days plus mailing, but its page is no longer online. Confirm documents, fee and timing with the embassy handling the case.",
+    "arrival": "No official arrival procedure was found. Customs clear the coffin at Phnom Penh or Siem Reap and the receiving funeral service or family collects it.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No Cambodian rule specific to private flights carrying remains was found. Land at an international airport with customs and health staff and agree the clearance with the handling agent beforehand.",
+    "private_jet_alert": false,
+    "private_jet_note": "Confirm customs clearance of the coffin with the handling agent at the arrival airport.",
+    "export": "Leaving Cambodia, the funeral director obtains the supporting documents with the deceased's embassy; Cambodian authorities issue a Khmer death certificate, which can take four to six weeks, but local repatriation formalities can take up to seven days (gov.uk). Post-mortems are not carried out in Cambodia. Refrigerated storage is scarce and costly, and authorities may cremate within 24 hours on public health grounds, so decisions must be quick. Cremation requires Ministry of Health permission.",
+    "export_points": [
+      "Embassy documents arranged via a funeral director",
+      "Up to seven days of local formalities",
+      "Authorities may cremate within 24 hours",
+      "Ministry of Health permission for cremation"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Certified copy for the embassy",
+      "embalming": "Embalmer's affidavit usually requested",
+      "coffin": "Sealed zinc-lined coffin, airline standard",
+      "laissez_passer": "Not applicable",
+      "consular": "Cambodian embassy transport letter",
+      "permit": "Burial or transit permit from origin",
+      "arrival": "Customs release to funeral service"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the Cambodian embassy in the country of death and appoint a funeral director."
+      },
+      {
+        "when": "Day 1",
+        "what": "Obtain the death certificate, burial/transit permit, embalming affidavit and no-communicable-disease letter."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Send the family request letter and documents to the Cambodian embassy."
+      },
+      {
+        "when": "Day 2-7",
+        "what": "Receive the embassy letter and book the flight."
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs clear the coffin; the family or local funeral service collects it."
+      }
+    ],
+    "key_points": [
+      "No public Cambodian import rules; embassy decides",
+      "Embassy processing can take about a week",
+      "Mortuary capacity in Cambodia is limited"
+    ],
+    "lead_days": 7,
+    "authority": "Royal Embassy of Cambodia in the country of death",
+    "sources": [
+      "https://www.gov.uk/government/publications/cambodia-bereavement-information/cambodia-bereavement-death-abroad",
+      "https://cambodia.embassy.gov.au/penh/deaths.html"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "LA",
+    "name": "Laos",
+    "status": "unknown",
+    "summary": "No official Lao rules for bringing a body into Laos were found; contact the Lao embassy in the country of death before arranging transport. Leaving Laos is usually handled through Bangkok-based repatriation funeral directors.",
+    "documents": [
+      "Death certificate with translation (confirm with the Lao embassy)",
+      "Embalming certificate and exit permit from the country of death (expected)",
+      "Passport of the deceased"
+    ],
+    "coffin": "No official Lao casket rule was found. Use a hermetically sealed, zinc-lined coffin in an outer wooden case per airline/IATA rules.",
+    "embalming": "Not published for incoming remains; normally required by the departure country and airlines.",
+    "consular": "Not published; confirm with the Lao embassy or consulate whether it issues a transport authorisation and whether the death certificate must be legalised and translated into Lao.",
+    "arrival": "Not published. Expect customs and health clearance at Vientiane (Wattay) or Luang Prabang international airport before release to the family.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No Lao rule specific to private flights carrying remains was found. Use an international airport with customs and confirm clearance with the Lao embassy and handling agent before departure.",
+    "private_jet_alert": false,
+    "private_jet_note": "Get written confirmation of the Lao entry requirements from the embassy before take-off.",
+    "export": "The death is registered at the district office of Home Affairs or District People's Committee; the Lao death certificate is usually issued within a day or two. Repatriation needs the death certificate, permission to remove the body issued by a coroner, the passport, a release/repatriation letter from the deceased's embassy, and a certificate of embalming and permit to transfer, usually arranged by a Thai undertaker, as there are no international funeral undertakers in Laos. Mortuaries are basic with limited capacity. Local formalities normally take 8 to 10 working days (gov.uk).",
+    "export_points": [
+      "No international undertakers in Laos; Bangkok firms handle it",
+      "Coroner's permission to remove the body",
+      "Embassy letter of release required",
+      "8 to 10 working days"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Confirm translation with Lao embassy",
+      "embalming": "Expected by origin and airline",
+      "coffin": "Sealed zinc-lined coffin, airline standard",
+      "laissez_passer": "Not applicable",
+      "consular": "Not published; ask the Lao embassy",
+      "permit": "Not published",
+      "arrival": "Customs clearance; details not published"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the Lao embassy in the country of death and ask for its written requirements."
+      },
+      {
+        "when": "Day 1",
+        "what": "Obtain the death certificate, embalming certificate and exit permit in the country of death."
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Have documents translated or legalised as the embassy requires."
+      },
+      {
+        "when": "Day 3+",
+        "what": "Book the flight and arrange a receiving funeral service in Laos."
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs and health clearance at the arrival airport, then release to the family."
+      }
+    ],
+    "key_points": [
+      "Entry rules not published; confirm with the embassy",
+      "Exit usually via Bangkok-based undertakers",
+      "Mortuary capacity in Laos is limited"
+    ],
+    "lead_days": null,
+    "authority": "Lao embassy or consulate; Lao Ministry of Foreign Affairs",
+    "sources": [
+      "https://www.gov.uk/guidance/when-someone-dies-in-laos"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "MM",
+    "name": "Myanmar",
+    "status": "unknown",
+    "summary": "No official Myanmar rules for bringing a body into the country were found; contact the Myanmar embassy in the country of death. UK guidance says all repatriations of remains pass through Yangon International Airport.",
+    "documents": [
+      "Death certificate, translated and legalised as the Myanmar embassy requires (confirm)",
+      "Embalming certificate and exit permit from the country of death (expected)",
+      "Passport of the deceased"
+    ],
+    "coffin": "No official Myanmar casket rule was found. Use a hermetically sealed, zinc-lined coffin in an outer wooden case per airline/IATA rules.",
+    "embalming": "Not published for incoming remains. For outgoing remains, UK guidance states that a body cannot be repatriated without embalming.",
+    "consular": "Not published; confirm with the Myanmar embassy whether a transport authorisation or legalisation is needed. Myanmar documents used abroad must be certified by the Myanmar Ministry of Foreign Affairs.",
+    "arrival": "Not published. Remains are handled at Yangon International Airport; the receiving funeral service collects them after customs clearance.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "UK guidance (2020) states that all repatriations of remains or ashes must go through Yangon International Airport. Flights are limited; confirm the current situation and permits with the handling agent.",
+    "private_jet_alert": true,
+    "private_jet_note": "Plan arrival or departure via Yangon International Airport; other airports are not used for remains.",
+    "export": "A post-mortem is required by law for all non-Myanmar citizens. Repatriation needs a local civil registry death certificate, a certificate of embalming and a certificate permitting transfer, arranged by the undertaker; the deceased's embassy issues a covering letter. Local formalities normally take 8 to 10 working days and hospitals may require removal of the body within two days (gov.uk, 2020). Documents and their translations must be certified by the Myanmar Ministry of Foreign Affairs.",
+    "export_points": [
+      "Post-mortem mandatory for foreigners",
+      "Embalming required; no embalming means no repatriation",
+      "All remains leave via Yangon International Airport",
+      "8 to 10 working days"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Confirm legalisation with Myanmar embassy",
+      "embalming": "Expected by origin and airline",
+      "coffin": "Sealed zinc-lined coffin, airline standard",
+      "laissez_passer": "Not applicable",
+      "consular": "Not published; ask Myanmar embassy",
+      "permit": "Not published",
+      "arrival": "Via Yangon International Airport"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the Myanmar embassy in the country of death and ask for its written requirements."
+      },
+      {
+        "when": "Day 1",
+        "what": "Obtain the death certificate, embalming certificate and exit permit."
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Have documents legalised and translated as required."
+      },
+      {
+        "when": "Day 3+",
+        "what": "Book the flight to Yangon and appoint a receiving funeral service."
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs clearance at Yangon, then release to the funeral service."
+      }
+    ],
+    "key_points": [
+      "Entry rules not published; confirm with the embassy",
+      "Yangon is the gateway for remains",
+      "Situation and flights can change at short notice"
+    ],
+    "lead_days": null,
+    "authority": "Myanmar embassy or consulate; Myanmar Ministry of Foreign Affairs",
+    "sources": [
+      "https://www.gov.uk/government/publications/myanmar-bereavement-packinformation/myanmar-burma-bereavement-information",
+      "https://www.schweiz-myanmar.eda.admin.ch/dam/fr/eda-cms/V4fjYnMKJdve/Deces_Myanmar_FR.pdf"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "PH",
+    "name": "Philippines",
+    "status": "requirements",
+    "summary": "A body entering the Philippines needs a Consular Mortuary Certificate from the Philippine embassy or consulate in the country of death, for Filipino and foreign deceased alike. The body must be embalmed and in a hermetically sealed casket containing only the remains, with a no-contagious-disease certificate and burial transit permit.",
+    "documents": [
+      "Original death certificate stating cause of death (apostilled in some posts, e.g. Canberra) plus copies",
+      "Notarised mortuary / funeral director certificate: properly embalmed, hermetically sealed casket containing only the deceased",
+      "Certificate of no contagious disease from the health authority",
+      "Burial transit permit",
+      "Passport or ID copies of the deceased; proof of Philippine citizenship and Report of Death for Filipinos",
+      "Consignee (receiving Philippine funeral home), carrier, port and flight itinerary",
+      "Consular fee and return envelope"
+    ],
+    "coffin": "The casket must be hermetically sealed and contain only the deceased. For deaths from a communicable disease, the body must be embalmed, placed in a hermetically sealed metallic casket enclosed in a screwed or nailed wooden case, and disinfected.",
+    "embalming": "Required: the notarised mortuary certificate must confirm proper embalming (or cremation) under internationally accepted health practices.",
+    "consular": "The Philippine embassy or consulate issues the Consular Mortuary Certificate. Washington accepts mail applications only, at least 7 working days before the flight (3 to 5 business days processing, 35 USD); Canberra requires the death certificate apostilled and charges 45 AUD for the Report of Death.",
+    "arrival": "The consignee Philippine funeral home collects the remains after Bureau of Quarantine and customs checks. For deaths from epidemic or highly infectious diseases (e.g. COVID-19), remains must be cremated or kept permanently sealed and buried within 24 hours of clearance.",
+    "pouch_accepted": false,
+    "pouch": null,
+    "private_aviation": "No rule specific to private flights was found. The Consular Mortuary Certificate is issued on the stated carrier, port and arrival details, so land at an international airport with Bureau of Quarantine and customs (e.g. Manila or Cebu) and carry the originals with the casket.",
+    "private_jet_alert": true,
+    "private_jet_note": "Declare the private flight and arrival port in the Consular Mortuary Certificate application.",
+    "export": "Leaving the Philippines, the funeral home obtains a certified death certificate, Municipal Transfer Permit, quarantine permit from the Bureau of Quarantine, embalming certificate and fumigation certificate; the body travels in a hermetically sealed container inside a fumigated wooden crate. Autopsy is mandatory for foreigners when the cause of death is unclear. A straightforward repatriation usually takes 2 to 3 working days (gov.uk).",
+    "export_points": [
+      "Bureau of Quarantine permit",
+      "Municipal Transfer Permit and fumigation certificate",
+      "Hermetically sealed container in fumigated crate",
+      "Usually 2 to 3 working days"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Original with cause; apostille in some posts",
+      "embalming": "Required; notarised certificate",
+      "coffin": "Hermetically sealed, only the deceased",
+      "laissez_passer": "Not applicable",
+      "consular": "Consular Mortuary Certificate required",
+      "permit": "Burial transit permit from origin",
+      "arrival": "Receiving Philippine funeral home collects"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Appoint a funeral director and a receiving funeral home in the Philippines (consignee)."
+      },
+      {
+        "when": "Day 1",
+        "what": "Obtain the death certificate, no-contagious-disease certificate and burial transit permit; apostille if the post requires."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Embalm and seal the casket; get the notarised mortuary certificate."
+      },
+      {
+        "when": "Day 2",
+        "what": "Apply to the Philippine embassy or consulate for the Consular Mortuary Certificate (mail posts need 7 working days)."
+      },
+      {
+        "when": "Arrival",
+        "what": "Quarantine and customs clearance; the consignee funeral home collects the casket."
+      }
+    ],
+    "key_points": [
+      "Certificate needed for foreign deceased too",
+      "Mail-in posts can take a week or more",
+      "Communicable-disease deaths need metallic sealed casket"
+    ],
+    "lead_days": 7,
+    "authority": "Philippine embassy or consulate (Department of Foreign Affairs); Bureau of Quarantine",
+    "sources": [
+      "https://philippineembassy-dc.org/shipment-of-remains/",
+      "https://www.philembassy.org.au/consular/civil-registry/report-of-death-rod-and-or-shipment-of-human-remains-urn-to-the-philippines",
+      "https://www.gov.uk/government/publications/philippines-bereavement-pack/philippines-bereavement-guide"
+    ],
+    "confidence": "high",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "ID",
+    "name": "Indonesia",
+    "status": "requirements",
+    "summary": "A coffin entering Indonesia must be accompanied by a doctor's death certificate from the country of origin; it is exempt from import duty and cleared by Customs under rush handling, and the port health office (Balai Kekarantinaan Kesehatan) inspects incoming remains. A consolidated official checklist was not found; confirm with the Indonesian embassy.",
+    "documents": [
+      "Death certificate from a doctor in the country of origin, stating cause of death (presented on arrival)",
+      "Embalming certificate and sealing certificate (expected; confirm with the Indonesian embassy)",
+      "Exit permit from the country of death",
+      "Passport of the deceased",
+      "Indonesian embassy documents for Indonesian nationals (death report / letter)"
+    ],
+    "coffin": "No current national Indonesian casket specification was found in an official source. Use a hermetically sealed metal-lined coffin in an outer wooden case per airline/IATA rules.",
+    "embalming": "Not confirmed by an official Indonesian source for incoming remains; port health offices ask for an embalming statement for outgoing remains and embalming is expected by airlines.",
+    "consular": "Indonesian missions (KBRI/KJRI) handle the paperwork for Indonesian nationals who die abroad and may request apostilled or legalised documents with sworn translation. For foreigners, confirm with the Indonesian embassy whether any letter is required.",
+    "arrival": "Customs grant exemption from import duty and import taxes for coffins containing a body and clear them under rush handling; cargo handlers may still charge handling fees. Port health officers inspect the remains and health documents on arrival. The receiving funeral service collects the coffin.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No rule specific to private flights was found. Port health inspects incoming remains at the airport, so arrive at an international airport with customs and port health and notify them in advance through the handling agent.",
+    "private_jet_alert": false,
+    "private_jet_note": "Notify port health and customs through the handling agent before arrival.",
+    "export": "Leaving Indonesia, the death is registered at the civil registry (Akta Kematian, a few days). The port health office (Balai Kekarantinaan Kesehatan) issues the permission to transport the body, based on a doctor's death certificate stating a non-infectious cause and an embalming statement; police may need to issue a letter for taking remains out of the region. The deceased's embassy may need to issue a letter of no objection. Post-mortems may be ordered by police; organs are normally returned before release.",
+    "export_points": [
+      "Civil registry death certificate (Akta Kematian)",
+      "Port health (Kekarantinaan Kesehatan) transport permit",
+      "Embalming statement and non-infectious cause",
+      "Embassy letter of no objection may be needed"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Doctor's certificate from origin, on arrival",
+      "embalming": "Expected; confirm with embassy",
+      "coffin": "Sealed metal-lined coffin, airline standard",
+      "laissez_passer": "Not applicable",
+      "consular": "Indonesian mission assists its nationals",
+      "permit": "No import duty; rush handling",
+      "arrival": "Port health inspection, customs release"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the Indonesian embassy or consulate and appoint funeral directors at both ends."
+      },
+      {
+        "when": "Day 1",
+        "what": "Obtain the death certificate with cause of death, embalming and sealing certificates and the exit permit."
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Legalise or apostille and translate documents if the mission requires it."
+      },
+      {
+        "when": "Day 3",
+        "what": "Book the flight and send documents to the receiving funeral service and handling agent."
+      },
+      {
+        "when": "Arrival",
+        "what": "Port health inspection and customs rush clearance, then release to the funeral service."
+      }
+    ],
+    "key_points": [
+      "No import duty on a coffin with remains",
+      "Death certificate must travel with the coffin",
+      "Checklist varies by Indonesian mission"
+    ],
+    "lead_days": null,
+    "authority": "Directorate General of Customs and Excise; Ministry of Health port health (Balai Kekarantinaan Kesehatan); Indonesian embassy or consulate",
+    "sources": [
+      "https://www.gov.uk/guidance/when-someone-dies-in-indonesia",
+      "https://www.gov.uk/government/publications/bereavement-guidance-indonesia",
+      "https://bbkkmakassar.kemkes.go.id/assets/files/10._SOP_Pemeriksaan_Lalu_Lintas_Jenazah.pdf"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "BN",
+    "name": "Brunei",
+    "status": "unknown",
+    "summary": "No official Brunei rules for bringing a body into the country were found; contact the Brunei embassy or high commission and the Ministry of Health before arranging transport. Leaving Brunei requires an autopsy, embalming and a zinc-lined coffin.",
+    "documents": [
+      "Death certificate with English translation (confirm with the Brunei mission)",
+      "Embalming certificate and exit permit from the country of death (expected)",
+      "Passport of the deceased"
+    ],
+    "coffin": "No official Brunei import rule was found. Use a hermetically sealed, zinc-lined coffin in an outer wooden case per airline/IATA rules.",
+    "embalming": "Not published for incoming remains; normally required by the departure country and airlines.",
+    "consular": "Not published; confirm with the Brunei embassy or high commission whether an authorisation is required.",
+    "arrival": "Not published. Expect health and customs clearance at Brunei International Airport before release to the funeral service. Muslim burials are normally held very quickly.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No Brunei rule specific to private flights carrying remains was found. Use Brunei International Airport and confirm health and customs clearance in advance.",
+    "private_jet_alert": false,
+    "private_jet_note": "Get written confirmation of Brunei entry requirements before take-off.",
+    "export": "Police are notified of every foreign death and an autopsy must be carried out before repatriation or cremation. Hospital bills must be paid before release. The remains must be embalmed and placed in a zinc-lined coffin; local undertakers (forwarding companies) prepare them. Documents: civil registry death certificate (issued in English, about a week once the cause is identified), post-mortem report, certificate of embalming and permit to transfer the remains. Repatriation takes about 5 to 7 days (UK pack, 2019). Urns of ashes must be sealed by the Brunei Ministry of Health.",
+    "export_points": [
+      "Autopsy mandatory before repatriation",
+      "Embalming and zinc-lined coffin required",
+      "Post-mortem report and transfer permit",
+      "About 5 to 7 days"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Confirm with Brunei mission",
+      "embalming": "Expected by origin and airline",
+      "coffin": "Sealed zinc-lined coffin, airline standard",
+      "laissez_passer": "Not applicable",
+      "consular": "Not published; ask Brunei mission",
+      "permit": "Not published",
+      "arrival": "Health and customs clearance; not published"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the Brunei embassy or high commission and ask for written entry requirements."
+      },
+      {
+        "when": "Day 1",
+        "what": "Obtain the death certificate, embalming certificate and exit permit."
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Translate or legalise documents as the mission requires."
+      },
+      {
+        "when": "Day 3+",
+        "what": "Book the flight and arrange a receiving undertaker in Brunei."
+      },
+      {
+        "when": "Arrival",
+        "what": "Health and customs clearance at Brunei International Airport, then release."
+      }
+    ],
+    "key_points": [
+      "Entry rules not published; confirm with the mission",
+      "Autopsy is mandatory for deaths in Brunei",
+      "Ashes urns sealed by the Ministry of Health"
+    ],
+    "lead_days": null,
+    "authority": "Ministry of Health Brunei Darussalam; Brunei embassy or high commission",
+    "sources": [
+      "https://www.gov.uk/government/publications/bereavement-information-pack-brunei",
+      "https://assets.publishing.service.gov.uk/media/5f4f0953e90e071c729812d9/20190128_Bereavement_Pack_-_Brunei__FCDO_.odt"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "TL",
+    "name": "Timor-Leste",
+    "status": "unknown",
+    "summary": "No official Timor-Leste rules for bringing a body into the country, or for sending one out, were found; contact the Timor-Leste embassy in the country of death before arranging transport.",
+    "documents": [
+      "Death certificate translated into Portuguese or Tetum and legalised (confirm with the embassy)",
+      "Embalming certificate and exit permit from the country of death (expected)",
+      "Passport of the deceased"
+    ],
+    "coffin": "No official Timor-Leste rule was found. Use a hermetically sealed, zinc-lined coffin in an outer wooden case per airline/IATA rules.",
+    "embalming": "Not published; normally required by the departure country and airlines.",
+    "consular": "Not published; ask the Timor-Leste embassy whether a transport authorisation is needed. Timor-Leste documents used abroad are legalised by the Timorese Ministry of Foreign Affairs (apostille status not confirmed).",
+    "arrival": "Not published. Expect customs and health clearance at Dili (Presidente Nicolau Lobato) International Airport.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No rule specific to private flights carrying remains was found. Use Dili international airport and confirm customs and health clearance in advance.",
+    "private_jet_alert": false,
+    "private_jet_note": "Get written confirmation of entry requirements from the Timor-Leste embassy before take-off.",
+    "export": "No official guidance on exporting remains from Timor-Leste was found. Use an experienced funeral director, contact the deceased's embassy (the UK covers Timor-Leste from Jakarta) and confirm embalming capacity and documents locally.",
+    "export_points": [
+      "No published exit procedure",
+      "Confirm embalming capacity locally",
+      "Documents legalised by Timorese Foreign Affairs"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Translated and legalised; confirm",
+      "embalming": "Expected by origin and airline",
+      "coffin": "Sealed zinc-lined coffin, airline standard",
+      "laissez_passer": "Not applicable",
+      "consular": "Not published; ask the embassy",
+      "permit": "Not published",
+      "arrival": "Customs at Dili; not published"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the Timor-Leste embassy in the country of death and ask for written requirements."
+      },
+      {
+        "when": "Day 1",
+        "what": "Obtain the death certificate, embalming certificate and exit permit."
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Translate into Portuguese or Tetum and legalise as required."
+      },
+      {
+        "when": "Day 3+",
+        "what": "Book the flight to Dili and arrange a receiving funeral service."
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs and health clearance in Dili, then release to the family."
+      }
+    ],
+    "key_points": [
+      "No published official procedure",
+      "Confirm all documents with the embassy",
+      "Few direct international flights to Dili"
+    ],
+    "lead_days": null,
+    "authority": "Embassy of Timor-Leste; Ministry of Health of Timor-Leste",
+    "sources": [
+      "https://www.netherlandsworldwide.nl/legalisation/foreign-documents/timor-leste"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  }
+]

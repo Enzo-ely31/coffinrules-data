@@ -1,0 +1,594 @@
+[
+  {
+    "cc": "CR",
+    "name": "Costa Rica",
+    "status": "requirements",
+    "summary": "Costa Rican health law requires any body moved internationally to be embalmed and placed in an impermeable, hermetically closed coffin, with an official death certificate, a preparation (embalming) declaration, a sworn statement that the coffin holds only the deceased, and a transit permit. The receiving funeral home clears the coffin and must organise burial quickly, as burial normally takes place within 24-36 hours unless the Ministry of Health extends the deadline.",
+    "documents": [
+      "Official death certificate stating the cause of death, issued by the civil registry of the place of death",
+      "Declaration by the person who prepared the body stating the method of preparation (embalming certificate), certified by the competent authority",
+      "Sworn statement that the coffin contains only the remains of the deceased",
+      "Transit permit with the name, surname and age of the deceased, issued by the authority of the place of death",
+      "Passport or ID of the deceased; apostille and official Spanish translation for any later registration of the death in Costa Rica"
+    ],
+    "coffin": "Executive Decree No. 1 (La Gaceta 69, 22 March 1968) requires the body to be placed in an impermeable coffin that is hermetically closed; for air transport the coffin travels in the hold of a passenger or cargo aircraft and may be fitted with a safety valve. The coffin must carry a fixed plate showing name, age, sex and final destination, and copies of the documents travel with it. Note: Costa Rica's General Cemetery Regulation (Decree 32833-S, art. 30) prohibits in-ground burial in metal coffins or other slowly decomposing materials, so a zinc-lined shipping casket may need to be replaced or placed in a vault or niche; ask the cemetery.",
+    "embalming": "Required: the 1968 decree states that the body must be adequately embalmed. Costa Rica also requires an embalming certificate to send a body abroad (Decree 32833-S, art. 67).",
+    "consular": "No published consular visa of the documents was found. Costa Rica is an Apostille party; to register the death of a Costa Rican abroad with the Civil Registry (TSE) the foreign death certificate must be apostilled or authenticated and translated by an official translator. Confirm with the Costa Rican consulate whether it wants to see the shipping documents before departure.",
+    "arrival": "Customs and health clearance at the arrival airport (San Jose or Liberia), with the receiving funeral home collecting the coffin. Burial must take place 24-36 hours after death unless the Ministry of Health area office (Area Rectora de Salud) grants a written extension (Decree 32833-S, art. 29 as amended by Decree 42474-S); the funeral home should request this extension for a repatriated body.",
+    "pouch_accepted": false,
+    "pouch": null,
+    "private_aviation": "Human remains on a private or charter flight need the same documents as airline cargo; the originals travel with the coffin and are presented to customs and health officials at the arrival airport. The coffin (about 2.2 m long, 70-100 kg once sealed) must fit the aircraft's cargo door or a cabin configured for it, which rules out many light and midsize jets. Costa Rican rules allow the sealed coffin on a passenger or cargo aircraft; no specific rule for private flights was found. Land at an international airport with customs and health officers (Juan Santamaria, San Jose, or Daniel Oduber, Liberia).",
+    "private_jet_alert": false,
+    "private_jet_note": "Coffin must be embalmed and hermetically sealed; arrange the burial-deadline extension before landing.",
+    "export": "Leaving Costa Rica: international transport needs prior authorisation from the Ministry of Health area office (Area Rectora de Salud) on: a written request by a direct relative (or the embassy for a foreigner) stating destination and route; the Civil Registry death declaration form; a sworn statement that the coffin contains only the deceased; a medical stamp and a Red Cross stamp; and an embalming certificate (Decree 32833-S, art. 67). The 1968 decree requires embalming and a hermetically closed impermeable coffin. An official autopsy is carried out when a body is to be sent abroad, except for an obviously natural death of a person over 75 (FCDO). A temporary death certificate is issued first; violent or suspicious deaths involve the OIJ and a judge.",
+    "export_points": [
+      "Ministry of Health (Area Rectora) authorisation required",
+      "Embalming certificate and sworn coffin-content statement",
+      "Hermetically closed impermeable coffin",
+      "Autopsy usual unless natural death over age 75"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Official certificate with cause of death",
+      "embalming": "Required by Costa Rican decree",
+      "coffin": "Impermeable, hermetically closed, labelled plate",
+      "laissez_passer": "Transit permit from place of death",
+      "consular": "Apostille and official translation for registration",
+      "permit": "Sworn statement on coffin contents",
+      "arrival": "Burial 24-36 h unless extended"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Appoint a funeral home at each end and contact the Costa Rican consulate."
+      },
+      {
+        "when": "Day 1",
+        "what": "Obtain the death certificate with cause of death, embalming certificate and transit permit at origin."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Sign a sworn statement that the coffin holds only the deceased; seal the embalmed body in a hermetic coffin with a name plate."
+      },
+      {
+        "when": "Day 2",
+        "what": "Receiving funeral home asks the Ministry of Health area office for a burial-deadline extension."
+      },
+      {
+        "when": "Departure",
+        "what": "Fly with document copies attached to the coffin and originals in hand."
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs and health clearance; funeral home collects for burial or cremation."
+      }
+    ],
+    "key_points": [
+      "Embalming and a hermetically closed coffin are legal requirements",
+      "Burial normally within 24-36 hours unless the Ministry of Health extends it",
+      "Metal coffins cannot be buried in the ground; check with the cemetery",
+      "Leaving Costa Rica requires an autopsy in most cases"
+    ],
+    "lead_days": null,
+    "authority": "Ministry of Health (Area Rectora de Salud); Civil Registry (Tribunal Supremo de Elecciones)",
+    "sources": [
+      "https://www.binasss.sa.cr/opac-ms/media/digitales/Transporte%20internacional%20de%20cad%c3%a1veres.pdf",
+      "https://www.binasss.sa.cr/opac-ms/media/digitales/Cementerios,%20reglamento%20general.pdf",
+      "https://www.binasss.sa.cr/opac-ms/media/digitales/Decreto%2042474-S%20Reforma%20Reglamento%20General%20de%20Cementerios.pdf",
+      "https://www.gov.uk/government/publications/costa-rica-bereavement-packinformation/costa-rica-bereavement-information",
+      "https://www.tse.go.cr/pdf/requisitosytramites/Inscripcion-de-defuncion-ocurrida-en-el-extranjero.pdf"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "PA",
+    "name": "Panama",
+    "status": "requirements",
+    "summary": "Before shipment, the Panamanian consulate in the country of death must process the documents: for an embalmed body, the original death certificate, an original health certificate, a notarised transit permit and a notarised embalming certificate, with a consular fee of USD 30 per document at the Washington consulate. A Panamanian funeral home then clears the coffin on arrival.",
+    "documents": [
+      "Original death certificate",
+      "Original health certificate (certificate of no contagious disease)",
+      "Notarised transit permit",
+      "Notarised embalming certificate",
+      "Passport or ID of the deceased",
+      "Name of the receiving Panamanian funeral home"
+    ],
+    "coffin": "Not specified by the consulate. Panamanian funeral directors use special caskets for international transport (FCDO). Assume a hermetically sealed, airline-compliant casket and confirm with the consulate.",
+    "embalming": "Embalming is expected: the consulate's list for a body (as opposed to ashes) requires a notarised embalming certificate.",
+    "consular": "The Panamanian consulate processes each document (Embassy of Panama in Washington: USD 30 per document, paid by money order, originals mailed with a prepaid return envelope). Panama is an Apostille party; other consulates may ask for apostilles and a Spanish translation, so check with the consulate covering the place of death.",
+    "arrival": "Customs and health clearance at Tocumen or another international airport; a Panamanian funeral home collects. Burial in a government cemetery needs permission obtained by the undertaker (FCDO). No burial deadline for embalmed repatriated bodies was found.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "Human remains on a private or charter flight need the same documents as airline cargo; the originals travel with the coffin and are presented to customs and health officials at the arrival airport. The coffin (about 2.2 m long, 70-100 kg once sealed) must fit the aircraft's cargo door or a cabin configured for it, which rules out many light and midsize jets. No specific Panamanian rule for private flights carrying remains was found; land at an international airport with customs and health officers (for example Tocumen or Panama Pacifico) with the consulate-processed originals.",
+    "private_jet_alert": false,
+    "private_jet_note": "Have the consulate process all originals before take-off; they must travel with the coffin.",
+    "export": "Leaving Panama: the death is registered with the Direccion Nacional del Registro Civil (Tribunal Electoral), usually by the funeral director. Shipping usually requires the local death certificate, a certificate of embalming and a certificate permitting transfer of the remains; documents for foreign use are legalised via the Ministry of Foreign Affairs. A post-mortem is possible for unknown, unnatural, sudden or violent deaths, and a criminal investigation can delay release. Timing depends on circumstances.",
+    "export_points": [
+      "Death registered with the Registro Civil (Tribunal Electoral)",
+      "Death certificate, embalming certificate and transfer certificate",
+      "Legalisation via the Ministry of Foreign Affairs",
+      "Post-mortem in unnatural deaths may delay release"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Original, processed by Panamanian consulate",
+      "embalming": "Notarised embalming certificate required",
+      "coffin": "Sealed shipping casket; confirm with consulate",
+      "laissez_passer": "Notarised transit permit from origin",
+      "consular": "Consulate fee USD 30 per document",
+      "permit": "Original health certificate required",
+      "arrival": "Panamanian funeral home collects at airport"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Appoint a funeral home at each end and contact the Panamanian consulate covering the place of death."
+      },
+      {
+        "when": "Day 1",
+        "what": "Obtain the death certificate, health certificate, transit permit and embalming certificate; notarise the permit and embalming certificate."
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Send the originals to the consulate with the fee and a prepaid return envelope."
+      },
+      {
+        "when": "Departure",
+        "what": "Seal the embalmed body in a shipping casket and fly with the processed originals."
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs and health clearance; the Panamanian funeral home collects for burial."
+      }
+    ],
+    "key_points": [
+      "Consulate processes each document (USD 30 each in Washington)",
+      "Health certificate and notarised embalming certificate needed",
+      "Coffin rules are not published; confirm with the consulate"
+    ],
+    "lead_days": null,
+    "authority": "Panamanian consulate in the country of death; Ministry of Health (MINSA); Ministry of Foreign Affairs",
+    "sources": [
+      "https://www.embassyofpanama.org/transportation-of-human-remains-1",
+      "https://www.gov.uk/guidance/when-someone-dies-in-panama"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "GT",
+    "name": "Guatemala",
+    "status": "unknown",
+    "summary": "Guatemala does not publish its entry requirements for a casket; families work through a Guatemalan consulate and a licensed funeral home. Expect an apostilled death certificate, embalming certificate and transit permit. Unembalmed bodies must normally be buried within 24 hours, so embalming is essential.",
+    "documents": [
+      "Death certificate from the country of death, apostilled or legalised, with Spanish translation (confirm with consulate)",
+      "Embalming certificate",
+      "Transit / burial-transit permit from the country of death",
+      "Passport or ID of the deceased"
+    ],
+    "coffin": "Entry rule not published. For bodies leaving Guatemala the U.S. Embassy lists a 99% hermetically sealed metal casket, and local caskets meet international shipping requirements; use an equivalent hermetically sealed casket inbound.",
+    "embalming": "Entry rule not published. Guatemalan law generally requires burial within 24 hours when the body is not embalmed, with no fixed deadline when it is embalmed (U.S. Embassy), so an embalmed body is strongly advised. Embalming is required to export a body from Guatemala.",
+    "consular": "Guatemalan consulates abroad coordinate repatriations of Guatemalan nationals; Guatemala is a Hague Apostille party, so the foreign death certificate should be apostilled and translated into Spanish. Confirm with the consulate.",
+    "arrival": "Customs and health clearance at La Aurora International Airport; a local funeral home collects. Burial within 24 hours applies to unembalmed bodies; embalmed bodies have no fixed deadline (U.S. Embassy).",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No official rule for private or charter flights carrying human remains was found. Plan arrival at an international airport with customs and health officers, and confirm clearance with the local funeral home and airport authority before departure.",
+    "private_jet_alert": false,
+    "private_jet_note": "Entry rules unpublished: confirm health and customs clearance with the consulate before take-off.",
+    "export": "Leaving Guatemala: embalming is required to export a body. Documents: embalming certificate, death certificate from RENAP and a Guatemalan transit permit; the body travels in a 99% hermetically sealed metal casket, with a shipping container for air. Export follows authorisation from the sanitary authority of the Ministry of Health (MSPAS). For ashes: transit permit, cremation certificate and RENAP death certificate. Autopsy by INACIF in violent or unnatural deaths; cremation then needs a court order, which can take 8 weeks or more (U.S. Embassy). Cemetery and body-handling rules are set by Government Decree 215-2021.",
+    "export_points": [
+      "Embalming, RENAP death certificate and Guatemalan transit permit",
+      "99% hermetically sealed metal casket",
+      "Ministry of Health sanitary authorisation before export",
+      "INACIF autopsy in violent deaths can delay release"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Apostilled, translated into Spanish (confirm)",
+      "embalming": "Advised: unembalmed burial within 24 hours",
+      "coffin": "Hermetically sealed casket; entry rule unpublished",
+      "laissez_passer": "Origin transit permit; Strasbourg not applicable",
+      "consular": "Contact consulate before shipping",
+      "permit": "Entry permit not officially published",
+      "arrival": "No deadline if embalmed"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the consulate of Guatemala in the country of death and appoint a funeral home at each end."
+      },
+      {
+        "when": "Day 1",
+        "what": "Obtain death certificate, embalming certificate and transit permit at origin; apostille the death certificate."
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Consulate reviews documents and confirms entry requirements; body sealed in an air-transport casket."
+      },
+      {
+        "when": "Departure",
+        "what": "Casket flown to an international airport of entry with the original documents."
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs and health clearance; receiving funeral home collects the casket for burial."
+      }
+    ],
+    "key_points": [
+      "Official entry requirements are not published; confirm with the consulate",
+      "Unembalmed bodies must be buried within 24 hours",
+      "Exports need a hermetically sealed metal casket"
+    ],
+    "lead_days": null,
+    "authority": "Ministry of Foreign Affairs (consular affairs) and Ministry of Public Health (MSPAS); INACIF and Ministerio Publico for violent deaths",
+    "sources": [
+      "https://gt.usembassy.gov/disposition-of-remains-2/",
+      "https://assets.publishing.service.gov.uk/media/69286e4ab3b9afff34e9616e/FCDO_Bereavement_Pack_Guatemala_2025.pdf.pdf",
+      "https://agn.gt/publican-reglamento-para-cementerios-y-el-manejo-de-cadaveres/"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "HN",
+    "name": "Honduras",
+    "status": "requirements",
+    "summary": "The Honduran consulate in the country of death issues a free Certificate of Exit of Mortal Remains (Certificado de salida de restos mortales), needed to transport the coffin or ashes to Honduras, on an apostilled death certificate, a medical certificate if death occurred in hospital, and an embalming (or cremation) certificate. A Honduran funeral home then clears the coffin on arrival.",
+    "documents": [
+      "Apostilled death certificate",
+      "Medical certificate, if the death occurred in a hospital",
+      "Embalming certificate (or cremation certificate for ashes)",
+      "Certificado de salida de restos mortales issued by the Honduran consulate (requested last, once the other documents are ready)",
+      "Transit permit from the country of death and passport or ID of the deceased"
+    ],
+    "coffin": "Not specified by the consulate; local funeral directors use special caskets for international carriage (FCDO). Assume a hermetically sealed, airline-compliant casket.",
+    "embalming": "An embalming certificate is required for the consular exit certificate for a body; cremation certificate for ashes.",
+    "consular": "The Honduran consulate issues the Certificado de salida de restos mortales free of charge; at the Madrid consulate it is requested by email or in person without an appointment. The consulate does not register the death: a relative registers it with the RNP in Tegucigalpa using the apostilled death certificate. State-funded repatriation is possible only for families without resources, requested in person by a first- or second-degree relative, and only if the family has not already signed with a funeral home; it takes about 4-6 weeks.",
+    "arrival": "Customs and health clearance at the international airport of entry; a local funeral home collects. Local custom is burial within 24 hours (FCDO).",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "Human remains on a private or charter flight need the same documents as airline cargo; the originals travel with the coffin and are presented to customs and health officials at the arrival airport. The coffin (about 2.2 m long, 70-100 kg once sealed) must fit the aircraft's cargo door or a cabin configured for it, which rules out many light and midsize jets. No specific Honduran rule for private flights carrying remains was found; land at an international airport with customs and health officers with the consular exit certificate and originals.",
+    "private_jet_alert": false,
+    "private_jet_note": "Carry the consulate's exit certificate with the coffin; confirm airport clearance with the funeral home.",
+    "export": "Leaving Honduras: a local funeral director arranges the local death certificate (in Spanish), a certificate of embalming and a certificate permitting transfer of the remains, and supplies the special casket. In violent or suspicious deaths the National Civil Police involve the Ministerio Publico and an autopsy is required. Cold storage exists in Tegucigalpa and La Ceiba but is rare elsewhere. Otherwise release usually within a few days.",
+    "export_points": [
+      "Death certificate, embalming certificate and transfer permit via the funeral director",
+      "Autopsy and Ministerio Publico in violent or suspicious deaths",
+      "Cold storage mainly in Tegucigalpa and La Ceiba",
+      "Release usually within a few days if not suspicious"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Apostilled death certificate",
+      "embalming": "Embalming certificate required",
+      "coffin": "Sealed shipping casket; rules unpublished",
+      "laissez_passer": "Free consular exit certificate",
+      "consular": "Honduran consulate issues exit certificate",
+      "permit": "Transit permit from country of death",
+      "arrival": "Local custom: burial within 24 hours"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the Honduran consulate; decide on private or state-assisted repatriation before signing with a funeral home."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain and apostille the death certificate; get the medical and embalming certificates and transit permit."
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Request the free Certificado de salida de restos mortales from the consulate."
+      },
+      {
+        "when": "Departure",
+        "what": "Seal the embalmed body in a shipping casket and fly with all originals."
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs and health clearance; Honduran funeral home collects for burial."
+      }
+    ],
+    "key_points": [
+      "Consular exit certificate is free and required",
+      "Do not sign with a funeral home if you need state aid",
+      "Local custom is burial within 24 hours"
+    ],
+    "lead_days": 3,
+    "authority": "Honduran consulate (Secretaria de Relaciones Exteriores, SRECI); Secretariat of Health; Registro Nacional de las Personas (RNP)",
+    "sources": [
+      "http://www.consuladohondurasmadrid.es/repatriaciones/",
+      "https://assets.publishing.service.gov.uk/media/69286fda345e31ab14ecf68c/FCDO_Bereavement_Pack_Honduras_2025.pdf"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "SV",
+    "name": "El Salvador",
+    "status": "unknown",
+    "summary": "El Salvador's Ministry of Foreign Affairs coordinates repatriations through its embassies and consulates and notifies the Ministry of Health, which sets the conditions for human remains entering the country; the detailed entry document list is not published. Expect an apostilled death certificate, embalming certificate and transit permit, and contact the Salvadoran consulate first.",
+    "documents": [
+      "Death certificate from the country of death, apostilled or legalised, with Spanish translation (confirm with consulate)",
+      "Embalming certificate",
+      "Transit / burial-transit permit from the country of death",
+      "Passport or ID of the deceased"
+    ],
+    "coffin": "Entry rule not published. Local funeral homes use caskets and hermetically sealed containers that meet international transport requirements (U.S. Embassy); use an equivalent sealed casket inbound.",
+    "embalming": "Entry rule not published. In El Salvador embalmed remains may be kept up to 30 days before burial and unembalmed remains only 48 hours (U.S. Embassy), so embalming is strongly advised for a repatriated body.",
+    "consular": "The Ministry of Foreign Affairs (Direccion de Diaspora y Movilidad Humana) and its embassies and consulates assist with repatriation: the family applies by phone or in person, is interviewed, and provides a copy of the deceased's birth certificate and identity document; the consulate claims the remains from foreign authorities and the ministry shares the arrival itinerary and notifies the Ministry of Health. Contacts: +503 2231-1373 / 2231-2950; toll-free 1-888-301-1130 from the US and Canada; WhatsApp +503 7070-1071. El Salvador is an Apostille party; apostille and Spanish translation expected.",
+    "arrival": "The Ministry of Health is notified of the arrival and sets the conditions for the entry of the remains, including special protocols where relevant. Customs and health clearance at El Salvador International Airport; a local funeral home collects. Burial within 30 days if embalmed, 48 hours if not (U.S. Embassy).",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No official rule for private or charter flights carrying human remains was found. Plan arrival at an international airport with customs and health officers, and confirm clearance with the local funeral home and airport authority before departure.",
+    "private_jet_alert": false,
+    "private_jet_note": "Entry rules unpublished: confirm health and customs clearance with the consulate before take-off.",
+    "export": "Leaving El Salvador: the funeral home completes documentation with the Instituto de Medicina Legal, the prosecutor's office, the Civil Registry, the Ministry of Health, the Ministry of Foreign Affairs and the airline. Documents include the medical certificate of death, Civil Registry death certificate, export permit from the Ministry of Health and an affidavit of preparation; embalming is required for shipment to the US, with hermetically sealed containers. Autopsy is mandatory for accidental, sudden, violent or suspicious deaths and reports can take months. Unclaimed remains may be buried in a common grave after about one week (U.S. Embassy).",
+    "export_points": [
+      "Ministry of Health export permit and Civil Registry death certificate",
+      "Embalming and hermetically sealed container for shipment",
+      "Mandatory autopsy for sudden, violent or suspicious deaths",
+      "Unclaimed remains may be buried after about one week"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Apostilled, translated into Spanish (confirm)",
+      "embalming": "Advised: unembalmed burial within 48 hours",
+      "coffin": "Sealed casket; entry rule unpublished",
+      "laissez_passer": "Origin transit permit; Strasbourg not applicable",
+      "consular": "Foreign Ministry and consulates coordinate",
+      "permit": "Ministry of Health sets entry conditions",
+      "arrival": "Burial within 30 days if embalmed"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Call the Salvadoran consulate or Foreign Ministry and appoint a funeral home at each end."
+      },
+      {
+        "when": "Day 1",
+        "what": "Provide the deceased's birth certificate and ID copy; obtain death certificate, embalming certificate and transit permit at origin."
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Consulate checks documents and confirms entry; body embalmed and sealed in a shipping casket."
+      },
+      {
+        "when": "Departure",
+        "what": "Foreign Ministry receives the itinerary and notifies the Ministry of Health."
+      },
+      {
+        "when": "Arrival",
+        "what": "Health and customs clearance; funeral home collects for burial."
+      }
+    ],
+    "key_points": [
+      "The Ministry of Health sets the conditions for remains entering the country",
+      "Foreign Ministry hotline 1-888-301-1130 from the US and Canada",
+      "Embalmed bodies may be kept 30 days, unembalmed only 48 hours"
+    ],
+    "lead_days": null,
+    "authority": "Ministry of Foreign Affairs (Direccion de Diaspora y Movilidad Humana) and Ministry of Health (MINSAL); Instituto de Medicina Legal",
+    "sources": [
+      "https://rree.gob.sv/cancilleria-informa-sobre-el-apoyo-y-las-gestiones-que-realiza-en-atencion-a-solicitudes-de-repatriacion-de-salvadorenos-fallecidos-en-el-exterior/",
+      "https://sv.usembassy.gov/services/death/preparation-shipment-of-remains/",
+      "https://assets.publishing.service.gov.uk/media/691f339df8eba3d0e866f10f/Bereavement_Pack_El_Salvador_November_2025.pdf"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "NI",
+    "name": "Nicaragua",
+    "status": "unknown",
+    "summary": "Nicaragua does not publish an entry procedure for a casket online. A 1968 decree adopted the Pan American Health Organization norms on international transport of bodies (official cause-of-death certificate, preparation declaration, transit permit, impermeable sealed coffin), but its current application could not be confirmed; confirm with a Nicaraguan consulate and a licensed funeral home.",
+    "documents": [
+      "Official certificate of cause of death from the civil registry of the place of death (apostilled, with Spanish translation; confirm with consulate)",
+      "Declaration by the person who prepared the body stating the method used and that the coffin contains only the deceased (embalming certificate)",
+      "Transit permit with name, surname and age of the deceased, issued by the authority of the place of death",
+      "Passport or ID of the deceased"
+    ],
+    "coffin": "Executive Decree No. 12 of 1968 (La Gaceta No. 100, 7 May 1968) adopted PAHO Resolution XXIX: the body travels in an impermeable coffin sealed hermetically (metal lining soldered, or plastic or rubber seals), or in a heat-sealed plastic receptacle inside an ordinary coffin; the coffin carries a fixed plate with name, age, sex and destination. Text consulted in a legal database, not on an official portal; current enforcement not verified.",
+    "embalming": "Under the 1968 PAHO norms the body is either disinfected and wrapped, or embalmed (arterial and cavity); embalming is mandatory if death was from a quarantinable disease. Locally, bodies are not usually embalmed but embalming is done on request for repatriation (FCDO).",
+    "consular": "Nicaraguan consulates are the point of contact. Nicaragua is a Hague Apostille party; apostille and Spanish translation expected. Confirm with the consulate.",
+    "arrival": "Customs and health clearance at Managua international airport; a local funeral home collects. Burial deadline not officially published.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No official rule for private or charter flights carrying human remains was found. Plan arrival at an international airport with customs and health officers, and confirm clearance with the local funeral home and airport authority before departure.",
+    "private_jet_alert": false,
+    "private_jet_note": "Entry rules unpublished: confirm health and customs clearance with the consulate before take-off.",
+    "export": "Leaving Nicaragua: authorisation from the Ministry of Foreign Affairs and the Ministry of Health is needed for repatriation (British Embassy). The hospital medical report (epicrisis) must be registered at the Registro Civil of the municipality; it is issued about two days after request. Autopsies only when a crime or accident is presumed (Instituto de Medicina Legal). Embalming on request for repatriation. All documents are in Spanish.",
+    "export_points": [
+      "Ministry of Foreign Affairs and Ministry of Health authorisation required",
+      "Death registered at the municipal Registro Civil (about 2 days)",
+      "Embalming on request for repatriation",
+      "Autopsy by Instituto de Medicina Legal if crime or accident presumed"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Official cause-of-death certificate (confirm translation)",
+      "embalming": "Advised; mandatory for quarantinable diseases",
+      "coffin": "Impermeable, hermetically sealed, name plate",
+      "laissez_passer": "Transit permit from place of death",
+      "consular": "Contact consulate before shipping",
+      "permit": "Entry permit not officially published",
+      "arrival": "Funeral home collects at airport"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the consulate of Nicaragua in the country of death and appoint a funeral home at each end."
+      },
+      {
+        "when": "Day 1",
+        "what": "Obtain death certificate, embalming certificate and transit permit at origin; apostille the death certificate."
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Consulate reviews documents and confirms entry requirements; body sealed in an air-transport casket."
+      },
+      {
+        "when": "Departure",
+        "what": "Casket flown to an international airport of entry with the original documents."
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs and health clearance; receiving funeral home collects the casket for burial."
+      }
+    ],
+    "key_points": [
+      "Official entry procedure not published; confirm with the consulate",
+      "1968 decree follows PAHO norms: sealed impermeable coffin and transit permit",
+      "Exit needs both Foreign Affairs and Health ministry authorisation"
+    ],
+    "lead_days": null,
+    "authority": "Ministry of Health (MINSA) and Ministry of Foreign Affairs; Registro Civil de las Personas",
+    "sources": [
+      "https://www.gov.uk/government/publications/nicaragua-bereavement-packinformation/nicaragua-bereavement-information"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "BZ",
+    "name": "Belize",
+    "status": "unknown",
+    "summary": "Belize does not publish official entry requirements for a casket online, and no import provision was found in the Public Health Act; confirm with the Belize consulate or embassy and a licensed funeral home. Expect a death certificate, embalming certificate and transit permit (English-language documents accepted).",
+    "documents": [
+      "Death certificate from the country of death (apostilled; English is an official language of Belize)",
+      "Embalming certificate",
+      "Transit / burial-transit permit from the country of death",
+      "Passport or ID of the deceased"
+    ],
+    "coffin": "No official published entry rule found; assume a sealed, airline-compliant casket.",
+    "embalming": "Not officially published for entry; embalming is standard for international shipment.",
+    "consular": "Belize consulates and embassies are the point of contact. Belize is a Hague Apostille party; no translation needed for English documents.",
+    "arrival": "Customs and health clearance at Philip S. W. Goldson International Airport; a local funeral home collects. Burial deadline not officially published. Cremation in Belize needs the permission of the Director of Health Services (Public Health Act).",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No official rule for private or charter flights carrying human remains was found. Plan arrival at an international airport with customs and health officers, and confirm clearance with the local funeral home and airport authority before departure.",
+    "private_jet_alert": false,
+    "private_jet_note": "Entry rules unpublished: confirm health and customs clearance with the consulate before take-off.",
+    "export": "Leaving Belize: local undertakers register the death with the Vital Statistics Unit and arrange a Belize death certificate to accompany the remains. A post-mortem is normally performed in all cases and always when death is not natural; a Coroner (usually a magistrate) investigates unnatural deaths. Personal belongings cannot be shipped with the body. Mortuaries are at regional hospitals; standards vary.",
+    "export_points": [
+      "Death registered by the undertaker with the Vital Statistics Unit",
+      "Post-mortem normally performed in all cases",
+      "Coroner involved for unnatural deaths",
+      "Personal belongings cannot travel with the body"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Apostilled; English accepted",
+      "embalming": "Standard for shipment; entry rule unpublished",
+      "coffin": "Air-transport casket; sealing rules unpublished",
+      "laissez_passer": "Origin transit permit; Strasbourg not applicable",
+      "consular": "Contact consulate before shipping",
+      "permit": "Entry permit not officially published",
+      "arrival": "Funeral home collects at airport"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the consulate of Belize in the country of death and appoint a funeral home at each end."
+      },
+      {
+        "when": "Day 1",
+        "what": "Obtain death certificate, embalming certificate and transit permit at origin; apostille the death certificate."
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Consulate reviews documents and confirms entry requirements; body sealed in an air-transport casket."
+      },
+      {
+        "when": "Departure",
+        "what": "Casket flown to an international airport of entry with the original documents."
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs and health clearance; receiving funeral home collects the casket for burial."
+      }
+    ],
+    "key_points": [
+      "Official entry requirements are not published; confirm with the consulate",
+      "Cremation needs permission from the Director of Health Services",
+      "Autopsy is normal in Belize, which can delay outgoing repatriation"
+    ],
+    "lead_days": null,
+    "authority": "Ministry of Health and Wellness; Vital Statistics Unit; Coroner",
+    "sources": [
+      "https://assets.publishing.service.gov.uk/media/5f4f9cb2e90e07469e0543df/Belize_-_Bereavement_Information_Pack.odt",
+      "https://www.belizecitycouncil.org/uploads/acts/75734-Public_Health_Act.pdf"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "DO",
+    "name": "Dominican Republic",
+    "status": "requirements",
+    "summary": "The Dominican consulate in the country of death processes the shipping documents: for a body, the original death certificate from the vital records office, a certificate of no contagious disease from the local health department, and a notarised embalming certificate signed by the funeral director or embalmer. The receiving Dominican funeral home clears the coffin at the airport.",
+    "documents": [
+      "Original death certificate issued by the vital records office of the place of death",
+      "Certificate of no contagious disease (certificacion de no contagio) from the local health department",
+      "Embalming certificate signed by the funeral director or embalmer, notarised",
+      "Removal or transit permit from the country of departure",
+      "Passport or identity document of the deceased and name of the receiving Dominican funeral home"
+    ],
+    "coffin": "Not specified on the consulate page. A hermetically sealed coffin is the usual international standard for air transport; confirm with the Dominican consulate and the airline.",
+    "embalming": "Required in practice: the consulate's list for a body includes a notarised embalming certificate. The UK government also lists an embalming certificate among documents for repatriation out of the Dominican Republic.",
+    "consular": "Documents are submitted to the Dominican consulate covering the place of death (the New York consulate publishes the checklist; tel. +1 212 768 2480, infony@mirex.gob.do). For cremated remains the death and cremation certificates must be apostilled by the US Department of State. Holders of a valid Dominican electronic ordinary passport are covered by a free repatriation insurance with Seguros Reservas (up to USD 9,000; notify within 48 hours of the death; 6-month waiting period for death from illness), per the Direccion General de Pasaportes. Dominican consulates also sell a repatriation plan (e.g. Madrid).",
+    "arrival": "Not published officially. The receiving Dominican funeral home normally handles customs and health clearance at the airport. Confirm burial or cremation formalities with the funeral home.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "Human remains on a private or charter flight need the same documents as airline cargo; the documents travel with the coffin and are presented to customs and health officials at the arrival airport. The coffin (typically about 2.2 m long, 70-100 kg once zinc-lined) must physically fit the aircraft's cargo door or a cabin configured for it, which rules out many light and midsize jets. Land at an international airport with customs and health officers (for example Santo Domingo Las Americas or Punta Cana) and have the receiving funeral home meet the aircraft. No specific rule for private flights carrying remains was found.",
+    "private_jet_alert": false,
+    "private_jet_note": "Have the consulate process the originals before take-off; they travel with the coffin.",
+    "export": "To send a body out of the Dominican Republic, the death is registered at the local Civil Registry office (Oficialia del Registro Civil), usually within about 3 working days. All foreign nationals who die in the country undergo a post-mortem at the Pathology Institute in Santo Domingo or Santiago. The UK government lists the documents for repatriation as the civil registry death certificate, an embalming certificate and a certificate giving permission to transfer the remains. Dominican death certificates are in Spanish and do not state the cause of death, which matters for destinations (such as the US) that require it unless the body is embalmed.",
+    "export_points": [
+      "Death registered at the local Civil Registry, about 3 working days",
+      "Post-mortem for all foreign nationals at the Pathology Institute",
+      "Embalming certificate and permission to transfer the remains needed",
+      "Death certificate in Spanish without cause of death"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Original vital records certificate",
+      "embalming": "Notarised embalming certificate required",
+      "coffin": "Sealed coffin usual; not officially specified",
+      "laissez_passer": "Not a Strasbourg party",
+      "consular": "Dominican consulate processes documents",
+      "permit": "Certificate of no contagious disease",
+      "arrival": "Funeral home handles clearance"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the Dominican consulate; if the deceased held a Dominican e-passport, notify Seguros Reservas within 48 hours."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain the death certificate, no-contagious-disease certificate, notarised embalming certificate and transit permit."
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Submit the documents to the Dominican consulate covering the place of death."
+      },
+      {
+        "when": "Day 3-5",
+        "what": "Seal the coffin and fly to an international airport with customs."
+      },
+      {
+        "when": "On arrival",
+        "what": "Funeral home clears the coffin and arranges burial or cremation."
+      }
+    ],
+    "key_points": [
+      "Consulate checklist: death certificate, no-contagion and embalming certificates",
+      "Dominican e-passport holders have repatriation insurance up to USD 9,000",
+      "Foreigners dying in the country always have a post-mortem"
+    ],
+    "lead_days": null,
+    "authority": "Dominican consulate in the country of departure (Ministry of Foreign Affairs, MIREX); Civil Registry and Pathology Institute (exit)",
+    "sources": [
+      "https://usa.mirex.gob.do/consular/new-york/traducciones/",
+      "https://dgp.panel-dev-pys.ogtic.gob.do/wp-content/uploads/2026/07/DOCUMENTO-GUIA-DEL-USUARIO-SERVICIO-DE-REPATRI_260218_190723.pdf",
+      "https://consuladordmadrid.es/plan-de-seguro-de-repatriacion/",
+      "https://www.gov.uk/guidance/what-to-do-after-a-british-person-dies-in-the-dominican-republic"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  }
+]

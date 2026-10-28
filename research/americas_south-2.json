@@ -1,0 +1,508 @@
+[
+  {
+    "cc": "GS",
+    "name": "South Georgia and the South Sandwich Islands",
+    "status": "strict",
+    "summary": "A British Overseas Territory with no permanent population, no airport and no runway: it can only be reached by sea, so a casket cannot be flown in or out directly. Any repatriation goes by ship, normally via the Falkland Islands, and must be arranged with the territory's Government in Stanley.",
+    "documents": [
+      "No published list for human remains; contact the Government of South Georgia and the South Sandwich Islands (GSGSSI) in Stanley",
+      "Entry is controlled under the Entry Control Ordinance 2022 (vessel booking notification and visitor permits)",
+      "Documents for the onward air leg are those of the Falkland Islands and the destination country"
+    ],
+    "coffin": "No published casket rules for the territory. In practice the casket must meet the requirements of the ship operator and of the Falkland Islands / destination country for the onward flight.",
+    "embalming": "Not published; no embalming facilities are documented on the islands. Confirm with GSGSSI and the funeral director handling the onward journey.",
+    "consular": "UK Overseas Territory: no consulate. The Government of SGSSI (Government House, Stanley, Falkland Islands) and the UK Foreign, Commonwealth and Development Office are the contacts.",
+    "arrival": "There is no airport, so there is no air arrival clearance. Arrival by sea is subject to the Entry Control Ordinance 2022 and biosecurity rules; contact GSGSSI before any movement.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "Not possible: South Georgia has no airport or runway, and GSGSSI does not permit the use of aircraft, including helicopters. Transport is by ship (usually to/from the Falkland Islands, about 800 miles away), with the flight leg starting or ending in the Falklands.",
+    "private_jet_alert": true,
+    "private_jet_note": "No airport and aircraft use is not permitted: a private jet can only operate from the Falkland Islands, with sea transfer to South Georgia.",
+    "export": "No published procedure. A death on South Georgia (government staff, British Antarctic Survey personnel or ship passengers) is handled with GSGSSI and the vessel operator; the body is carried by ship to the Falkland Islands or another port, from where the air repatriation is organised under that place's rules.",
+    "export_points": [
+      "Only exit is by ship; no aircraft operations allowed",
+      "Contact GSGSSI in Stanley, Falkland Islands, first",
+      "The flight leg starts from the Falklands or the ship's next port"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Via GSGSSI; procedure not published",
+      "embalming": "Not published; confirm locally",
+      "coffin": "Must suit ship and onward flight",
+      "laissez_passer": "Not applicable (UK territory)",
+      "consular": "No consulate; contact GSGSSI / FCDO",
+      "permit": "Entry Control Ordinance 2022 applies",
+      "arrival": "Sea only; no airport"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the Government of SGSSI in Stanley and the vessel operator."
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Agree sea transport of the casket to the Falkland Islands or another port."
+      },
+      {
+        "when": "At port",
+        "what": "Local funeral director prepares documents required by the destination country."
+      },
+      {
+        "when": "Flight",
+        "what": "Private or commercial flight departs from the Falklands or the port of arrival."
+      }
+    ],
+    "key_points": [
+      "No airport, no runway, no aircraft allowed",
+      "No permanent residents; Government based in Stanley, Falklands",
+      "All movements depend on ships and weather, especially in winter"
+    ],
+    "lead_days": null,
+    "authority": "Government of South Georgia and the South Sandwich Islands (Government House, Stanley, Falkland Islands)",
+    "sources": [
+      "https://gov.gs/information/frequently-asked-questions/",
+      "https://gov.gs/visitors/how-to-visit/",
+      "https://gov.gs/information/about-sgssi/"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "GY",
+    "name": "Guyana",
+    "status": "requirements",
+    "summary": "No official Guyanese page on bringing a casket into Guyana was found: plan for a death certificate, embalming certificate, transit permit and a sealed casket, and confirm with the Guyanese embassy or consulate and a Guyanese funeral director before flying.",
+    "documents": [
+      "Death certificate from the country of death (legalisation/apostille and requirements to be confirmed with the Guyanese consulate)",
+      "Embalming certificate (usual international practice; not confirmed officially for entry)",
+      "Burial/transit permit from the country of death",
+      "Deceased's passport",
+      "Air waybill or flight details"
+    ],
+    "coffin": "Not published by Guyanese authorities. Use a hermetically sealed (zinc- or metal-lined) casket in an outer case per IATA practice and the airline's rules; confirm with the consulate.",
+    "embalming": "Entry rule not published. For departures, the FCDO lists a certificate of embalming among the documents local funeral directors provide, so embalming is standard practice.",
+    "consular": "Contact the Guyana embassy or consulate in the country of death; consular requirements for incoming remains are not published online.",
+    "arrival": "Customs and health clearance at the airport of arrival (normally Cheddi Jagan International, Georgetown); a Guyanese funeral director collects the casket. No legal burial deadline was found.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No rules specific to human remains on private flights were found. Use an airport with customs and health officers (Cheddi Jagan International or Ogle) and confirm landing permission and clearance in advance.",
+    "private_jet_alert": false,
+    "private_jet_note": "Confirm customs and health clearance for the casket at the arrival airport before departure.",
+    "export": "Deaths are registered at the General Registrar's Office in Georgetown, by the next of kin or a local funeral director with a letter of authorisation. Local funeral directors provide the civil death certificate, a certificate of embalming and a certificate permitting transfer of the remains. Post-mortems in unnatural or suspicious deaths are usually done within 2 to 3 days of the body reaching the public mortuary.",
+    "export_points": [
+      "Register the death at the General Registrar's Office, Georgetown",
+      "Funeral director provides embalming and transfer certificates",
+      "Post-mortem, if required, usually within 2-3 days",
+      "Same-sex partners are not recognised as next of kin"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Required; check legalisation with consulate",
+      "embalming": "Standard practice; certificate expected",
+      "coffin": "Sealed casket; rules not published",
+      "laissez_passer": "Not published; ask the consulate",
+      "consular": "Contact Guyanese embassy or consulate",
+      "permit": "Transit permit from country of death",
+      "arrival": "Customs clearance, local funeral director collects"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Appoint a funeral director in the country of death and one in Guyana."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain the death certificate, embalming certificate and transit permit."
+      },
+      {
+        "when": "Day 2-4",
+        "what": "Check consular requirements with the Guyanese embassy or consulate."
+      },
+      {
+        "when": "Flight day",
+        "what": "Sealed casket flown to Georgetown; customs and health clearance on arrival."
+      },
+      {
+        "when": "Arrival",
+        "what": "Guyanese funeral director collects the casket for the funeral."
+      }
+    ],
+    "key_points": [
+      "Official entry rules are not published online",
+      "Mortuary at Georgetown Public Hospital stores bodies free of charge",
+      "Confirm everything with the Guyanese consulate before the flight"
+    ],
+    "lead_days": null,
+    "authority": "General Registrar's Office (deaths); Guyanese embassies/consulates abroad; Ministry of Health (port health, unconfirmed)",
+    "sources": [
+      "https://www.gov.uk/guidance/when-someone-dies-in-guyana"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "PE",
+    "name": "Peru",
+    "status": "requirements",
+    "summary": "Peruvian law requires remains coming from abroad to have a death certificate and a sanitary transfer authorisation, both visaed by the Peruvian consulate, with the body embalmed and placed in a hermetically sealed coffin. A sanitary authorisation from the regional health authority (DIRIS/DIRESA/GERESA) is also needed for transfer to another jurisdiction in Peru.",
+    "documents": [
+      "Death certificate, visaed by the Peruvian consulate (Reglamento DS 03-94-SA, art. 64)",
+      "Sanitary transfer authorisation from the country of death, visaed by the Peruvian consulate",
+      "Embalming or formolisation certificate signed by a doctor, visaed by the Peruvian consulate (if more than 48 h since death)",
+      "Forensic autopsy certificate in sudden or violent death",
+      "Peruvian sanitary transfer authorisation (DIRIS/DIRESA/GERESA) for onward transfer between health jurisdictions"
+    ],
+    "coffin": "Coffins for transport must be impermeable and hermetically closable; bodies transferred to another city or country must be in a hermetically sealed coffin. If the coffin is not watertight, the health authority can require a new coffin (DS 03-94-SA arts. 39 and 62). Zinc lining is not named but is the usual way to meet this.",
+    "embalming": "Required: bodies transferred to another city or country must be embalmed (DS 03-94-SA art. 62). Burial normally within 48 h unless the body is embalmed.",
+    "consular": "The Peruvian consulate in the country of death visas the death certificate and the sanitary authorisation (and the embalming certificate). Peru also accepts consular representatives as applicants when the deceased has no family in Peru.",
+    "arrival": "The local funeral home takes over after customs and health clearance. Inland transfer to another health jurisdiction needs a DIRIS/DIRESA/GERESA authorisation (online, fee S/ 62.90 at DIRIS Lima Centro, answer within 2 working days). Burial normally within 48 h of death unless embalmed.",
+    "pouch_accepted": false,
+    "pouch": null,
+    "private_aviation": "Peruvian law requires remains carried to another city or country to travel in a compartment separate from passengers, and makes the captain responsible (DS 03-94-SA art. 65). Use an airport with customs and health officers (normally Lima Jorge Chavez).",
+    "private_jet_alert": true,
+    "private_jet_note": "Casket must be in a compartment separate from passengers; check the aircraft's cargo hold before booking.",
+    "export": "The local undertaker obtains the civil death certificate (temporary, then certified copy after a couple of days), the doctor's death certificate, embalming, a special coffin and the sanitary transfer authorisation from the regional health authority (DIRIS/DIRESA/GERESA). In violent or unclear deaths the prosecutor (Public Ministry) may order a post-mortem and release can be delayed.",
+    "export_points": [
+      "Embalming and a hermetically sealed coffin are mandatory",
+      "Sanitary authorisation from DIRIS/DIRESA/GERESA, about 2 working days",
+      "Prosecutor involvement can delay release in unnatural deaths",
+      "Casket travels separate from passengers"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Required, visaed by Peruvian consulate",
+      "embalming": "Mandatory for international transfer",
+      "coffin": "Hermetically sealed, watertight",
+      "laissez_passer": "Sanitary transfer authorisation, consulate-visaed",
+      "consular": "Peruvian consulate visas the documents",
+      "permit": "DIRIS/DIRESA authorisation for inland transfer",
+      "arrival": "Burial within 48 h unless embalmed"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Funeral director embalms the body and places it in a sealed coffin."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain death certificate and sanitary transfer authorisation in the country of death."
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Peruvian consulate visas the death, embalming and transfer documents."
+      },
+      {
+        "when": "Day 3",
+        "what": "Peruvian funeral home applies to DIRIS/DIRESA if needed (2 working days)."
+      },
+      {
+        "when": "Flight day",
+        "what": "Casket flown in a hold separate from passengers; customs and health clearance."
+      },
+      {
+        "when": "Arrival",
+        "what": "Funeral home collects; burial or cremation."
+      }
+    ],
+    "key_points": [
+      "Embalming and a hermetic coffin are legal requirements",
+      "Consular visa of documents is required by regulation",
+      "Casket must not travel in the passenger compartment"
+    ],
+    "lead_days": 3,
+    "authority": "Ministry of Health (MINSA) regional authorities DIRIS/DIRESA/GERESA; Peruvian consulates abroad",
+    "sources": [
+      "https://www.gob.pe/institucion/dirislimacentro/pages/83659-autorizacion-sanitaria-para-traslado-de-cadaver-o-restos-humanos",
+      "https://www.minsa.gob.pe/Recursos\\OGTI\\SINADEF/DS-03-94-SA.pdf",
+      "https://www.gov.uk/government/publications/peru-bereavement-packinformation/peru-beravement-information"
+    ],
+    "confidence": "high",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "PY",
+    "name": "Paraguay",
+    "status": "unknown",
+    "summary": "No official Paraguayan information on the import or export of human remains could be verified. Plan for standard international requirements (death certificate, embalming, sealed casket, sanitary transit permit) and confirm with the Paraguayan consulate and the Ministry of Public Health before flying.",
+    "documents": [
+      "Death certificate from the country of death, apostilled or legalised and translated into Spanish (to be confirmed)",
+      "Embalming certificate (to be confirmed)",
+      "Certificate that death was not due to a contagious disease (to be confirmed)",
+      "Sanitary transit permit from the country of death (to be confirmed)",
+      "Deceased's passport or Paraguayan ID"
+    ],
+    "coffin": "Not verified. Use a hermetically sealed, zinc- or metal-lined casket in an outer case per IATA practice; confirm with the consulate.",
+    "embalming": "Not verified; expect embalming to be required.",
+    "consular": "Not verified. Contact the Paraguayan embassy or consulate in the country of death for document legalisation and any transfer authorisation.",
+    "arrival": "Not verified. Expect customs and health clearance at Silvio Pettirossi International Airport (Asuncion) and collection by a Paraguayan funeral home.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No rules specific to human remains on private flights were found. Use an international airport with customs and health officers and confirm clearance in advance.",
+    "private_jet_alert": false,
+    "private_jet_note": "Rules not published; confirm health and customs clearance of the casket before departure.",
+    "export": "Not verified. Expect the civil death certificate (Registro Civil), embalming, a sealed casket and a sanitary exit authorisation from the Ministry of Public Health; confirm with a Paraguayan funeral director.",
+    "export_points": [
+      "Official exit procedure not published online",
+      "Use a local funeral director for permits",
+      "Confirm destination-country requirements early"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Required; legalisation to confirm",
+      "embalming": "Expected; not officially confirmed",
+      "coffin": "Sealed casket expected",
+      "laissez_passer": "Not verified",
+      "consular": "Contact Paraguayan consulate first",
+      "permit": "Health ministry permit, not confirmed",
+      "arrival": "Customs and health clearance expected"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the Paraguayan consulate for the current document list."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain death certificate, embalming and transit permit."
+      },
+      {
+        "when": "Day 2-4",
+        "what": "Legalise or apostille and translate documents as instructed."
+      },
+      {
+        "when": "Flight day",
+        "what": "Sealed casket flown to Asuncion; clearance on arrival."
+      },
+      {
+        "when": "Arrival",
+        "what": "Paraguayan funeral home collects the casket."
+      }
+    ],
+    "key_points": [
+      "No official requirements could be verified",
+      "Confirm everything with the consulate before booking",
+      "Allow extra time for document checks"
+    ],
+    "lead_days": null,
+    "authority": "Ministerio de Salud Publica y Bienestar Social; Paraguayan consulates abroad (unconfirmed)",
+    "sources": [],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "SR",
+    "name": "Suriname",
+    "status": "requirements",
+    "summary": "No official Surinamese page on bringing a casket into Suriname was found: plan for a death certificate, embalming certificate, transit permit and a sealed casket, and confirm with the Surinamese embassy or consulate and a local funeral director.",
+    "documents": [
+      "Death certificate from the country of death (legalisation/apostille and Dutch translation to be confirmed with the consulate)",
+      "Embalming certificate (usual practice; not officially confirmed)",
+      "Transit/burial permit from the country of death",
+      "Deceased's passport"
+    ],
+    "coffin": "Not published. Use a hermetically sealed, zinc- or metal-lined casket in an outer case per IATA practice; confirm with the consulate.",
+    "embalming": "Entry rule not published. For departures, the FCDO lists a certificate of embalming among the documents local funeral directors provide.",
+    "consular": "Contact the Surinamese embassy or consulate in the country of death; requirements for incoming remains are not published online.",
+    "arrival": "Customs and health clearance at the arrival airport (normally Johan Adolf Pengel International); a Surinamese funeral director collects. No legal burial deadline was found.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No rules specific to human remains on private flights were found. Use an airport with customs and health officers and confirm clearance in advance.",
+    "private_jet_alert": false,
+    "private_jet_note": "Confirm customs and health clearance for the casket at the arrival airport before departure.",
+    "export": "Deaths are registered at the Civil Registry (CBB), usually within 3 working days; the death certificate (Overlijdens Akte) is in Dutch and does not show the cause of death. In unknown, unnatural, sudden or violent deaths a court-appointed pathologist performs a post-mortem at the Academic Hospital (AZP), and the post-mortem report is needed to repatriate the body. Local funeral directors provide the death certificate, a certificate of embalming and a certificate permitting transfer.",
+    "export_points": [
+      "Death registration at the CBB usually takes 3 working days",
+      "Post-mortem report (in Dutch) required if one was performed",
+      "Funeral director provides embalming and transfer certificates",
+      "Death certificate in Dutch, without cause of death"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Required; check legalisation with consulate",
+      "embalming": "Standard practice; certificate expected",
+      "coffin": "Sealed casket; rules not published",
+      "laissez_passer": "Not published; ask the consulate",
+      "consular": "Contact Surinamese embassy or consulate",
+      "permit": "Transit permit from country of death",
+      "arrival": "Customs clearance, local funeral director collects"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Appoint funeral directors in the country of death and in Suriname."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain death certificate, embalming certificate and transit permit."
+      },
+      {
+        "when": "Day 2-4",
+        "what": "Check consular requirements and translations with the Surinamese consulate."
+      },
+      {
+        "when": "Flight day",
+        "what": "Sealed casket flown to Paramaribo; customs and health clearance."
+      },
+      {
+        "when": "Arrival",
+        "what": "Surinamese funeral director collects the casket."
+      }
+    ],
+    "key_points": [
+      "Official entry rules are not published online",
+      "Documents in Suriname are issued in Dutch",
+      "Confirm requirements with the consulate before the flight"
+    ],
+    "lead_days": null,
+    "authority": "Centraal Bureau voor Burgerzaken (civil registry); Surinamese embassies/consulates; Ministry of Health (unconfirmed)",
+    "sources": [
+      "https://www.gov.uk/guidance/when-someone-dies-in-suriname"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "UY",
+    "name": "Uruguay",
+    "status": "requirements",
+    "summary": "The Uruguayan funeral home receiving the body must request an entry authorisation from the Ministry of Public Health at least 12 hours before arrival (by air: Sanidad Aerea at Carrasco airport). The Uruguayan consulate in the country of death checks the apostilled death certificate, embalming and hermetic-sealing certificate and sanitary transfer permit.",
+    "documents": [
+      "MSP entry request form, filed by the Uruguayan funeral home at least 12 h before arrival",
+      "Death certificate (acta de defuncion), apostilled",
+      "Certificate of embalming and hermetic sealing of the coffin, apostilled",
+      "Sanitary transport authorisation from the country of death",
+      "Certificate stating whether death was due to an infectious or contagious disease",
+      "Letter from a relative requesting the transfer, copy of the deceased's ID or passport, flight itinerary",
+      "Spanish translation of documents in other languages"
+    ],
+    "coffin": "Hermetically sealed coffin; the Uruguayan consulate asks for an apostilled certificate of embalming and hermetic sealing issued by the funeral provider. No rule on who witnesses the sealing was found.",
+    "embalming": "Expected: consulates ask for an embalming certificate, and MSP Ordinance 982/2016 requires a conservation and preparation record when remains travel on collective (public) transport.",
+    "consular": "Contact the Uruguayan consulate in the country of death before arranging transport; it reviews the documents (free consular procedure). Documents must be apostilled and translated into Spanish.",
+    "arrival": "MSP issues an entry authorisation certificate to the funeral home electronically. If death was due to an infectious disease, the body cannot be shipped until the authorisation is issued. Frozen bodies or bodies leaking fluids are not admitted unless bagged. Ashes need no sanitary authorisation.",
+    "pouch_accepted": false,
+    "pouch": null,
+    "private_aviation": "The MSP request is filed with the Sanidad Aerea unit at Carrasco airport (sanidadaerea@msp.gub.uy) for air arrivals. Ordinance 982/2016 ties the conservation record to collective transport, but consulates still ask for embalming. Confirm health clearance if landing at another airport (e.g. Punta del Este).",
+    "private_jet_alert": false,
+    "private_jet_note": "Funeral home must file the MSP entry request at least 12 hours before landing.",
+    "export": "The local funeral director handles exit. Documents: doctor's or forensic death certificate, civil registry death certificate (usually a couple of days), conservation certificate from the Sanitation Department (Direccion de Salubridad) of the Intendencia, next-of-kin authorisation, air waybill, and legalisation by the Ministry of Foreign Affairs with translation. Formalities may take some days.",
+    "export_points": [
+      "Conservation certificate from the Intendencia health department",
+      "Civil registry death certificate in about 2 days",
+      "Ministry of Foreign Affairs legalisation and translation",
+      "Cremation after a post-mortem needs a judge's approval"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Apostilled, translated into Spanish",
+      "embalming": "Embalming certificate required by consulates",
+      "coffin": "Hermetically sealed, certificate apostilled",
+      "laissez_passer": "MSP entry authorisation certificate",
+      "consular": "Uruguayan consulate reviews documents, free",
+      "permit": "MSP request 12 h before arrival",
+      "arrival": "Funeral home collects after Sanidad clearance"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Appoint a Uruguayan funeral home and contact the Uruguayan consulate."
+      },
+      {
+        "when": "Day 1",
+        "what": "Embalming, sealed coffin, death certificate and sanitary permit abroad."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Apostille and translate documents; consulate reviews them."
+      },
+      {
+        "when": "Arrival -12 h",
+        "what": "Uruguayan funeral home files MSP entry request with Sanidad Aerea."
+      },
+      {
+        "when": "Arrival",
+        "what": "MSP authorisation issued; funeral home collects the coffin."
+      }
+    ],
+    "key_points": [
+      "MSP entry request at least 12 hours before arrival",
+      "No sanitary authorisation needed for ashes",
+      "Infectious-disease deaths: wait for MSP authorisation before shipping"
+    ],
+    "lead_days": 2,
+    "authority": "Ministerio de Salud Publica (Departamento de Vigilancia en Fronteras / Sanidad Aerea); Uruguayan consulates abroad",
+    "sources": [
+      "https://www.gub.uy/tramites/autorizacion-ingreso-pais-cadaveres-restos-humanos",
+      "https://www.gub.uy/tramites/sites/catalogo-tramites/files/2020-10/18916399ord%2520982%25202016.pdf",
+      "https://www.gub.uy/ministerio-relaciones-exteriores/en/consulate-general-in-guangzhou/consular-services/transportation-of-human-remains-or-ashes-to",
+      "https://www.gov.uk/government/publications/uruguay-guide-for-bereavement/uruguay-bereavement-information"
+    ],
+    "confidence": "high",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "VE",
+    "name": "Venezuela",
+    "status": "requirements",
+    "summary": "No current official Venezuelan page on bringing a casket into the country was found. Reported requirements are an apostilled death certificate, an embalming certificate, a transit permit and a certificate of no infectious disease, handled through the Venezuelan consulate; confirm before flying.",
+    "documents": [
+      "Death certificate, apostilled or legalised and translated into Spanish (reported, not officially confirmed)",
+      "Embalming certificate signed by a doctor (reported)",
+      "Transit permit for the body from the health authority or funeral home of the place of death (reported)",
+      "Certificate of no infectious or contagious disease (reported)",
+      "Deceased's Venezuelan ID card (cedula) and passport"
+    ],
+    "coffin": "Not published by Venezuelan authorities. Use a hermetically sealed, zinc- or metal-lined casket in an outer case per IATA practice.",
+    "embalming": "Reported as required for entry (embalming certificate); not confirmed on an official page.",
+    "consular": "The Venezuelan consulate or embassy in the country of death handles the paperwork; the death can be registered there or later at the civil registry of the last domicile in Venezuela. Venezuela has few consulates abroad, so check which office covers the country of death.",
+    "arrival": "Customs and health clearance at the arrival airport (normally Simon Bolivar International, Maiquetia); a Venezuelan funeral home collects. No legal burial deadline was verified.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No rules specific to human remains on private flights were found. Landing and overflight permissions for Venezuela, and any restrictions your own government places on flights there, were not verified here: confirm them early with the operator and the Venezuelan civil aviation authority.",
+    "private_jet_alert": true,
+    "private_jet_note": "Confirm landing permission and any flight restrictions to Venezuela well before departure.",
+    "export": "The local funeral director handles logistics with the airline and customs. Required: death certificate (Certificado de defuncion), legalised and apostilled; sanitary permit 'Constancia de traslado Internacional de cenizas, cadaver y restos' from the local sanitary authority; the deceased's passport. Death must be registered at the municipal registry. Repatriation may not be possible in some crime-related cases under police investigation, and obtaining the death certificate can be lengthy.",
+    "export_points": [
+      "Sanitary permit 'Constancia de traslado Internacional' needed",
+      "Death certificate legalised and apostilled",
+      "Only next of kin can obtain the death certificate",
+      "Police investigations can block or delay release"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Apostilled, translated into Spanish",
+      "embalming": "Reported as required",
+      "coffin": "Sealed casket; rules not published",
+      "laissez_passer": "Transit permit from place of death",
+      "consular": "Venezuelan consulate processes documents",
+      "permit": "Confirm flight landing permission early",
+      "arrival": "Customs clearance, funeral home collects"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the Venezuelan consulate covering the country of death."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain death certificate, embalming certificate and transit permit."
+      },
+      {
+        "when": "Day 2-5",
+        "what": "Apostille, translate and present documents at the consulate."
+      },
+      {
+        "when": "Before flight",
+        "what": "Secure flight and landing authorisations for Venezuela."
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs clearance; Venezuelan funeral home collects the casket."
+      }
+    ],
+    "key_points": [
+      "Official entry requirements are not published; confirm first",
+      "Consular processing can take weeks",
+      "Flight permissions to Venezuela can be the main bottleneck"
+    ],
+    "lead_days": null,
+    "authority": "Venezuelan consulates abroad (Ministerio del Poder Popular para Relaciones Exteriores); local sanitary authority for exit permits",
+    "sources": [
+      "https://www.gov.uk/guidance/when-someone-dies-in-venezuela"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  }
+]

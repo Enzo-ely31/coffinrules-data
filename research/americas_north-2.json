@@ -1,0 +1,739 @@
+[
+  {
+    "cc": "DO",
+    "name": "Dominican Republic",
+    "status": "unknown",
+    "summary": "No official Dominican page describing the entry of a casket could be found. In practice the receiving Dominican funeral home and the Dominican consulate in the country of departure state the requirements; confirm with them before booking.",
+    "documents": [
+      "Death certificate from the country of death (Spanish translation likely required; confirm with the Dominican consulate)",
+      "Embalming certificate",
+      "Removal or transit permit from the country of departure",
+      "Passport or identity document of the deceased",
+      "Name of the receiving Dominican funeral home"
+    ],
+    "coffin": "Not published officially. A hermetically sealed coffin is the usual international standard for air transport; confirm with the Dominican consulate and the airline.",
+    "embalming": "No Dominican entry rule was found. Embalming is normally required by the departure country and by carriers; the UK government lists an embalming certificate among the documents for repatriation out of the Dominican Republic.",
+    "consular": "Not published officially; the Dominican consulate in the country of departure is the likely point of contact for any legalisation or authorisation. Confirm with the consulate.",
+    "arrival": "Not published officially. The receiving Dominican funeral home normally handles customs and health clearance at the airport. Confirm burial or cremation formalities with the funeral home.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "Human remains on a private or charter flight need the same documents as airline cargo; the documents travel with the coffin and are presented to customs and health officials at the arrival airport. The coffin (typically about 2.2 m long, 70-100 kg once zinc-lined) must physically fit the aircraft's cargo door or a cabin configured for it, which rules out many light and midsize jets. Land at an international airport with customs and health officers (for example Santo Domingo Las Americas or Punta Cana) and have the receiving funeral home meet the aircraft. No specific rule for private flights carrying remains was found.",
+    "private_jet_alert": false,
+    "private_jet_note": "Confirm entry documents with the Dominican consulate before take-off.",
+    "export": "To send a body out of the Dominican Republic, the death is registered at the local Civil Registry office (Oficialia del Registro Civil), usually within about 3 working days. All foreign nationals who die in the country undergo a post-mortem at the Pathology Institute in Santo Domingo or Santiago. The UK government lists the documents for repatriation as the civil registry death certificate, an embalming certificate and a certificate giving permission to transfer the remains. Dominican death certificates are in Spanish and do not state the cause of death, which matters for destinations (such as the US) that require it unless the body is embalmed.",
+    "export_points": [
+      "Death registered at the local Civil Registry, about 3 working days",
+      "Post-mortem for all foreign nationals at the Pathology Institute",
+      "Embalming certificate and permission to transfer the remains needed",
+      "Death certificate in Spanish without cause of death"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Translated; confirm with Dominican consulate",
+      "embalming": "Expected; required by departure country",
+      "coffin": "Sealed coffin usual; not officially published",
+      "laissez_passer": "Not a Strasbourg party",
+      "consular": "Ask the Dominican consulate",
+      "permit": "Not officially published",
+      "arrival": "Funeral home handles clearance"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the Dominican consulate and appoint a funeral home in the Dominican Republic"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain death certificate, embalming certificate and removal permit in the country of death"
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Have documents translated and checked by the consulate as it requires"
+      },
+      {
+        "when": "Day 3-5",
+        "what": "Seal the coffin and fly to an international airport with customs"
+      },
+      {
+        "when": "On arrival",
+        "what": "Funeral home clears the coffin and arranges burial or cremation"
+      }
+    ],
+    "key_points": [
+      "Entry rules are not published officially; confirm with the consulate",
+      "Foreigners dying in the country always have a post-mortem",
+      "Local death certificates do not show the cause of death"
+    ],
+    "lead_days": null,
+    "authority": "Dominican consulate in the country of departure (entry); Civil Registry and Pathology Institute (exit)",
+    "sources": [
+      "https://www.gov.uk/guidance/what-to-do-after-a-british-person-dies-in-the-dominican-republic"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "PR",
+    "name": "Puerto Rico",
+    "status": "requirements",
+    "summary": "Puerto Rico is a US territory, so a casket arriving from abroad is subject to the same federal CDC rules as the US mainland (42 CFR 71 expressly covers Puerto Rico): the remains must be in a leak-proof container and, unless embalmed, travel with a death certificate stating the cause of death. A licensed local funeral home receives the remains after CBP clearance.",
+    "documents": [
+      "Death certificate stating the cause of death (English or with a translation), unless the remains are embalmed",
+      "Embalming certificate where the body is embalmed",
+      "Consular Report of Death Abroad or Consular Mortuary Certificate from the US embassy if the deceased was a US citizen",
+      "Removal or export permit from the country of departure",
+      "Passport of the deceased and air waybill or flight manifest",
+      "Name and contact of the receiving licensed funeral home in Puerto Rico"
+    ],
+    "coffin": "CDC requires all non-cremated remains to be fully contained in a leak-proof container (for example a casket with a leak-proof lining or a sealed metal transfer case). No territorial rule on zinc lining or witnessed sealing was found; the country of departure may impose a hermetically sealed zinc-lined coffin.",
+    "embalming": "Not required by US federal rules for entry, but embalmed remains are exempt from the CDC death-certificate requirement. Remains of a person who died of certain infectious diseases may need a CDC import permit unless embalmed. Most departure countries and airlines require embalming anyway.",
+    "consular": "No legalisation is required for entry. If a US citizen dies abroad, the US embassy or consulate can issue a Consular Report of Death Abroad and, where no death certificate exists, a Consular Mortuary Certificate. Foreign-language documents need an English translation.",
+    "arrival": "CBP clears the remains at the first US port of entry, with CDC requirements checked against the documents. Under 42 CFR 71.55 the remains must go directly to a licensed mortuary, cemetery or crematory. Under Puerto Rico's Funeral Services Act (Law 258-2012), only registered funeral homes and funeral directors may receive a body into Puerto Rico, and the transfer and burial or cremation permit of a person who died outside Puerto Rico serves as proof of death.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "Human remains on a private or charter flight need the same documents as airline cargo; the documents travel with the coffin and are presented to customs and health officials at the arrival airport. The coffin (typically about 2.2 m long, 70-100 kg once zinc-lined) must physically fit the aircraft's cargo door or a cabin configured for it, which rules out many light and midsize jets. An international arrival into Puerto Rico must clear US Customs and Border Protection, so plan the flight to an airport where CBP clearance can be arranged in advance and have the receiving funeral home meet the aircraft. A flight from the US mainland is a domestic flight and needs no CBP entry, but the state burial-transit permit must travel with the remains.",
+    "private_jet_alert": false,
+    "private_jet_note": "International arrivals must clear CBP; arrange clearance before take-off.",
+    "export": "Under Law 258-2012, a transfer permit (permiso de traslado) is required only when the body leaves Puerto Rico; it is requested by the licensed funeral director from the Demographic Registry (Registro Demografico) or Environmental Health (Salud Ambiental) of the Department of Health, and the body cannot leave before it is issued. Airlines and shipping companies must ask for this permit and for the documents required by the destination. Every body leaving Puerto Rico must be embalmed by a licensed embalmer, except for the US: embalming is not required there if the death certificate shows no contagious or quarantinable disease and the body is in a leak-proof container. For destinations outside the US, the funeral director must contact the destination country's consulate and meet its requirements. Bodies under the Institute of Forensic Sciences cannot be embalmed without its authorisation.",
+    "export_points": [
+      "Funeral director obtains the transfer permit from the Demographic Registry or Environmental Health",
+      "Embalming by a licensed embalmer required, except leak-proof transfers to the US",
+      "Destination consulate's requirements apply for international transfers",
+      "Forensic cases need Institute of Forensic Sciences approval before embalming"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Required unless embalmed; English translation",
+      "embalming": "Not required by federal law for entry",
+      "coffin": "Leak-proof container or sealed casket",
+      "laissez_passer": "Not applicable (US rules)",
+      "consular": "US consular mortuary certificate if needed",
+      "permit": "CDC permit only for infectious diseases",
+      "arrival": "CBP clearance; licensed funeral home receives"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Register the death abroad and appoint a local funeral director and a receiving funeral home in Puerto Rico"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain the death certificate (cause of death), embalming certificate and local removal permit"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "If a US citizen, request the Consular Report of Death or Mortuary Certificate from the US embassy"
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Place the body in a leak-proof sealed casket and book the flight with CBP clearance arranged"
+      },
+      {
+        "when": "On arrival",
+        "what": "CBP clearance, then direct transfer to the licensed funeral home for burial or cremation permits"
+      }
+    ],
+    "key_points": [
+      "Federal CDC rules apply exactly as on the US mainland",
+      "Embalming removes the death-certificate requirement for CDC purposes",
+      "Leaving Puerto Rico, embalming is mandatory except leak-proof transfers to the US"
+    ],
+    "lead_days": 2,
+    "authority": "US CDC and CBP (entry); Puerto Rico Department of Health, Demographic Registry and Environmental Health (exit)",
+    "sources": [
+      "https://www.cdc.gov/importation/human-remains/index.html",
+      "https://www.law.cornell.edu/cfr/text/42/71.1",
+      "https://www.law.cornell.edu/cfr/text/42/71.55",
+      "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/258-2012.pdf"
+    ],
+    "confidence": "high",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "VI",
+    "name": "US Virgin Islands",
+    "status": "requirements",
+    "summary": "US Virgin Islands is a US territory, so a casket arriving from abroad is subject to the same federal CDC rules as the US mainland (42 CFR 71 expressly covers US Virgin Islands): the remains must be in a leak-proof container and, unless embalmed, travel with a death certificate stating the cause of death. A licensed local funeral home receives the remains after CBP clearance.",
+    "documents": [
+      "Death certificate stating the cause of death (English or with a translation), unless the remains are embalmed",
+      "Embalming certificate where the body is embalmed",
+      "Consular Report of Death Abroad or Consular Mortuary Certificate from the US embassy if the deceased was a US citizen",
+      "Removal or export permit from the country of departure",
+      "Passport of the deceased and air waybill or flight manifest",
+      "Name and contact of the receiving licensed funeral home in US Virgin Islands"
+    ],
+    "coffin": "CDC requires all non-cremated remains to be fully contained in a leak-proof container (for example a casket with a leak-proof lining or a sealed metal transfer case). No territorial rule on zinc lining or witnessed sealing was found; the country of departure may impose a hermetically sealed zinc-lined coffin.",
+    "embalming": "Not required by US federal rules for entry, but embalmed remains are exempt from the CDC death-certificate requirement. Remains of a person who died of certain infectious diseases may need a CDC import permit unless embalmed. Most departure countries and airlines require embalming anyway.",
+    "consular": "No legalisation is required for entry. If a US citizen dies abroad, the US embassy or consulate can issue a Consular Report of Death Abroad and, where no death certificate exists, a Consular Mortuary Certificate. Foreign-language documents need an English translation.",
+    "arrival": "CBP clears the remains at the first US port of entry, with CDC requirements checked against the documents. Under 42 CFR 71.55 the remains must go directly to a licensed mortuary, cemetery or crematory. The receiving funeral home then handles the local burial or cremation formalities with the Virgin Islands Department of Health Office of Vital Records and Statistics; the territory's own requirements are not published online.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "Human remains on a private or charter flight need the same documents as airline cargo; the documents travel with the coffin and are presented to customs and health officials at the arrival airport. The coffin (typically about 2.2 m long, 70-100 kg once zinc-lined) must physically fit the aircraft's cargo door or a cabin configured for it, which rules out many light and midsize jets. An international arrival into US Virgin Islands must clear US Customs and Border Protection, so plan the flight to an airport where CBP clearance can be arranged in advance and have the receiving funeral home meet the aircraft. A flight from the US mainland is a domestic flight and needs no CBP entry, but the state burial-transit permit must travel with the remains.",
+    "private_jet_alert": false,
+    "private_jet_note": "International arrivals must clear CBP; arrange clearance before take-off.",
+    "export": "Not published online. The Department of Health Office of Vital Records and Statistics registers deaths and works with funeral homes; a licensed funeral home normally obtains the death certificate and a removal or burial-transit permit before departure. For destinations outside the US, the destination consulate's requirements (embalming, sealed coffin, legalisation) apply. Confirm with the Office of Vital Records (St Thomas or St Croix).",
+    "export_points": [
+      "Funeral home obtains certified death certificate and removal permit",
+      "Office of Vital Records and Statistics registers the death",
+      "Destination consulate's requirements apply abroad",
+      "Territorial rules not published online; confirm locally"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Required unless embalmed; English translation",
+      "embalming": "Not required by federal law for entry",
+      "coffin": "Leak-proof container or sealed casket",
+      "laissez_passer": "Not applicable (US rules)",
+      "consular": "US consular mortuary certificate if needed",
+      "permit": "CDC permit only for infectious diseases",
+      "arrival": "CBP clearance; licensed funeral home receives"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Register the death abroad and appoint a local funeral director and a receiving funeral home in US Virgin Islands"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain the death certificate (cause of death), embalming certificate and local removal permit"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "If a US citizen, request the Consular Report of Death or Mortuary Certificate from the US embassy"
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Place the body in a leak-proof sealed casket and book the flight with CBP clearance arranged"
+      },
+      {
+        "when": "On arrival",
+        "what": "CBP clearance, then direct transfer to the licensed funeral home for burial or cremation permits"
+      }
+    ],
+    "key_points": [
+      "Federal CDC rules apply exactly as on the US mainland",
+      "Embalming removes the death-certificate requirement for CDC purposes",
+      "Local exit rules are not published online; confirm with the funeral home"
+    ],
+    "lead_days": null,
+    "authority": "US CDC and CBP (entry); Virgin Islands Department of Health, Office of Vital Records and Statistics (exit)",
+    "sources": [
+      "https://www.cdc.gov/importation/human-remains/index.html",
+      "https://www.law.cornell.edu/cfr/text/42/71.1",
+      "https://www.law.cornell.edu/cfr/text/42/71.55",
+      "https://doh.vi.gov/programs/vital-records-statistics/"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "GU",
+    "name": "Guam",
+    "status": "requirements",
+    "summary": "Guam is a US territory, so a casket arriving from abroad is subject to the same federal CDC rules as the US mainland (42 CFR 71 expressly covers Guam): the remains must be in a leak-proof container and, unless embalmed, travel with a death certificate stating the cause of death. A licensed local funeral home receives the remains after CBP clearance.",
+    "documents": [
+      "Death certificate stating the cause of death (English or with a translation), unless the remains are embalmed",
+      "Embalming certificate where the body is embalmed",
+      "Consular Report of Death Abroad or Consular Mortuary Certificate from the US embassy if the deceased was a US citizen",
+      "Removal or export permit from the country of departure",
+      "Passport of the deceased and air waybill or flight manifest",
+      "Name and contact of the receiving licensed funeral home in Guam"
+    ],
+    "coffin": "CDC requires all non-cremated remains to be fully contained in a leak-proof container (for example a casket with a leak-proof lining or a sealed metal transfer case). No territorial rule on zinc lining or witnessed sealing was found; the country of departure may impose a hermetically sealed zinc-lined coffin.",
+    "embalming": "Not required by US federal rules for entry, but embalmed remains are exempt from the CDC death-certificate requirement. Remains of a person who died of certain infectious diseases may need a CDC import permit unless embalmed. Most departure countries and airlines require embalming anyway.",
+    "consular": "No legalisation is required for entry. If a US citizen dies abroad, the US embassy or consulate can issue a Consular Report of Death Abroad and, where no death certificate exists, a Consular Mortuary Certificate. Foreign-language documents need an English translation.",
+    "arrival": "CBP clears the remains at the first US port of entry, with CDC requirements checked against the documents. Under 42 CFR 71.55 the remains must go directly to a licensed mortuary, cemetery or crematory. Under Guam law (10 GCA 3230), a permit issued under the law of any state which accompanies a body brought into Guam for final disposition is the authority to dispose of it, but the Director of Public Health may order a particular form of burial or disposition given the cause of death.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "Human remains on a private or charter flight need the same documents as airline cargo; the documents travel with the coffin and are presented to customs and health officials at the arrival airport. The coffin (typically about 2.2 m long, 70-100 kg once zinc-lined) must physically fit the aircraft's cargo door or a cabin configured for it, which rules out many light and midsize jets. An international arrival into Guam must clear US Customs and Border Protection, so plan the flight to an airport where CBP clearance can be arranged in advance and have the receiving funeral home meet the aircraft. A flight from the US mainland is a domestic flight and needs no CBP entry, but the state burial-transit permit must travel with the remains.",
+    "private_jet_alert": false,
+    "private_jet_note": "International arrivals must clear CBP; arrange clearance before take-off.",
+    "export": "Under 10 GCA 3230, no body may be buried, cremated or removed from Guam without a burial-transit permit issued by the Office of Vital Statistics (Department of Public Health and Social Services). The person first taking custody of the body must obtain it within 72 hours after death, and it is issued only after the death certificate has been filed. Permits for disposition outside Guam are issued only when the disposition complies with the Director's regulations. The destination consulate's requirements also apply.",
+    "export_points": [
+      "Burial-transit permit from the Office of Vital Statistics",
+      "Permit due within 72 hours of death",
+      "Death certificate must be filed first",
+      "Destination consulate's requirements apply abroad"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Required unless embalmed; English translation",
+      "embalming": "Not required by federal law for entry",
+      "coffin": "Leak-proof container or sealed casket",
+      "laissez_passer": "Not applicable (US rules)",
+      "consular": "US consular mortuary certificate if needed",
+      "permit": "CDC permit only for infectious diseases",
+      "arrival": "CBP clearance; licensed funeral home receives"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Register the death abroad and appoint a local funeral director and a receiving funeral home in Guam"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain the death certificate (cause of death), embalming certificate and local removal permit"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "If a US citizen, request the Consular Report of Death or Mortuary Certificate from the US embassy"
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Place the body in a leak-proof sealed casket and book the flight with CBP clearance arranged"
+      },
+      {
+        "when": "On arrival",
+        "what": "CBP clearance, then direct transfer to the licensed funeral home for burial or cremation permits"
+      }
+    ],
+    "key_points": [
+      "Federal CDC rules apply exactly as on the US mainland",
+      "Embalming removes the death-certificate requirement for CDC purposes",
+      "A US state permit accompanying the body is accepted in Guam"
+    ],
+    "lead_days": 2,
+    "authority": "US CDC and CBP (entry); Guam Office of Vital Statistics, Department of Public Health and Social Services (exit)",
+    "sources": [
+      "https://www.cdc.gov/importation/human-remains/index.html",
+      "https://www.law.cornell.edu/cfr/text/42/71.1",
+      "https://www.law.cornell.edu/cfr/text/42/71.55",
+      "https://col.guamcourts.gov/sites/default/files/10gc003_Q.pdf"
+    ],
+    "confidence": "high",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "VG",
+    "name": "British Virgin Islands",
+    "status": "unknown",
+    "summary": "No official published procedure for bringing a casket into British Virgin Islands was found. The British Virgin Islands is a UK Overseas Territory with its own laws; UK rules do not apply directly. Confirm requirements with the local registrar or health authority through the receiving funeral home before departure.",
+    "documents": [
+      "Death certificate (English translation if needed)",
+      "Embalming certificate",
+      "Removal or export permit from the country of death",
+      "Non-contagious disease certificate (commonly requested; confirm)",
+      "Passport of the deceased",
+      "Name of the receiving local funeral home"
+    ],
+    "coffin": "Not published officially. A hermetically sealed (usually zinc-lined) coffin in a wooden outer case is the usual standard for air transport; confirm with the local health authority and the carrier.",
+    "embalming": "No published local rule was found. Embalming is normally required by the departure country and by carriers.",
+    "consular": "Not published officially. Ask the local authority whether foreign documents must be apostilled or legalised.",
+    "arrival": "Not published officially. The receiving local funeral home normally arranges customs and health clearance and the local burial or cremation formalities.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "Human remains on a private or charter flight need the same documents as airline cargo; the documents travel with the coffin and are presented to customs and health officials at the arrival airport. The coffin (typically about 2.2 m long, 70-100 kg once zinc-lined) must physically fit the aircraft's cargo door or a cabin configured for it, which rules out many light and midsize jets. Land at the territory's port of entry airport with customs and health officers and have the receiving funeral home meet the aircraft. No specific rule for private flights carrying remains was found.",
+    "private_jet_alert": false,
+    "private_jet_note": "Confirm documents with the local health authority before take-off.",
+    "export": "Not published online. A local funeral home normally registers the death with the Civil Registry, obtains the death certificate and a removal permit, and arranges embalming and sealing to meet the destination country's rules.",
+    "export_points": [
+      "Death registered with the local civil registry",
+      "Local removal permit and embalming expected",
+      "Destination consulate's requirements apply",
+      "Not published officially; confirm locally"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Required; translation if not English",
+      "embalming": "Expected; not officially published",
+      "coffin": "Sealed coffin usual; confirm locally",
+      "laissez_passer": "Not a Strasbourg party",
+      "consular": "Confirm legalisation locally",
+      "permit": "Not officially published",
+      "arrival": "Local funeral home handles clearance"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Appoint a funeral home in British Virgin Islands and ask it to confirm local entry requirements"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain death certificate, embalming certificate and removal permit in the country of death"
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Seal the coffin and send the documents ahead to the receiving funeral home"
+      },
+      {
+        "when": "Day 3-5",
+        "what": "Fly to the port of entry airport with customs clearance arranged"
+      },
+      {
+        "when": "On arrival",
+        "what": "Funeral home clears the coffin and arranges burial or cremation"
+      }
+    ],
+    "key_points": [
+      "Local entry rules are not published online",
+      "The receiving funeral home is the practical point of contact",
+      "Check the departure country's sealing and embalming rules"
+    ],
+    "lead_days": null,
+    "authority": "Government of the Virgin Islands: Civil Registry and Ministry of Health (not confirmed online)",
+    "sources": [],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "AI",
+    "name": "Anguilla",
+    "status": "unknown",
+    "summary": "No official published procedure for bringing a casket into Anguilla was found. Anguilla is a UK Overseas Territory with its own laws; UK rules do not apply directly. Confirm requirements with the local registrar or health authority through the receiving funeral home before departure.",
+    "documents": [
+      "Death certificate (English translation if needed)",
+      "Embalming certificate",
+      "Removal or export permit from the country of death",
+      "Non-contagious disease certificate (commonly requested; confirm)",
+      "Passport of the deceased",
+      "Name of the receiving local funeral home"
+    ],
+    "coffin": "Not published officially. A hermetically sealed (usually zinc-lined) coffin in a wooden outer case is the usual standard for air transport; confirm with the local health authority and the carrier.",
+    "embalming": "No published local rule was found. Embalming is normally required by the departure country and by carriers.",
+    "consular": "Not published officially. Ask the local authority whether foreign documents must be apostilled or legalised.",
+    "arrival": "Not published officially. The receiving local funeral home normally arranges customs and health clearance and the local burial or cremation formalities.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "Human remains on a private or charter flight need the same documents as airline cargo; the documents travel with the coffin and are presented to customs and health officials at the arrival airport. The coffin (typically about 2.2 m long, 70-100 kg once zinc-lined) must physically fit the aircraft's cargo door or a cabin configured for it, which rules out many light and midsize jets. Land at the territory's port of entry airport with customs and health officers and have the receiving funeral home meet the aircraft. No specific rule for private flights carrying remains was found.",
+    "private_jet_alert": false,
+    "private_jet_note": "Confirm documents with the local health authority before take-off.",
+    "export": "Not published online. A local funeral home normally registers the death, obtains the death certificate and a removal permit, and arranges embalming and sealing to meet the destination country's rules.",
+    "export_points": [
+      "Death registered with the local civil registry",
+      "Local removal permit and embalming expected",
+      "Destination consulate's requirements apply",
+      "Not published officially; confirm locally"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Required; translation if not English",
+      "embalming": "Expected; not officially published",
+      "coffin": "Sealed coffin usual; confirm locally",
+      "laissez_passer": "Not a Strasbourg party",
+      "consular": "Confirm legalisation locally",
+      "permit": "Not officially published",
+      "arrival": "Local funeral home handles clearance"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Appoint a funeral home in Anguilla and ask it to confirm local entry requirements"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain death certificate, embalming certificate and removal permit in the country of death"
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Seal the coffin and send the documents ahead to the receiving funeral home"
+      },
+      {
+        "when": "Day 3-5",
+        "what": "Fly to the port of entry airport with customs clearance arranged"
+      },
+      {
+        "when": "On arrival",
+        "what": "Funeral home clears the coffin and arranges burial or cremation"
+      }
+    ],
+    "key_points": [
+      "Local entry rules are not published online",
+      "The receiving funeral home is the practical point of contact",
+      "Check the departure country's sealing and embalming rules"
+    ],
+    "lead_days": null,
+    "authority": "Government of Anguilla: Civil Registry and Ministry of Health (not confirmed online)",
+    "sources": [],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "SX",
+    "name": "Sint Maarten",
+    "status": "unknown",
+    "summary": "No official published procedure for bringing a casket into Sint Maarten was found. Sint Maarten is a country within the Kingdom of the Netherlands with its own legislation; the Strasbourg Agreement as ratified by the Kingdom was declared for the Netherlands only, so a Strasbourg laissez-passer cannot be assumed to apply. Confirm requirements with the local registrar or health authority through the receiving funeral home before departure.",
+    "documents": [
+      "Death certificate (English translation if needed)",
+      "Embalming certificate",
+      "Removal or export permit from the country of death",
+      "Non-contagious disease certificate (commonly requested; confirm)",
+      "Passport of the deceased",
+      "Name of the receiving local funeral home"
+    ],
+    "coffin": "Not published officially. A hermetically sealed (usually zinc-lined) coffin in a wooden outer case is the usual standard for air transport; confirm with the local health authority and the carrier.",
+    "embalming": "No published local rule was found. Embalming is normally required by the departure country and by carriers.",
+    "consular": "Not published officially. Ask the local authority whether foreign documents must be apostilled or legalised.",
+    "arrival": "Not published officially. The receiving local funeral home normally arranges customs and health clearance and the local burial or cremation formalities.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "Human remains on a private or charter flight need the same documents as airline cargo; the documents travel with the coffin and are presented to customs and health officials at the arrival airport. The coffin (typically about 2.2 m long, 70-100 kg once zinc-lined) must physically fit the aircraft's cargo door or a cabin configured for it, which rules out many light and midsize jets. Land at Princess Juliana International Airport with customs clearance arranged and have the receiving funeral home meet the aircraft. No specific rule for private flights carrying remains was found.",
+    "private_jet_alert": false,
+    "private_jet_note": "Confirm documents with the local health authority before take-off.",
+    "export": "Not published online. The Civil Registry registers deaths; a local funeral home normally obtains the death certificate and any removal permit and arranges embalming and sealing to meet the destination country's rules. Confirm with the Civil Registry (+1 721 542 0349).",
+    "export_points": [
+      "Death registered with the local civil registry",
+      "Local removal permit and embalming expected",
+      "Destination consulate's requirements apply",
+      "Not published officially; confirm locally"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Required; translation if not English",
+      "embalming": "Expected; not officially published",
+      "coffin": "Sealed coffin usual; confirm locally",
+      "laissez_passer": "Not a Strasbourg party",
+      "consular": "Confirm legalisation locally",
+      "permit": "Not officially published",
+      "arrival": "Local funeral home handles clearance"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Appoint a funeral home in Sint Maarten and ask it to confirm local entry requirements"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain death certificate, embalming certificate and removal permit in the country of death"
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Seal the coffin and send the documents ahead to the receiving funeral home"
+      },
+      {
+        "when": "Day 3-5",
+        "what": "Fly to the port of entry airport with customs clearance arranged"
+      },
+      {
+        "when": "On arrival",
+        "what": "Funeral home clears the coffin and arranges burial or cremation"
+      }
+    ],
+    "key_points": [
+      "Local entry rules are not published online",
+      "The receiving funeral home is the practical point of contact",
+      "Check the departure country's sealing and embalming rules"
+    ],
+    "lead_days": null,
+    "authority": "Sint Maarten Civil Registry and Ministry of Public Health, Social Development and Labour (not confirmed online)",
+    "sources": [
+      "https://www.sintmaartengov.org/Ministries/Departments/Pages/Civil-Registry.aspx",
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "MF",
+    "name": "Saint Martin (France)",
+    "status": "requirements",
+    "summary": "Saint Martin (France) is a French overseas collectivity, so French rules apply: entry of a body from abroad is authorised by the French embassy or consulate in the country of departure, and an airtight (metal-lined) coffin is mandatory for air transport.",
+    "documents": [
+      "Death certificate from the country of death (transcription into French civil status by the consulate is possible)",
+      "Medical certificate of cause of death or non-contagious disease certificate",
+      "Embalming or conservation certificate where required by the departure country",
+      "Transport authorisation from the French embassy or consulate (or laissez-passer from a Strasbourg Agreement state)",
+      "Coffin sealing report from the local authority or consulate",
+      "Name of the receiving funeral home"
+    ],
+    "coffin": "For air transport an airtight coffin (metal box, in practice a soldered zinc lining inside a wooden coffin) is mandatory under French rules. A hermetically sealed coffin generally cannot be cremated without reopening, which is restricted.",
+    "embalming": "France does not impose a single rule for incoming bodies; embalming or conservation care is normally required by the departure country and by carriers. Confirm with the consulate.",
+    "consular": "The French embassy or consulate in the country of death authorises entry of the body into French territory and can transcribe the foreign death certificate. From Strasbourg Agreement states, the laissez-passer issued there is used. Families bear all costs.",
+    "arrival": "The receiving funeral home takes charge at the airport. The French 14-day burial or cremation deadline counts from the body's entry into France; how it applies in the overseas collectivity was not confirmed, so check with the funeral home. Transfers between the collectivity and mainland France are authorised by the State's representative in the collectivity (towards mainland France) or by the prefect (from mainland France).",
+    "pouch_accepted": false,
+    "pouch": null,
+    "private_aviation": "Human remains on a private or charter flight need the same documents as airline cargo; the documents travel with the coffin and are presented to customs and health officials at the arrival airport. The coffin (typically about 2.2 m long, 70-100 kg once zinc-lined) must physically fit the aircraft's cargo door or a cabin configured for it, which rules out many light and midsize jets.  Saint Martin shares its island with Sint Maarten; Grand Case airport is small, so many coffin flights use Princess Juliana airport on the Dutch side. Confirm customs and transfer arrangements across the island in advance. The French airtight coffin rule applies to any air transport, including private flights.",
+    "private_jet_alert": false,
+    "private_jet_note": "Airtight zinc-lined coffin mandatory for any flight.",
+    "export": "To send a body out of French territory, the funeral home obtains authorisation from the State's representative (prefect) for the place where the coffin is closed; for this collectivity that is the prefect delegate for Saint-Barthelemy and Saint-Martin (confirm locally). An airtight coffin is mandatory for air transport, and the destination country's consular requirements also apply.",
+    "export_points": [
+      "State representative (prefect) authorises transport",
+      "Airtight metal-lined coffin mandatory by air",
+      "Destination consulate requirements apply",
+      "Families bear the costs; check insurance"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Local certificate; consular transcription possible",
+      "embalming": "Usually required by departure country",
+      "coffin": "Airtight metal-lined coffin mandatory by air",
+      "laissez_passer": "Accepted from Strasbourg Agreement states",
+      "consular": "French consulate authorises entry",
+      "permit": "Consular transport authorisation",
+      "arrival": "Funeral home collects at airport"
+    },
+    "steps": [
+      {
+        "when": "Day 0-1",
+        "what": "Register the death locally and contact the French consulate; appoint funeral directors at both ends"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain death certificate, medical certificate and embalming as required locally"
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Coffin placed in an airtight zinc-lined coffin and sealed; consulate issues the transport authorisation"
+      },
+      {
+        "when": "Day 3-5",
+        "what": "Flight with the documents travelling with the coffin"
+      },
+      {
+        "when": "On arrival",
+        "what": "Funeral home collects the coffin and arranges the funeral"
+      }
+    ],
+    "key_points": [
+      "French rules apply in the overseas collectivities",
+      "Airtight zinc-lined coffin compulsory by air",
+      "Hermetic coffins complicate cremation"
+    ],
+    "lead_days": 3,
+    "authority": "French embassy or consulate abroad (entry); State representative, prefect delegate for Saint-Barthelemy and Saint-Martin (exit)",
+    "sources": [
+      "https://www.service-public.gouv.fr/particuliers/vosdroits/F35706?lang=en",
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "BL",
+    "name": "Saint Barthélemy",
+    "status": "requirements",
+    "summary": "Saint Barthelemy is a French overseas collectivity, so French rules apply: entry of a body from abroad is authorised by the French embassy or consulate in the country of departure, and an airtight (metal-lined) coffin is mandatory for air transport.",
+    "documents": [
+      "Death certificate from the country of death (transcription into French civil status by the consulate is possible)",
+      "Medical certificate of cause of death or non-contagious disease certificate",
+      "Embalming or conservation certificate where required by the departure country",
+      "Transport authorisation from the French embassy or consulate (or laissez-passer from a Strasbourg Agreement state)",
+      "Coffin sealing report from the local authority or consulate",
+      "Name of the receiving funeral home"
+    ],
+    "coffin": "For air transport an airtight coffin (metal box, in practice a soldered zinc lining inside a wooden coffin) is mandatory under French rules. A hermetically sealed coffin generally cannot be cremated without reopening, which is restricted.",
+    "embalming": "France does not impose a single rule for incoming bodies; embalming or conservation care is normally required by the departure country and by carriers. Confirm with the consulate.",
+    "consular": "The French embassy or consulate in the country of death authorises entry of the body into French territory and can transcribe the foreign death certificate. From Strasbourg Agreement states, the laissez-passer issued there is used. Families bear all costs.",
+    "arrival": "The receiving funeral home takes charge at the airport. The French 14-day burial or cremation deadline counts from the body's entry into France; how it applies in the overseas collectivity was not confirmed, so check with the funeral home. Transfers between the collectivity and mainland France are authorised by the State's representative in the collectivity (towards mainland France) or by the prefect (from mainland France).",
+    "pouch_accepted": false,
+    "pouch": null,
+    "private_aviation": "Human remains on a private or charter flight need the same documents as airline cargo; the documents travel with the coffin and are presented to customs and health officials at the arrival airport. The coffin (typically about 2.2 m long, 70-100 kg once zinc-lined) must physically fit the aircraft's cargo door or a cabin configured for it, which rules out many light and midsize jets.  Saint-Barthelemy airport has a very short runway usable only by small aircraft with specially qualified pilots, so most jets cannot land there; plan a transfer via Saint Martin or Guadeloupe. The French airtight coffin rule applies to any air transport, including private flights.",
+    "private_jet_alert": true,
+    "private_jet_note": "Most jets cannot land in St Barth; plan an onward transfer.",
+    "export": "To send a body out of French territory, the funeral home obtains authorisation from the State's representative (prefect) for the place where the coffin is closed; for this collectivity that is the prefect delegate for Saint-Barthelemy and Saint-Martin (confirm locally). An airtight coffin is mandatory for air transport, and the destination country's consular requirements also apply.",
+    "export_points": [
+      "State representative (prefect) authorises transport",
+      "Airtight metal-lined coffin mandatory by air",
+      "Destination consulate requirements apply",
+      "Families bear the costs; check insurance"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Local certificate; consular transcription possible",
+      "embalming": "Usually required by departure country",
+      "coffin": "Airtight metal-lined coffin mandatory by air",
+      "laissez_passer": "Accepted from Strasbourg Agreement states",
+      "consular": "French consulate authorises entry",
+      "permit": "Consular transport authorisation",
+      "arrival": "Funeral home collects at airport"
+    },
+    "steps": [
+      {
+        "when": "Day 0-1",
+        "what": "Register the death locally and contact the French consulate; appoint funeral directors at both ends"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain death certificate, medical certificate and embalming as required locally"
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Coffin placed in an airtight zinc-lined coffin and sealed; consulate issues the transport authorisation"
+      },
+      {
+        "when": "Day 3-5",
+        "what": "Flight with the documents travelling with the coffin"
+      },
+      {
+        "when": "On arrival",
+        "what": "Funeral home collects the coffin and arranges the funeral"
+      }
+    ],
+    "key_points": [
+      "French rules apply in the overseas collectivities",
+      "Airtight zinc-lined coffin compulsory by air",
+      "Hermetic coffins complicate cremation"
+    ],
+    "lead_days": 3,
+    "authority": "French embassy or consulate abroad (entry); State representative, prefect delegate for Saint-Barthelemy and Saint-Martin (exit)",
+    "sources": [
+      "https://www.service-public.gouv.fr/particuliers/vosdroits/F35706?lang=en",
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "AG",
+    "name": "Antigua and Barbuda",
+    "status": "unknown",
+    "summary": "No official Antiguan page describing the entry of a casket was found; the receiving local funeral home should confirm requirements. For bodies leaving the country, local funeral directors provide the civil registry death certificate, an embalming certificate and a certificate giving permission to transfer the remains.",
+    "documents": [
+      "Death certificate (English translation if needed)",
+      "Embalming certificate",
+      "Removal or export permit from the country of death",
+      "Non-contagious disease certificate (commonly requested; confirm)",
+      "Passport of the deceased",
+      "Name of the receiving local funeral home"
+    ],
+    "coffin": "Not published officially. A hermetically sealed (usually zinc-lined) coffin in a wooden outer case is the usual standard for air transport; confirm with the local funeral home and the carrier.",
+    "embalming": "No published entry rule. Embalming is normally required by the departure country and carriers; an embalming certificate is part of the export file.",
+    "consular": "Not published officially. Ask the receiving funeral home whether foreign documents must be legalised or apostilled.",
+    "arrival": "Not published officially. The receiving funeral home normally arranges customs and health clearance. There are no cremation facilities in Antigua or Barbuda; cremation is arranged abroad (for example Puerto Rico, Barbados or Grenada).",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "Human remains on a private or charter flight need the same documents as airline cargo; the documents travel with the coffin and are presented to customs and health officials at the arrival airport. The coffin (typically about 2.2 m long, 70-100 kg once zinc-lined) must physically fit the aircraft's cargo door or a cabin configured for it, which rules out many light and midsize jets. Land at V. C. Bird International Airport with customs clearance arranged and have the receiving funeral home meet the aircraft. No specific rule for private flights carrying remains was found.",
+    "private_jet_alert": false,
+    "private_jet_note": "Confirm entry documents with the local funeral home before take-off.",
+    "export": "The death is registered with the Civil Registry, usually by the next of kin or a funeral director with a letter of authorisation; the certificate is issued in English within a few days and states the cause of death. Post-mortems are carried out by forensic doctors appointed by the hospital or court and their timing depends on the police investigation, which can delay release of the body. Local funeral directors provide the death certificate, a certificate of embalming and a certificate giving permission to transfer the remains. Infectious conditions must be reported to the local authorities.",
+    "export_points": [
+      "Civil Registry death certificate in English, within a few days",
+      "Embalming certificate and permission to transfer required",
+      "Police-led post-mortem timing can delay release",
+      "No crematorium; cremation is arranged abroad"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Required; translation if not English",
+      "embalming": "Expected; certificate in export file",
+      "coffin": "Sealed coffin usual; confirm locally",
+      "laissez_passer": "Not a Strasbourg party",
+      "consular": "Confirm legalisation locally",
+      "permit": "Not officially published for entry",
+      "arrival": "Local funeral home handles clearance"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Appoint a funeral home in Antigua and Barbuda and ask it to confirm entry requirements"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain death certificate, embalming certificate and removal permit in the country of death"
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Seal the coffin and send the documents ahead to the receiving funeral home"
+      },
+      {
+        "when": "Day 3-5",
+        "what": "Fly to V. C. Bird International Airport with customs clearance arranged"
+      },
+      {
+        "when": "On arrival",
+        "what": "Funeral home clears the coffin and arranges the burial"
+      }
+    ],
+    "key_points": [
+      "Entry rules are not published online",
+      "No cremation facilities in the country",
+      "Death certificates are in English and show the cause of death"
+    ],
+    "lead_days": null,
+    "authority": "Civil Registry of Antigua and Barbuda; local funeral directors",
+    "sources": [
+      "https://www.gov.uk/guidance/what-to-do-after-a-british-person-dies-in-antigua-and-barbuda"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  }
+]

@@ -1,0 +1,798 @@
+[
+  {
+    "cc": "AU",
+    "name": "Australia",
+    "status": "requirements",
+    "summary": "Human remains may be brought into Australia for burial or cremation without an import declaration, provided official documentation such as a copy of the death certificate travels with them; without it, official permission is needed. An Australian funeral director or customs broker should be engaged to manage human biosecurity clearance on arrival.",
+    "documents": [
+      "Copy of the official death certificate (or register extract) stating the cause of death",
+      "If no cause of death is available: a medical practitioner's statement that the body shows no sign of communicable disease (Department of Health guidance; confirm)",
+      "Embalming certificate and export or transit permit required by the country of death and the airline",
+      "Air waybill and copy of the deceased's passport"
+    ],
+    "coffin": "The Department of Health's human remains guidance (seen via search, page not reachable during this check) requires remains for burial or cremation to arrive in a hermetically sealed container and to be moved from the port of arrival under the control of a funeral director or coroner. In practice a sealed, usually zinc-lined, coffin in an outer case meeting IATA/airline rules is used.",
+    "embalming": "Not set as an Australian import requirement in the pages consulted; embalming is normally required by the country of departure and by airlines. NSW Health notes that embalming is generally required for international transport, with freezing or dry ice as an alternative.",
+    "consular": "Australia does not require consular legalisation of incoming documents for human remains. The departure country's export rules and documents apply; translations into English are advisable.",
+    "arrival": "Remains are subject to human biosecurity controls on arrival and are collected by an Australian funeral director (or under a coroner's control). No import declaration is required for remains brought in for burial or cremation. Burial or cremation then follows state or territory rules; there is no general national burial deadline.",
+    "pouch_accepted": false,
+    "pouch": null,
+    "private_aviation": "Private international flights must arrive at an airport with border and biosecurity clearance and be reported to the Australian Border Force in advance. The casket must be presented with its documents for biosecurity clearance, and a funeral director should meet the aircraft. No rule barring human remains on private aircraft was found.",
+    "private_jet_alert": false,
+    "private_jet_note": "Arrange border and biosecurity clearance in advance and have a funeral director meet the aircraft.",
+    "export": "To send a body abroad, the funeral director gathers the death certificate, medical certificate of cause of death, embalming certificate and, where the destination requires it, a transit or no-objection letter from the state health authority (for example NSW Public Health Units need documents at least 48 hours ahead; Victoria's Department of Health issues repatriation letters, also with 48 hours notice). Embalming is generally required, with freezing or dry ice as an alternative if the receiving country accepts it. The destination consulate may add requirements.",
+    "export_points": [
+      "Death certificate and medical certificate of cause of death",
+      "Embalming certificate (or freezing/dry ice if destination accepts)",
+      "State health transit or repatriation letter, about 48 hours notice",
+      "Coroner's release order for coroner's cases"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Copy stating cause must accompany remains",
+      "embalming": "Required by origin country and airline",
+      "coffin": "Hermetically sealed container required",
+      "laissez_passer": "Not used",
+      "consular": "No Australian legalisation needed",
+      "permit": "None if documents complete",
+      "arrival": "Biosecurity check; funeral director collects"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Appoint a funeral director in the country of death and one in Australia."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain the death certificate stating the cause of death and the local export permit."
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Embalming and sealing in a hermetically sealed coffin; airline booking."
+      },
+      {
+        "when": "Day 3-4",
+        "what": "Australian funeral director or customs broker prepares biosecurity clearance."
+      },
+      {
+        "when": "Arrival",
+        "what": "Biosecurity and border clearance; funeral director collects the coffin."
+      },
+      {
+        "when": "After arrival",
+        "what": "Burial or cremation under state or territory rules."
+      }
+    ],
+    "key_points": [
+      "Missing death certificate means official permission is needed first.",
+      "No import declaration is needed for remains for burial or cremation.",
+      "Ashes need no import permit; avoid wooden urns.",
+      "A new human remains biosecurity instrument was made in September 2026; check current text."
+    ],
+    "lead_days": 3,
+    "authority": "Department of Health, Disability and Ageing (human biosecurity) with the Australian Border Force",
+    "sources": [
+      "https://health.vic.gov.au/cemeteries-and-crematoria/repatriations",
+      "https://www.health.nsw.gov.au/environment/dotd/Documents/transit-body-overseas.pdf",
+      "https://www.legislation.gov.au/F2026L01166/asmade"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "NZ",
+    "name": "New Zealand",
+    "status": "requirements",
+    "summary": "A casket arriving in New Zealand by air freight is cleared by NZ Customs on the freight documents, a copy of the importer's photo ID and the death certificate; no import permit was found. A New Zealand funeral director receives the body, and a coroner may review the cause of death if there are concerns about the overseas findings.",
+    "documents": [
+      "Death certificate",
+      "Freight documents (air waybill or arrival notice)",
+      "Copy of the importer's photo ID",
+      "Embalming certificate and export permit required by the country of death and airline"
+    ],
+    "coffin": "No New Zealand-specific casket standard was found on official pages; a hermetically sealed coffin meeting airline and IATA requirements is normally used.",
+    "embalming": "Not set as a New Zealand import requirement in official pages consulted; usually required by the country of departure and the airline.",
+    "consular": "No consular legalisation is required for entry. NZ embassies and MFAT can advise families and give funeral director contacts but cannot pay repatriation costs.",
+    "arrival": "Customs clearance can be done by the freight service or by sending scanned documents to Customs; urgent after-hours clearance can be requested. A New Zealand funeral director collects the casket. Under the Coroners Act a death abroad can be reported if there are doubts about the overseas findings; the duty coroner then checks whether the cause of death is adequately confirmed. No national burial deadline applies.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "Private international flights must arrive at an airport with Customs, immigration and biosecurity clearance arranged in advance. Remains carried with a traveller need no Customs clearance under Customs guidance, but a casket on a private aircraft should be declared and cleared with its death certificate; confirm with Customs before departure.",
+    "private_jet_alert": false,
+    "private_jet_note": "Confirm Customs and biosecurity clearance for the casket with NZ Customs before departure.",
+    "export": "For remains sent out of New Zealand for interment, the freight forwarder or airline usually handles Customs formalities and no export entry is required. The funeral director arranges the death documents, embalming and a sealed casket to meet the destination country's and airline's rules.",
+    "export_points": [
+      "No Customs export entry needed for remains for interment",
+      "Freight forwarder or airline handles Customs formalities",
+      "Embalming and sealed casket per destination rules",
+      "Check destination consulate requirements"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Required for Customs clearance",
+      "embalming": "Usually required by origin and airline",
+      "coffin": "Sealed casket to airline standard",
+      "laissez_passer": "Not used",
+      "consular": "No legalisation for entry",
+      "permit": "No import permit found",
+      "arrival": "Customs clearance; NZ funeral director collects"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Appoint funeral directors abroad and in New Zealand."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain the death certificate and the origin country's export documents."
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Embalming, sealed casket and flight booking."
+      },
+      {
+        "when": "Before arrival",
+        "what": "Send freight papers, importer ID and death certificate to Customs or the freight agent."
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs clearance and handover to the NZ funeral director."
+      }
+    ],
+    "key_points": [
+      "Families pay repatriation costs; MFAT cannot.",
+      "Ashes carried in person need no Customs documents.",
+      "NZ Post does not accept ashes; use a funeral director or carry them."
+    ],
+    "lead_days": 3,
+    "authority": "New Zealand Customs Service",
+    "sources": [
+      "https://www.customs.govt.nz/personal/travel-to-and-from-nz/human-remains",
+      "https://safetravel.govt.nz/death",
+      "https://www.mfat.govt.nz/assets/NZ-Embassies/Australia-CANBERRA/Bereavement-Info-v2.pdf"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "PG",
+    "name": "Papua New Guinea",
+    "status": "unknown",
+    "summary": "Papua New Guinea does not publish its rules for bringing a casket into the country. Expect to need the death certificate, an embalming certificate and a sealed casket, and confirm health and customs clearance with the PNG High Commission or consulate and a PNG funeral director before departure.",
+    "documents": [
+      "Death certificate with cause of death (in English or translated)",
+      "Embalming certificate (expected; confirm)",
+      "Export permit from the country of death",
+      "Copy of the deceased's passport; air waybill"
+    ],
+    "coffin": "No official PNG standard was found. Use a hermetically sealed casket in an outer case meeting IATA/airline rules; confirm with the PNG consulate.",
+    "embalming": "Not confirmed by an official PNG source for incoming remains; normally required by the departure country and airline.",
+    "consular": "Not published; contact the PNG High Commission or consulate in the country of death to confirm any authorisation or legalisation.",
+    "arrival": "No official arrival procedure was found. Jacksons International Airport, Port Moresby, is the main international gateway. A local funeral home collects the casket; mortuary services are limited outside Port Moresby, Goroka and Lae (gov.uk).",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No official rule specific to private or charter flights carrying human remains was found. The casket is cleared like air cargo: arrive at an international airport with customs, immigration, quarantine and health staff, and have the handling agent and receiving funeral home confirm clearance before departure.",
+    "private_jet_alert": false,
+    "private_jet_note": "Confirm customs and quarantine clearance at Port Moresby before departure.",
+    "export": "The death is registered with the PNG Civil and Identity Registry (usually by the funeral director). To take a body abroad you need the death certificate (issued in English), the deceased's passport and permission to remove the body issued by a coroner. Embalming and casket rules are not published; mortuary capacity is limited outside the main towns.",
+    "export_points": [
+      "Death registered at the Civil and Identity Registry",
+      "Coroner's permission to remove the body",
+      "Death certificate in English and passport",
+      "Limited mortuary services outside Port Moresby, Goroka, Lae"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Required; English or translated",
+      "embalming": "Expected; confirm with consulate",
+      "coffin": "Sealed casket expected",
+      "laissez_passer": "Not used",
+      "consular": "Confirm with PNG consulate",
+      "permit": "Not published; confirm",
+      "arrival": "Port Moresby; local funeral home collects"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the PNG High Commission or consulate and a PNG funeral home."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain the death certificate, embalming certificate and export permit."
+      },
+      {
+        "when": "Day 2-4",
+        "what": "Seal the casket and confirm clearance requirements in writing."
+      },
+      {
+        "when": "Departure",
+        "what": "Fly to Port Moresby with documents travelling with the casket."
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs, quarantine and health clearance; funeral home collects."
+      }
+    ],
+    "key_points": [
+      "Official entry rules are not published.",
+      "Mortuary services are limited outside the main towns.",
+      "Cremation is uncommon in PNG but available."
+    ],
+    "lead_days": null,
+    "authority": "National Department of Health and PNG Customs (not confirmed)",
+    "sources": [
+      "https://www.gov.uk/guidance/when-someone-dies-in-papua-new-guinea",
+      "https://www.gov.uk/government/publications/breavement-information-pack/papua-new-guinea-bereavement-information"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "FJ",
+    "name": "Fiji",
+    "status": "requirements",
+    "summary": "Before a casket arrives, an application letter and supporting documents are emailed to the Ministry of Health and Medical Services and the Nadi Airport Health Office; the duty doctor at Nadi International Airport approves or rejects entry. Processing takes about 24 to 48 hours and a clearance fee of FJD 172.50 is paid on arrival.",
+    "documents": [
+      "Application letter to the Permanent Secretary, Ministry of Health and Medical Services",
+      "Death certificate or medical cause of death certificate",
+      "Doctor's letter that the death was not from an infectious disease and the remains are not infectious",
+      "Embalming certificate stating how the body was embalmed",
+      "Funeral home sealing certificate that the casket is hygienically sealed for transport",
+      "Passport bio page of the deceased and of the consignee; flight itinerary",
+      "English or certified English translation; originals presented on arrival"
+    ],
+    "coffin": "The funeral home must certify that the casket is hygienically sealed and safe for air transport. No zinc-lining specification is published; a sealed casket meeting IATA/airline rules is expected.",
+    "embalming": "Required: an embalming certificate stating how the remains were embalmed must accompany the application.",
+    "consular": "No consular permit is required, but documents must be in English or certified translation. Fiji embassies can write a supporting letter to help expedite the repatriation.",
+    "arrival": "The Health Authority (duty doctor) at Nadi International Airport clears the remains. Fee FJD 172.50 on arrival; FJD 230 if the remains arrive without prior notification; FJD 345 if infectious remains need health supervision. Air Terminal Services (Fiji) handles the cargo; a local funeral home collects.",
+    "pouch_accepted": false,
+    "pouch": null,
+    "private_aviation": "The published procedure applies to all flights and vessels and is handled through the Nadi Airport Health Office. For a private flight, send the documents in advance and arrange arrival at Nadi with customs, quarantine and the airport health officer present.",
+    "private_jet_alert": true,
+    "private_jet_note": "Pre-clear with the Nadi Airport Health Office; remains arriving unnotified incur a higher fee.",
+    "export": "The same Ministry of Health procedure applies to remains leaving Fiji: application letter to the Permanent Secretary, death certificate, non-infectious disease letter, embalming certificate, funeral home sealing certificate, passports and itinerary, emailed in advance to the Nadi Airport Health Office. Departure fee FJD 115. Processing about 24 to 48 hours, longer at weekends and public holidays.",
+    "export_points": [
+      "Ministry of Health application with the same documents",
+      "Embalming and sealing certificates required",
+      "Departure fee FJD 115 to Nadi Airport Health Office",
+      "About 24 to 48 hours processing"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Required, English or certified translation",
+      "embalming": "Required, with embalming certificate",
+      "coffin": "Sealed casket with funeral home certificate",
+      "laissez_passer": "Not used",
+      "consular": "Embassy support letter optional",
+      "permit": "Ministry of Health clearance, 24-48 h",
+      "arrival": "Nadi airport health clearance, FJD 172.50"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Appoint funeral homes abroad and in Fiji; obtain the death certificate."
+      },
+      {
+        "when": "Day 1",
+        "what": "Embalming, casket sealing and the non-infectious disease letter."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Email the application and documents to the Ministry of Health and Nadi Airport Health Office."
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Approval received; confirm handling with Air Terminal Services."
+      },
+      {
+        "when": "Arrival",
+        "what": "Nadi airport health clearance, fee paid, funeral home collects."
+      }
+    ],
+    "key_points": [
+      "Unnotified arrivals pay a higher fee (FJD 230).",
+      "Processing can take longer at weekends and public holidays.",
+      "Ashes follow a lighter procedure (fee FJD 57.50)."
+    ],
+    "lead_days": 2,
+    "authority": "Ministry of Health and Medical Services (Nadi Airport Health Office)",
+    "sources": [
+      "https://fijihighcommission.au/wp-content/uploads/2023/11/Fiji-Human-Remain-Repatriation-Requirements.pdf",
+      "https://www.foreignaffairs.gov.fj/?p=38708"
+    ],
+    "confidence": "high",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "NC",
+    "name": "New Caledonia",
+    "status": "requirements",
+    "summary": "New Caledonia is a French territory: in practice the French embassy or consulate in the country of death issues the authorisation to transport the body to French territory, and the casket arrives sealed with its documents for a local funeral home. Local New Caledonian rules on incoming caskets are not published online; confirm with the French consulate and the funeral home in Noumea.",
+    "documents": [
+      "Death certificate (French translation advisable; transcription into French civil status recommended for French citizens)",
+      "Medical certificate of cause of death / non-contagious disease certificate",
+      "Embalming certificate where required by the departure country",
+      "Body transport authorisation from the French embassy or consulate",
+      "Coffin sealing report"
+    ],
+    "coffin": "No New Caledonia-specific standard was found. French practice for air transport is a hermetically sealed (zinc-lined) coffin; confirm with the consulate and airline.",
+    "embalming": "Not confirmed for New Caledonia; normally required by the departure country and the airline.",
+    "consular": "French consular services can issue an authorisation to transport the body or ashes so the remains leave the foreign country legally (diplomatie.gouv.fr). Families pay all costs. Strasbourg Agreement laissez-passer does not apply to New Caledonia.",
+    "arrival": "A local funeral home collects the casket after customs and health clearance at Noumea-La Tontouta. Burial is authorised by the civil registrar (decree 99-201). No published burial deadline for bodies arriving from abroad was found.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No official rule specific to private or charter flights carrying human remains was found. The casket is cleared like air cargo: arrive at an international airport with customs, immigration, quarantine and health staff, and have the handling agent and receiving funeral home confirm clearance before departure.",
+    "private_jet_alert": false,
+    "private_jet_note": "Confirm customs and health clearance at Noumea-La Tontouta before departure.",
+    "export": "Not published for New Caledonia. From mainland France, transport of a body to New Caledonia needs a prefectoral order (not a mortuary laissez-passer). For a body leaving New Caledonia, the authorisation is expected to come from the State representative (High Commissioner); confirm with the funeral home. A sealed coffin and the destination's requirements apply.",
+    "export_points": [
+      "Transport authorisation from State representative (confirm)",
+      "Death certificate and non-contagion certificate",
+      "Sealed coffin for air transport",
+      "Destination consulate requirements"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Required; French translation advisable",
+      "embalming": "Per departure country and airline",
+      "coffin": "Sealed zinc-lined coffin expected",
+      "laissez_passer": "Not applicable; transport authorisation instead",
+      "consular": "French consulate transport authorisation",
+      "permit": "Local rules not published; confirm",
+      "arrival": "Noumea funeral home collects"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the French consulate and a funeral home in Noumea."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain the death certificate and non-contagion certificate."
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Embalming, sealing and French consular transport authorisation."
+      },
+      {
+        "when": "Departure",
+        "what": "Fly the casket with its documents to Noumea-La Tontouta."
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs and health clearance; funeral home collects; burial authorised locally."
+      }
+    ],
+    "key_points": [
+      "Strasbourg laissez-passer does not cover New Caledonia.",
+      "Local entry rules are not published online.",
+      "Families bear all repatriation costs."
+    ],
+    "lead_days": 3,
+    "authority": "French consular network and the High Commission of the Republic in New Caledonia (not confirmed)",
+    "sources": [
+      "https://www.diplomatie.gouv.fr/fr/services-aux-francaises-et-aux-francais/assistance-et-securite/deces-a-l-etranger",
+      "https://demarche.numerique.gouv.fr/commencer/demande-de-laissez-passer-mortuaire-ou-d-autorisat",
+      "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000576208/"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "PF",
+    "name": "French Polynesia",
+    "status": "requirements",
+    "summary": "French Polynesia applies the French funeral rules of the CGCT with local adaptations. A casket from abroad travels with the French consulate's transport authorisation, and burial or cremation must take place within 14 calendar days of the body entering French Polynesia.",
+    "documents": [
+      "Death certificate (French translation advisable)",
+      "Medical certificate of cause of death / non-contagious disease certificate",
+      "Embalming certificate where required by the departure country",
+      "Body transport authorisation from the French embassy or consulate",
+      "Coffin sealing report"
+    ],
+    "coffin": "No French Polynesia-specific adaptation on caskets was found; French rules require an airtight (zinc-lined) coffin for air transport. Confirm with the consulate and airline.",
+    "embalming": "No local adaptation found; embalming is normally required by the departure country and airline.",
+    "consular": "French consular services can issue an authorisation to transport the body or ashes so the remains leave the foreign country legally. Families pay all costs. The Strasbourg laissez-passer does not apply.",
+    "arrival": "A local funeral home collects the casket after customs and health clearance at Tahiti-Faa'a. When death occurred outside French Polynesia, burial or cremation must take place no later than the 14th calendar day after the body entered French Polynesia (CGCT art. D2573-16-1). The body transport authorisation stands in for the doctor's certificate for cremation (decree 99-201).",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No official rule specific to private or charter flights carrying human remains was found. The casket is cleared like air cargo: arrive at an international airport with customs, immigration, quarantine and health staff, and have the handling agent and receiving funeral home confirm clearance before departure.",
+    "private_jet_alert": false,
+    "private_jet_note": "Confirm customs and health clearance at Tahiti-Faa'a before departure.",
+    "export": "Transport of a body (or ashes) out of French Polynesia is authorised by the High Commissioner of the Republic in French Polynesia (CGCT R. 2213-22 and R. 2213-24 as adapted). The funeral home applies with the death certificate and medical documents; an airtight coffin is used for air transport and the destination's consular rules apply.",
+    "export_points": [
+      "High Commissioner authorises the transport out",
+      "Same authority for ashes",
+      "Airtight coffin for air transport",
+      "Destination consulate requirements"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Required; French translation advisable",
+      "embalming": "Per departure country and airline",
+      "coffin": "Airtight zinc-lined coffin",
+      "laissez_passer": "Not applicable; transport authorisation instead",
+      "consular": "French consulate transport authorisation",
+      "permit": "Burial authorised by local registrar",
+      "arrival": "Burial within 14 days of entry"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the French consulate and a funeral home in Tahiti."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain the death certificate and non-contagion certificate."
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Embalming, sealing and French consular transport authorisation."
+      },
+      {
+        "when": "Departure",
+        "what": "Fly the casket with its documents to Tahiti-Faa'a."
+      },
+      {
+        "when": "Within 14 days",
+        "what": "Burial or cremation after the body enters French Polynesia."
+      }
+    ],
+    "key_points": [
+      "14-day burial or cremation deadline after entry.",
+      "Exit authorisation comes from the High Commissioner.",
+      "Partial state aid may exist for body transport costs between overseas territories and France; confirm eligibility."
+    ],
+    "lead_days": 3,
+    "authority": "High Commission of the Republic in French Polynesia; French consular network",
+    "sources": [
+      "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051951602",
+      "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000576208/",
+      "https://www.diplomatie.gouv.fr/fr/services-aux-francaises-et-aux-francais/assistance-et-securite/deces-a-l-etranger"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "VU",
+    "name": "Vanuatu",
+    "status": "unknown",
+    "summary": "Vanuatu does not publish its rules for bringing a casket into the country. Expect to need the death certificate, an embalming certificate and a sealed casket, and confirm health and customs clearance with the Vanuatu authorities or a local funeral home before departure.",
+    "documents": [
+      "Death certificate with cause of death (English, French or translated)",
+      "Embalming certificate (expected; confirm)",
+      "Export permit from the country of death",
+      "Copy of the deceased's passport; air waybill"
+    ],
+    "coffin": "No official Vanuatu standard was found. Use a hermetically sealed casket in an outer case meeting IATA/airline rules.",
+    "embalming": "Not confirmed by an official Vanuatu source for incoming remains; normally required by the departure country and airline.",
+    "consular": "Not published; contact the Vanuatu High Commission or consulate in the country of death.",
+    "arrival": "No official arrival procedure was found. A local funeral home collects the casket. In Port Vila, burial is coordinated with the Civil Status Unit of Port Vila City Council (gov.uk); rules differ across islands.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No official rule specific to private or charter flights carrying human remains was found. The casket is cleared like air cargo: arrive at an international airport with customs, immigration, quarantine and health staff, and have the handling agent and receiving funeral home confirm clearance before departure.",
+    "private_jet_alert": false,
+    "private_jet_note": "Confirm customs and health clearance at Port Vila before departure.",
+    "export": "To take a body out of Vanuatu you need the death certificate (issued in English by the Civil Registration and Identity Management office), the deceased's passport and permission to remove the body. The body must be embalmed for repatriation. There is no crematorium in Vanuatu, and with no local coroner or forensic service a post-mortem can delay release.",
+    "export_points": [
+      "Death certificate from the civil registration office (CRIM)",
+      "Embalming required for repatriation",
+      "Permission to remove the body",
+      "No crematorium; post-mortems can cause delays"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Required; translate if needed",
+      "embalming": "Expected; confirm",
+      "coffin": "Sealed casket expected",
+      "laissez_passer": "Not used",
+      "consular": "Confirm with Vanuatu consulate",
+      "permit": "Not published; confirm",
+      "arrival": "Local funeral home collects"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact a Vanuatu funeral home and the Vanuatu consulate."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain the death certificate, embalming certificate and export permit."
+      },
+      {
+        "when": "Day 2-4",
+        "what": "Seal the casket and confirm clearance requirements in writing."
+      },
+      {
+        "when": "Departure",
+        "what": "Fly to Port Vila with documents travelling with the casket."
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs and health clearance; burial arranged with the local council."
+      }
+    ],
+    "key_points": [
+      "Official entry rules are not published.",
+      "No crematorium in Vanuatu.",
+      "Burial rules differ by municipality."
+    ],
+    "lead_days": null,
+    "authority": "Ministry of Health and Customs (not confirmed)",
+    "sources": [
+      "https://www.gov.uk/guidance/when-someone-dies-in-vanuatu"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "WS",
+    "name": "Samoa",
+    "status": "requirements",
+    "summary": "Bringing a casket into Samoa requires a letter of approval from the Ministry of the Prime Minister and Cabinet (MPMC), which coordinates clearance with the Ministry of Health, Customs and Quarantine. The family sends a request letter and documents to MPMC (or through a Samoan mission); processing takes 3 to 5 working days and a 100 tala administrative fee applies (Human Remains Repatriation Policy 2016).",
+    "documents": [
+      "Official letter of request from the family to the CEO of MPMC",
+      "Medical cause of death",
+      "Embalming certificate from the mortuary or funeral parlour",
+      "Death registry certificate",
+      "Coroner's report (mainly where the cause of death is an infectious disease)",
+      "Identification of the deceased (passport photo page, ID or birth certificate)",
+      "Declaration of any natural flowers, tapa, fine mats or treated-wood casket (for Quarantine)"
+    ],
+    "coffin": "No casket specification for whole bodies is published in the policy; a sealed casket meeting airline rules is expected. Treated-wood caskets must be declared for Quarantine. Disinterred bones must be chemically sterilised and hermetically sealed.",
+    "embalming": "Required: an embalming certificate is part of the required documents.",
+    "consular": "Applications can be lodged through Samoa's overseas missions or directly with MPMC; the administrative fee can be paid to MPMC or to the mission in local currency. The approval letter is collected by family in Samoa or sent to the mission.",
+    "arrival": "Border agency officers at the regulated port of entry (Faleolo) clear the remains after normal arrivals. The airline submits the air waybill for Customs and Quarantine clearance and the accompanying family presents the approval letter. Where a coroner's report is needed, the Ministry of Health may set the burial date.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "The policy applies at all regulated ports of entry. For a private flight, obtain the MPMC approval letter before departure, arrive at Faleolo with border agencies present, and carry the approval letter and documents for Customs and Quarantine.",
+    "private_jet_alert": true,
+    "private_jet_note": "MPMC approval letter must be obtained before the flight.",
+    "export": "No official procedure for sending a body out of Samoa was found. Expect the death registry certificate, medical cause of death and embalming, plus the destination country's consular requirements; confirm with the Ministry of Health.",
+    "export_points": [
+      "Exit procedure not published; confirm with Ministry of Health",
+      "Death registry certificate and cause of death",
+      "Embalming expected",
+      "Destination consulate requirements"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Death registry certificate and cause",
+      "embalming": "Required, with certificate",
+      "coffin": "Sealed casket; declare treated wood",
+      "laissez_passer": "Not used",
+      "consular": "Apply via mission or MPMC",
+      "permit": "MPMC approval letter, 3-5 working days",
+      "arrival": "Faleolo border clearance with approval letter"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Family in Samoa contacts MPMC; funeral home abroad engaged."
+      },
+      {
+        "when": "Day 1",
+        "what": "Gather cause of death, death registry, embalming certificate and ID."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Send request letter and documents to MPMC or a Samoan mission."
+      },
+      {
+        "when": "Day 3-6",
+        "what": "MPMC clears with Health, Customs and Quarantine; fee paid; approval letter issued."
+      },
+      {
+        "when": "Arrival",
+        "what": "Border clearance at Faleolo; family presents the approval letter."
+      }
+    ],
+    "key_points": [
+      "Administrative fee 100 tala before the approval letter.",
+      "Declare flowers, fine mats or tapa travelling with the casket.",
+      "Policy dates from 2016; confirm current contacts with MPMC."
+    ],
+    "lead_days": 5,
+    "authority": "Ministry of the Prime Minister and Cabinet, with the Ministry of Health",
+    "sources": [
+      "https://www.health.gov.ws/wp-content/uploads/2022/07/2Repatriation-of-Human-Remains.pdf"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "TO",
+    "name": "Tonga",
+    "status": "unknown",
+    "summary": "Tonga does not publish its rules for bringing a casket into the country. Expect Ministry of Health involvement, a death certificate, an embalming certificate and a sealed casket; confirm the requirements with the Tongan High Commission or consulate and a local funeral home before departure.",
+    "documents": [
+      "Death certificate with cause of death",
+      "Embalming certificate (expected; confirm)",
+      "Export permit from the country of death",
+      "Copy of the deceased's passport; air waybill"
+    ],
+    "coffin": "No official Tonga standard was found. Use a hermetically sealed casket in an outer case meeting IATA/airline rules.",
+    "embalming": "Not confirmed by an official Tongan source; normally required by the departure country and airline.",
+    "consular": "Not published; contact the Tongan High Commission or consulate in the country of death.",
+    "arrival": "No official arrival procedure was found. Fua'amotu International Airport (Tongatapu) is the main international gateway. A local funeral home or the family collects the casket after customs and health clearance.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No official rule specific to private or charter flights carrying human remains was found. The casket is cleared like air cargo: arrive at an international airport with customs, immigration, quarantine and health staff, and have the handling agent and receiving funeral home confirm clearance before departure.",
+    "private_jet_alert": false,
+    "private_jet_note": "Confirm customs and health clearance at Fua'amotu before departure.",
+    "export": "No official procedure for sending a body out of Tonga was found. Expect the death certificate, embalming and a sealed casket plus the destination country's requirements; confirm with the Ministry of Health.",
+    "export_points": [
+      "Exit procedure not published",
+      "Death certificate and embalming expected",
+      "Confirm with the Ministry of Health"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Required",
+      "embalming": "Expected; confirm",
+      "coffin": "Sealed casket expected",
+      "laissez_passer": "Not used",
+      "consular": "Confirm with Tongan consulate",
+      "permit": "Not published; confirm",
+      "arrival": "Fua'amotu; family or funeral home collects"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the Tongan High Commission or consulate and a funeral home."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain the death certificate, embalming certificate and export permit."
+      },
+      {
+        "when": "Day 2-4",
+        "what": "Confirm Ministry of Health clearance in writing; seal the casket."
+      },
+      {
+        "when": "Departure",
+        "what": "Fly to Fua'amotu with documents travelling with the casket."
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs and health clearance; handover for burial."
+      }
+    ],
+    "key_points": [
+      "Official entry rules are not published.",
+      "Get written confirmation of clearance before the flight."
+    ],
+    "lead_days": null,
+    "authority": "Ministry of Health (not confirmed)",
+    "sources": [],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "SB",
+    "name": "Solomon Islands",
+    "status": "unknown",
+    "summary": "Solomon Islands does not publish its rules for bringing a casket into the country. Expect to need the death certificate, an embalming certificate and a sealed casket, and confirm Ministry of Health and customs clearance with the Solomon Islands High Commission or a Honiara funeral director before departure.",
+    "documents": [
+      "Death certificate with cause of death",
+      "Embalming certificate (expected; confirm)",
+      "Export permit from the country of death",
+      "Copy of the deceased's passport; air waybill"
+    ],
+    "coffin": "No official standard was found. Use a hermetically sealed casket in an outer case meeting IATA/airline rules.",
+    "embalming": "Not confirmed by an official source for incoming remains; normally required by the departure country and airline.",
+    "consular": "Not published; contact the Solomon Islands High Commission or consulate in the country of death.",
+    "arrival": "No official arrival procedure was found. Honiara International Airport is the main gateway. Funeral directors are only known to operate in Honiara; transport to other islands costs extra. Burial in Honiara cemetery needs written permission from the Honiara city clerk (gov.uk).",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No official rule specific to private or charter flights carrying human remains was found. The casket is cleared like air cargo: arrive at an international airport with customs, immigration, quarantine and health staff, and have the handling agent and receiving funeral home confirm clearance before departure.",
+    "private_jet_alert": false,
+    "private_jet_note": "Confirm customs and health clearance at Honiara before departure.",
+    "export": "The death is registered at the Registrar General's Office in Honiara (death certificates do not state the cause of death; a hospital doctor may issue a separate medical certificate). To take a body abroad you need the death certificate, the deceased's passport and permission to remove the body issued by a coroner. Embalming and casket rules are not published.",
+    "export_points": [
+      "Death registered at the Registrar General, Honiara",
+      "Coroner's permission to remove the body",
+      "Separate medical certificate for cause of death",
+      "Funeral directors only in Honiara"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Required; cause shown separately",
+      "embalming": "Expected; confirm",
+      "coffin": "Sealed casket expected",
+      "laissez_passer": "Not used",
+      "consular": "Confirm with Solomon Islands consulate",
+      "permit": "Not published; confirm",
+      "arrival": "Honiara; local funeral director collects"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the Solomon Islands High Commission and a Honiara funeral director."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain the death certificate, embalming certificate and export permit."
+      },
+      {
+        "when": "Day 2-4",
+        "what": "Confirm Ministry of Health clearance in writing; seal the casket."
+      },
+      {
+        "when": "Departure",
+        "what": "Fly to Honiara with documents travelling with the casket."
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs and health clearance; onward transport and burial permission."
+      }
+    ],
+    "key_points": [
+      "Official entry rules are not published.",
+      "Funeral directors operate only in Honiara.",
+      "Cremation is uncommon and can take time."
+    ],
+    "lead_days": null,
+    "authority": "Ministry of Health and Medical Services (not confirmed)",
+    "sources": [
+      "https://www.gov.uk/guidance/when-someone-dies-in-solomon-islands"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "KI",
+    "name": "Kiribati",
+    "status": "unknown",
+    "summary": "Kiribati does not publish its rules for bringing a casket into the country. Expect Ministry of Health and Medical Services involvement, a death certificate, an embalming certificate and a sealed casket; confirm requirements with the Kiribati authorities or a Kiribati mission before departure.",
+    "documents": [
+      "Death certificate with cause of death",
+      "Embalming certificate (expected; confirm)",
+      "Export permit from the country of death",
+      "Copy of the deceased's passport; air waybill"
+    ],
+    "coffin": "No official Kiribati standard was found. Use a hermetically sealed casket in an outer case meeting IATA/airline rules.",
+    "embalming": "Not confirmed by an official Kiribati source; normally required by the departure country and airline.",
+    "consular": "Not published; contact the Kiribati High Commission or consulate.",
+    "arrival": "No official arrival procedure was found. Flights arrive at Bonriki (Tarawa) or Cassidy (Kiritimati). The family or a local funeral service collects the casket after customs and health clearance.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No official rule specific to private or charter flights carrying human remains was found. The casket is cleared like air cargo: arrive at an international airport with customs, immigration, quarantine and health staff, and have the handling agent and receiving funeral home confirm clearance before departure.",
+    "private_jet_alert": false,
+    "private_jet_note": "Confirm landing, customs and health clearance at Bonriki or Cassidy early.",
+    "export": "No official procedure for sending a body out of Kiribati was found. Expect the death certificate, embalming and a sealed casket plus the destination's requirements; confirm with the Ministry of Health and Medical Services.",
+    "export_points": [
+      "Exit procedure not published",
+      "Death certificate and embalming expected",
+      "Confirm with the Ministry of Health and Medical Services"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Required",
+      "embalming": "Expected; confirm",
+      "coffin": "Sealed casket expected",
+      "laissez_passer": "Not used",
+      "consular": "Confirm with Kiribati mission",
+      "permit": "Not published; confirm",
+      "arrival": "Bonriki or Cassidy; family collects"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact a Kiribati mission or the Ministry of Health and Medical Services."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain the death certificate, embalming certificate and export permit."
+      },
+      {
+        "when": "Day 2-4",
+        "what": "Confirm clearance in writing; seal the casket."
+      },
+      {
+        "when": "Departure",
+        "what": "Fly to Bonriki or Cassidy with documents travelling with the casket."
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs and health clearance; handover to the family."
+      }
+    ],
+    "key_points": [
+      "Official entry rules are not published.",
+      "Get written confirmation of clearance before the flight."
+    ],
+    "lead_days": null,
+    "authority": "Ministry of Health and Medical Services (not confirmed)",
+    "sources": [],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  }
+]

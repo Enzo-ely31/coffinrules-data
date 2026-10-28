@@ -1,0 +1,772 @@
+[
+ {
+  "cc": "JO",
+  "status": "requirements",
+  "name": "Jordan",
+  "summary": "A foreign death certificate for a Jordanian must be attested by the Jordanian embassy (or MOFA route) and translated into Arabic by a certified centre; detailed casket import rules are not published, so confirm with the Jordanian consulate. Leaving Jordan requires the home embassy's no-objection letter and next-of-kin consent; burial is normally within 24 hours.",
+  "coffin": "No official Jordanian import standard was found. Use a hermetically sealed, zinc-lined casket in an outer wooden case meeting airline requirements; confirm with the Jordanian consulate.",
+  "embalming": "Not published officially for incoming remains; confirm with the Jordanian consulate.",
+  "consular": "The Jordanian embassy or consulate attests the foreign death certificate; the death of a Jordanian can be registered with the Civil Status and Passports Department or at a Jordanian embassy (JD1 fee, extra JD10 after 7 days).",
+  "arrival": "Detailed arrival rules for incoming remains are not published; confirm customs and health clearance with the consulate and handling agent. For deaths in Jordan, law requires burial within 24 hours, extendable to 72 hours with a Ministry of Health permit if remains are kept in a suitable facility (gov.uk). Cremation is not permitted in Jordan.",
+  "pouch": null,
+  "private_aviation": "No official rule specific to private flights carrying human remains was found. Plan arrival at an international airport (e.g. Amman Queen Alia) with customs and health staff, and confirm clearance with the handling agent.",
+  "export": "The hospital issues a notification of death; the Civil Status and Passports Department issues the death certificate (Arabic; English version on request, without cause of death). Deaths outside hospital require an autopsy (usually within 2 to 3 days). Jordanian authorities require a no-objection letter from the deceased's embassy and written next-of-kin consent. Embalming and sealing requirements for exit are not published officially. Cremation is not permitted. The authorities must be told if the deceased had an infectious condition such as hepatitis or HIV.",
+  "authority": "Jordanian embassy/consulate abroad; Civil Status and Passports Department; Ministry of Health",
+  "last_checked": "2026-10",
+  "documents": [
+   "Official foreign death certificate, attested by the Jordanian embassy in the country of death",
+   "Certified Arabic translation of the death certificate",
+   "Medical certificate of non-contagious disease (expected; confirm with the consulate)",
+   "Embalming and sealed casket certificates (expected; confirm with the consulate)",
+   "Deceased's passport or Jordanian ID"
+  ],
+  "sources": [
+   "https://gov.uk/government/publications/jordan-bereavement-death-abroad/jordan-bereavement-information",
+   "https://www.cspd.gov.jo/EN/ListDetails/Services__Guide/45/2"
+  ],
+  "pouch_accepted": null,
+  "private_jet_alert": false,
+  "at_a_glance": {
+   "death_certificate": "Attested by Jordanian embassy, Arabic translation",
+   "embalming": "Confirm with consulate",
+   "coffin": "Sealed casket, airline standard",
+   "laissez_passer": "Not applicable (no Strasbourg)",
+   "consular": "Jordanian embassy attests the certificate",
+   "permit": "Embassy NOC for exit",
+   "arrival": "Prompt burial; cremation not permitted"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Contact the Jordanian embassy or consulate and appoint funeral directors at both ends."
+   },
+   {
+    "when": "Day 1",
+    "what": "Obtain the death certificate, non-contagious disease and embalming certificates."
+   },
+   {
+    "when": "Day 1-2",
+    "what": "Have the death certificate attested by the Jordanian embassy and translated into Arabic."
+   },
+   {
+    "when": "Day 2",
+    "what": "Seal the casket, book the flight and arrange the burial in Jordan."
+   },
+   {
+    "when": "Arrival",
+    "what": "Customs and health clearance, collection and prompt burial."
+   }
+  ],
+  "key_points": [
+   "Deaths in Jordan: burial within 24 hours (72 with permit)",
+   "Cremation is not permitted",
+   "Register a Jordanian's death abroad within two years (Civil Status Department)"
+  ],
+  "export_points": [
+   "Death certificate from Civil Status and Passports Department",
+   "Embassy no-objection letter and next-of-kin consent",
+   "Autopsy mandatory for deaths outside hospital",
+   "Cremation not permitted in Jordan"
+  ],
+  "private_jet_note": "Confirm customs clearance and the funeral service at the arrival airport before departure.",
+  "confidence": "medium",
+  "lead_days": null
+ },
+ {
+  "cc": "JP",
+  "status": "requirements",
+  "name": "Japan",
+  "summary": "There are no specific Japanese import formalities published for a casket; the key step is getting a municipal burial or cremation permit in Japan under the Graveyards and Burial Act, issued by the mayor of the municipality that received the death notification. For a Japanese national, confirm the documents with the Japanese embassy or consulate in the country of death.",
+  "coffin": "No Japanese entry specification for the casket has been published. In practice airlines require an IATA-compliant, metal-lined sealed casket for a body.",
+  "embalming": "Not required by a published Japanese entry rule, but embalming certificates are normally requested by airlines for transport. Japanese law forbids burial or cremation within 24 hours of death.",
+  "consular": "No Japanese consular step for an incoming casket is published in the official sources reviewed. For a Japanese national, ask the Japanese embassy or consulate in the country of death which documents and translations it requires; for foreign nationals, check with the municipality where cremation or burial will take place.",
+  "arrival": "The casket is cleared as air cargo. Under the Graveyards and Burial Act, burial or cremation needs a permit from the mayor of the municipality that received the death notification, and cannot take place within 24 hours of death. Cremation is the norm in Japan; burial space is scarce.",
+  "pouch": null,
+  "private_aviation": "Foreign-registered business jets need permission from the Japan Civil Aviation Bureau for paid passenger carriage into Japan and for landings at non-designated airports. The standard filing deadline is 10 days before the flight; since June 2023 it is 3 days for sightseeing flights, and the Minister can accept late applications when there is unavoidable cause. Thirty-six designated airports need no individual landing permission.",
+  "export": "The Australian Embassy in Tokyo states that no Japanese national or local law governs the export of human remains; a casket travels as ordinary freight, and shipping companies usually require a metal-lined casket. The death must be notified to the city, ward or town office within 7 days (gov.uk). Embalming or cremation cannot start until 24 hours after death. A local funeral director issues the embalming certificate, and a repatriation company certifies that the coffin contains only the remains; the destination country sets any further paperwork. Final arrangements are normally needed within about a week because cold storage is scarce.",
+  "authority": "Municipal office (city, ward, town) for burial and cremation permits; Japanese embassy or consulate abroad",
+  "last_checked": "2026-10",
+  "documents": [
+   "Foreign death certificate (original) with Japanese translation (confirm with the municipality or consulate)",
+   "Embalming certificate from the funeral home abroad (usually requested by airlines)",
+   "Any document required by the Japanese embassy or consulate (for Japanese nationals; confirm)",
+   "Deceased's passport",
+   "Death notification (shibo todoke) filed with a Japanese municipality, which then issues the burial or cremation permit"
+  ],
+  "sources": [
+   "https://www.gov.uk/guidance/what-to-do-after-a-british-person-dies-in-japan",
+   "https://japan.embassy.gov.au/tkyo/when_someone_dies.html",
+   "https://laws.e-gov.go.jp/law/323AC0000000048",
+   "https://www.mlit.go.jp/report/press/content/001612475.pdf"
+  ],
+  "pouch_accepted": null,
+  "private_jet_alert": true,
+  "at_a_glance": {
+   "death_certificate": "Foreign certificate with Japanese translation",
+   "embalming": "Not legally required; airlines usually ask",
+   "coffin": "Sealed metal-lined casket (airline rule)",
+   "laissez_passer": "Not applicable",
+   "consular": "Confirm with the Japanese consulate",
+   "permit": "Municipal burial or cremation permit",
+   "arrival": "Cargo clearance, then funeral home collects"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Funeral home abroad obtains the death certificate and embalms the body"
+   },
+   {
+    "when": "Day 1-3",
+    "what": "Confirm documents with the Japanese consulate (for Japanese nationals); translations prepared"
+   },
+   {
+    "when": "Day 2-4",
+    "what": "Casket sealed, flight and private-jet permit arranged"
+   },
+   {
+    "when": "Arrival",
+    "what": "Casket cleared as cargo and collected by a Japanese funeral home"
+   },
+   {
+    "when": "After arrival",
+    "what": "Death notified to the municipality, which issues the cremation or burial permit"
+   }
+  ],
+  "key_points": [
+   "Cremation is the norm in Japan",
+   "A burial or cremation permit is always required",
+   "No burial or cremation within 24 hours of death",
+   "Private jets: Civil Aviation Bureau permit needed"
+  ],
+  "export_points": [
+   "No Japanese export permit; casket travels as freight",
+   "Register the death within 7 days at the municipal office",
+   "Embalming possible only after 24 hours",
+   "Destination country sets further paperwork"
+  ],
+  "private_jet_note": "Apply for the Japan Civil Aviation Bureau permit early; the standard deadline is 10 days before the flight.",
+  "confidence": "medium",
+  "lead_days": 3
+ },
+ {
+  "cc": "KE",
+  "status": "requirements",
+  "name": "Kenya",
+  "summary": "The Kenyan embassy or high commission in the country of death issues a no objection letter for the remains once it has the death certificate, local burial or transit permit, non-contagious disease letter and embalming letter. The letter is free (Washington, Madrid) and the Madrid embassy states it is issued in one day.",
+  "coffin": "Kenyan missions recommend a sealable casket; the Kenyan Embassy in Washington recommends a metal, hermetically sealable casket. Airline packaging rules also apply. No witnessing of the sealing by a Kenyan official is required by the published checklists.",
+  "embalming": "Required: missions ask for a funeral director's letter confirming embalming; the London High Commission asks that it state embalming in line with ICAO and international guidelines.",
+  "consular": "The Kenyan mission issues a no objection letter for transport of the remains (the London High Commission sends it to the next of kin). The Washington and Madrid missions charge no fee; the Kenya Embassy in Spain states one day once documents are complete. Names and dates must match on all documents, or approvals are delayed. Not a party to the Strasbourg Agreement 1973, so a mortuary laissez-passer alone is not enough.",
+  "arrival": "Remains are cleared by customs and port health at the arrival airport and released to the family or their funeral home. Ministry of Health clearance was specifically required for COVID-19 related remains (2021 protocol); confirm whether it still applies to infectious-disease deaths.",
+  "pouch": null,
+  "private_aviation": "No Kenyan rules specific to private flights carrying remains were published. Land at an international airport with customs and port health (Nairobi JKIA or Mombasa) and carry the original no objection letter and documents with the casket.",
+  "export": "To send a body out of Kenya, the death is registered with the Civil Registration Office or a Huduma centre (burial permit, death certificate in English showing the cause). Polish consular guidance lists the Kenyan documents usually issued: burial permit from local authorities, certificate of no infectious disease and embalming certificate. Deaths outside hospital are reported to police and a post-mortem may be needed, which can delay release. The destination country's embassy may need to issue its own entry authorisation.",
+  "authority": "Kenyan embassy or high commission in the country of death; Ministry of Health (port health) on arrival",
+  "last_checked": "2026-10",
+  "documents": [
+   "Proof of Kenyan nationality of the deceased (passport, ID card or birth certificate) where applicable",
+   "Certified copy of the death certificate",
+   "Locally issued burial and/or transit permit (in the UK: Out of England certificate)",
+   "Letter from the local health authority that the death was not from a contagious disease",
+   "Letter from the funeral director confirming and describing the embalming",
+   "No objection letter from the Kenyan embassy or high commission"
+  ],
+  "sources": [
+   "https://www.kenyahighcom.org.uk/transportation-of-the-remains-of-a-deceased-kenyan",
+   "https://kenyaembassydc.org/transdeceased",
+   "https://kenyaembassyspain.es/transportation-of-a-deceased-kenyan/",
+   "https://www.kenyahighcom.org.uk/news/protocol-for-repatriation-of-covid-19-related-human-remains-to-kenya",
+   "https://www.gov.uk/guidance/when-someone-dies-in-kenya",
+   "https://www.gov.pl/web/kenya/certificate-allowing-the-repatriation-of-body-or-ashes-remains-into-poland"
+  ],
+  "pouch_accepted": null,
+  "private_jet_alert": false,
+  "at_a_glance": {
+   "death_certificate": "Certified copy required",
+   "embalming": "Required, funeral director letter",
+   "coffin": "Hermetically sealable casket recommended",
+   "laissez_passer": "Not Strasbourg party",
+   "consular": "Free no objection letter from mission",
+   "permit": "Local burial or transit permit",
+   "arrival": "Customs and port health clearance"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Death certificate and appointment of a funeral director in the country of death."
+   },
+   {
+    "when": "Day 0-1",
+    "what": "Embalming, non-contagious disease letter and local burial or transit permit."
+   },
+   {
+    "when": "Day 1-2",
+    "what": "Send the documents to the Kenyan embassy or high commission for the no objection letter."
+   },
+   {
+    "when": "Day 2-3",
+    "what": "Seal the casket and book the flight with the no objection letter attached."
+   },
+   {
+    "when": "Arrival",
+    "what": "Customs and port health clearance, then release to the family or funeral home."
+   }
+  ],
+  "key_points": [
+   "No objection letter is free (Washington, Madrid)",
+   "Name and date mismatches between documents cause delays",
+   "Metal hermetically sealable casket recommended"
+  ],
+  "export_points": [
+   "Register the death and obtain the burial permit",
+   "Embalming certificate and no infectious disease certificate",
+   "Police report and post-mortem for sudden or violent deaths",
+   "Destination embassy authorisation if required"
+  ],
+  "private_jet_note": "Use an airport with customs and port health; carry the original no objection letter.",
+  "confidence": "high",
+  "lead_days": 2
+ },
+ {
+  "cc": "KG",
+  "status": "requirements",
+  "name": "Kyrgyzstan",
+  "summary": "No official Kyrgyz rules for bringing a casket in were found; confirm with the Kyrgyz consulate in the country of death. For bodies leaving Kyrgyzstan, a transfer permit and a zinc coffin sealing report are required, and local formalities take about 7 days.",
+  "coffin": "Not published officially for entry. A sealed zinc coffin with a sealing report is required for bodies leaving Kyrgyzstan, and the same standard should be expected on entry; confirm with the Kyrgyz consulate.",
+  "embalming": "Not published officially; embalming is expected for international transport. Confirm with the Kyrgyz consulate.",
+  "consular": "Kyrgyzstan is not a party to the 1973 Strasbourg Agreement. Contact the Kyrgyz embassy or consulate in the country of death about consular certification, legalisation or apostille and Kyrgyz or Russian translations.",
+  "arrival": "Not published officially. Expect customs and sanitary clearance at the arrival airport (normally Bishkek or Osh) and handover to a local funeral service. There is no cremation service in Kyrgyzstan.",
+  "pouch": null,
+  "private_aviation": "No official rule specific to human remains on private aircraft was found. Plan arrival at an international airport with customs, border and sanitary-quarantine control, and have the handling agent confirm clearance of the coffin in advance.",
+  "export": "The death is registered with the civil registry (ZAGS), which issues a death certificate in Russian and Kyrgyz in 3 to 5 business days. Leaving Kyrgyzstan requires the local medical and civil death certificates, a certificate permitting transfer of the remains and a zinc coffin sealing report. Local formalities normally take around 7 days.",
+  "authority": "Ministry of Foreign Affairs of Kyrgyzstan (consular service); State Registry Service (ZAGS) for deaths in Kyrgyzstan",
+  "last_checked": "2026-10",
+  "documents": [
+   "Death certificate from the country of death, with translation (confirm with consulate)",
+   "Embalming certificate (expected; confirm)",
+   "Certificate that the death was not caused by a contagious disease (expected; confirm)",
+   "Zinc sealing certificate (expected; confirm)",
+   "Export permit from the country of death",
+   "Passport of the deceased"
+  ],
+  "sources": [
+   "https://www.gov.uk/guidance/when-someone-dies-in-kyrgyzstan",
+   "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+  ],
+  "pouch_accepted": null,
+  "private_jet_alert": false,
+  "at_a_glance": {
+   "death_certificate": "Original; confirm translation with consulate",
+   "embalming": "Expected; confirm with consulate",
+   "coffin": "Sealed zinc coffin expected; confirm",
+   "laissez_passer": "No, not a Strasbourg party",
+   "consular": "Ask the Kyrgyz consulate first",
+   "permit": "Export permit from country of death",
+   "arrival": "Customs clearance, local funeral service"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Obtain the death certificate and contact the Kyrgyz consulate"
+   },
+   {
+    "when": "Day 0-1",
+    "what": "Embalm and seal the body in a zinc coffin"
+   },
+   {
+    "when": "Day 1-2",
+    "what": "Obtain export permit and consular certification"
+   },
+   {
+    "when": "Day 2-3",
+    "what": "Book the flight and inform the receiving funeral service"
+   },
+   {
+    "when": "Arrival",
+    "what": "Customs clearance and burial"
+   }
+  ],
+  "key_points": [
+   "Entry rules not published online",
+   "Exit takes about 7 days",
+   "No cremation in Kyrgyzstan"
+  ],
+  "export_points": [
+   "Medical and civil (ZAGS) death certificates, 3-5 business days",
+   "Transfer permit for the remains",
+   "Zinc coffin sealing report",
+   "Allow about 7 days for local formalities"
+  ],
+  "private_jet_note": "Confirm documents and customs clearance before take-off.",
+  "confidence": "medium",
+  "lead_days": null
+ },
+ {
+  "cc": "KH",
+  "status": "requirements",
+  "name": "Cambodia",
+  "summary": "A body is brought into Cambodia with the support of the Royal Embassy of Cambodia in the country of death; the Canberra embassy asks for the original death certificate, a funeral home letter, a hospital letter that the death was natural, not contagious and the body safe to transport, the flight itinerary and a processing fee. No Cambodian government import regulation is published; confirm the list with the embassy handling the case.",
+  "coffin": "No official Cambodian casket standard was found. Use a hermetically sealed, zinc-lined coffin in an outer wooden case per airline/IATA rules.",
+  "embalming": "Not specified by the Cambodian embassy checklist reviewed (Canberra asks for a hospital safe-to-transport letter); embalming is in any case required by most departure countries and airlines. Confirm with the embassy.",
+  "consular": "The Royal Embassy of Cambodia processes the file for a processing fee (amount not published; ask the embassy). The Canberra embassy lists the original death certificate, funeral home letter, hospital letter and air ticket with itinerary; no processing time is published. Requirements may vary by embassy.",
+  "arrival": "No official arrival procedure was published. Customs clear the coffin at Phnom Penh or Siem Reap and the family or local funeral service collects it; present the embassy letter on arrival.",
+  "pouch": null,
+  "private_aviation": "No Cambodian rule specific to private flights carrying remains was found. Land at an international airport with customs and health staff and agree the clearance with the handling agent, carrying the embassy letter on board.",
+  "export": "Leaving Cambodia, the funeral director obtains the supporting documents with the deceased's embassy; the Khmer death certificate can take four to six weeks, while local repatriation formalities can take up to seven days (gov.uk). Post-mortems are not carried out in Cambodia. Refrigerated storage is scarce and costly, and authorities may cremate within 24 hours on public health grounds. Cremation requires Ministry of Health permission.",
+  "authority": "Royal Embassy of Cambodia in the country of death",
+  "last_checked": "2026-10",
+  "documents": [
+   "Original death certificate",
+   "Letter from the funeral home",
+   "Hospital letter confirming natural death, no contagious disease and that the body is safe to transport",
+   "Airline ticket with travel itinerary",
+   "Embassy processing fee",
+   "Any further document the embassy handling the case requests (confirm)"
+  ],
+  "sources": [
+   "https://www.cambodiaembassycbr.org/human-remains",
+   "https://www.cambodiaembassycbr.org/travel-with-human-ashes",
+   "https://www.gov.uk/government/publications/cambodia-bereavement-information/cambodia-bereavement-death-abroad",
+   "https://cambodia.embassy.gov.au/penh/deaths.html"
+  ],
+  "pouch_accepted": null,
+  "private_jet_alert": false,
+  "at_a_glance": {
+   "death_certificate": "Original or certified copy",
+   "embalming": "Hospital safe-to-transport letter; confirm embalming",
+   "coffin": "Sealed zinc-lined coffin, airline standard",
+   "laissez_passer": "Not applicable",
+   "consular": "Cambodian embassy processes file, fee",
+   "permit": "Confirm with Cambodian embassy",
+   "arrival": "Customs release to family or funeral service"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Contact the Royal Embassy of Cambodia in the country of death and appoint a funeral director."
+   },
+   {
+    "when": "Day 1",
+    "what": "Obtain the death certificate, funeral home letter and hospital safe-to-transport letter."
+   },
+   {
+    "when": "Day 1-2",
+    "what": "Submit the documents, flight itinerary and processing fee to the embassy."
+   },
+   {
+    "when": "After embassy approval",
+    "what": "Confirm the flight."
+   },
+   {
+    "when": "Arrival",
+    "what": "Customs clear the coffin; the family or local funeral service collects it."
+   }
+  ],
+  "key_points": [
+   "Embassy letter is the key entry document",
+   "Checklists differ between Cambodian embassies",
+   "Hospital must state death was natural and not contagious"
+  ],
+  "export_points": [
+   "Up to seven days of local formalities",
+   "Authorities may cremate within 24 hours",
+   "Ministry of Health permission for cremation",
+   "Post-mortems not carried out in Cambodia"
+  ],
+  "private_jet_note": "Carry the Cambodian embassy letter and originals on board for customs at arrival.",
+  "confidence": "medium",
+  "lead_days": null
+ },
+ {
+  "cc": "KN",
+  "status": "requirements",
+  "name": "Saint Kitts and Nevis",
+  "summary": "The receiving funeral home in Saint Kitts and Nevis files the departure documents with the Ministry of Health (Chief Medical Officer, via the Basseterre Health Centre), which issues a letter permitting the remains to be shipped in. The body must be embalmed and placed in a hermetically sealed container inside an all-wood outer shipping case.",
+  "coffin": "The body must be in a hermetically sealed container placed inside an all-wood outer shipping container, and a coffin sealing certificate is required. The sealing is done and certified by the funeral home at departure; no witnessing by a Kittitian official is described.",
+  "embalming": "Embalming is required: an embalming certificate (or embalmer's affidavit) is part of the file.",
+  "consular": "Documents go to a Saint Kitts and Nevis mission (the Toronto consulate asks for them at least 14 days before departure; the London High Commission asks for notarised copies sent to the local funeral director). On receipt, the Chief Medical Officer issues a letter permitting the remains to be shipped into the Federation. No Strasbourg laissez-passer arrangement applies.",
+  "arrival": "The person accompanying the remains presents the original documents on arrival and all contents must be declared to Customs. The local funeral director, who processed the file with the Ministry of Health, collects the casket. No legal burial deadline was found in official sources.",
+  "pouch": null,
+  "private_aviation": "No rules specific to private flights were found. The Chief Medical Officer's permission letter must be issued before departure and the casket must clear Customs at a port of entry; the flight details and arrival time are part of the file, so give the exact private flight details to the funeral home.",
+  "export": "Leaving Saint Kitts and Nevis: the death is registered with the Registrar General (St Kitts) or Registrar General Department (Nevis); the certificate (English, with cause of death) is usually issued within 2 days of a post-mortem. The local funeral director provides the embalming certificate and a permit to transfer the remains. Post-mortems are common for foreign nationals and can take 3-5 days or more because the medical examiner is based in Barbados.",
+  "authority": "Ministry of Health, Chief Medical Officer (via Basseterre Health Centre)",
+  "last_checked": "2026-10",
+  "documents": [
+   "Death certificate (original or certified copy; the London High Commission asks for the original)",
+   "Statement of death",
+   "Burial / transit permit from the place of death",
+   "Embalming certificate or embalmer's affidavit",
+   "Letter of non-contagious disease (free from infection) from the local health authority",
+   "Coffin sealing certificate",
+   "Funeral home letter: only remains in the casket, hermetically sealed container in an all-wood outer case, consignee name and contacts, flight details and arrival time",
+   "Proof of identity / citizenship of the deceased (passport bio page or birth certificate)",
+   "Copies notarised (London High Commission guidance)"
+  ],
+  "sources": [
+   "https://sknhcottawa.gov.kn/wp-content/uploads/2018/07/Cremated-Human-Remains.pdf",
+   "https://stkittsnevishcuk.gov.kn/repatriation",
+   "https://www.gov.uk/guidance/when-someone-dies-in-st-kitts-and-nevis"
+  ],
+  "pouch_accepted": false,
+  "private_jet_alert": true,
+  "at_a_glance": {
+   "death_certificate": "Original certificate, copies notarised",
+   "embalming": "Required, with embalming certificate",
+   "coffin": "Hermetically sealed, inside all-wood outer case",
+   "laissez_passer": "Not applicable",
+   "consular": "File sent to a Kittitian mission",
+   "permit": "Chief Medical Officer permission letter",
+   "arrival": "Declare to Customs; local funeral home collects"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Appoint a funeral home at departure and a receiving funeral home in Saint Kitts and Nevis"
+   },
+   {
+    "when": "Day 1-3",
+    "what": "Obtain death certificate, transit permit, non-contagious disease letter; embalming"
+   },
+   {
+    "when": "Day 2-4",
+    "what": "Seal body in hermetic container inside wooden case; sealing certificate and funeral home letter"
+   },
+   {
+    "when": "About 14 days before flight",
+    "what": "Send the file to the Kittitian consulate / receiving funeral home for the Ministry of Health"
+   },
+   {
+    "when": "Before take-off",
+    "what": "Chief Medical Officer issues the permission letter"
+   },
+   {
+    "when": "Arrival",
+    "what": "Present originals, declare to Customs; local funeral home collects"
+   }
+  ],
+  "key_points": [
+   "Toronto consulate asks for documents 14 days before departure",
+   "Chief Medical Officer letter is the entry authorisation",
+   "Casket must be hermetically sealed in an all-wood outer case",
+   "Allow at least 14 days when filing via the Toronto consulate"
+  ],
+  "export_points": [
+   "Death registered with the Registrar General; certificate usually within 2 days of post-mortem",
+   "Post-mortem can take 3-5+ days (examiner based in Barbados)",
+   "Local funeral director provides embalming certificate and transfer permit",
+   "Cremation available locally (Liamuiga Funeral Home)"
+  ],
+  "private_jet_note": "Get the Chief Medical Officer's permission letter before take-off; flight details are part of the file.",
+  "confidence": "medium",
+  "lead_days": 14
+ },
+ {
+  "cc": "KR",
+  "status": "requirements",
+  "name": "South Korea",
+  "summary": "Korea's Quarantine Act requires anyone bringing a body into the country to submit documents to the chief of the quarantine station at the port of entry: the death certificate (or post-mortem certificate), a copy of the air waybill and, if the death was caused by a quarantinable infectious disease, an embalming certificate. Korean embassies certify (consular confirmation) the foreign documents, and the casket is released at the Incheon cargo terminal after quarantine and customs clearance.",
+  "coffin": "For deaths from a quarantinable infectious disease, the quarantine station refuses entry unless the body is embalmed and sealed in an impermeable coffin, or cremated (Quarantine Act, Art. 25(2)). For other deaths the law sets no coffin specification; use an airline (IATA) compliant hermetically sealed casket in an outer case.",
+  "embalming": "Embalming certificate is legally required only when death was caused by a quarantinable infectious disease (Enforcement Rule Art. 19(2)); in practice Korean embassies (Spain, Poland) list an embalming certificate for every body repatriated to Korea.",
+  "consular": "The Korean embassy or consulate in the country of death performs consular confirmation of the foreign documents (Warsaw embassy) and, in Spain, notarises the Korean translations of Spanish documents and issues a body transport permit to the funeral company. Documents should be in Korean or English. Korea is an Apostille Convention party and is not a party to the Strasbourg Agreement.",
+  "arrival": "The airline's handling agent at Incheon passes the documents to the National Quarantine Station; after quarantine and customs clearance the casket is collected at the cargo terminal, about two hours after landing per the Korean Embassy in Spain, by the receiver with ID and a pre-arranged hearse (terminal fee about KRW 150,000 per that embassy). If the cause of death cannot be confirmed or an infectious disease is suspected, the quarantine station chief may order an autopsy and may restrict the funeral method (Art. 25(4)-(5)). The death must then be reported in Korea within one month. Cremated remains are exempt from customs and quarantine clearance on entry (Korean Embassy in Poland).",
+  "pouch": null,
+  "private_aviation": "The Quarantine Act applies to any aircraft: whoever brings a body into Korea must submit the documents to the quarantine station chief, and a death occurring on board in flight must be reported with a death circumstance report (Enforcement Rule Art. 20). Land at an airport with quarantine and customs (Incheon, Gimpo, Gimhae and other international airports) and have the handling agent arrange quarantine and customs clearance of the casket before departure.",
+  "export": "Police investigate deaths. For non-natural deaths, the police and a prosecutor must approve release, and the police issue a completion-of-examination certificate (geomsi piljeung), which the hospital needs before releasing the body. The hospital issues the death certificate. A post-mortem by the National Forensic Service is mandatory for foreign nationals unless the cause of death is already established; the report can take up to 3 months, but repatriation does not wait for it. For the UK, documents are a translated, notarised and apostilled death certificate, embalming certificate, non-contagious disease certificate, transfer permit and the original passport.",
+  "authority": "Korea Disease Control and Prevention Agency, National Quarantine Stations (Incheon Airport); Korea Customs Service; Korean embassies and consulates",
+  "last_checked": "2026-10",
+  "documents": [
+   "Death certificate or post-mortem (autopsy) certificate stating the cause of death (Quarantine Act Enforcement Rule, Art. 19)",
+   "Copy of the air waybill (or bill of lading for sea transport) (Art. 19)",
+   "Embalming certificate: legally required when death was due to a quarantinable infectious disease; Korean embassies also list it for all repatriated bodies",
+   "Any further document the quarantine station chief requests to rule out a quarantinable infectious disease (Art. 19)",
+   "Original passport of the deceased (Korean embassy guidance)",
+   "Korean or English translation of foreign documents, with Korean consular confirmation or apostille (embassy guidance)"
+  ],
+  "sources": [
+   "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=281917&chrClsCd=010202&urlMode=lsInfoP&efYd=20260701&ancYnChk=0",
+   "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=289275&chrClsCd=010202&urlMode=lsInfoP&efYd=20261001&ancYnChk=0",
+   "https://overseas.mofa.go.kr/es-ko/brd/m_8092/view.do?seq=1338207&srchFr=&srchTo=&srchWord=&srchTp=&multi_itm_seq=0&itm_seq_1=0&itm_seq_2=0&company_cd=&company_nm=&page=1",
+   "https://overseas.mofa.go.kr/pl-ko/brd/m_9366/view.do?company_cd=&company_nm=&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&seq=1346376&srchFr=&srchTo=&srchTp=&srchWord=",
+   "https://www.gov.uk/guidance/what-to-do-after-a-british-person-dies-in-south-korea"
+  ],
+  "pouch_accepted": null,
+  "private_jet_alert": true,
+  "at_a_glance": {
+   "death_certificate": "Required, with cause of death",
+   "embalming": "Required by embassies; legal if infectious",
+   "coffin": "Sealed impermeable casket",
+   "laissez_passer": "Not applicable (no Strasbourg)",
+   "consular": "Korean consular confirmation of documents",
+   "permit": "Quarantine station clearance on arrival",
+   "arrival": "Incheon cargo terminal, hearse needed"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Contact the Korean embassy or consulate and appoint a local funeral director."
+   },
+   {
+    "when": "Day 1-3",
+    "what": "Obtain the death certificate with cause of death, embalming certificate and local export permit."
+   },
+   {
+    "when": "Day 3-5",
+    "what": "Translate into Korean or English and obtain Korean consular confirmation or apostille."
+   },
+   {
+    "when": "Day 5-7",
+    "what": "Book the flight; the airline sends documents to the Incheon quarantine station via its handling agent."
+   },
+   {
+    "when": "Arrival",
+    "what": "Quarantine and customs clearance; family collects the casket at the cargo terminal with a hearse."
+   },
+   {
+    "when": "Within 1 month",
+    "what": "Report the death in Korea."
+   }
+  ],
+  "key_points": [
+   "Quarantine Act Art. 25 governs bodies brought into Korea",
+   "Death certificate must state the cause of death",
+   "Infectious-disease deaths: embalmed and sealed, or cremated",
+   "Leaving Korea: police release for unnatural deaths"
+  ],
+  "export_points": [
+   "Police and prosecutor release for unnatural deaths",
+   "National Forensic Service post-mortem common for foreigners",
+   "Translated, notarised, apostilled death certificate",
+   "Embalming and non-contagious disease certificates"
+  ],
+  "private_jet_note": "Send the death certificate and waybill/manifest to the quarantine station via the handling agent before landing.",
+  "confidence": "high",
+  "lead_days": 7
+ },
+ {
+  "cc": "KZ",
+  "status": "requirements",
+  "name": "Kazakhstan",
+  "summary": "No official Kazakh rules for bringing a casket in were found; confirm with the Kazakh consulate in the country of death. Kazakhstan itself requires embalming, an airtight sealed zinc coffin, a health inspection certificate and customs permission for bodies leaving the country, and similar standards should be expected on entry.",
+  "coffin": "Not published officially for entry. Kazakhstan requires an airtight, sealed zinc coffin for bodies leaving the country, and the same standard should be expected for incoming coffins; confirm with the Kazakh consulate.",
+  "embalming": "Mandatory for repatriation from Kazakhstan; expected for incoming bodies. Confirm with the Kazakh consulate.",
+  "consular": "Kazakhstan is not a party to the 1973 Strasbourg Agreement. Contact the Kazakh embassy or consulate in the country of death about consular certification, legalisation or apostille and Kazakh or Russian translations.",
+  "arrival": "Not published officially. Expect customs and sanitary-quarantine clearance at the arrival airport and handover to a local funeral service. Kazakhstan's first crematorium opened in Almaty in April 2026, with strict consent conditions.",
+  "pouch": null,
+  "private_aviation": "No official rule specific to human remains on private aircraft was found. Plan arrival at an international airport with customs, border and sanitary-quarantine control, and have the handling agent confirm clearance of the coffin in advance.",
+  "export": "The death is registered at a registry office; the certificate is in Kazakh and Russian, without the cause of death, and can be apostilled. A post-mortem is usually done within 24 hours (it can be waived in some supervised natural deaths). Repatriation needs embalming, the death certificate, permission to remove the body from the mortuary or forensic facility, an airtight sealed zinc coffin, a funeral director's letter that the coffin contains no foreign objects with a list of accompanying items, a Health Inspection Services certificate confirming embalming, and Customs Department permission.",
+  "authority": "Ministry of Foreign Affairs of Kazakhstan (consular service); Health Inspection Services and Customs for exit",
+  "last_checked": "2026-10",
+  "documents": [
+   "Death certificate from the country of death, with translation (confirm with consulate)",
+   "Embalming certificate (expected; confirm)",
+   "Certificate that the death was not caused by a contagious disease (expected; confirm)",
+   "Zinc sealing certificate and list of accompanying items (expected; confirm)",
+   "Export permit from the country of death",
+   "Passport of the deceased"
+  ],
+  "sources": [
+   "https://www.gov.uk/guidance/when-someone-dies-in-kazakhstan",
+   "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+  ],
+  "pouch_accepted": null,
+  "private_jet_alert": false,
+  "at_a_glance": {
+   "death_certificate": "Original; confirm translation with consulate",
+   "embalming": "Expected; mandatory for exit",
+   "coffin": "Zinc coffin expected; confirm with consulate",
+   "laissez_passer": "No, not a Strasbourg party",
+   "consular": "Ask the Kazakh consulate first",
+   "permit": "Export permit from country of death",
+   "arrival": "Customs and sanitary clearance at airport"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Obtain the death certificate and contact the Kazakh consulate"
+   },
+   {
+    "when": "Day 0-1",
+    "what": "Embalm and seal the body in an airtight zinc coffin"
+   },
+   {
+    "when": "Day 1-2",
+    "what": "Obtain export permit and consular certification"
+   },
+   {
+    "when": "Day 2-3",
+    "what": "Book the flight and inform the receiving funeral service"
+   },
+   {
+    "when": "Arrival",
+    "what": "Customs and sanitary clearance, then burial"
+   }
+  ],
+  "key_points": [
+   "Entry rules not published online",
+   "Embalming and zinc coffin mandatory for exit",
+   "Crematorium in Almaty since April 2026, strict consent rules"
+  ],
+  "export_points": [
+   "Embalming is mandatory",
+   "Airtight sealed zinc coffin, no-foreign-objects letter",
+   "Health inspection certificate and customs permission",
+   "Post-mortem usually within 24 hours"
+  ],
+  "private_jet_note": "Confirm documents and customs clearance before take-off.",
+  "confidence": "medium",
+  "lead_days": null
+ },
+ {
+  "cc": "LB",
+  "status": "requirements",
+  "name": "Lebanon",
+  "summary": "Bringing a casket into Lebanon requires the Lebanese embassy or consulate to process the transfer: original death certificate, burial transit permit, non-contagious disease letter, embalming letter and sealed casket letter, with the deceased's passport and Lebanese ID. Leaving Lebanon requires a Mukhtar death certificate, the home embassy's no-objection letter and Ministry of Health permission.",
+  "coffin": "A letter confirming the casket is sealed is required by the Lebanese embassy; use a hermetically sealed, zinc-lined casket in an outer wooden case meeting airline requirements. Who witnesses the sealing is not specified.",
+  "embalming": "The Lebanese embassy in Washington requires a letter of embalming; the embassy in the Netherlands lists the embalming certificate as optional. Confirm with the consulate handling the case.",
+  "consular": "The Lebanese embassy or consulate reviews the documents and issues the mortuary pass (Netherlands embassy, consular fee EUR 44); the Washington embassy exempts transfers of remains and death registration from consular fees from 1 March 2026. The death is also registered with the Lebanese civil registry through the consulate.",
+  "arrival": "Customs and health clearance at Beirut airport; the receiving funeral director or family collects. Burial takes place in religious burial grounds; cremation is generally prohibited in Lebanon.",
+  "pouch": null,
+  "private_aviation": "No official rule specific to private flights carrying human remains was found. Beirut-Rafic Hariri is the international port of entry; airspace can be disrupted during regional hostilities. Confirm clearance with the handling agent.",
+  "export": "The hospital issues a death attestation; the local Mukhtar issues the death certificate (signed and stamped by the certifying doctor) and the death is registered at the local registry office. A post-mortem needs General Prosecutor approval and the family's permission. Repatriation requires the death certificate, the deceased's passport, a no-objection letter from the deceased's embassy and Ministry of Health permission. Cremation is not available.",
+  "authority": "Lebanese embassy/consulate abroad; Ministry of Health (exit)",
+  "last_checked": "2026-10",
+  "documents": [
+   "Original death certificate",
+   "Burial transit permit",
+   "Letter of non-contagious disease from an authorised health institution",
+   "Letter of embalming",
+   "Letter of sealed casket",
+   "Original passport of the deceased and Lebanese ID or civil registry extract",
+   "Death registration form signed by a family member"
+  ],
+  "sources": [
+   "https://lebanonembassyus.org/?p=467",
+   "https://lebanonembassy.nl/civil-status/",
+   "https://www.gov.uk/government/publications/lebanon-bereavement-support/lebanon-bereavement-information"
+  ],
+  "pouch_accepted": null,
+  "private_jet_alert": false,
+  "at_a_glance": {
+   "death_certificate": "Original certificate to the Lebanese consulate",
+   "embalming": "Letter usually requested",
+   "coffin": "Sealed casket letter required",
+   "laissez_passer": "Lebanese consulate mortuary pass",
+   "consular": "Consulate processes transfer, registers death",
+   "permit": "Burial transit permit from country of death",
+   "arrival": "Beirut customs, religious burial"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Contact the Lebanese embassy or consulate and appoint funeral directors at both ends."
+   },
+   {
+    "when": "Day 1",
+    "what": "Obtain the death certificate, burial transit permit and non-contagious disease letter."
+   },
+   {
+    "when": "Day 1-2",
+    "what": "Embalm, seal the casket and obtain the embalming and sealed casket letters."
+   },
+   {
+    "when": "Day 2-3",
+    "what": "Submit the file to the consulate and receive the mortuary pass; book the flight."
+   },
+   {
+    "when": "Arrival",
+    "what": "Customs clearance in Beirut, collection by the funeral director, burial."
+   }
+  ],
+  "key_points": [
+   "Requirements vary slightly between Lebanese consulates",
+   "Cremation is generally prohibited in Lebanon",
+   "Register the death with the Lebanese civil registry"
+  ],
+  "export_points": [
+   "Mukhtar issues the death certificate",
+   "Embassy no-objection letter",
+   "Ministry of Health permission to repatriate",
+   "Cremation not available in Lebanon"
+  ],
+  "private_jet_note": "Check Beirut airport and airspace status shortly before departure.",
+  "confidence": "medium",
+  "lead_days": null
+ },
+ {
+  "cc": "LC",
+  "status": "requirements",
+  "name": "Saint Lucia",
+  "summary": "Saint Lucia's Public Health (Transportation of Human Remains) Regulations require the cause-of-death certificate, a preparer's statement and a transit permit, a hermetically sealed impervious coffin, and clearance from an environmental health officer before the remains leave the port of entry.",
+  "coffin": "Remains must be placed in a hermetically sealed impervious coffin; an outer wooden box or special fabric may be added for protection. Alternatively an embalmed body may be sealed in a plastic container placed in a non-impervious coffin. A durable plaque on the outside must show the name, age and final destination.",
+  "embalming": "The law allows either thorough disinfection (orifices packed, body wrapped in a disinfectant sheet) in an impervious coffin, or arterial and cavity embalming. Embalming is mandatory if the deceased had a quarantinable disease.",
+  "consular": "No consular legalisation step is set out in the regulations; documents must be in English. Ask the Saint Lucia mission in the country of death whether authentication is expected.",
+  "arrival": "Human remains may not leave the port of entry until an environmental health officer issues clearance (prescribed form). Copies of the documents must travel with the remains or reach the environmental health officer within 24 hours. The local funeral director collects. No legal burial deadline found.",
+  "pouch": null,
+  "private_aviation": "No private-flight rules found. Land at a port of entry where an environmental health officer can issue the clearance; arrange it in advance, especially outside office hours.",
+  "export": "Leaving Saint Lucia: the death is registered at the Registry of Civil Status; the certificate (English, with cause of death) is usually issued within 2 days of the post-mortem, which is usually within a week. The same regulations apply to anyone transporting remains: documents go to the Chief Medical Officer, a $250 fee is paid to the Accountant General, and the Chief Medical Officer's certificate must appear on the outside of the coffin.",
+  "authority": "Ministry of Health: Chief Medical Officer and Environmental Health officers",
+  "last_checked": "2026-10",
+  "documents": [
+   "Official certificate of cause of death from the registrar of deaths or similar authority",
+   "Statement by the person who prepared the remains, certified by an appropriate authority, describing the preparation and confirming the coffin holds only the body, clothing and packing",
+   "Transit permit from the competent authority at the place of death, stating the deceased's names and age",
+   "Documents in the official language (English) of Saint Lucia",
+   "Environmental health officer's clearance at the port of entry"
+  ],
+  "sources": [
+   "https://www.attorneygeneralchambers.com/laws-of-saint-lucia/public-health-act/public-health-(transportation-of-human-remains)-regulations-section-9-(statutory-instruments-19-1978-and-31-2020)",
+   "https://www.attorneygeneralchambers.com/laws-of-saint-lucia/public-health-act/section-3-14",
+   "https://www.attorneygeneralchambers.com/laws-of-saint-lucia/public-health-act/section-4-02",
+   "https://www.attorneygeneralchambers.com/laws-of-saint-lucia/public-health-act/section-5-18",
+   "https://www.attorneygeneralchambers.com/laws-of-saint-lucia/public-health-act/section-8a",
+   "https://www.gov.uk/guidance/when-someone-dies-in-st-lucia"
+  ],
+  "pouch_accepted": false,
+  "private_jet_alert": true,
+  "at_a_glance": {
+   "death_certificate": "Official cause-of-death certificate, in English",
+   "embalming": "Embalming or disinfection; mandatory if infectious",
+   "coffin": "Hermetically sealed impervious coffin, plaque outside",
+   "laissez_passer": "Not applicable",
+   "consular": "No legalisation step in the law",
+   "permit": "Transit permit plus port health clearance",
+   "arrival": "Environmental health officer clears at port"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Appoint funeral homes at departure and in Saint Lucia"
+   },
+   {
+    "when": "Day 1-2",
+    "what": "Obtain cause-of-death certificate and transit permit at the place of death"
+   },
+   {
+    "when": "Day 2-3",
+    "what": "Embalm, seal in an impervious coffin with name plaque; preparer's certified statement"
+   },
+   {
+    "when": "Day 3",
+    "what": "Send copies to the Saint Lucia funeral home to alert Environmental Health"
+   },
+   {
+    "when": "Arrival",
+    "what": "Environmental health officer clears the remains; funeral home collects"
+   }
+  ],
+  "key_points": [
+   "Rules set by the Public Health (Transportation of Human Remains) Regulations",
+   "Port health clearance is mandatory before removal",
+   "Documents must be in English",
+   "The regulations also set a $250 fee and a Chief Medical Officer certificate on the coffin; confirm if applied to incoming remains"
+  ],
+  "export_points": [
+   "Chief Medical Officer certifies the coffin; certificate fixed on the outside",
+   "Transport fee $250 to the Accountant General",
+   "Hermetically sealed impervious coffin with name plaque",
+   "Post-mortem usually within a week; certificate within 2 days after"
+  ],
+  "private_jet_note": "Remains cannot leave the airport until an environmental health officer clears them.",
+  "confidence": "medium",
+  "lead_days": null
+ }
+]

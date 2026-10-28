@@ -1,0 +1,830 @@
+[
+  {
+    "cc": "NG",
+    "status": "strict",
+    "name": "Nigeria",
+    "summary": "A coffin can enter Nigeria only with a waiver from the Federal Ministry of Health (Port Health Services, Abuja) followed by a letter for shipment of human remains from the Nigerian mission in the country of death. The body must be embalmed and placed in a hermetically sealed metal casket.",
+    "coffin": "A hermetically sealed metal casket is required (Atlanta consulate list), confirmed by a notarised funeral home letter; the Ottawa High Commission asks for a funeral director's statement that the casket contains only the remains.",
+    "embalming": "Embalming is required, evidenced by a notarised embalmer's affidavit or embalming certificate.",
+    "consular": "After the Federal Ministry of Health waiver is granted, the Nigerian embassy, high commission or consulate checks the file and issues a letter (permission) for shipment of human remains. Fees vary by mission: 50 USD in Atlanta; 50 CAD per page plus a 50 CAD administrative fee in Ottawa, plus a 5,000 naira international waiver fee payable to Port Health Services. Ottawa quotes 10 business days; Atlanta gives no processing time.",
+    "arrival": "Arrival-side formalities (Port Health and customs clearance) are not detailed on the mission pages consulted; confirm with the receiving funeral home and the Nigerian mission. Carry the waiver, mission letter and original documents with the casket.",
+    "pouch": null,
+    "private_aviation": "The Port Health waiver and mission letter are required whatever the aircraft. Confirm the arrival airport and its Port Health and customs arrangements with the Nigerian mission before departure, and keep the waiver, mission letter and original documents with the casket.",
+    "export": "UK government guidance for taking a body out of Nigeria lists the death certificate, a death certificate from the National Population Commission, permission to remove the body issued by a coroner, the passport of the deceased and an infection-free declaration from the Ministry of Health; rules vary by location. The body must be embalmed (usually after any post-mortem) and placed in a metal casket. Cremation of a foreign national is possible.",
+    "authority": "Federal Ministry of Health, Port Health Services (Abuja); Nigerian diplomatic mission in the country of death",
+    "last_checked": "2026-10",
+    "documents": [
+      "Port Health waiver from the Federal Ministry of Health, Abuja (request letter to the Minister of Health giving date, place and cause of death and age)",
+      "Death certificate (notarised or certified copy) and medical certificate of death",
+      "Burial transit permit or certificate for shipping the body out of the country of death",
+      "Non-communicable disease letter or certificate from a coroner, medical examiner or health agency",
+      "Notarised embalmer's affidavit or embalming certificate",
+      "Notarised funeral home letter confirming a hermetically sealed metal casket containing only the remains",
+      "Medical examiner's report if applicable",
+      "Deceased's Nigerian passport, or a notarised affidavit from a relative holding a Nigerian passport",
+      "Funeral home request letter to the mission and contact details of the receiving party in Nigeria",
+      "Mission fee and prepaid return envelope"
+    ],
+    "sources": [
+      "https://www.nigeriaconsulateatlanta.org/requirements-for-shipping-human-remains-to-nigeria/",
+      "https://nigeriahcottawa.ca/?p=2622",
+      "https://www.gov.uk/guidance/what-to-do-after-a-british-person-dies-in-nigeria"
+    ],
+    "pouch_accepted": null,
+    "private_jet_alert": true,
+    "at_a_glance": {
+      "death_certificate": "Notarised or certified copy required",
+      "embalming": "Mandatory, notarised embalmer affidavit",
+      "coffin": "Hermetically sealed metal casket",
+      "laissez_passer": "Burial transit permit from country of death",
+      "consular": "Mission letter for shipment of remains",
+      "permit": "Federal Ministry of Health Port Health waiver",
+      "arrival": "Confirm clearance with mission and funeral home"
+    },
+    "steps": [
+      {
+        "when": "Day 0-1",
+        "what": "Send the waiver request letter to the Minister of Health, Federal Ministry of Health, Abuja."
+      },
+      {
+        "when": "Day 0-2",
+        "what": "Embalming, non-communicable disease letter, sealing of the metal casket and notarised letters."
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Submit the full file with the fee to the Nigerian mission in the country of death."
+      },
+      {
+        "when": "Day 3-10",
+        "what": "Waiver received; the mission issues the letter for shipment of human remains. Book the flight."
+      },
+      {
+        "when": "Arrival",
+        "what": "Health and customs clearance (confirm the procedure with the mission), then handover to the receiving family or funeral home."
+      }
+    ],
+    "key_points": [
+      "The Ministry of Health waiver is the critical step",
+      "Ottawa quotes 10 business days",
+      "Funeral home letters and embalmer affidavit must be notarised",
+      "Fees and lists differ slightly between missions"
+    ],
+    "export_points": [
+      "National Population Commission death certificate",
+      "Coroner's permission to remove the body",
+      "Ministry of Health infection-free declaration",
+      "Embalming and a metal casket are required"
+    ],
+    "private_jet_note": "Do not take off before the Federal Ministry of Health waiver and the mission letter are in hand.",
+    "confidence": "high",
+    "lead_days": 10
+  },
+  {
+    "cc": "NL",
+    "status": "requirements",
+    "name": "Netherlands",
+    "summary": "A body enters the Netherlands unhindered with the laissez-passer of the country of death (Strasbourg Agreement states) or, from other countries, a declaration from the competent authority naming the deceased and the destination; the document is shown to customs on entry. The civil registrar of the municipality of burial or cremation then issues the permit on that document.",
+    "coffin": "From Strasbourg Agreement states the coffin must meet articles 6 and 7 of that agreement (impermeable coffin with absorbent material; confirm the sealing standard with the departure funeral director). From Belgium, Luxembourg and non-Strasbourg countries a watertight coffin is required (Besluit op de lijkbezorging art. 12).",
+    "embalming": "No Dutch embalming requirement for incoming bodies; follow the departure country's rules. In the Netherlands embalming is generally prohibited, but the ban does not apply to bodies sent abroad.",
+    "consular": "From Strasbourg states no consular step is needed. From other countries the declaration of the departure country's competent authority is required; ask the Dutch embassy whether legalisation is needed.",
+    "arrival": "The laissez-passer, permit or declaration is presented to customs. The civil registrar of the municipality where burial or cremation will take place grants the permit on that document and keeps it. Burial or cremation normally within 6 working days of death; if the body arrives too late, as soon as possible after arrival. Transport by a hearse registered with the RDW.",
+    "pouch": null,
+    "private_aviation": "Present the laissez-passer or declaration to Dutch customs on arrival, so use an airport with customs and have the receiving funeral director and an RDW-registered hearse meet the aircraft. The coffin must fit the aircraft's cargo door or cabin.",
+    "export": "The mayor of the municipality where the death was registered issues the laissez-passer for transport to Strasbourg states; for other countries a declaration of the competent authority naming the deceased and destination is used. If a non-natural death cannot be ruled out, the public prosecutor must give permission before transport, and embalming needs prosecutor consent. Embalming is permitted for bodies sent abroad.",
+    "authority": "Civil registrar (burgerlijke stand) of the municipality of burial; mayor of the municipality of death for exports",
+    "last_checked": "2026-10",
+    "documents": [
+      "Strasbourg states: laissez-passer issued by the competent authority of the country of death",
+      "Berlin Agreement states: the Berlin Agreement document (accepted by the civil registrar)",
+      "Other countries: declaration from the competent authority of the departure country naming the deceased and the destination",
+      "Belgium/Luxembourg overland: burial or cremation permit of the municipality of death",
+      "Death certificate (usually travels with the laissez-passer; confirm with the receiving funeral director)"
+    ],
+    "sources": [
+      "https://business.gov.nl/regulation/transport-mortal-remains/",
+      "https://wetten.overheid.nl/BWBR0009080/",
+      "https://wetten.overheid.nl/BWBR0005009/",
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+    ],
+    "pouch_accepted": false,
+    "private_jet_alert": false,
+    "at_a_glance": {
+      "death_certificate": "Travels with laissez-passer; confirm locally",
+      "embalming": "Per departure country rules",
+      "coffin": "Strasbourg coffin or watertight coffin",
+      "laissez_passer": "From country of death",
+      "consular": "Declaration if non-Strasbourg",
+      "permit": "Civil registrar of burial municipality",
+      "arrival": "Customs check; burial within 6 working days"
+    },
+    "steps": [
+      {
+        "when": "Day 0-1",
+        "what": "Appoint funeral directors; obtain death certificate"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Departure authority issues laissez-passer or declaration; coffin sealed"
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Flight to the Netherlands; documents shown to customs"
+      },
+      {
+        "when": "Arrival",
+        "what": "Hearse to funeral home; civil registrar issues burial or cremation permit"
+      }
+    ],
+    "key_points": [
+      "Laissez-passer alone suffices between Strasbourg states",
+      "Burial or cremation as soon as possible if 6-day limit has passed",
+      "Funeral transport must use an RDW-registered hearse"
+    ],
+    "export_points": [
+      "Mayor of municipality of death issues laissez-passer",
+      "Prosecutor permission for non-natural deaths",
+      "Embalming allowed for transport abroad",
+      "Benelux overland: burial or cremation permit suffices"
+    ],
+    "private_jet_note": "Have the laissez-passer ready for Dutch customs at the arrival airport.",
+    "confidence": "high",
+    "lead_days": 2
+  },
+  {
+    "cc": "NO",
+    "status": "requirements",
+    "name": "Norway",
+    "summary": "A casket coming into Norway must travel in approved packaging (a metal inner coffin for transport from outside the Nordic countries) with the death documents required by the country of departure, and the Norwegian embassy or consulate abroad issues the documents needed for repatriation. The receiving funeral home must collect the coffin as soon as possible after arrival.",
+    "coffin": "Norwegian regulation FOR-1998-04-03-327 (§ 3-2) requires a packaging method approved by the Directorate of Health, unless treaties, airlines or receiving or transit countries require otherwise. The official commentary states that a metal inner coffin is required for transport to and from countries outside the Nordic region; a body bag may be used between Nordic countries. The body must be marked with the deceased's name, date of birth and date of death (§ 4-1). No Norwegian witness to sealing is required by the regulation.",
+    "embalming": "Not required by Norwegian rules for entry. Embalming falls under the general hygiene rules of the regulation; there is no transport-specific embalming rule.",
+    "consular": "The Norwegian embassy or consulate in the country of death issues the necessary documents for bringing the coffin home; the family arranges the transport itself with a local funeral company or insurer. The death is then recorded in the Norwegian population register by the Tax Administration. Ask the embassy whether the foreign death certificate must be legalised or apostilled.",
+    "arrival": "The recipient (usually a Norwegian funeral home) must collect the coffin as soon as possible after arrival (§ 3-3). Where possible only the municipal physician at the place of receipt is told the cause of death. If a serious infectious disease makes re-coffining risky, it must be done at a forensic institute or hospital pathology department.",
+    "pouch": null,
+    "private_aviation": "No Norwegian rule specific to private aircraft carrying human remains was found. The general packaging, marking and documentation rules of FOR-1998-04-03-327 apply. Norway is in Schengen but outside the EU customs union, so a flight from outside Schengen must land at an airport with border and customs control.",
+    "export": "Norwegian rules apply until the body leaves Norway. The sender must use packaging approved by the Directorate of Health unless the destination, transit country, airline or a treaty requires otherwise; the commentary requires a metal inner coffin outside the Nordic region. Where required, death documents for transport abroad are obtained from the police. Some destinations require embalming and an embalming certificate. The local district court (tingrett) issues the death certificate; sudden or unexpected deaths require a forensic autopsy, usually decided by the police prosecutor.",
+    "authority": "Norwegian Directorate of Health (packaging rules); Norwegian embassies and consulates; police (export documents)",
+    "last_checked": "2026-10",
+    "documents": [
+      "Death certificate from the country of death (ask the Norwegian embassy whether legalisation or apostille is needed)",
+      "Transport documents or laissez-passer issued in the country of departure",
+      "Documents issued by the Norwegian embassy or consulate for the repatriation",
+      "Cause of death, ideally disclosed only to the municipal physician at the place of receipt",
+      "Body marked with name, date of birth and date of death"
+    ],
+    "sources": [
+      "https://lovdata.no/dokument/SF/forskrift/1998-04-03-327",
+      "https://www.norway.no/en/thailand/for-nordmenn/bistand-til-nordmenn/dodsfall/",
+      "https://www.gov.uk/government/publications/norway-bereavement-packinformation/norway-bereavement-information"
+    ],
+    "pouch_accepted": null,
+    "private_jet_alert": false,
+    "at_a_glance": {
+      "death_certificate": "Foreign certificate; ask embassy about legalisation",
+      "embalming": "Not required by Norway",
+      "coffin": "Metal inner coffin from outside Nordic region",
+      "laissez_passer": "From departure country under Strasbourg rules",
+      "consular": "Norwegian embassy issues repatriation documents",
+      "permit": "No separate entry permit found",
+      "arrival": "Funeral home collects coffin promptly"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the insurer or a funeral home experienced in international repatriation, and the Norwegian embassy."
+      },
+      {
+        "when": "Day 1",
+        "what": "Obtain the local death certificate and ask the Norwegian embassy which documents and legalisation it needs."
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Local funeral home places the body in a metal-lined coffin and obtains the departure country's transport documents."
+      },
+      {
+        "when": "Day 2-4",
+        "what": "The Norwegian embassy issues the repatriation documents; book the flight."
+      },
+      {
+        "when": "Arrival",
+        "what": "Norwegian funeral home collects the coffin as soon as possible and arranges burial or cremation."
+      }
+    ],
+    "key_points": [
+      "Norway requires a metal inner coffin for transport from outside the Nordic countries",
+      "The Norwegian embassy issues the repatriation documents",
+      "The family arranges and pays the transport with a funeral company or insurer"
+    ],
+    "export_points": [
+      "Police issue death documents for transport abroad where required",
+      "Metal inner coffin required outside the Nordic region",
+      "Body bag allowed to Nordic countries under the airline agreement",
+      "Embalming only if the destination requires it"
+    ],
+    "private_jet_note": "Use an airport with border and customs service if arriving from outside Schengen; packaging must meet the Directorate of Health approved method for air transport.",
+    "confidence": "medium",
+    "lead_days": null
+  },
+  {
+    "cc": "NP",
+    "status": "requirements",
+    "name": "Nepal",
+    "summary": "A casket can enter Nepal with a No Objection Letter from the Nepalese embassy in the country of death. The letter is issued on copies of the death certificate and passport, a certificate of no infectious or quarantinable disease and (in London) an embalming certificate, with a next-of-kin request naming the receiver in Nepal.",
+    "coffin": "The Nepalese embassy pages give no coffin specification. Confirm the casket and outer case requirements with the airline.",
+    "embalming": "The Nepalese Embassy in London requires an embalming certificate; the Washington embassy list does not mention one. Confirm with the embassy handling the file.",
+    "consular": "The Nepalese embassy issues a free No Objection Letter: the same day in London, 3 to 4 business days in Washington (applications through a licensed funeral shipping company). Document lists differ between missions, so check with the embassy in the country of death.",
+    "arrival": "The remains arrive at Tribhuvan International Airport, Kathmandu, for the receiver named in the application. Cremation is the norm in Nepal and burial is used by some communities. Customs and health clearance steps on arrival are not published; confirm with the receiver and embassy.",
+    "pouch": null,
+    "private_aviation": "No official guidance on private flights carrying remains was found. Kathmandu (Tribhuvan) is the main international airport. Confirm aircraft permissions and arrival clearance with the operator before departure.",
+    "export": "From Nepal, autopsies are mandatory for unnatural deaths and are also done for insured remains to be repatriated; foreign nationals are autopsied at the Department of Forensic Medicine, Institute of Medicine, Kathmandu, usually within 24 hours, free of charge. A death certificate is usually available right after the autopsy. The post-autopsy death certificate and an embalming certificate are needed for the body to clear customs and immigration. Through Kathmandu funeral agents, repatriation usually takes about 1 to 10 days; via agents in India it can take 4 to 5 weeks. Refrigeration costs NPR 2,500 per day.",
+    "authority": "Nepalese embassy/consulate; Department of Consular Services, Ministry of Foreign Affairs, Nepal",
+    "last_checked": "2026-10",
+    "documents": [
+      "Copy of the death certificate",
+      "Copy of the deceased's passport",
+      "Embalming certificate (London)",
+      "Certificate of freedom from infection / no quarantinable disease from the local health authority",
+      "Coroner's certificate (London); police report for unnatural or accidental deaths (US)",
+      "Funeral director's declaration (London); burial transit permit (US)",
+      "Next of kin's application naming the receiver in Nepal (in the US, online through Nepal's Department of Consular Services or a local authorisation letter)",
+      "No Objection Letter from the Nepalese embassy"
+    ],
+    "sources": [
+      "https://uk.nepalembassy.gov.np/pages/repatriation-of-dead-body/",
+      "https://us.nepalembassy.gov.np/pages/other-services-11/",
+      "https://www.gov.uk/government/publications/nepal-bereavement-information"
+    ],
+    "pouch_accepted": null,
+    "private_jet_alert": false,
+    "at_a_glance": {
+      "death_certificate": "Copy required with application",
+      "embalming": "Certificate required by London embassy",
+      "coffin": "Sealed coffin; confirm with airline",
+      "laissez_passer": "Not used; embassy letter instead",
+      "consular": "Free No Objection Letter from embassy",
+      "permit": "No-infection certificate; police report if unnatural",
+      "arrival": "Kathmandu; confirm clearance with receiver"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Obtain the death certificate and, for unnatural deaths, the coroner or police report."
+      },
+      {
+        "when": "Day 0-1",
+        "what": "Funeral home embalms and obtains the embalming and no-infection certificates."
+      },
+      {
+        "when": "Day 1",
+        "what": "Next of kin applies to the Nepalese embassy, naming the receiver in Nepal."
+      },
+      {
+        "when": "Day 1-4",
+        "what": "Embassy issues the No Objection Letter (same day in London, 3-4 days in the US)."
+      },
+      {
+        "when": "Day 2-5",
+        "what": "Fly to Kathmandu; the receiver named in the application takes charge of the remains."
+      }
+    ],
+    "key_points": [
+      "Embassy letter is free of charge",
+      "Cremation is the usual custom in Nepal",
+      "Processing time differs by embassy"
+    ],
+    "export_points": [
+      "Autopsy at the Institute of Medicine, Kathmandu",
+      "Embalming certificate needed for customs",
+      "Usually 1-10 days via Kathmandu funeral agents",
+      "Destination country's embassy supplies its documents"
+    ],
+    "private_jet_note": "Plan for Kathmandu as port of entry and carry the embassy letter.",
+    "confidence": "medium",
+    "lead_days": 2
+  },
+  {
+    "cc": "NR",
+    "status": "requirements",
+    "name": "Nauru",
+    "summary": "Nauru's Funeral Burial and Cremation Act 2017 requires the person in control to dispose of remains within 24 hours of receiving them from the hospital, and only after a health practitioner's death certificate and registration of the death. No specific entry permit for a casket is published, so agree the arrival, registration and burial plan with the Department of Health before departure.",
+    "coffin": "Not set for entry. Section 10 of the 2017 Act requires a body that died of an infectious or contagious disease to be sealed in a body bag and taken directly to burial or cremation. A sealed casket with an embalmed body is the safe choice for transport.",
+    "embalming": "Not required by the Act for entry. For leaving Nauru, section 13 requires a health practitioner's certificate that the remains are medically preserved and fit for transport, so embalming is effectively required on export.",
+    "consular": "No consular transfer permit is published. Ask the nearest Nauru diplomatic mission and the Nauru Department of Health.",
+    "arrival": "Arrival at Nauru International Airport. Under section 12 the person in control must dispose of human remains within 24 hours, and section 10 requires the death to be registered with the Registrar of Births, Deaths and Marriages before disposal (the Registrar may be notified of deaths abroad of Nauruans and residents). Burial only in a designated burial ground between 7 am and 6 pm unless the Authority approves; since 2025 the President may permit burial at a residence or other place.",
+    "pouch": null,
+    "private_aviation": "Nauru International Airport is the only international airport. No rule specific to human remains on private flights was found; confirm landing permission and arrival clearance with the authorities before departure.",
+    "export": "Section 13 of the Funeral Burial and Cremation Act 2017: no removal of remains from Nauru without (a) a health practitioner's certificate of death, (b) a death certificate from the Registrar of Births, Deaths and Marriages, (c) a health practitioner's certificate that the remains are medically preserved and capable of being transported, and (d) any conditions set by regulations. The remains must be transported within 6 hours of being received from the hospital. Ashes leave only with Authority approval, a sealed container, an Authority certificate and Quarantine Section clearance (s. 50).",
+    "authority": "Department of Health; Registrar of Births, Deaths and Marriages; burial ground Authority (Funeral Burial and Cremation Act 2017)",
+    "last_checked": "2026-10",
+    "documents": [
+      "Certified death certificate stating the cause of death, in English",
+      "Medical letter that the death was not due to an infectious or contagious disease (practice; not set by the Act for entry)",
+      "Embalming and casket sealing certificates (practice; not confirmed for entry)",
+      "Copy of the deceased's passport",
+      "Burial application to the cemetery Authority in the prescribed form, with a burial certificate from the Nauru Police Force (s. 19 of the 2017 Act)"
+    ],
+    "sources": [
+      "https://www.paclii.org/nr/legis/num_act/fbaca2017253/",
+      "https://www.paclii.org/nr/legis/num_act/fbaca2025333.pdf",
+      "https://www.paclii.org/nr/legis/num_act/bdamra2017383/"
+    ],
+    "pouch_accepted": null,
+    "private_jet_alert": false,
+    "at_a_glance": {
+      "death_certificate": "Medical and Registrar certificates",
+      "embalming": "Preservation certificate needed to leave",
+      "coffin": "Sealed casket advised",
+      "laissez_passer": "Not used",
+      "consular": "Ask nearest Nauru mission",
+      "permit": "Burial application to cemetery Authority",
+      "arrival": "Disposal within 24 hours by law"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the Nauru Department of Health and the Registrar of Births, Deaths and Marriages about the arrival and registration."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain the death certificate, non-infectious-disease letter, embalming and sealing certificates."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Prepare the burial application to the cemetery Authority, with the Police burial certificate."
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Book cargo with the airline or a private aircraft once landing permission is confirmed."
+      },
+      {
+        "when": "Arrival",
+        "what": "Clearance at Nauru airport; burial in a designated burial ground within 24 hours."
+      }
+    ],
+    "key_points": [
+      "Funeral Burial and Cremation Act 2017 (amended 2025) applies",
+      "Disposal within 24 hours of receipt is a legal duty",
+      "Infectious-disease deaths: sealed body bag, direct to burial or cremation",
+      "Leaving Nauru: preservation certificate and departure within 6 hours"
+    ],
+    "export_points": [
+      "Medical and Registrar death certificates required (s. 13)",
+      "Certificate that the body is preserved and fit to transport",
+      "Transport within 6 hours of release from hospital",
+      "Ashes: sealed container, Authority certificate, quarantine clearance"
+    ],
+    "private_jet_note": "Have the burial ground and Registrar ready: the Act expects disposal within 24 hours.",
+    "confidence": "low",
+    "lead_days": null
+  },
+  {
+    "cc": "NZ",
+    "status": "requirements",
+    "name": "New Zealand",
+    "summary": "A casket arriving in New Zealand by freight is cleared by NZ Customs on the freight documents, a copy of the importer's photo ID and the death certificate; no import permit was found. A New Zealand funeral director, usually coordinating with a counterpart in the country of death, receives the body.",
+    "coffin": "No New Zealand-specific casket standard was found on official pages; a hermetically sealed coffin meeting airline and IATA requirements is normally used.",
+    "embalming": "Not set as a New Zealand import requirement in official pages consulted; usually required by the country of departure and the airline.",
+    "consular": "NZ Customs and MFAT pages do not mention any consular legalisation for entry; confirm with the funeral director. NZ embassies and MFAT can advise families, give funeral director contacts and certify copies of documents (fees charged), but cannot pay repatriation costs.",
+    "arrival": "Customs clearance can be done by the post or freight service, or by emailing scanned documents to Customs; urgent after-hours clearance can be requested. A New Zealand funeral director collects the casket. The local death certificate travels with the body.",
+    "pouch": null,
+    "private_aviation": "No Customs guidance specific to a casket on a private aircraft was found. Customs says remains carried by a traveller need no Customs clearance, but confirm with NZ Customs and arrange border and biosecurity clearance at the arrival airport before departure.",
+    "export": "For remains sent out of New Zealand for interment, the freight forwarder or airline usually handles Customs formalities and no export entry is required. The funeral director arranges the death documents, embalming and a sealed casket to meet the destination country's and airline's rules.",
+    "authority": "New Zealand Customs Service",
+    "last_checked": "2026-10",
+    "documents": [
+      "Death certificate",
+      "Freight documents (air waybill or arrival notice)",
+      "Copy of the importer's photo ID",
+      "Embalming certificate and export permit required by the country of death and airline"
+    ],
+    "sources": [
+      "https://www.customs.govt.nz/personal/travel-to-and-from-nz/human-remains",
+      "https://safetravel.govt.nz/death",
+      "https://www.mfat.govt.nz/assets/NZ-Embassies/Australia-CANBERRA/Bereavement-Info-v2.pdf"
+    ],
+    "pouch_accepted": null,
+    "private_jet_alert": true,
+    "at_a_glance": {
+      "death_certificate": "Required for Customs clearance",
+      "embalming": "Usually required by origin and airline",
+      "coffin": "Sealed casket to airline standard",
+      "laissez_passer": "Not used",
+      "consular": "No legalisation mentioned; confirm with director",
+      "permit": "No import permit found",
+      "arrival": "Customs clearance; NZ funeral director collects"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Appoint funeral directors abroad and in New Zealand."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain the death certificate and the origin country's export documents."
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Embalming, sealed casket and flight booking."
+      },
+      {
+        "when": "Before arrival",
+        "what": "Send freight papers, importer ID and death certificate to Customs or the freight agent."
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs clearance and handover to the NZ funeral director."
+      }
+    ],
+    "key_points": [
+      "Families pay repatriation costs; MFAT cannot.",
+      "Ashes carried in person need no Customs clearance.",
+      "NZ Post does not accept ashes; use a funeral director or carry them."
+    ],
+    "export_points": [
+      "No Customs export entry needed for remains for interment",
+      "Freight forwarder or airline handles Customs formalities",
+      "Embalming and sealed casket per destination rules",
+      "Check destination consulate requirements"
+    ],
+    "private_jet_note": "Confirm Customs and biosecurity clearance for the casket with NZ Customs before departure.",
+    "confidence": "medium",
+    "lead_days": 3
+  },
+  {
+    "cc": "OM",
+    "status": "requirements",
+    "name": "Oman",
+    "summary": "Omani missions coordinate repatriation of Omani citizens: the transport company obtains an embalming certificate and the local no-objection certificates, prepares the coffin and hands it to Oman Air, and the family receives it in Oman with the bill of lading and the consulate's no-objection certificate; shipping from India takes 3 to 5 working days (Omani consulate Mumbai). Leaving Oman requires embalming, a zinc-lined sealed coffin and certificates of embalming, freedom from infection and coffin sealing.",
+    "coffin": "The transport company prepares the coffin and hands it to the carrier (Omani consulate Mumbai); the consulate publishes no coffin specification for entry. For bodies leaving Oman, UK guidance states that embalming and a zinc-lined coffin are required. Confirm specifications with the airline.",
+    "embalming": "An embalming certificate is part of the Omani consulate's checklist for bodies sent to Oman, and embalming is required for remains leaving Oman (gov.uk; Indian Embassy Muscat).",
+    "consular": "The Omani embassy or consulate is contacted by the accompanying person or a first-degree relative, confirms identity, obtains local approvals, liaises with Oman Air and issues its no-objection certificate. Oman is not a party to the Strasbourg Agreement.",
+    "arrival": "In Oman the family receives the body with the transport company's bill of lading and their ID, and checks they receive the original passport, municipal certificate, police or foreign affairs certificate, death summary and the consulate's NOC. Hearses can be arranged by region. Muslim burial normally follows quickly.",
+    "pouch": null,
+    "private_aviation": "No official rule specific to private or charter flights carrying human remains was found; Omani consulates route citizens' remains via Oman Air cargo. Confirm arrival clearance with the Omani mission before departure.",
+    "export": "The death is reported to the police and registered with the Royal Oman Police civil status office; post-mortems are carried out at the ROP police mortuary in Muscat, and Salalah cases need prior approval and an appointment before being taken to the ROP Qurum mortuary. The sponsor arranges embalming (ROP hospital, Qurum, or Khoula Hospital), coffin sealing and cargo booking; the home embassy issues its NOC and cancels the passport. Certificates of embalming, freedom from infectious disease (quarantine) and coffin sealing are required; documents go to the cargo office at Seeb. Indicative costs per the Indian Embassy: embalming RO 100-123, casket RO 180-200, cargo handling about RO 77.",
+    "authority": "Omani embassy/consulate abroad (Ministry of Foreign Affairs); Royal Oman Police (exit)",
+    "last_checked": "2026-10",
+    "documents": [
+      "Death certificate (and death summary or autopsy certificate where applicable)",
+      "Passport of the deceased",
+      "Embalming certificate",
+      "No-objection certificates from the authorities of the country of death (e.g. foreign ministry, municipality, police)",
+      "No-objection certificate from the Omani embassy or consulate",
+      "Bill of lading / air waybill"
+    ],
+    "sources": [
+      "https://www.fm.gov.om/en/missions/om-in-mumbai-cg/",
+      "https://www.fm.gov.om/ar/citizens/consular-services/",
+      "https://www.gov.uk/guidance/when-someone-dies-in-oman",
+      "https://www.indemb-oman.gov.in/page/death-cases/",
+      "https://oman.embassy.gov.lk/?p=357"
+    ],
+    "pouch_accepted": null,
+    "private_jet_alert": false,
+    "at_a_glance": {
+      "death_certificate": "Original, with local authority NOCs",
+      "embalming": "Embalming certificate required",
+      "coffin": "Sealed coffin, zinc-lined standard",
+      "laissez_passer": "Not applicable (no Strasbourg)",
+      "consular": "Omani consulate issues NOC",
+      "permit": "Local NOCs plus consulate NOC",
+      "arrival": "Family collects with bill of lading"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "First-degree relative or escort contacts the Omani embassy or consulate."
+      },
+      {
+        "when": "Day 1",
+        "what": "Obtain the death certificate, autopsy or death summary, and local NOCs (police, municipality, foreign ministry)."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Embalm, prepare and seal the coffin; obtain the embalming certificate."
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Consulate issues its NOC; book cargo and send the bill of lading to the consulate."
+      },
+      {
+        "when": "Arrival",
+        "what": "Family collects in Oman with the bill of lading and ID; hearse to burial."
+      }
+    ],
+    "key_points": [
+      "Embalming certificate is on the Omani checklist",
+      "Shipping from India to Oman takes 3 to 5 working days",
+      "Royal Oman Police registers deaths in Oman",
+      "Zinc-lined coffin and embalming for exit"
+    ],
+    "export_points": [
+      "Registration with Royal Oman Police civil status",
+      "Embassy NOC and cancelled passport",
+      "Embalming, infectious-disease-free and sealing certificates",
+      "Documents to the cargo office at Seeb"
+    ],
+    "private_jet_note": "Get the Omani consulate's NOC and the arrival paperwork ready before take-off to Muscat.",
+    "confidence": "medium",
+    "lead_days": 3
+  },
+  {
+    "cc": "PA",
+    "status": "requirements",
+    "name": "Panama",
+    "summary": "Before shipment, the Panamanian consulate in the country of death must process the documents: for an embalmed body, the original death certificate, an original health certificate, a notarised transit permit and a notarised embalming certificate, with a consular fee of USD 30 per document at the Washington consulate. Confirm arrival clearance and collection with a funeral home in Panama.",
+    "coffin": "Not specified by the consulate. Panamanian funeral directors use a special casket for international transport (FCDO). Confirm casket requirements with the consulate and the airline.",
+    "embalming": "Embalming is expected: the consulate's list for a body (as opposed to ashes) requires a notarised embalming certificate.",
+    "consular": "The Panamanian consulate processes each document (Washington consulate: USD 30 per document, paid by money order, originals mailed with a prepaid return envelope). The consulate page does not mention apostilles or translations; check with the consulate covering the place of death.",
+    "arrival": "Arrival formalities are not published by the consulate; confirm customs and health clearance and collection with a funeral home in Panama. Burial in a government cemetery needs permission, usually obtained by an undertaker (FCDO).",
+    "pouch": null,
+    "private_aviation": "No specific Panamanian rule for private flights carrying remains was found. Carry the consulate-processed originals with the coffin, check that the coffin fits the aircraft, and confirm customs and health clearance at the arrival airport before departure.",
+    "export": "Leaving Panama: the death is registered with the Direccion Nacional del Registro Civil (Tribunal Electoral), usually by the funeral director. Shipping usually requires the local death certificate, a certificate of embalming and a certificate permitting transfer of the remains; documents for foreign use are legalised via the Ministry of Foreign Affairs. A post-mortem is possible for unknown, unnatural, sudden or violent deaths, and a criminal investigation can delay release. Timing depends on circumstances.",
+    "authority": "Panamanian consulate in the country of death; Ministry of Health (MINSA); Ministry of Foreign Affairs",
+    "last_checked": "2026-10",
+    "documents": [
+      "Original death certificate",
+      "Original health certificate",
+      "Notarised transit permit",
+      "Notarised embalming certificate",
+      "Ashes instead: original death certificate, notarised cremation certificate and notarised burial-transit permit"
+    ],
+    "sources": [
+      "https://www.embassyofpanama.org/transportation-of-human-remains-1",
+      "https://www.gov.uk/guidance/when-someone-dies-in-panama"
+    ],
+    "pouch_accepted": null,
+    "private_jet_alert": false,
+    "at_a_glance": {
+      "death_certificate": "Original, processed by Panamanian consulate",
+      "embalming": "Notarised embalming certificate required",
+      "coffin": "Sealed shipping casket; confirm with consulate",
+      "laissez_passer": "Notarised transit permit from origin",
+      "consular": "Consulate fee USD 30 per document",
+      "permit": "Original health certificate required",
+      "arrival": "Confirm clearance with Panamanian funeral home"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Appoint a funeral home at each end and contact the Panamanian consulate covering the place of death."
+      },
+      {
+        "when": "Day 1",
+        "what": "Obtain the death certificate, health certificate, transit permit and embalming certificate; notarise the permit and embalming certificate."
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Send the originals to the consulate with the fee and a prepaid return envelope."
+      },
+      {
+        "when": "Departure",
+        "what": "Seal the embalmed body in a shipping casket and fly with the processed originals."
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs and health clearance (confirm the procedure beforehand); a funeral home in Panama takes charge."
+      }
+    ],
+    "key_points": [
+      "Consulate processes each document (USD 30 each in Washington)",
+      "Health certificate and notarised embalming certificate needed",
+      "Coffin rules are not published; confirm with the consulate"
+    ],
+    "export_points": [
+      "Death registered with the Registro Civil (Tribunal Electoral)",
+      "Death certificate, embalming certificate and transfer certificate",
+      "Legalisation via the Ministry of Foreign Affairs",
+      "Post-mortem in unnatural deaths may delay release"
+    ],
+    "private_jet_note": "Have the consulate process all originals before take-off; they must travel with the coffin.",
+    "confidence": "medium",
+    "lead_days": null
+  },
+  {
+    "cc": "PE",
+    "status": "requirements",
+    "name": "Peru",
+    "summary": "Peruvian law requires remains coming from abroad to have a death certificate and a sanitary transfer authorisation, both visaed by the Peruvian consulate, with the body embalmed and placed in a hermetically sealed coffin. A sanitary authorisation from the regional health authority (DIRIS/DIRESA/GERESA) is also needed for transfer to another jurisdiction in Peru.",
+    "coffin": "Coffins for transport must be impermeable and hermetically closable (DS 03-94-SA art. 39); bodies transferred to another city or country must be in a hermetically sealed coffin, and if the coffin is not watertight the health authority will require a new coffin (art. 62). Zinc lining is not named; confirm the casket with the funeral director and airline.",
+    "embalming": "Required: bodies transferred to another city or country must be embalmed (DS 03-94-SA art. 62). Burial normally takes place within 48 h of death unless the body has been embalmed with the health authority's authorisation (art. 49).",
+    "consular": "The Peruvian consulate in the country of death visas the death certificate and the sanitary authorisation (DS 03-94-SA art. 64); DIRIS Lima Centro also requires the embalming or formolisation certificate to be consulate-visaed. A consular representative may apply for the inland transfer authorisation when the deceased was a foreigner with no family in Peru.",
+    "arrival": "The local funeral home takes over after customs and health clearance. Inland transfer to another health jurisdiction needs a DIRIS/DIRESA/GERESA authorisation (online, fee S/ 62.90 at DIRIS Lima Centro, answer within 2 working days). Burial normally within 48 h of death unless embalmed.",
+    "pouch": null,
+    "private_aviation": "Peruvian law requires remains carried to another city or country to travel in a compartment separate from passengers, and makes the captain responsible (DS 03-94-SA art. 65). Confirm customs and health clearance at the arrival airport before departure.",
+    "export": "The local undertaker obtains the civil death certificate (temporary, then certified copy after a couple of days), the doctor's death certificate, embalming, a special coffin and the sanitary transfer authorisation from the regional health authority (DIRIS/DIRESA/GERESA). In violent or unclear deaths the prosecutor (Public Ministry) may order a post-mortem and release can be delayed.",
+    "authority": "Ministry of Health (MINSA) regional authorities DIRIS/DIRESA/GERESA; Peruvian consulates abroad",
+    "last_checked": "2026-10",
+    "documents": [
+      "Death certificate, visaed by the Peruvian consulate (Reglamento DS 03-94-SA, art. 64)",
+      "Sanitary transfer authorisation from the country of death, visaed by the Peruvian consulate",
+      "Embalming or formolisation certificate signed by a doctor, visaed by the Peruvian consulate (DIRIS requirement when more than 48 h have passed since death)",
+      "Forensic autopsy certificate in sudden or violent death",
+      "Peruvian sanitary transfer authorisation (DIRIS/DIRESA/GERESA) for onward transfer between health jurisdictions"
+    ],
+    "sources": [
+      "https://www.gob.pe/institucion/dirislimacentro/pages/83659-autorizacion-sanitaria-para-traslado-de-cadaver-o-restos-humanos",
+      "https://www.minsa.gob.pe/Recursos/OGTI/SINADEF/DS-03-94-SA.pdf",
+      "https://www.gov.uk/government/publications/peru-bereavement-packinformation/peru-beravement-information"
+    ],
+    "pouch_accepted": false,
+    "private_jet_alert": true,
+    "at_a_glance": {
+      "death_certificate": "Required, visaed by Peruvian consulate",
+      "embalming": "Mandatory for international transfer",
+      "coffin": "Hermetically sealed, watertight",
+      "laissez_passer": "Sanitary transfer authorisation, consulate-visaed",
+      "consular": "Peruvian consulate visas the documents",
+      "permit": "DIRIS/DIRESA authorisation for inland transfer",
+      "arrival": "Burial within 48 h unless embalmed"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Funeral director embalms the body and places it in a sealed coffin."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain death certificate and sanitary transfer authorisation in the country of death."
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Peruvian consulate visas the death, embalming and transfer documents."
+      },
+      {
+        "when": "Day 3",
+        "what": "Peruvian funeral home applies to DIRIS/DIRESA if needed (2 working days)."
+      },
+      {
+        "when": "Flight day",
+        "what": "Casket flown in a hold separate from passengers; customs and health clearance."
+      },
+      {
+        "when": "Arrival",
+        "what": "Funeral home collects; burial or cremation."
+      }
+    ],
+    "key_points": [
+      "Embalming and a hermetic coffin are legal requirements",
+      "Consular visa of documents is required by regulation",
+      "Casket must not travel in the passenger compartment"
+    ],
+    "export_points": [
+      "Embalming and a hermetically sealed coffin are mandatory",
+      "Sanitary authorisation from DIRIS/DIRESA/GERESA, about 2 working days",
+      "Prosecutor involvement can delay release in unnatural deaths",
+      "Casket travels separate from passengers"
+    ],
+    "private_jet_note": "Casket must be in a compartment separate from passengers; check the aircraft's cargo hold before booking.",
+    "confidence": "high",
+    "lead_days": 3
+  },
+  {
+    "cc": "PF",
+    "status": "requirements",
+    "name": "French Polynesia",
+    "summary": "French Polynesia applies the French funeral rules of the CGCT with local adaptations (art. D2573-16-1). A casket from abroad travels with the transport authorisation issued by the French consulate, and burial or cremation must take place within 14 calendar days of the body entering French Polynesia.",
+    "coffin": "No French Polynesia-specific casket rule was found in the CGCT adaptations, which refer coffin handling to local regulation. Confirm the casket (sealing, lining) with the consulate, the airline and the receiving funeral home.",
+    "embalming": "No local rule found in the CGCT adaptations; follow the departure country's and airline's requirements and confirm with the receiving funeral home.",
+    "consular": "French consular services (or the Crisis Centre) can issue an authorisation to transport the body or ashes so the remains leave the foreign country legally. Families pay all costs; the consulate can give an indicative cost and funeral company contacts.",
+    "arrival": "A local funeral home takes charge of the casket after clearance at the arrival airport (confirm the procedure beforehand). When death occurred outside French Polynesia, burial or cremation must take place no later than the 14th calendar day after the body entered French Polynesia (CGCT art. D2573-16-1).",
+    "pouch": null,
+    "private_aviation": "No official rule specific to private or charter flights carrying human remains was found. The casket is cleared like air cargo: arrive at an international airport with customs, immigration, quarantine and health staff, and have the handling agent and receiving funeral home confirm clearance before departure.",
+    "export": "Transport of a body or ashes out of French Polynesia is authorised by the High Commissioner of the Republic in French Polynesia (CGCT R. 2213-22 and R. 2213-24 as adapted by art. D2573-16-1). Confirm the documents, casket and the destination's consular rules with the funeral home.",
+    "authority": "High Commission of the Republic in French Polynesia; French consular network",
+    "last_checked": "2026-10",
+    "documents": [
+      "Death certificate (French translation advisable)",
+      "Medical certificate of cause of death / non-contagious disease certificate (confirm with the consulate)",
+      "Embalming certificate where required by the departure country",
+      "Body transport authorisation from the French embassy or consulate",
+      "Coffin sealing report (confirm with the consulate)"
+    ],
+    "sources": [
+      "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051951602",
+      "https://www.diplomatie.gouv.fr/fr/services-aux-francaises-et-aux-francais/assistance-et-securite/deces-a-l-etranger"
+    ],
+    "pouch_accepted": null,
+    "private_jet_alert": true,
+    "at_a_glance": {
+      "death_certificate": "Required; French translation advisable",
+      "embalming": "Per departure country; confirm locally",
+      "coffin": "Sealed coffin; confirm with airline",
+      "laissez_passer": "Not applicable; transport authorisation instead",
+      "consular": "French consulate transport authorisation",
+      "permit": "Confirm burial authorisation with local mairie",
+      "arrival": "Burial within 14 days of entry"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the French consulate and a funeral home in Tahiti."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain the death certificate and non-contagion certificate."
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Embalming, sealing and French consular transport authorisation."
+      },
+      {
+        "when": "Departure",
+        "what": "Fly the casket with its documents to Tahiti-Faa'a."
+      },
+      {
+        "when": "Within 14 days",
+        "what": "Burial or cremation after the body enters French Polynesia."
+      }
+    ],
+    "key_points": [
+      "14-day burial or cremation deadline after entry.",
+      "Exit authorisation comes from the High Commissioner.",
+      "Families pay repatriation costs."
+    ],
+    "export_points": [
+      "High Commissioner authorises the transport out",
+      "Same authority for ashes",
+      "Confirm casket with funeral home and airline",
+      "Destination consulate requirements"
+    ],
+    "private_jet_note": "Confirm customs and health clearance at Tahiti-Faa'a before departure.",
+    "confidence": "medium",
+    "lead_days": 3
+  },
+  {
+    "cc": "PH",
+    "status": "requirements",
+    "name": "Philippines",
+    "summary": "A body entering the Philippines needs a Consular Mortuary Certificate from the Philippine embassy or consulate in the country of death, for Filipino and foreign deceased alike. The body must be embalmed and in a hermetically sealed casket containing only the remains, with a no-contagious-disease certificate and burial transit permit.",
+    "coffin": "The casket must be hermetically sealed and contain only the deceased. For deaths from a communicable disease, the body must be embalmed, placed in a hermetically sealed metallic casket enclosed in a screwed or nailed wooden case, and disinfected.",
+    "embalming": "Required: the notarised mortuary certificate must confirm proper embalming (or cremation) under internationally accepted health practices.",
+    "consular": "The Philippine embassy or consulate issues the Consular Mortuary Certificate. Washington accepts mail applications only, at least 7 working days before the flight (3 to 5 business days processing, 35 USD); Canberra requires the death certificate apostilled and charges 45 AUD for the Report of Death.",
+    "arrival": "The consignee Philippine funeral home named in the application takes charge of the remains after entry clearance (confirm the procedure with the receiving funeral home). For COVID-19 deaths, remains must be cremated before shipment or the casket kept permanently sealed, with burial within 24 hours of entry clearance (Philippine Embassy Canberra).",
+    "pouch": null,
+    "private_aviation": "No rule specific to private flights was found. The Consular Mortuary Certificate application states the carrier, ports and scheduled arrival, so give the private flight details and carry the originals with the casket; confirm entry clearance at the arrival airport before departure.",
+    "export": "Leaving the Philippines, the funeral home obtains a certified death certificate, Municipal Transfer Permit, quarantine permit from the Bureau of Quarantine, embalming certificate and fumigation certificate; the remains travel in a hermetically sealed container inside a fumigated wooden crate. Autopsy is mandatory for foreigners when the cause of death cannot be readily determined. A straightforward cremation and repatriation usually takes about 2 to 3 working days to arrange (gov.uk); COVID-19 deaths must be cremated.",
+    "authority": "Philippine embassy or consulate (Department of Foreign Affairs); Bureau of Quarantine",
+    "last_checked": "2026-10",
+    "documents": [
+      "Original death certificate stating cause of death (apostilled in some posts, e.g. Canberra) plus copies",
+      "Notarised mortuary / funeral director certificate: properly embalmed, hermetically sealed casket containing only the deceased",
+      "Certificate of no contagious disease from the health authority",
+      "Burial transit permit",
+      "Passport or ID copies of the deceased; proof of Philippine citizenship and Report of Death for Filipinos",
+      "Consignee (receiving Philippine funeral home), carrier, port and flight itinerary",
+      "Consular fee and return envelope"
+    ],
+    "sources": [
+      "https://philippineembassy-dc.org/shipment-of-remains/",
+      "https://www.philembassy.org.au/consular/civil-registry/report-of-death-rod-and-or-shipment-of-human-remains-urn-to-the-philippines",
+      "https://www.gov.uk/government/publications/philippines-bereavement-pack/philippines-bereavement-guide"
+    ],
+    "pouch_accepted": false,
+    "private_jet_alert": true,
+    "at_a_glance": {
+      "death_certificate": "Original with cause; apostille in some posts",
+      "embalming": "Required; notarised certificate",
+      "coffin": "Hermetically sealed, only the deceased",
+      "laissez_passer": "Not applicable",
+      "consular": "Consular Mortuary Certificate required",
+      "permit": "Burial transit permit from origin",
+      "arrival": "Consignee funeral home takes charge after clearance"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Appoint a funeral director and a receiving funeral home in the Philippines (consignee)."
+      },
+      {
+        "when": "Day 1",
+        "what": "Obtain the death certificate, no-contagious-disease certificate and burial transit permit; apostille if the post requires."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Embalm and seal the casket; get the notarised mortuary certificate."
+      },
+      {
+        "when": "Day 2",
+        "what": "Apply to the Philippine embassy or consulate for the Consular Mortuary Certificate (mail posts need 7 working days)."
+      },
+      {
+        "when": "Arrival",
+        "what": "Entry clearance; the consignee funeral home takes charge of the casket."
+      }
+    ],
+    "key_points": [
+      "Certificate needed for foreign deceased too",
+      "Mail-in posts can take a week or more",
+      "Communicable-disease deaths need metallic sealed casket"
+    ],
+    "export_points": [
+      "Bureau of Quarantine permit",
+      "Municipal Transfer Permit and fumigation certificate",
+      "Hermetically sealed container in fumigated crate",
+      "About 2 to 3 working days if straightforward"
+    ],
+    "private_jet_note": "Declare the private flight and arrival port in the Consular Mortuary Certificate application.",
+    "confidence": "high",
+    "lead_days": 7
+  }
+]

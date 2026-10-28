@@ -1,0 +1,688 @@
+[
+ {
+  "cc": "LS",
+  "name": "Lesotho",
+  "status": "requirements",
+  "summary": "No official Lesotho checklist for incoming remains is published. Lesotho is landlocked inside South Africa and remains normally arrive at O.R. Tambo (Johannesburg) and continue by hearse; South Africa requires a Department of Health import/export permit, issued in advance, for any human remains crossing its borders, so the South African permit is the binding document on this route.",
+  "documents": [
+   "Death certificate stating the cause of death (certified English translation if needed)",
+   "Embalming certificate stating the body was embalmed, sealed in an airtight container and placed in a sturdy non-transparent coffin (South African requirement)",
+   "Certificate of non-infectious disease signed by a doctor or forensic pathologist",
+   "Passport or ID of the deceased",
+   "Letter from the family requesting the transfer, with the requester's ID",
+   "South African Department of Health permit for human remains, obtained before arrival at the South African point of entry",
+   "Any letter required by the Lesotho high commission or embassy (not published; confirm)"
+  ],
+  "coffin": "No Lesotho specification is published. On the usual route via South Africa, South African rules apply: embalmed remains sealed in an airtight container inside a sturdy non-transparent coffin; infectious remains must also be in a polythene bag. UK guidance describes a hermetically sealed zinc coffin in a packing crate for remains leaving Lesotho.",
+  "embalming": "Required in practice: South Africa's permit requires an embalming certificate, or a statement from the relevant authority describing the alternative preservation method if embalming is refused for religious reasons. For remains leaving Lesotho, UK guidance says embalming must take place within 3 days of death.",
+  "consular": "The Lesotho missions' role for incoming remains is not published online; contact the Lesotho high commission or embassy. The South African Department of Health permit is requested by email by the embassy or funeral undertaker (cover letter naming the South African point of entry and transport type); documents not in English need certified translations. Lesotho is not a party to the 1973 Strasbourg Agreement.",
+  "arrival": "South Africa issues no permits at the point of entry: remains arriving without a permit can be held in a mortuary at the importer's expense. After clearance at O.R. Tambo a funeral undertaker drives the casket to the Lesotho border. Lesotho-side entry formalities are not published. Lesotho has no cremation facilities (UK guidance).",
+  "pouch_accepted": false,
+  "pouch": null,
+  "private_aviation": "No Lesotho rule for private flights carrying remains is published. Flying into Johannesburg, the South African health permit must be held before arrival and the receiving undertaker must hold a Certificate of Competence. A direct private flight into Lesotho (Moshoeshoe I International, Maseru) avoids South African transit, but customs and health clearance of a casket there must be confirmed in advance with the handling agent and Lesotho authorities.",
+  "private_jet_alert": true,
+  "private_jet_note": "Via Johannesburg, the South African health permit must be issued before landing; for a direct flight to Maseru, confirm casket clearance first.",
+  "export": "Register the death at the district National Identity and Civil Registry office. State pathologists perform a post-mortem for unnatural deaths. The body must be embalmed within 3 days of death, placed in a hermetically sealed zinc coffin in a packing crate and driven to O.R. Tambo; the funeral director needs a next-of-kin letter consenting to cross-border transport into South Africa. Documents: civil-registry death certificate, embalming certificate and a certificate permitting transfer of the remains. Entering South Africa by road also requires the South African Department of Health permit, issued within about 2 working days of a complete application.",
+  "export_points": [
+   "Embalming within 3 days of death",
+   "Hermetically sealed zinc coffin in a packing crate",
+   "Hearse to Johannesburg; South African health permit needed in advance",
+   "Next-of-kin consent letter for the border crossing"
+  ],
+  "at_a_glance": {
+   "death_certificate": "Required, with cause of death",
+   "embalming": "Required (South African transit rule)",
+   "coffin": "Airtight sealed container in coffin",
+   "laissez_passer": "Not a Strasbourg party",
+   "consular": "Ask Lesotho mission; not published",
+   "permit": "South African health permit before arrival",
+   "arrival": "Via Johannesburg, then hearse to Lesotho"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Death certificate and appointment of a funeral director in the country of death; contact the Lesotho mission."
+   },
+   {
+    "when": "Day 0-1",
+    "what": "Embalming, non-infectious disease certificate and sealing of the coffin."
+   },
+   {
+    "when": "Day 1-3",
+    "what": "Funeral undertaker emails the South African Department of Health permit application (about 2 working days)."
+   },
+   {
+    "when": "Day 3-5",
+    "what": "Flight to Johannesburg with the permit; clearance and handover to a South African undertaker."
+   },
+   {
+    "when": "Arrival",
+    "what": "Hearse crosses into Lesotho for burial."
+   }
+  ],
+  "key_points": [
+   "Routing via Johannesburg is the norm",
+   "South African permits are never issued at the border or airport",
+   "No cremation facilities in Lesotho",
+   "Lesotho's own entry rules are not published"
+  ],
+  "lead_days": 4,
+  "authority": "South African National Department of Health (transit permit); Lesotho high commission or embassy",
+  "sources": [
+   "https://www.gov.uk/guidance/when-someone-dies-in-lesotho",
+   "https://www.health.gov.za/wp-content/uploads/2024/03/Approved-Guidelines-on-Issuance-of-Human-Remains-Permits-1.pdf",
+   "https://ugu.gov.za/wp-content/uploads/2024/07/Regulation-R363-Relating-to-the-Management-of-Human-remains.pdf"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "MW",
+  "name": "Malawi",
+  "status": "requirements",
+  "summary": "Malawi's Consulate General in South Africa publishes the checklist for an authority letter to import human remains into Malawi: death certificate, embalming certificate, passport, the export authority from the sending country's health department and a non-epidemic or non-infectious certificate. Ask the Malawi mission accredited to the country of death for this letter before booking.",
+  "documents": [
+   "Death certificate",
+   "Embalming certificate",
+   "Passport of the deceased (or a police affidavit if there is none)",
+   "Authority letter to export the remains from the sending country's government health department",
+   "Non-epidemic area certificate or proof of no infectious disease",
+   "Consignor details, and consignee full name, address and phone numbers",
+   "Deceased's home address in Malawi (village, Traditional Authority, district)",
+   "Authority letter to import human remains issued by the Malawi mission"
+  ],
+  "coffin": "No Malawian coffin specification is published. Airlines and sending countries normally require a hermetically sealed (zinc-lined) coffin in an outer case; confirm with the airline.",
+  "embalming": "Required: an embalming certificate is on the Malawi mission's import checklist.",
+  "consular": "Malawi missions issue an authority letter to import human remains (published by the Consulate General in Sandton, South Africa). The High Commission in London provides documentation only when proper documents are lacking (covering letter, copies of death certificate and passport or birth certificate, funeral director documents) and gives no financial support. Malawian death certificates can be apostilled via the Ministry of Foreign Affairs. Malawi is not a party to the 1973 Strasbourg Agreement.",
+  "arrival": "Remains arrive at Lilongwe (Kamuzu) or Blantyre (Chileka) international airports and are released to the named consignee after customs clearance. The mission checklist requires the home village, Traditional Authority and district, as burial normally takes place there. Rural mortuaries may lack refrigeration.",
+  "pouch_accepted": null,
+  "pouch": null,
+  "private_aviation": "No rule specific to private flights carrying remains is published. Land at Lilongwe or Blantyre (customs and health services) with the mission's authority letter and original documents on board, and the consignee waiting.",
+  "private_jet_alert": false,
+  "private_jet_note": "Carry the Malawi mission's import authority letter on board.",
+  "export": "UK guidance: the death is registered with the National Registration Bureau based on the district hospital's death report. Airlines usually require a post-mortem and embalming for repatriation; post-mortems are done by government hospital pathology units. A funeral director usually needs the original burial permit, the embalming certificate, the death registration or certificate, a certificate permitting transfer of the remains and sometimes a passport copy.",
+  "export_points": [
+   "Embalming and usually a post-mortem required by airlines",
+   "Original burial permit and NRB death registration",
+   "Certificate permitting transfer of remains",
+   "Rural mortuaries may lack refrigeration"
+  ],
+  "at_a_glance": {
+   "death_certificate": "Required",
+   "embalming": "Required, certificate on checklist",
+   "coffin": "Sealed coffin expected by airlines",
+   "laissez_passer": "Not a Strasbourg party",
+   "consular": "Malawi mission import authority letter",
+   "permit": "Sending country's health export authority",
+   "arrival": "Lilongwe or Blantyre, consignee collects"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Death certificate and appointment of a funeral director in the country of death."
+   },
+   {
+    "when": "Day 0-1",
+    "what": "Embalming and non-infectious disease or non-epidemic certificate."
+   },
+   {
+    "when": "Day 1-3",
+    "what": "Export authority from the sending country's health department."
+   },
+   {
+    "when": "Day 2-4",
+    "what": "Apply to the Malawi mission for the authority letter to import human remains; book the flight."
+   },
+   {
+    "when": "Arrival",
+    "what": "Customs clearance at Lilongwe or Blantyre and handover to the named consignee."
+   }
+  ],
+  "key_points": [
+   "Malawi mission import authority letter needed",
+   "Give the home village, Traditional Authority and district",
+   "The mission does not pay for repatriation",
+   "Cremation available in Lilongwe and Blantyre"
+  ],
+  "lead_days": null,
+  "authority": "Malawi diplomatic missions (Ministry of Foreign Affairs); National Registration Bureau",
+  "sources": [
+   "https://malawiconsulate.co.za/?p=173",
+   "https://malawihighcommission.co.uk/index.php/immigration-and-consular",
+   "https://www.gov.uk/guidance/what-to-do-after-a-british-person-dies-in-malawi"
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "MZ",
+  "name": "Mozambique",
+  "status": "unknown",
+  "summary": "No official Mozambican checklist for bringing a casket into the country was found in English or Portuguese. Contact the Mozambican embassy or high commission in the country of death; expect a legalised death certificate with Portuguese translation, embalming and non-contagious disease certificates and a sealed coffin.",
+  "documents": [
+   "Death certificate, legalised or apostilled (Portuguese translation advisable)",
+   "Certificate of non-contagious disease (confirm)",
+   "Embalming certificate",
+   "Exit or transfer permit from the country of death",
+   "Passport or ID of the deceased",
+   "Any authorisation from the Mozambican mission (not published)"
+  ],
+  "coffin": "No official specification found. Standard practice: hermetically sealed zinc-lined inner coffin in a wooden outer case.",
+  "embalming": "Not published for entry; required by most sending countries and airlines.",
+  "consular": "The Mozambique High Commission in London lists consular registration and legalisation of documents but publishes no procedure for remains; ask the mission. Mozambique is not a party to the 1973 Strasbourg Agreement, so a mortuary laissez-passer alone is not enough.",
+  "arrival": "Not published. Remains would be cleared at Maputo or another international airport with customs and health services.",
+  "pouch_accepted": null,
+  "pouch": null,
+  "private_aviation": "No rule specific to private flights carrying remains was found. Land at an international airport with customs and health services and carry original documents with the casket.",
+  "private_jet_alert": false,
+  "private_jet_note": null,
+  "export": "UK bereavement pack: a post-mortem is mandatory for all foreigners who die in Mozambique (fee 10,000 meticais plus 1,500 for the report; organs may be removed without consent). The Mozambican State must issue a repatriation permit, normally requested by the funeral director and stamped by a notary; a certificate of transfer is needed for deaths outside Maputo province. Documents: Portuguese death certificate (translate), passport or ID, embalming certificate, transfer certificate, repatriation permit and autopsy report. Hospital bills must be paid before release. Repatriation normally takes 8 to 10 days. Caskets suitable for international carriage can be hard to find locally.",
+  "export_points": [
+   "Mandatory post-mortem for foreigners",
+   "State repatriation permit stamped by a notary",
+   "Transfer certificate for deaths outside Maputo",
+   "Typically 8-10 days"
+  ],
+  "at_a_glance": {
+   "death_certificate": "Required; legalise and translate",
+   "embalming": "Expected; certificate needed",
+   "coffin": "Sealed zinc-lined coffin expected",
+   "laissez_passer": "Not a Strasbourg party",
+   "consular": "Ask Mozambican mission first",
+   "permit": "No published import permit",
+   "arrival": "Customs at Maputo airport"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Death certificate and appointment of a funeral director in the country of death."
+   },
+   {
+    "when": "Day 0-1",
+    "what": "Contact the Mozambican embassy or high commission for its written requirements."
+   },
+   {
+    "when": "Day 1-2",
+    "what": "Embalming, health certificate, coffin sealing; legalise and translate the death certificate."
+   },
+   {
+    "when": "Day 2-4",
+    "what": "Local exit permit and any consular authorisation; book the flight."
+   },
+   {
+    "when": "Arrival",
+    "what": "Customs and health clearance and handover to the family."
+   }
+  ],
+  "key_points": [
+   "No official entry checklist published",
+   "Leaving Mozambique takes about 8-10 days",
+   "Post-mortem compulsory for foreigners who die there"
+  ],
+  "lead_days": null,
+  "authority": "Mozambican embassy or high commission in the country of death (procedure not published)",
+  "sources": [
+   "https://www.gov.uk/government/publications/mozambique-bereavement-packinformation/mozambique-bereavement-pack-death-abroad",
+   "https://mozambiquehighcommission.org.uk/consular-section.html"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "NA",
+  "name": "Namibia",
+  "status": "unknown",
+  "summary": "No official Namibian checklist for incoming caskets was found; the Public and Environmental Health Act 2015 is the governing law but no published import procedure was located. Contact the Namibian high commission or embassy in the country of death; expect a death certificate, embalming and non-contagious disease certificates and a sealed coffin.",
+  "documents": [
+   "Death certificate",
+   "Certificate of non-contagious disease (confirm)",
+   "Embalming certificate",
+   "Exit permit from the country of death",
+   "Passport or ID of the deceased",
+   "Any authorisation from the Namibian mission or Ministry of Health and Social Services (not published)"
+  ],
+  "coffin": "No official Namibian specification found. Standard practice: hermetically sealed zinc-lined coffin in a wooden outer case.",
+  "embalming": "Not published; expected by airlines and sending countries.",
+  "consular": "Namibian missions (London, Washington, Berlin) list death registration among consular services but publish no procedure for remains; ask the mission. Not a party to the 1973 Strasbourg Agreement.",
+  "arrival": "Not published. Remains are cleared at Hosea Kutako International Airport (Windhoek) or another airport with customs. If routed via South Africa, a South African Department of Health permit is needed before arrival.",
+  "pouch_accepted": null,
+  "pouch": null,
+  "private_aviation": "No rule specific to private flights carrying remains was found. Land at an international airport with customs and health services and carry original documents. Routing through South Africa triggers South Africa's advance health permit.",
+  "private_jet_alert": false,
+  "private_jet_note": "Fly direct to Windhoek to avoid South Africa's advance remains permit.",
+  "export": "UK guidance: deaths are registered with the Ministry of Home Affairs, Immigration, Safety and Security, which issues the death certificate free on the day of registration (it does not state the cause of death). A local funeral director arranges the transfer using the death certificate and passport. A free post-mortem at a police state mortuary is required when the cause is unknown, unnatural, sudden or violent, with reports usually within 24-48 hours. Embalming, coffin and export permit rules are not published.",
+  "export_points": [
+   "Death registered with Ministry of Home Affairs",
+   "Death certificate does not state the cause",
+   "Post-mortem reports in 24-48 hours",
+   "Local funeral director handles the transfer"
+  ],
+  "at_a_glance": {
+   "death_certificate": "Required",
+   "embalming": "Expected for air transport",
+   "coffin": "Sealed zinc-lined coffin expected",
+   "laissez_passer": "Not a Strasbourg party",
+   "consular": "Ask Namibian mission; not published",
+   "permit": "No published import permit",
+   "arrival": "Customs at Windhoek airport"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Death certificate and appointment of a funeral director in the country of death."
+   },
+   {
+    "when": "Day 0-1",
+    "what": "Embalming, health certificate and coffin sealing."
+   },
+   {
+    "when": "Day 1-3",
+    "what": "Check Namibian mission requirements and obtain the local exit permit."
+   },
+   {
+    "when": "Day 3",
+    "what": "Book the flight to Windhoek (South African permit if routed via Johannesburg)."
+   },
+   {
+    "when": "Arrival",
+    "what": "Customs clearance and handover to the family or funeral director."
+   }
+  ],
+  "key_points": [
+   "No official import checklist online",
+   "Transit via South Africa needs a South African permit",
+   "Namibian death certificates omit the cause of death"
+  ],
+  "lead_days": null,
+  "authority": "Namibian high commission or embassy; Ministry of Health and Social Services (unconfirmed)",
+  "sources": [
+   "https://www.gov.uk/guidance/when-someone-dies-in-namibia",
+   "https://namibiaembassyusa.org/consular-services/",
+   "https://www.health.gov.za/wp-content/uploads/2024/03/Approved-Guidelines-on-Issuance-of-Human-Remains-Permits-1.pdf"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "SZ",
+  "name": "Eswatini",
+  "status": "unknown",
+  "summary": "No official Eswatini page on bringing remains into the country was found. Most international transfers go via South Africa, where a Department of Health import/export permit must be obtained before arrival; confirm Eswatini's own entry formalities with the Eswatini mission.",
+  "documents": [
+   "Death certificate stating the cause of death (certified English translation if needed)",
+   "Embalming certificate (airtight container in a sturdy non-transparent coffin, per South African rules)",
+   "Certificate of non-infectious disease signed by a doctor or forensic pathologist",
+   "Passport or ID of the deceased",
+   "Family letter requesting the transfer, with the requester's ID",
+   "South African Department of Health permit if routed via South Africa",
+   "Any authorisation from the Eswatini mission (not published)"
+  ],
+  "coffin": "No Eswatini specification published. When transiting South Africa: embalmed remains sealed in an airtight container inside a sturdy non-transparent coffin (polythene bag in addition for infectious remains).",
+  "embalming": "Required when transiting South Africa (embalming certificate, or an authority's statement of the alternative method if refused for religious reasons). An embalming certificate is also standard for remains leaving Eswatini.",
+  "consular": "Not published online; contact the Eswatini high commission or embassy. The South African permit is requested by email by the embassy or funeral undertaker; permits are not issued at the point of entry. Eswatini is not a party to the 1973 Strasbourg Agreement.",
+  "arrival": "Not officially published. Via South Africa, remains continue by road to Eswatini with a South African undertaker. Mortuaries with cold storage exist in major towns but may not be available in rural areas. Deaths in Eswatini must be registered within 60 days with the Ministry of Home Affairs.",
+  "pouch_accepted": null,
+  "pouch": null,
+  "private_aviation": "No published rule specific to private or charter flights. A direct private flight to King Mswati III International Airport avoids South African transit and its advance permit, but casket clearance by customs and health officials there must be confirmed in advance.",
+  "private_jet_alert": false,
+  "private_jet_note": "A direct flight avoids South Africa's advance remains permit; confirm clearance at King Mswati III airport.",
+  "export": "UK guidance: local funeral directors obtain a civil-registry death certificate, an embalming certificate and a certificate permitting the transfer of the remains. A post-mortem is required if the body is to be repatriated; state pathologists usually perform it within 1 to 2 days. There are no direct flights to the UK, so most bodies go via South Africa, which requires its Department of Health permit (about 2 working days). Cremation is available in Manzini.",
+  "export_points": [
+   "Post-mortem required before repatriation (1-2 days)",
+   "Death, embalming and transfer certificates",
+   "South African health permit when routed via Johannesburg"
+  ],
+  "at_a_glance": {
+   "death_certificate": "Required, with cause of death",
+   "embalming": "Required via South Africa",
+   "coffin": "Airtight sealed container in coffin",
+   "laissez_passer": "Not a Strasbourg party",
+   "consular": "Contact the Eswatini mission",
+   "permit": "South African permit if transiting",
+   "arrival": "Confirm with a local funeral service"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Contact the Eswatini mission and a funeral home in Eswatini."
+   },
+   {
+    "when": "Day 0-1",
+    "what": "Embalming, non-infectious disease certificate and casket sealing."
+   },
+   {
+    "when": "Day 1-3",
+    "what": "South African health permit if routed via Johannesburg, or arrange a direct flight."
+   },
+   {
+    "when": "Day 3-5",
+    "what": "Flight and road transfer into Eswatini."
+   },
+   {
+    "when": "Arrival",
+    "what": "Clearance, then collection by the receiving funeral home."
+   }
+  ],
+  "key_points": [
+   "Eswatini's own entry rules are not published",
+   "Routing via South Africa needs a permit before arrival",
+   "Post-mortem required to repatriate out of Eswatini"
+  ],
+  "lead_days": null,
+  "authority": "Eswatini diplomatic missions; South African National Department of Health for transit",
+  "sources": [
+   "https://www.gov.uk/guidance/what-to-do-after-a-british-person-dies-in-eswatini",
+   "https://www.gov.uk/government/publications/eswatini-bereavement-information",
+   "https://www.health.gov.za/wp-content/uploads/2024/03/Approved-Guidelines-on-Issuance-of-Human-Remains-Permits-1.pdf",
+   "https://ugu.gov.za/wp-content/uploads/2024/07/Regulation-R363-Relating-to-the-Management-of-Human-remains.pdf"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "MG",
+  "name": "Madagascar",
+  "status": "requirements",
+  "summary": "A Malagasy embassy issues an authorisation to transport a body or urn to Madagascar on submission of a family request, a burial permit issued by the Malagasy commune of burial, the death certificate, a non-epidemic and non-contagion certificate, a coffin closing permit, a mortuary laissez-passer, a coffinning certificate and the air waybill booking. Apply to the Malagasy embassy or consulate covering the country of death.",
+  "documents": [
+   "Request to the Ambassador from a family member with contact details",
+   "Copy of the applicant's Malagasy ID and of the deceased's Malagasy ID",
+   "Burial permit (permis d'inhumer) issued by the commune in Madagascar where the burial will take place",
+   "Death certificate (acte de décès)",
+   "Report (procès-verbal) of the commune of the deceased's residence",
+   "Non-epidemic and non-contagion certificate",
+   "Coffin closing permit (permis de fermeture de cercueil)",
+   "Mortuary laissez-passer from the commune of the deceased's residence",
+   "Coffinning certificate (attestation de mise en bière)",
+   "Flight plan, flight number and departure date; air waybill (LTA) booking confirmation"
+  ],
+  "coffin": "Malagasy embassies require a coffin closing permit and a coffinning certificate, but publish no technical specification. Standard international practice: hermetically sealed zinc-lined coffin in a wooden outer case.",
+  "embalming": "Not stated in the Malagasy embassy checklist; normally required by the sending country and airlines.",
+  "consular": "The Malagasy embassy or consulate issues the body or urn transport authorisation (published by the embassy in New Delhi; the embassy in Berlin also lists transport of corpse or ashes as a service). Files are lodged Monday to Friday, 09:30-12:00 (New Delhi). Fees and processing times are not published. Not a party to the 1973 Strasbourg Agreement.",
+  "arrival": "Remains arrive at Antananarivo (Ivato). The family must obtain the burial permit from the commune of burial before the authorisation is issued. Mortuary facilities are only in Antananarivo and limited; bodies for the provinces travel by road. Ivato applies reinforced health controls (October 2026 Ebola-related measures for travellers).",
+  "pouch_accepted": null,
+  "pouch": null,
+  "private_aviation": "No rule specific to private flights carrying remains was found. The embassy checklist asks for flight details and an air waybill, so on a private flight provide the flight plan and confirm how the remains will be manifested. Land at an international airport with customs, normally Antananarivo.",
+  "private_jet_alert": false,
+  "private_jet_note": "Give the embassy the flight plan; plan road transfer from Antananarivo for provincial burials.",
+  "export": "Deaths are confirmed by a doctor of the Municipal Bureau of Hygiene (BMH) or a CSB II health centre and registered with the civil registrar (acte de décès, in French). Police request a post-mortem for sudden or suspicious deaths (free; report usually the next day at the earliest). Documents usually needed: burial permit from local authorities, coffin closing report, medical certificate of cause of death, certificate of storage in the morgue, certificate of no infectious disease and certificate of no outbreak in the area of death.",
+  "export_points": [
+   "Civil registrar death certificate in French",
+   "Coffin closing report and no-outbreak certificate",
+   "Mortuaries only in Antananarivo",
+   "Free post-mortem for sudden or suspicious deaths"
+  ],
+  "at_a_glance": {
+   "death_certificate": "Required",
+   "embalming": "Expected by airlines",
+   "coffin": "Coffin closing permit required",
+   "laissez_passer": "Mortuary laissez-passer required",
+   "consular": "Embassy body transport authorisation",
+   "permit": "Burial permit from Malagasy commune",
+   "arrival": "Antananarivo Ivato; limited mortuaries"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Death certificate and appointment of a funeral director in the country of death."
+   },
+   {
+    "when": "Day 0-1",
+    "what": "Family in Madagascar requests the burial permit from the commune of burial."
+   },
+   {
+    "when": "Day 1-2",
+    "what": "Non-contagion certificate, coffinning, coffin closing permit and mortuary laissez-passer."
+   },
+   {
+    "when": "Day 2-4",
+    "what": "Book the air waybill and file the request with the Malagasy embassy for the transport authorisation."
+   },
+   {
+    "when": "Arrival",
+    "what": "Clearance at Ivato and road transfer to the burial place."
+   }
+  ],
+  "key_points": [
+   "Burial permit from the Malagasy commune needed first",
+   "Embassy authorisation needs the flight and air waybill details",
+   "Mortuaries only in Antananarivo"
+  ],
+  "lead_days": null,
+  "authority": "Malagasy embassy or consulate in the country of death; commune of burial in Madagascar",
+  "sources": [
+   "https://ambamad-newdelhi.diplomatie.gov.mg/index.php/services-consulaires/services-administratifs",
+   "https://www.gov.uk/government/publications/madagascar-bereavement-information-pack/madagascar-bereavement-information",
+   "https://www.gov.pl/web/kenya/certificate-allowing-the-repatriation-of-body-or-ashes-remains-into-poland"
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "SO",
+  "name": "Somalia",
+  "status": "unknown",
+  "summary": "No official procedure for bringing a coffin into Somalia was found, and no Somali embassy publishes one. Contact the Somali embassy or consulate in the country of death (and for Somaliland the Somaliland authorities) before shipping; security affects Mogadishu airport.",
+  "documents": [
+   "Death certificate (translation if needed)",
+   "Medical certificate of cause of death and non-contagious disease",
+   "Embalming certificate or statement of the preservation method used",
+   "Exit permit from the country of death",
+   "Passport of the deceased",
+   "Any authorisation required by the Somali mission (not published)"
+  ],
+  "coffin": "No Somali law governs casket size or material (UK guidance). Plan for a hermetically sealed inner container in a wooden outer coffin as required by airlines.",
+  "embalming": "No official rule published. Families often prefer to avoid embalming for Islamic burial; ask the mission and the airline what alternative is accepted.",
+  "consular": "No published consular procedure; the Somali foreign ministry's citizen services page does not cover remains. Ask the Somali embassy or consulate; Somaliland (Hargeisa) applies its own entry formalities.",
+  "arrival": "No official information on clearance at Mogadishu or Hargeisa. Refrigerated mortuary space is scarce (Erdogan Hospital in Mogadishu has one) and Islamic burial is normally held quickly; arrange the receiving family or burial organisation in advance.",
+  "pouch_accepted": null,
+  "pouch": null,
+  "private_aviation": "UK travel advice reports attacks on Mogadishu International Airport and notes Somaliland applies separate entry rules. A private flight needs landing permission at an international airport with customs and robust security arrangements.",
+  "private_jet_alert": true,
+  "private_jet_note": "Mogadishu airport has been targeted by attacks; check security, landing permits and destination (Mogadishu or Hargeisa) first.",
+  "export": "The hospital issues a death notification and municipalities should issue the death certificate (not always done), in Somali, Arabic or English. Norwegian consular guidance: the hospital death certificate (plus a CID police document if the death was outside Digfeer, De Martino or Banadir hospitals) is submitted to the Director General of the Ministry of Health for a confirmation letter. A funeral director can obtain the burial permit and cemetery authority; paperwork can be lengthy and body preparation is generally only available in Mogadishu. Cremation is not available.",
+  "export_points": [
+   "Ministry of Health confirmation letter on the death certificate",
+   "CID police document for deaths outside main hospitals",
+   "Body preparation only in Mogadishu",
+   "Security affects airports and road transfers"
+  ],
+  "at_a_glance": {
+   "death_certificate": "Required; translate if needed",
+   "embalming": "Not confirmed; ask the mission",
+   "coffin": "No Somali rule; airline standard",
+   "laissez_passer": "Exit permit from country of death",
+   "consular": "Ask the Somali embassy or consulate",
+   "permit": "No official entry procedure published",
+   "arrival": "Mogadishu or Hargeisa; check security"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Obtain the death certificate and appoint a funeral home in the country of death."
+   },
+   {
+    "when": "Day 0-1",
+    "what": "Ask the Somali mission (or Somaliland office) for its requirements."
+   },
+   {
+    "when": "Day 1-2",
+    "what": "Preparation of the body and sealing of the coffin."
+   },
+   {
+    "when": "Day 1-3",
+    "what": "Exit permit and any authorisation; check airport security; book the flight."
+   },
+   {
+    "when": "Arrival",
+    "what": "Clearance at Mogadishu or Hargeisa and handover to the family for burial."
+   }
+  ],
+  "key_points": [
+   "No official entry guidance found",
+   "Security at Mogadishu airport is a major factor",
+   "Somaliland applies its own entry rules"
+  ],
+  "lead_days": null,
+  "authority": "Somali embassy or consulate in the country of death (procedure not published); Somali Ministry of Health for deaths in Somalia",
+  "sources": [
+   "https://www.gov.uk/foreign-travel-advice/somalia",
+   "https://www.gov.uk/government/publications/somalia-bereavement-information/somalia-bereavement-information--3",
+   "https://www.norway.no/en/kenya/for-nordmenn/konsulare-tjenester/dodsfall-somalia/",
+   "https://web.mfa.gov.so/services-for-citizens/"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "SS",
+  "name": "South Sudan",
+  "status": "requirements",
+  "summary": "South Sudan embassies issue a free Letter of No Objection for transporting a deceased person's body back to South Sudan, usually the same working day, on a copy of the death certificate, a funeral home letter, the passport or travel document and a family request letter. Health rules for the casket are not published; check that Juba airport is open.",
+  "documents": [
+   "Copy of the death certificate",
+   "Letter from the funeral home",
+   "Copy of the deceased's passport, travel document or residence permit",
+   "Letter from the family requesting repatriation to South Sudan",
+   "Letter of No Objection from the South Sudan embassy",
+   "Embalming certificate and non-infectious disease certificate (expected; confirm)"
+  ],
+  "coffin": "No South Sudanese law governs casket size or material (UK guidance). Plan for a hermetically sealed zinc-lined inner coffin in a wooden outer coffin as required by airlines.",
+  "embalming": "Not published for entry; expected for international air transport. For remains leaving South Sudan, embalming is required and done by a private pathologist at Juba Teaching Hospital.",
+  "consular": "South Sudan embassies (Washington, London) issue a Letter of No Objection for repatriation of remains: no fee, processed the same working day; mailed applications need a prepaid return envelope. Arabic-to-English certified translation is available at the Washington embassy (USD 30 per document).",
+  "arrival": "No official information on clearance at Juba International Airport was found. Refrigerated storage is scarce (UNMISS mortuary, Juba Funeral Home); arrange the receiving family or funeral home in advance. Transport outside Juba is difficult and a charter may be needed.",
+  "pouch_accepted": null,
+  "pouch": null,
+  "private_aviation": "UK travel advice warns that Juba airport may close or be inaccessible and flights can be cancelled at short notice; South Sudan's airspace has closed temporarily in the past. A private flight needs landing permission at Juba and current security information. UK guidance notes a charter may be needed to move remains within the country.",
+  "private_jet_alert": true,
+  "private_jet_note": "Juba airport and airspace can close at short notice; confirm status and permits the day before.",
+  "export": "UK bereavement pack: a senior medical officer at Juba Teaching Hospital certifies the death; the Ministry of Health issues the death certificate and burial permit in English, stating the cause of death. Embalming is required for international transport and is done by a private pathologist at Juba Teaching Hospital, who issues the embalming and non-infectiousness certificates (family pays). Caskets for international air travel are not available in Juba and must be imported, for example from Kenya. The death certificate generally takes a few working days.",
+  "export_points": [
+   "Ministry of Health death certificate and burial permit",
+   "Embalming at Juba Teaching Hospital required",
+   "International caskets must be imported (e.g. from Kenya)",
+   "Services generally only in Juba"
+  ],
+  "at_a_glance": {
+   "death_certificate": "Required, copy to embassy",
+   "embalming": "Expected; not published for entry",
+   "coffin": "No local rule; airline standard",
+   "laissez_passer": "Embassy Letter of No Objection",
+   "consular": "Free letter, same working day",
+   "permit": "No other entry permit published",
+   "arrival": "Juba airport; check it is open"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Obtain the death certificate and appoint a funeral home in the country of death."
+   },
+   {
+    "when": "Day 0-1",
+    "what": "Embalming, health certificate and sealing of the coffin."
+   },
+   {
+    "when": "Day 1",
+    "what": "Send death certificate, funeral home letter, passport copy and family letter to the South Sudan embassy; Letter of No Objection the same day."
+   },
+   {
+    "when": "Day 1-3",
+    "what": "Exit permit in the country of death; check Juba airport status; book the flight."
+   },
+   {
+    "when": "Arrival",
+    "what": "Clearance at Juba and handover to the family."
+   }
+  ],
+  "key_points": [
+   "Embassy Letter of No Objection is free and same-day",
+   "Juba airport and airspace can close suddenly",
+   "Mortuary and casket supply in Juba is limited"
+  ],
+  "lead_days": 2,
+  "authority": "Embassy of the Republic of South Sudan in the country of death; South Sudan Ministry of Health",
+  "sources": [
+   "https://www.ssembassydc.org/?p=1883",
+   "https://embrss.org.uk/consular-services/letter-no-objection",
+   "https://www.gov.uk/government/publications/south-sudan-bereavement-death-abroad/south-sudan-bereavement-death-abroad",
+   "https://www.gov.uk/foreign-travel-advice/south-sudan"
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "SD",
+  "name": "Sudan",
+  "status": "requirements",
+  "summary": "Sudanese embassies handle the transfer of a deceased person to Sudan: the Embassy in The Hague requires a legalised death certificate stating the cause of death, the deceased's Sudanese ID, two photos and the ticket copy, at least 48 hours before travel. The conflict severely limits airports; check airport status first.",
+  "documents": [
+   "Death certificate stating the cause of death, legalised by the foreign ministry of the country of death",
+   "Sudanese identity documents of the deceased",
+   "Two photographs of the deceased",
+   "Copy of the ticket or air waybill for the body and any companions",
+   "Medical certificate of non-contagious disease (expected; confirm)",
+   "Embalming certificate or statement of preservation method (confirm)"
+  ],
+  "coffin": "No official specification found. Plan for a hermetically sealed inner container in a wooden outer coffin as required by airlines.",
+  "embalming": "Not stated in the Sudanese embassy checklist. Families may prefer to avoid embalming for Islamic burial; ask the embassy and airline what is accepted.",
+  "consular": "Submit the file to the Sudanese embassy or consulate in the country of death at least 48 hours before the flight (Embassy in The Hague). Fees are not published. The death certificate must be legalised by the local foreign ministry.",
+  "arrival": "No official arrival procedure was found. UK travel advice says Khartoum and Port Sudan airports operate limited flights and have been targeted by drone strikes. Islamic burial is normally held quickly; arrange the receiving family in advance.",
+  "pouch_accepted": null,
+  "pouch": null,
+  "private_aviation": "Khartoum and Port Sudan airports operate limited flights and may close after drone strikes. A private flight needs overflight and landing permission and current security information.",
+  "private_jet_alert": true,
+  "private_jet_note": "Sudan is in active conflict; airports can close at short notice. Confirm permits and status before departure.",
+  "export": "UK guidance (2021): deaths are registered at the district health office and the death certificate is issued in Arabic; embalming is required for repatriation, and the local undertaker needs a permission letter signed and stamped by the destination country's embassy. The cause of death can be marked as not yet determined to allow repatriation while a forensic report is pending. Consular support inside Sudan is now severely limited.",
+  "export_points": [
+   "Death certificate in Arabic from district health office",
+   "Embalming required for repatriation",
+   "Destination embassy permission letter needed",
+   "Conflict severely limits flights and consular help"
+  ],
+  "at_a_glance": {
+   "death_certificate": "Legalised, stating cause of death",
+   "embalming": "Not stated; ask embassy",
+   "coffin": "Sealed coffin expected by airlines",
+   "laissez_passer": "Sudanese embassy clearance",
+   "consular": "File 48 hours before the flight",
+   "permit": "No other entry permit published",
+   "arrival": "Limited airports; check status first"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Obtain the death certificate and appoint a funeral home in the country of death."
+   },
+   {
+    "when": "Day 0-1",
+    "what": "Legalise the death certificate at the local foreign ministry; gather Sudanese ID and two photos."
+   },
+   {
+    "when": "Day 1-2",
+    "what": "Preparation of the body and sealing of the coffin."
+   },
+   {
+    "when": "Day 1-3",
+    "what": "Book the flight; file with the Sudanese embassy at least 48 hours before travel; check airport status."
+   },
+   {
+    "when": "Arrival",
+    "what": "Clearance at the arrival airport and handover to the family for burial."
+   }
+  ],
+  "key_points": [
+   "File with the embassy at least 48 hours before the flight",
+   "Legalised death certificate with cause of death",
+   "Active conflict affects airports and services"
+  ],
+  "lead_days": 3,
+  "authority": "Sudanese embassy or consulate in the country of death",
+  "sources": [
+   "https://www.sudanembassy.nl/?p=9063",
+   "https://www.gov.uk/government/publications/sudan-bereavement-death-abroad/sudan-bereavement-death-abroad",
+   "https://www.gov.uk/foreign-travel-advice/sudan"
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10"
+ }
+]

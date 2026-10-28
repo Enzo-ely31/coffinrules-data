@@ -1,0 +1,538 @@
+[
+ {
+  "cc": "SG",
+  "status": "requirements",
+  "name": "Singapore",
+  "summary": "A casket can enter Singapore only with a Coffin (Import) Permit from the National Environment Agency (NEA), applied for online by the Singapore funeral director with the family's letter of authorisation. Citizens and permanent residents may be brought home for burial or cremation; foreign nationals are normally admitted for cremation only, burial needing special NEA permission.",
+  "coffin": "A sealing certificate for the coffin is required (NEA). Singapore MFA's 2021 guide described it as certifying that the coffin is hermetically sealed and metal-lined. For burial in Singapore the coffin must not exceed 210 x 90 x 80 cm; Singapore cremators accept coffins only up to 210 x 60 x 56 cm, so size the coffin for the planned disposal. Who witnesses the sealing is not specified by Singapore.",
+  "embalming": "An embalming certificate is required 'where applicable' (NEA). Tell the embalmer about any pacemaker. For infectious diseases of concern (e.g. MERS, Ebola) both undertakers must notify the authorities, and NEA Port Health decides whether the body may be imported at all.",
+  "consular": "No Singapore consular permit or laissez-passer is needed; the import permit is issued by NEA, not by Singapore embassies. MFA and Singapore overseas missions only assist and provide undertaker lists. Documents not in English need an English translation; legalisation is not mentioned by NEA.",
+  "arrival": "No Singapore Customs permit or GST applies to human remains or ashes. The Singapore funeral director collects the coffin. The Permit to Bury or Cremate is issued with the coffin permit (fee 17.50 SGD). Burials take place only at Choa Chu Kang Cemetery, with a 15-year grave lease; foreigners cremated in Singapore can only buy niches in private columbaria.",
+  "pouch": null,
+  "private_aviation": "Singapore has no published rule specific to private flights carrying remains. The NEA Coffin (Import) Permit must be in place before arrival and the coffin is released on that permit, so arrange clearance with the handling agent and the Singapore funeral director at the arrival airport in advance.",
+  "export": "A coffin permit for export is issued by NEA (Port Health) and applied for online through NEA's e-services, normally by the funeral director. Confirm the supporting documents (usually the death certificate, embalming certificate where applicable and coffin sealing certificate) with the funeral director or NEA Port Health Office. In coroner's cases the body is released only after the Coroner's decision on autopsy; a provisional cause of death ('Cardiorespiratory Failure Pending Further Investigations') may be used to allow repatriation. Processing time is not published.",
+  "authority": "National Environment Agency (NEA), Port Health Office",
+  "last_checked": "2026-10",
+  "documents": [
+   "Death certificate from the country of death (or cause of death certificate), in English or with English translation; it must travel with the coffin",
+   "Sealing certificate for the coffin (English translation if needed)",
+   "Embalming certificate where applicable (English translation if needed)",
+   "Coffin export permit from the country the body leaves",
+   "Letters of authorisation from the family for the overseas and Singapore funeral directors",
+   "Exhumation certificate for exhumed remains, if applicable",
+   "Air waybill (optional)"
+  ],
+  "sources": [
+   "https://www.nea.gov.sg/our-services/after-death/post-death-matters/when-death-occurs/overseas",
+   "https://www.nea.gov.sg/our-services/after-death/post-death-matters/e-services",
+   "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/what-you-can-bring/remaintransfer",
+   "https://customs.gov.sg/individuals/transfer-of-remains-for-cremation-or-burial",
+   "https://isomer-user-content.by.gov.sg/262/3189d903-0904-41a4-8c43-32f01c1120a4/guide%20for%20bereaved%20families.pdf",
+   "https://isomer-user-content.by.gov.sg/242/a77d86c0-211e-4c15-9c26-6996eb5de7a1/A%20Guide%20for%20Bereaved%20Families%204%20Oct%202021.pdf",
+   "https://www.gov.uk/government/publications/when-someone-dies-in-singapore",
+   "https://assets.publishing.service.gov.uk/media/6a0d1cc4279ebb7d24f8f538/Bereavemnet_pack_2026.docx"
+  ],
+  "pouch_accepted": null,
+  "private_jet_alert": true,
+  "at_a_glance": {
+   "death_certificate": "Foreign certificate, English translation, with coffin",
+   "embalming": "Certificate where applicable",
+   "coffin": "Sealed coffin with sealing certificate",
+   "laissez_passer": "Not used; NEA permit instead",
+   "consular": "No consular permit required",
+   "permit": "NEA Coffin (Import) Permit, 17.50 SGD",
+   "arrival": "No customs permit; funeral director collects"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Appoint a funeral director at the place of death and a licensed funeral director in Singapore; sign letters of authorisation."
+   },
+   {
+    "when": "Day 1",
+    "what": "Register the death locally and obtain the death certificate (with English translation if needed)."
+   },
+   {
+    "when": "Day 1-2",
+    "what": "Embalm if applicable and seal the coffin; obtain the embalming and sealing certificates and the exit permit of the country of death."
+   },
+   {
+    "when": "Day 2",
+    "what": "The Singapore funeral director applies online for the NEA Coffin (Import) Permit, which includes the Permit to Bury or Cremate."
+   },
+   {
+    "when": "Arrival",
+    "what": "The coffin travels with the death certificate; the Singapore funeral director collects it and proceeds with cremation or burial."
+   }
+  ],
+  "key_points": [
+   "Foreign nationals are normally imported for cremation only",
+   "Coffin size limits apply for burial and cremation",
+   "No customs permit or GST on human remains",
+   "Infectious-disease deaths need prior NEA assessment"
+  ],
+  "export_points": [
+   "NEA coffin permit (export) via a funeral director",
+   "Death, embalming and sealing certificates usually needed",
+   "Coroner must release the body in coroner's cases",
+   "Processing time not published"
+  ],
+  "private_jet_note": "Obtain the NEA Coffin (Import) Permit before take-off and confirm the arrival airport can clear the coffin.",
+  "confidence": "high",
+  "lead_days": null
+ },
+ {
+  "cc": "SI",
+  "status": "requirements",
+  "name": "Slovenia",
+  "summary": "Slovenia is a party to the 1973 Strasbourg Agreement on the Transfer of Corpses. Remains entering Slovenia must be accompanied by a corpse passport (posmrtni potni list) issued by the competent authority of the departure country, in an impermeable coffin with absorbent material: a wooden coffin (sides 20 mm or more) with a hermetically sealed zinc inner coffin, or a 30 mm wooden coffin lined with zinc.",
+  "coffin": "Rules on the transport and burial of human remains (Uradni list RS 53/2017, art. 5): impermeable coffin containing absorbent material, either an outer wooden coffin with sides at least 20 mm thick and a hermetically sealed inner coffin of zinc or other self-decomposing material, or a single wooden coffin at least 30 mm thick lined with zinc or similar. For air transport the coffin needs a pressure-equalising device or resistance certification accepted by the departure country. Infectious-disease deaths: body also wrapped in a shroud soaked in antiseptic.",
+  "embalming": "Not addressed by the Slovenian rules; embalming is not compulsory in Slovenia but can be requested, especially when repatriation is planned (gov.uk).",
+  "consular": "Slovenian rules (art. 6) require every body brought into Slovenia to travel with a corpse passport issued by the competent authority of the departure country; between Strasbourg Agreement parties no other documents may be required. From a non-party country, confirm with the Slovenian embassy or consulate what is accepted. Urns do not need a corpse passport.",
+  "arrival": "On arrival the coffin is collected by a Slovenian funeral service provider (pogrebna dejavnost). Remains of a person who died of an infectious disease must be cremated or buried in the transport coffin. Cremation is available only in Ljubljana.",
+  "pouch": null,
+  "private_aviation": "No rule specific to private aircraft found. The coffin must be carried in a space separate from passengers and baggage (art. 4). Slovenia is in Schengen; a flight from outside Schengen must use an airport with border and customs control.",
+  "export": "Leaving Slovenia: the corpse passport is issued by the Health Inspectorate of the Republic of Slovenia (Zdravstveni inspektorat RS) on application by the funeral provider with the death notification completed by the medical examiner, a copy of the identity document and the provider's written statement that the coffin complies and contains only the deceased. It is written in Slovenian and one official EU language; the cause of death is given with the WHO ICD code. UK guidance adds that permission to remove the body is issued by a coroner and obtained by the funeral director. Slovenian death certificates do not state the cause of death; an international multilingual version can be requested. Embalming is optional.",
+  "authority": "Health Inspectorate of the Republic of Slovenia (Zdravstveni inspektorat RS); Ministry of Health",
+  "last_checked": "2026-10",
+  "documents": [
+   "Corpse passport / laissez-passer (posmrtni potni list) issued by the competent authority of the departure country",
+   "Death certificate from the country of death",
+   "Cause-of-death certificate in a sealed envelope attached to the corpse passport, only if the cause of death is not stated on it for confidentiality reasons"
+  ],
+  "sources": [
+   "https://www.uradni-list.si/glasilo-uradni-list-rs/vsebina/2017-01-2417",
+   "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p",
+   "https://www.gov.uk/guidance/when-someone-dies-in-slovenia"
+  ],
+  "pouch_accepted": false,
+  "private_jet_alert": true,
+  "at_a_glance": {
+   "death_certificate": "From the country of death",
+   "embalming": "Not required by Slovenian rules",
+   "coffin": "Zinc-lined wooden coffin, absorbent",
+   "laissez_passer": "Corpse passport from departure state",
+   "consular": "Confirm with consulate if non-Strasbourg",
+   "permit": "Departure country corpse passport",
+   "arrival": "Slovenian funeral provider collects"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Contact the insurer, a funeral home and, if needed, the Slovenian consulate."
+   },
+   {
+    "when": "Day 1",
+    "what": "Local death certificate and cause-of-death certificate."
+   },
+   {
+    "when": "Day 1-2",
+    "what": "Coffin sealed to Strasbourg standard (zinc, absorbent material)."
+   },
+   {
+    "when": "Day 1-3",
+    "what": "Departure country issues the corpse passport / laissez-passer."
+   },
+   {
+    "when": "Day 2-4",
+    "what": "Flight to Ljubljana with the coffin in a separate hold."
+   },
+   {
+    "when": "Arrival",
+    "what": "Slovenian funeral provider collects the coffin."
+   }
+  ],
+  "key_points": [
+   "Party to the Strasbourg Agreement since 1998",
+   "Corpse passport from departure country required",
+   "Cause of death with WHO ICD code",
+   "Urns need no corpse passport"
+  ],
+  "export_points": [
+   "Health Inspectorate issues the corpse passport",
+   "Funeral provider applies with statement on the coffin",
+   "Zinc-lined coffin with absorbent material",
+   "Cremation only in Ljubljana"
+  ],
+  "private_jet_note": "Coffin must be in a compartment separate from passengers and baggage.",
+  "confidence": "high",
+  "lead_days": null
+ },
+ {
+  "cc": "SK",
+  "status": "requirements",
+  "name": "Slovakia",
+  "summary": "Slovakia is bound by the Council of Europe Agreement on the Transfer of Corpses (Strasbourg 1973, in force for Slovakia since 1996), so a casket from another party travels under that agreement with the departure country's laissez-passer. From a non-party state, a corpse passport (pas pre mŕtvolu) from the Slovak embassy or consulate is needed, and the coffin must meet the agreement's standards (Act 131/2010 Coll., section 7).",
+  "coffin": "The coffin must meet the requirements of the Strasbourg Agreement: impervious, with absorbent material, a soldered zinc inner coffin in a wooden outer coffin (or a zinc-lined wooden coffin at least 30 mm thick). The coffin label must carry the deceased's identity.",
+  "embalming": "Not required by Slovak law for entry. Embalming, preservation and display of the body are prohibited when the person was infected with a dangerous disease at the time of death.",
+  "consular": "From a state not bound by the agreement, the Slovak diplomatic mission or consulate issues the corpse passport if all requirements of the departure state are met and the coffin meets the agreement's requirements (Act 131/2010 Coll. section 7(3)).",
+  "arrival": "Slovak funeral services, crematoria and embalmers may accept the remains on the basis of the corpse passport for international transport. Road transport in Slovakia must use a refrigerated hearse.",
+  "pouch": null,
+  "private_aviation": "No rule specific to private aircraft found. Slovakia is in Schengen; a flight from outside Schengen must use an airport with border and customs control.",
+  "export": "Within Strasbourg countries, transport follows the agreement. The corpse passport (laissez-passer) is issued by the self-governing region (samosprávny kraj), by the regional public health authority if the deceased had a dangerous infectious disease, or by the Health Care Surveillance Authority if an autopsy was performed (Act 131/2010 section 7(4)). Documents listed by the UK government: international death certificate (or official translation), passport, medical certificate confirming no infectious disease, embalming certificate and the permission for international transport.",
+  "authority": "Slovak self-governing regions; regional public health authorities; Slovak embassies and consulates",
+  "last_checked": "2026-10",
+  "documents": [
+   "Laissez-passer from the departure country (Strasbourg Agreement parties)",
+   "From non-party states: corpse passport (pas pre mŕtvolu) issued by the Slovak embassy or consulate",
+   "Death certificate",
+   "Documents required by the country of departure"
+  ],
+  "sources": [
+   "https://static.slov-lex.sk/static/SK/ZZ/2010/131/20260715.html",
+   "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p",
+   "https://www.gov.uk/guidance/when-someone-dies-in-slovakia"
+  ],
+  "pouch_accepted": false,
+  "private_jet_alert": false,
+  "at_a_glance": {
+   "death_certificate": "Required",
+   "embalming": "Not required by Slovakia",
+   "coffin": "Strasbourg sealed zinc-lined coffin",
+   "laissez_passer": "Strasbourg laissez-passer accepted",
+   "consular": "Slovak corpse passport from non-party states",
+   "permit": "No separate entry permit",
+   "arrival": "Funeral service collects, refrigerated hearse"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Appoint funeral homes abroad and in Slovakia."
+   },
+   {
+    "when": "Day 1",
+    "what": "Obtain the death certificate and departure permits."
+   },
+   {
+    "when": "Day 1-3",
+    "what": "Coffin sealed to Strasbourg standard; laissez-passer issued by the departure country, or corpse passport from the Slovak consulate for non-party states."
+   },
+   {
+    "when": "Day 2-4",
+    "what": "Flight to Slovakia."
+   },
+   {
+    "when": "Arrival",
+    "what": "Slovak funeral service collects the coffin in a refrigerated hearse."
+   }
+  ],
+  "key_points": [
+   "Slovakia applies the 1973 Strasbourg Agreement",
+   "Slovak consulates issue a corpse passport for non-party countries",
+   "Embalming forbidden if death involved a dangerous infectious disease"
+  ],
+  "export_points": [
+   "Corpse passport from the self-governing region (or health authority)",
+   "Strasbourg-standard sealed zinc-lined coffin",
+   "Embalming and non-infection certificates usually requested",
+   "International death certificate"
+  ],
+  "private_jet_note": "From a non-Strasbourg country, obtain the Slovak consular corpse passport before take-off.",
+  "confidence": "high",
+  "lead_days": 3
+ },
+ {
+  "cc": "SL",
+  "status": "requirements",
+  "name": "Sierra Leone",
+  "summary": "The Embassy of Sierra Leone in Washington publishes a checklist for repatriating a Sierra Leonean's remains: original death certificate, burial/transit permit, embalmer's letter confirming embalming and a sealed casket, non-contagious disease certificate, passport (or emergency travel certificate) and itinerary, with a US$100 processing fee.",
+  "coffin": "Sealed casket required: the embalmer's letter must state that the remains are enclosed in a sealed casket containing only the body of the deceased, the clothing and packing (Embassy in Washington). Zinc lining is not specified; airlines usually expect a hermetically sealed casket in an outer case.",
+  "embalming": "Required: the embalmer must certify that the remains were embalmed according to accepted mortuary procedures.",
+  "consular": "The Sierra Leone embassy processes the funeral documents for a US$100 money order (Washington); if the deceased has no valid Sierra Leone passport, an Emergency Travel Certificate is needed, for another US$100. Originals are required. Other missions (e.g. the High Commission in London) do not publish a checklist; expect a similar list. Not a party to the 1973 Strasbourg Agreement.",
+  "arrival": "No official information on clearance at Freetown Lungi International Airport was found. Under Sierra Leone law repatriations are handled by a funeral home, so appoint a Freetown funeral home to receive the casket. Sierra Leone is predominantly Muslim; plan for a quick burial where relevant.",
+  "pouch": null,
+  "private_aviation": "UK guidance states that Brussels Airlines is the only commercial airline from Sierra Leone currently carrying human remains, with limited flights, so commercial repatriation can take several weeks. No Sierra Leone rule specific to private flights was found; plan arrival at Freetown Lungi International Airport, confirm landing, customs and health clearance with the handling agent in advance, and keep the original documents with the casket.",
+  "export": "Under Sierra Leone law all repatriations must be carried out by a funeral home. UK guidance lists the death certificate (from the local registry, distinct from the doctor's Medical Certificate of Cause of Death), a coroner's permission to remove the body, the passport and, for the UK, a Letter of No Objection from the British High Commission. Embalming is possible in Freetown but standards are lower than in the UK; outside Freetown move the body to the Freetown mortuary quickly. Only Brussels Airlines carries remains commercially, so delays of several weeks are possible. Cremation needs Ministry of Health approval.",
+  "authority": "Embassy / High Commission of Sierra Leone in the country of death",
+  "last_checked": "2026-10",
+  "documents": [
+   "Original death certificate",
+   "Burial/transit permit from the country of death",
+   "Embalmer's letter certifying embalming and that the remains are enclosed in a sealed casket containing only the body, clothing and packing",
+   "Certificate of non-contagious disease from the treating physician or local health department",
+   "Current Sierra Leone passport of the deceased, or an Emergency Travel Certificate",
+   "Copy of the flight itinerary"
+  ],
+  "sources": [
+   "https://www.embassyofsierraleone.net/consular-services",
+   "https://www.gov.uk/guidance/when-someone-dies-in-sierra-leone"
+  ],
+  "pouch_accepted": false,
+  "private_jet_alert": false,
+  "at_a_glance": {
+   "death_certificate": "Original required",
+   "embalming": "Required, with embalmer's letter",
+   "coffin": "Sealed casket, body only",
+   "laissez_passer": "Not Strasbourg party",
+   "consular": "Embassy processes documents (US$100)",
+   "permit": "Burial/transit permit from country of death",
+   "arrival": "Freetown funeral home receives casket"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Obtain the death certificate and appoint a funeral home in the country of death."
+   },
+   {
+    "when": "Day 1",
+    "what": "Embalming, sealing of the casket and embalmer's letter; non-contagious disease certificate."
+   },
+   {
+    "when": "Day 1-2",
+    "what": "Obtain the burial/transit permit; check the passport or apply for an Emergency Travel Certificate."
+   },
+   {
+    "when": "Day 2-4",
+    "what": "Submit the originals, itinerary and fee to the Sierra Leone embassy or high commission."
+   },
+   {
+    "when": "Arrival",
+    "what": "Clearance at Freetown Lungi and handover to the local funeral home."
+   }
+  ],
+  "key_points": [
+   "Embassy checklist published by the Embassy in Washington",
+   "Processing fee US$100; travel certificate another US$100",
+   "Valid Sierra Leone passport or travel certificate needed",
+   "Only Brussels Airlines carries remains commercially"
+  ],
+  "export_points": [
+   "A funeral home must handle the repatriation",
+   "Coroner's permission to remove the body",
+   "Only one commercial airline carries remains",
+   "Destination consulate's letter may be needed"
+  ],
+  "private_jet_note": "Commercial capacity for remains is very limited; a private flight can save weeks, but carry all originals.",
+  "confidence": "medium",
+  "lead_days": 3
+ },
+ {
+  "cc": "SM",
+  "status": "requirements",
+  "name": "San Marino",
+  "summary": "San Marino's law (Law 35/2010, Art. 16) applies international conventions it has joined to coffins arriving from abroad, and otherwise the rules of the departure and arrival states. The coffin lands at an Italian airport and continues by road, so Italian rules apply in transit; San Marino's civil registrar authorises transport after clearance by the health services.",
+  "coffin": "San Marino's coffin rules (Law 35/2010, Annex 4): zinc inner coffin at least 0.660 mm thick, hermetically closed by continuous soldering, inside a solid wooden coffin at least 25 mm thick. For bodies from abroad to be buried in the ground, placed in ventilated niches or cremated in San Marino, the body must be wrapped before departure in a biodegradable, combustible covering inside both coffins so the zinc coffin can be removed on arrival.",
+  "embalming": "No San Marino entry rule found; follow the departure country's and Italy's transit rules.",
+  "consular": "No San Marino consular procedure is published. San Marino is not a party to the Strasbourg Agreement. Confirm with the San Marino civil registry and with the Italian consulate whether Italian transit documents are needed.",
+  "arrival": "Customs clearance takes place at the Italian arrival airport (Rimini or Bologna). A funeral vehicle must carry the coffin; transport within San Marino and burial need the authorisation of the civil registrar (Dirigente la Polizia Mortuaria), issued after the health services' clearance.",
+  "pouch": null,
+  "private_aviation": "San Marino has no airport. Land in Italy (Rimini or Bologna are the nearest airports), where Italian customs and health rules apply, then transfer by funeral vehicle. A zinc-lined double coffin is large and heavy, so confirm it fits the aircraft's cargo door or a cabin configured for it.",
+  "export": "Transport out of San Marino follows the international conventions San Marino has joined, or otherwise the rules of the departure and destination states; the civil registrar authorises it after the health services' clearance. For foreign burial, cremation or ventilated tombs a wooden coffin alone is allowed; where a metal coffin is needed it must be zinc (at least 0.660 mm). Transit through Italy is subject to Italian law.",
+  "authority": "Ufficiale di Stato Civile - Dirigente la Polizia Mortuaria; San Marino health services (nulla osta); Italian authorities for transit",
+  "last_checked": "2026-10",
+  "documents": [
+   "Death certificate from the country of death",
+   "Removal permit or laissez-passer from the departure country",
+   "Documents required by Italy for the airport of arrival and road transit",
+   "Authorisation of the Ufficiale di Stato Civile - Dirigente la Polizia Mortuaria, issued after clearance (nulla osta) by the health services"
+  ],
+  "sources": [
+   "https://www.consigliograndeegenerale.sm/on-line/home/documento17134522.html",
+   "https://www.gov.uk/foreign-travel-advice/san-marino",
+   "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+  ],
+  "pouch_accepted": null,
+  "private_jet_alert": true,
+  "at_a_glance": {
+   "death_certificate": "From the country of death",
+   "embalming": "Per departure country and Italy",
+   "coffin": "Soldered zinc plus wooden coffin",
+   "laissez_passer": "Not a Strasbourg party",
+   "consular": "Confirm Italian transit documents",
+   "permit": "Civil registrar authorisation",
+   "arrival": "Land in Italy, road transfer"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Appoint funeral directors in the country of death and in San Marino; contact the San Marino civil registry."
+   },
+   {
+    "when": "Day 1-2",
+    "what": "Obtain the death certificate, removal permit and embalming; seal the zinc coffin."
+   },
+   {
+    "when": "Day 2-4",
+    "what": "Confirm Italian arrival and transit documents with the Italian consulate or funeral director."
+   },
+   {
+    "when": "Arrival",
+    "what": "Customs at Rimini or Bologna, road transfer, civil registrar authorisation for burial."
+   }
+  ],
+  "key_points": [
+   "No airport: arrival via Italy",
+   "Law 35/2010 Art. 16 governs international transport",
+   "Zinc coffin removed on arrival for burial or cremation"
+  ],
+  "export_points": [
+   "Civil registrar authorisation after health clearance",
+   "Zinc coffin where the destination requires metal",
+   "Italian transit rules apply",
+   "Destination consulate's rules for non-convention states"
+  ],
+  "private_jet_note": "No airport: land in Italy (Rimini or Bologna) and clear Italian formalities first.",
+  "confidence": "medium",
+  "lead_days": null
+ },
+ {
+  "cc": "SN",
+  "status": "requirements",
+  "name": "Senegal",
+  "summary": "Senegalese consulates issue a mortuary laissez-passer (laissez-passer mortuaire) for any body to be buried in Senegal. It is issued on the local death record, the deceased's Senegalese ID, sanitary coffining documents, the cause-of-death or autopsy certificate, the local transport authorisation and the freight itinerary.",
+  "coffin": "The Senegalese consulate requires sanitary documents confirming compliance with coffining standards; it does not publish its own coffin specification. From France, a hermetic metal-lined coffin is mandatory for air transport.",
+  "embalming": "The Senegalese consulate in Paris cites the embalming certificate among the documents families provide. Senegal also requires an embalming certificate for bodies leaving Senegal. Ask about ritual washing before the coffin is sealed.",
+  "consular": "Senegalese consulates (for France, the Consulate General in Paris) issue the laissez-passer mortuaire, often in liaison with the funeral home chosen by the family. A copy of the death record, transcribed or not, must always be attached. Senegal is not a party to the Strasbourg Agreement, so the departure country's authorisation alone is not enough. Fees and processing time are not published.",
+  "arrival": "No official description of arrival clearance at Dakar Blaise Diagne airport was found. Burial usually follows quickly; arrange a receiving funeral home or family member in advance. Cremation is not available in Senegal.",
+  "pouch": null,
+  "private_aviation": "The Senegalese consulate's checklist asks for the itinerary of the remains 'travelling as freight' to Senegal. No rule specific to private flights was found. A private flight should land at an international airport with customs and health control (normally Dakar Blaise Diagne) with all originals travelling with the coffin.",
+  "export": "UK government guidance for taking a body out of Senegal lists a civil registry death certificate (in French), permission to remove the body issued by a coroner, the passport, a certificate of cause of death, a certificate of non-contagiousness, a burial permit from the town hall, a police report, an authorisation from the Ministry of Interior, a transportation certificate and a certificate of embalming. Cremation is not available in Senegal. From France: the funeral company files the request; the transport is authorised by the préfet of the département where the coffin is closed, and a hermetic metal-lined coffin is mandatory for air transport (service-public.gouv.fr). The prefecture may also ask for a certificate of non-epidemic (CNE) issued by the regional health agency (ARS), which some countries not party to the 1937 Berlin agreement require; confirm with the prefecture.",
+  "authority": "Senegalese consulates abroad (laissez-passer mortuaire); Ministry of Interior for bodies leaving Senegal",
+  "last_checked": "2026-10",
+  "documents": [
+   "Local death record (acte de décès), to be transcribed in the consulate's registers",
+   "Copy of the deceased's Senegalese ID (passport, national ID card, consular card)",
+   "Sanitary documents from the funeral company or local health authority confirming the coffining standards were met",
+   "Certificate of the type of death (natural death) or autopsy report (violent death or homicide)",
+   "Transport authorisation: from the préfet for a natural death, or from the judicial authority for a homicide (in France)",
+   "Copy of the transport itinerary of the remains, travelling as freight, with Senegal as final destination",
+   "Non-contagion and embalming certificates (cited by the consulate as usual documents)"
+  ],
+  "sources": [
+   "https://consulsen-paris.gouv.sn/laissez-passer-mortuaire/",
+   "https://www.gov.uk/guidance/when-someone-dies-in-senegal",
+   "https://www.service-public.gouv.fr/particuliers/vosdroits/F35706",
+   "https://www.iledefrance.ars.sante.fr/certificat-de-non-epidemie-lors-dun-transfert-dun-corps-ou-des-cendres-dun-defunt"
+  ],
+  "pouch_accepted": null,
+  "private_jet_alert": true,
+  "at_a_glance": {
+   "death_certificate": "Local death record, transcribed by consulate",
+   "embalming": "Embalming certificate expected",
+   "coffin": "Hermetic metal-lined, sanitary papers",
+   "laissez_passer": "Senegalese laissez-passer mortuaire required",
+   "consular": "Issued by Senegalese consulate",
+   "permit": "Préfet or judicial transport authorisation",
+   "arrival": "Burial usually soon after arrival"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Obtain the death record and appoint a funeral home in the country of death."
+   },
+   {
+    "when": "Day 1",
+    "what": "Embalming, coffining and sanitary documents; cause-of-death or autopsy certificate."
+   },
+   {
+    "when": "Day 1-2",
+    "what": "In France: the funeral company obtains the préfet's transport authorisation (and an ARS certificate of non-epidemic if the prefecture asks for it) and seals the coffin in a hermetic metal-lined casket."
+   },
+   {
+    "when": "Day 2-3",
+    "what": "File with the Senegalese consulate (ID, death record, transport authorisation, itinerary) for the laissez-passer mortuaire."
+   },
+   {
+    "when": "Day 3+",
+    "what": "Flight to Dakar with all originals."
+   },
+   {
+    "when": "Arrival",
+    "what": "Clearance at Dakar and handover to the family or funeral home for burial."
+   }
+  ],
+  "key_points": [
+   "A Senegalese laissez-passer mortuaire is required",
+   "Homicide cases need judicial transport authorisation",
+   "Leaving Senegal needs Ministry of Interior authorisation",
+   "No cremation in Senegal"
+  ],
+  "export_points": [
+   "Ministry of Interior authorisation required",
+   "Police report and town hall burial permit",
+   "Non-contagiousness and embalming certificates",
+   "No cremation facilities in Senegal"
+  ],
+  "private_jet_note": "The consular checklist assumes air freight: ask the consulate to accept the private-flight itinerary before departure.",
+  "confidence": "medium",
+  "lead_days": null
+ },
+ {
+  "cc": "TG",
+  "status": "requirements",
+  "name": "Togo",
+  "summary": "A Togolese embassy issues the authorisation to transfer the body to Lomé; the Berlin embassy requires the complete file at least 8 days before the flight. Togo's Ministry of Security also issues transfer authorisations (exit, and entry plus exit for transit).",
+  "coffin": "The Togolese embassy in Berlin asks for the municipal authorisation to close the coffin but publishes no technical specification. Airlines and departure countries generally require a hermetically sealed zinc-lined coffin in a wooden case; confirm with the embassy.",
+  "embalming": "Embalming is required: an embalming certificate is part of the embassy file.",
+  "consular": "The Togolese embassy covering the country of death issues the authorisation to transfer the body (Berlin: 50 EUR normal, 70 EUR express, file due at least 8 days before transfer). Togo is not a party to the 1973 Strasbourg Agreement. Documents in a language other than French may need translation; legalisation requirements are not published, confirm with the embassy.",
+  "arrival": "No official description of clearance at Lomé airport was found; keep the original documents with the coffin and confirm clearance with the receiving Togolese funeral home. The family representative named in the embassy file is the contact in Lomé. For transit, the Ministry of Security issues an entry authorisation and an exit order. No national burial deadline was found.",
+  "pouch": null,
+  "private_aviation": "No published rule specific to private or charter flights was found. Human remains travel with the same documents as on an airline (originals with the coffin), and the aircraft should land at an international airport with customs, immigration and health control; usual landing and overflight permissions for foreign-registered aircraft apply. A zinc-lined coffin is large and heavy, so confirm it fits the cargo door or a cabin configured for it. Plan arrival at Lomé-Tokoin (Gnassingbe Eyadema) International Airport.",
+  "export": "Leaving Togo requires an authorisation to transfer remains (arrete de sortie) from the Ministry of Security in Lome: death certificate, cause-of-death or non-contagion certificate from the hospital, ID of the deceased and of the applicant, 500 FCFA fiscal stamp, online application on service-public.gouv.tg, processed in 72 hours and collected in person. The UK FCDO notes an export licence is needed, bodies sent to the UK must be embalmed, hospital death certificates may take about a week, and deaths outside hospital need a coroner's finding, which can take longer.",
+  "authority": "Togolese embassy abroad (entry); Ministry of Security, Lome (transfer authorisation)",
+  "last_checked": "2026-10",
+  "documents": [
+   "Written request to the Togolese embassy giving departure date, airline, flight number and arrival date in Lomé",
+   "Death certificate",
+   "Municipal authorisation to close the coffin (coffin closure permit)",
+   "Medical certificate of non-contagion",
+   "Embalming certificate",
+   "Copy of the deceased's passport, Togolese nationality certificate or other ID",
+   "Name, address and phone of the family representative in Lomé",
+   "Proof of payment of the embassy processing fee"
+  ],
+  "sources": [
+   "https://ambatogoberlin.de/autorisation-de-transfert-de-depouille-mortelle/",
+   "https://service-public.gouv.tg/service/68892e5ccd5d771319b084e1/securite-surete/demande-d-autorisation-de-transfert-de-restes-ou-de-depouill",
+   "https://www.gov.uk/guidance/when-someone-dies-in-togo",
+   "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+  ],
+  "pouch_accepted": null,
+  "private_jet_alert": false,
+  "at_a_glance": {
+   "death_certificate": "Required; French or translated",
+   "embalming": "Required, certificate in the file",
+   "coffin": "Municipal closure permit; sealed coffin",
+   "laissez_passer": "Embassy transfer authorisation",
+   "consular": "Togolese embassy, file 8 days ahead",
+   "permit": "Embassy authorisation; Ministry of Security in Togo",
+   "arrival": "Family representative in Lome collects"
+  },
+  "steps": [
+   {
+    "when": "Day 0-1",
+    "what": "Register the death locally and appoint funeral directors"
+   },
+   {
+    "when": "Day 1-3",
+    "what": "Obtain death certificate, non-contagion certificate and embalming certificate"
+   },
+   {
+    "when": "Day 2-3",
+    "what": "Obtain municipal coffin closure authorisation; coffin sealed"
+   },
+   {
+    "when": "At least 8 days before flight",
+    "what": "Send complete file and fee to the Togolese embassy"
+   },
+   {
+    "when": "Flight day",
+    "what": "Fly to Lome with originals; family representative collects"
+   }
+  ],
+  "key_points": [
+   "Embassy wants the complete file 8 days before the flight",
+   "Name a family contact in Lome in the request",
+   "Exit from Togo needs a Ministry of Security authorisation"
+  ],
+  "export_points": [
+   "Ministry of Security transfer authorisation (72 hours, 500 FCFA)",
+   "Hospital or coroner death certificate first",
+   "Embalming required for the UK",
+   "Apply online via service-public.gouv.tg"
+  ],
+  "private_jet_note": "Book the embassy authorisation at least 8 days before the planned flight.",
+  "confidence": "medium",
+  "lead_days": 8
+ }
+]

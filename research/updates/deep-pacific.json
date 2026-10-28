@@ -1,0 +1,523 @@
+[
+ {
+  "cc": "FM",
+  "name": "Micronesia",
+  "status": "requirements",
+  "summary": "The FSM Embassy in Washington publishes the document list the FSM national and state governments require for remains entering the country: certified death certificate, burial transit permit, non-contagious disease letter, embalmer's affidavit, ID copy, bill of lading and itinerary. The funeral home sends the list to the Embassy or a Consulate, which coordinates with the receiving state.",
+  "documents": [
+   "Certified death certificate (original)",
+   "Certified burial transit permit (original)",
+   "Certified letter of non-contagious disease (original)",
+   "Embalmer's affidavit and report",
+   "Copy of the deceased's passport, birth certificate, ID or driver's licence",
+   "Bill of lading (air waybill)",
+   "Travel itinerary"
+  ],
+  "coffin": "No FSM-specific casket standard is published: the Embassy states that funeral homes must comply with the airline's casket and shipping requirements and should consult the carrier (in practice a sealed casket in an air tray or outer case).",
+  "embalming": "Embalming is expected: the Embassy's checklist requires an embalmer's affidavit and report for a body. Cremated remains need only the death certificate, cremation certificate and an ID copy.",
+  "consular": "The FSM Embassy in Washington and the Consulates (Honolulu, Guam, Portland) help prepare the paperwork and forward the request to the FSM authorities receiving the remains. The Embassy says separate travel authorization documents for remains are no longer required. No consular fee or legalisation requirement is published. FSM does not pay repatriation costs.",
+  "arrival": "Arrival at the receiving state's airport (Pohnpei, Chuuk, Yap or Kosrae), where state health and customs officers clear the casket on presentation of the original documents travelling with it. The family or its designee collects. No legal burial deadline was found in national law; the national Director of Health may regulate interments and dead bodies (41 FSMC 102).",
+  "pouch_accepted": null,
+  "pouch": null,
+  "private_aviation": "No rule specific to human remains on private flights was found. A private aircraft needs FSM landing clearance and customs, immigration and health officers at the state airport; the casket must still travel with the original documents listed by the Embassy.",
+  "private_jet_alert": false,
+  "private_jet_note": "Send the document set to the FSM Embassy or Consulate before take-off so the receiving state is notified.",
+  "export": "No published national export procedure was found. Expect a medical cause-of-death certificate from the state hospital, death registration, embalming locally where available, and state health clearance; remains going to the US must meet US CDC import rules. Confirm with the state health department.",
+  "export_points": [
+   "No published export procedure; ask the state health department",
+   "Embalming capacity on the islands is limited",
+   "Remains going to the US must meet CDC import rules"
+  ],
+  "at_a_glance": {
+   "death_certificate": "Certified original travels with casket",
+   "embalming": "Required (embalmer's affidavit)",
+   "coffin": "Airline casket rules apply",
+   "laissez_passer": "Not used; burial transit permit",
+   "consular": "FSM Embassy or Consulate coordinates",
+   "permit": "Non-contagious disease letter needed",
+   "arrival": "State airport, family collects"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Funeral home obtains the certified death certificate and burial transit permit at the place of death."
+   },
+   {
+    "when": "Day 1",
+    "what": "Embalming; physician issues the non-contagious disease letter; embalmer issues affidavit and report."
+   },
+   {
+    "when": "Day 1-2",
+    "what": "Send copies of all documents to the FSM Embassy (Washington) or a Consulate (Honolulu, Guam, Portland), which alerts the receiving state."
+   },
+   {
+    "when": "Day 2-4",
+    "what": "Book cargo (usually via Honolulu or Guam) or a private aircraft; originals travel with the casket."
+   },
+   {
+    "when": "Arrival",
+    "what": "State health and customs clearance at Pohnpei, Chuuk, Yap or Kosrae; family collects for burial."
+   }
+  ],
+  "key_points": [
+   "Official FSM Embassy checklist (June 2023) lists the entry documents",
+   "No separate travel authorization for remains is required any more",
+   "Ashes need only death and cremation certificates plus ID copy",
+   "Family pays all costs; the Embassy estimates up to USD 8,000+"
+  ],
+  "lead_days": 3,
+  "authority": "FSM Department of Health and Social Affairs and state health departments; FSM Embassy (Washington) and Consulates",
+  "sources": [
+   "https://fsmembassy.fm/wp-content/uploads/2023/11/RequirementsforShippingHR_FSM.pdf",
+   "https://fsmembassy.fm/fsm-citizen-information/",
+   "https://www.fsmgov.org/us_info.pdf",
+   "http://www.fsmlaw.org/fsm/code/title41/T41_Ch01_2014.html",
+   "https://hsa.gov.fm/applications/"
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "MH",
+  "name": "Marshall Islands",
+  "status": "requirements",
+  "summary": "No Marshallese entry procedure for caskets is published; the US Embassy in Majuro reports that there are no Marshallese laws governing the export of remains and that a casket is treated as ordinary freight. Plan for an embalmed body in a metal-lined casket inside a freight carton, with death certificate and burial transit papers, and confirm with the Ministry of Health and Human Services.",
+  "documents": [
+   "Certified death certificate stating the cause of death, in English",
+   "Embalming certificate",
+   "Burial transit or disposition permit from the place of death",
+   "Non-contagious disease statement (mirrors what RMI requires on export; entry requirement not published)",
+   "Copy of the deceased's passport",
+   "Air waybill"
+  ],
+  "coffin": "Not set by Marshallese law. The airline serving Majuro (United) requires the body in a metal-lined casket placed in a freight carton, according to the US Embassy; expect the same on arrival.",
+  "embalming": "Embalming is standard for remains shipped in and is performed locally only by the Ministry of Health (Majuro or Ebeye) for remains leaving. Local custom is burial about seven days after death, with the embalmed body kept by the family for the wake.",
+  "consular": "No RMI consular transfer permit or legalisation requirement was found. The RMI Embassy in Washington and the consulates in Honolulu and Springdale can advise families.",
+  "arrival": "Arrival at Majuro (Amata Kabua International) or Kwajalein. The casket is handled as freight and cleared by customs; health clearance steps are not published. The family collects; there are no private funeral homes, and the Ministry of Health handles preparation of remains. RMI law sets no burial time limit; custom is burial about one week after death.",
+  "pouch_accepted": null,
+  "pouch": null,
+  "private_aviation": "No rule specific to human remains on private flights. Private aircraft need prior landing clearance for Majuro; Kwajalein (Bucholz) is a US Army installation with restricted access.",
+  "private_jet_alert": false,
+  "private_jet_note": "Use Majuro; Kwajalein is a restricted military airfield.",
+  "export": "Per the US Embassy, there are no Marshallese laws on exporting remains. In practice the Ministry of Health issues the physician-signed death certificate, a removal form stating the remains carry no quarantinable disease, and an embalming certificate; the National Police issues a memo approving departure. Embalming is done by the Ministry of Health within seven days of death. United Airlines Cargo requires a metal-lined casket in a freight carton.",
+  "export_points": [
+   "Ministry of Health: death certificate, removal form, embalming certificate",
+   "National Police memo approving the remains' departure",
+   "Metal-lined casket in a freight carton (airline rule)",
+   "No crematorium; cremation only ad hoc by a private firm"
+  ],
+  "at_a_glance": {
+   "death_certificate": "English death certificate",
+   "embalming": "Expected; standard practice",
+   "coffin": "Metal-lined casket in freight carton",
+   "laissez_passer": "Not used",
+   "consular": "RMI embassy or consulate may help",
+   "permit": "No national entry permit published",
+   "arrival": "Majuro airport, family collects"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Contact the RMI Ministry of Health and Human Services and the RMI mission covering the place of death."
+   },
+   {
+    "when": "Day 1-2",
+    "what": "Obtain the death certificate, embalming certificate and burial transit permit; embalm and seal in a metal-lined casket."
+   },
+   {
+    "when": "Day 2-3",
+    "what": "Book cargo on the scheduled service or arrange a private aircraft landing clearance for Majuro."
+   },
+   {
+    "when": "Day of flight",
+    "what": "Casket travels in a freight carton with the original documents."
+   },
+   {
+    "when": "Arrival",
+    "what": "Customs clearance at Majuro; family collects for the wake (Ilomej) and burial."
+   }
+  ],
+  "key_points": [
+   "US Embassy: no Marshallese law on export of remains; casket is freight",
+   "No private funeral homes; the Ministry of Health prepares remains",
+   "Custom: burial about one week after death",
+   "Kwajalein is a restricted US military airfield"
+  ],
+  "lead_days": null,
+  "authority": "Ministry of Health and Human Services, RMI (health regulations on dead bodies under 7 MIRC Ch. 1)",
+  "sources": [
+   "https://mh.usembassy.gov/disposition-of-remains-report/",
+   "https://www.paclii.org/mh/legis/consol_act_2014/phsawa275/"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "NR",
+  "name": "Nauru",
+  "status": "requirements",
+  "summary": "Nauru's Funeral Burial and Cremation Act 2017 requires the person in control to dispose of remains within 24 hours of receiving them from the hospital, and only after a health practitioner's death certificate and registration of the death. No specific entry permit for a casket is published, so agree the arrival, registration and burial plan with the Department of Health before departure.",
+  "documents": [
+   "Certified death certificate stating the cause of death, in English",
+   "Medical letter that the death was not due to an infectious or contagious disease (practice; not set by the Act for entry)",
+   "Embalming and casket sealing certificates (practice; not confirmed for entry)",
+   "Copy of the deceased's passport",
+   "Burial application to the cemetery Authority in the prescribed form, with a burial certificate from the Nauru Police Force (s. 19 of the 2017 Act)"
+  ],
+  "coffin": "Not set for entry. Section 10 of the 2017 Act requires a body that died of an infectious or contagious disease to be sealed in a body bag and taken directly to burial or cremation. A sealed casket with an embalmed body is the safe choice for transport.",
+  "embalming": "Not required by the Act for entry. For leaving Nauru, section 13 requires a health practitioner's certificate that the remains are medically preserved and fit for transport, so embalming is effectively required on export.",
+  "consular": "No consular transfer permit is published. Nauru has few missions abroad (e.g. a High Commission in Suva and a consulate in Brisbane); ask the nearest one.",
+  "arrival": "Arrival at Nauru International Airport. Under section 12 the person in control must dispose of human remains within 24 hours, and section 10 requires the death to be registered with the Registrar of Births, Deaths and Marriages before disposal (the Registrar may be notified of deaths abroad of Nauruans and residents). Burial only in a designated burial ground between 7 am and 6 pm unless the Authority approves; since 2025 the President may permit burial at a residence or other place.",
+  "pouch_accepted": null,
+  "pouch": null,
+  "private_aviation": "Nauru International Airport is the only airport, served mainly by Nauru Airlines. Private aircraft need prior landing permission, and escorts need Nauruan visas. No rule specific to human remains on private flights was found.",
+  "private_jet_alert": false,
+  "private_jet_note": "Have the burial ground and Registrar ready: the Act expects disposal within 24 hours.",
+  "export": "Section 13 of the Funeral Burial and Cremation Act 2017: no removal of remains from Nauru without (a) a health practitioner's certificate of death, (b) a death certificate from the Registrar of Births, Deaths and Marriages, (c) a health practitioner's certificate that the remains are medically preserved and capable of being transported, and (d) any conditions set by regulations. The remains must be transported within 6 hours of being received from the hospital. Ashes leave only with Authority approval, a sealed container, an Authority certificate and Quarantine Section clearance (s. 50).",
+  "export_points": [
+   "Medical and Registrar death certificates required (s. 13)",
+   "Certificate that the body is preserved and fit to transport",
+   "Transport within 6 hours of release from hospital",
+   "Ashes: sealed container, Authority certificate, quarantine clearance"
+  ],
+  "at_a_glance": {
+   "death_certificate": "Medical and Registrar certificates",
+   "embalming": "Preservation certificate needed to leave",
+   "coffin": "Sealed casket advised",
+   "laissez_passer": "Not used",
+   "consular": "Nearest Nauru mission (Suva, Brisbane)",
+   "permit": "Burial application to cemetery Authority",
+   "arrival": "Disposal within 24 hours by law"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Contact the Nauru Department of Health and the Registrar of Births, Deaths and Marriages about the arrival and registration."
+   },
+   {
+    "when": "Day 1-2",
+    "what": "Obtain the death certificate, non-infectious-disease letter, embalming and sealing certificates."
+   },
+   {
+    "when": "Day 1-2",
+    "what": "Prepare the burial application to the cemetery Authority, with the Police burial certificate."
+   },
+   {
+    "when": "Day 2-3",
+    "what": "Book cargo on Nauru Airlines or a private aircraft with landing permission and escorts' visas."
+   },
+   {
+    "when": "Arrival",
+    "what": "Clearance at Nauru airport; burial in a designated burial ground within 24 hours."
+   }
+  ],
+  "key_points": [
+   "Funeral Burial and Cremation Act 2017 (amended 2025) applies",
+   "Disposal within 24 hours of receipt is a legal duty",
+   "Infectious-disease deaths: sealed body bag, direct to burial or cremation",
+   "Leaving Nauru: preservation certificate and departure within 6 hours"
+  ],
+  "lead_days": null,
+  "authority": "Department of Health; Registrar of Births, Deaths and Marriages; burial ground Authority (Funeral Burial and Cremation Act 2017)",
+  "sources": [
+   "https://www.paclii.org/nr/legis/num_act/fbaca2017253/",
+   "https://www.paclii.org/nr/legis/num_act/fbaca2025333.pdf",
+   "https://www.paclii.org/nr/legis/num_act/bdamra2017383/"
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "NU",
+  "name": "Niue",
+  "status": "requirements",
+  "summary": "Niue has no embalming facilities and, per the US Consulate in Auckland, remains must be disposed of within 24 hours (12 hours for a communicable disease). Bodies are embalmed and sealed in New Zealand and flown from Auckland; no Niuean entry permit is published, so confirm with the Niue Department of Health.",
+  "documents": [
+   "Death certificate (New Zealand Registrar of Births, Deaths and Marriages if death in NZ)",
+   "Embalming certificate from the funeral director",
+   "Certificate that the remains carry no quarantinable or infectious disease",
+   "Funeral director's statement on contents and hermetic sealing of the casket",
+   "Copy of the deceased's passport"
+  ],
+  "coffin": "Not set by Niuean law. New Zealand funeral directors supply export-quality hermetically sealed caskets and containers; use one in an outer case for the flight.",
+  "embalming": "No embalming facilities exist in Niue, so embalming must be done before departure (normally in New Zealand). Embalming is essential for overseas transport from New Zealand.",
+  "consular": "Niueans are New Zealand citizens; no consular transfer permit or legalisation is published. The Niue High Commission in Wellington can advise.",
+  "arrival": "Arrival at Hanan International Airport. Customs and health steps are not published. Remains must be disposed of within 24 hours in Niue (12 hours for a communicable disease), so the burial should be ready on arrival. Burial in Niue needs a burial authority from the Registrar (practice; confirm).",
+  "pouch_accepted": null,
+  "pouch": null,
+  "private_aviation": "Hanan is the only airport, with roughly one scheduled flight a week from Auckland. A private aircraft needs prior landing permission and customs and health officers to be called out. No rule specific to human remains on private flights was found.",
+  "private_jet_alert": false,
+  "private_jet_note": "Arrange customs and health officers at Hanan; burial is expected within 24 hours.",
+  "export": "No published Niuean export procedure. Expect a medical cause-of-death certificate from Niue Foou Hospital, death registration and Department of Health clearance. With no embalming facilities on the island, long-distance repatriation of a body is difficult; check with the Department of Health.",
+  "export_points": [
+   "No embalming facilities in Niue",
+   "Disposal within 24 hours is the local rule",
+   "No published export procedure; ask the Department of Health"
+  ],
+  "at_a_glance": {
+   "death_certificate": "Death certificate from place of death",
+   "embalming": "Done before departure (none in Niue)",
+   "coffin": "Hermetically sealed casket",
+   "laissez_passer": "Not used",
+   "consular": "Niue High Commission, Wellington",
+   "permit": "No published entry permit",
+   "arrival": "Burial within 24 hours"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Contact the Niue Department of Health and the Niue High Commission in Wellington; plan the burial date."
+   },
+   {
+    "when": "Day 1-3",
+    "what": "Funeral director in NZ embalms, seals the casket and gathers the death, embalming and infectious-disease certificates."
+   },
+   {
+    "when": "Day 3-7",
+    "what": "Book the weekly Auckland-Niue flight or a private aircraft with landing permission."
+   },
+   {
+    "when": "Day of flight",
+    "what": "Casket travels with the original documents."
+   },
+   {
+    "when": "Arrival",
+    "what": "Clearance at Hanan; family collects; burial within 24 hours."
+   }
+  ],
+  "key_points": [
+   "No embalming facilities in Niue",
+   "Disposal within 24 hours (12 hours for communicable disease)",
+   "Scheduled flights about once a week from Auckland",
+   "Niue Public Health Act 1965 has no remains provisions"
+  ],
+  "lead_days": null,
+  "authority": "Government of Niue, Department of Health (to be confirmed)",
+  "sources": [
+   "https://nz.usembassy.gov/wp-content/uploads/sites/6/2024/08/New-Zealand-Niue-and-the-Cook-Islands-Disposition-of-Remains-Report-2024.pdf",
+   "https://www.paclii.org/nu/legis/consol_act/pha1965126.rtf"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "PW",
+  "name": "Palau",
+  "status": "requirements",
+  "summary": "No Palauan entry permit for caskets is published. Remains usually arrive embalmed in a sealed coffin inside a packing case from Guam, the US, the Philippines or Taiwan; confirm with the Ministry of Health and Human Services, whose Director may regulate interments and dead bodies.",
+  "documents": [
+   "Certified death certificate stating the cause of death, in English",
+   "Embalming certificate",
+   "Mortician's statement of placement of remains in the coffin",
+   "Burial transit or export permit from the place of death",
+   "Copy of the deceased's passport"
+  ],
+  "coffin": "Not set by Palauan law. The US Embassy notes airlines require the embalmed body in a coffin placed in a suitable outer packing case (locally made wooden crates are used for exports).",
+  "embalming": "Embalming is required for bodies leaving Palau (US Embassy report) and is standard for incoming remains. Palau Mortuary Inc. in Koror has a mortician and embalmer.",
+  "consular": "No consular transfer permit or legalisation requirement was found. Palau's Embassy in Washington and missions in Guam, Tokyo, Taipei and Manila can advise.",
+  "arrival": "Arrival at Roman Tmetuchl International Airport (Airai). Palauan Customs handles the casket; health steps are not published. The family collects. There is no Palauan law limiting time to burial, but cold storage is scarce and costly.",
+  "pouch_accepted": null,
+  "pouch": null,
+  "private_aviation": "Private aircraft need prior landing permission from Palau aviation authorities and customs and health officers on arrival. No rule specific to human remains on private flights was found.",
+  "private_jet_alert": false,
+  "private_jet_note": "Obtain landing permission and Ministry of Health agreement before take-off.",
+  "export": "Per the US Embassy (2019): the body must be embalmed, enclosed in a metal-lined casket or local wooden crate, with three certified copies of the Palauan death certificate from the Clerk of Courts (required by Palauan Customs), the mortician's embalming certificate and statement of placement, a passport copy, and for US citizens a Consular Report of Death. The airline, flight number, consignee and destination address must be supplied.",
+  "export_points": [
+   "Embalming is mandatory for export",
+   "Three certified death certificate copies for Palauan Customs",
+   "Coffin in a wooden crate or metal-lined casket",
+   "No crematorium in Palau"
+  ],
+  "at_a_glance": {
+   "death_certificate": "English death certificate",
+   "embalming": "Expected; required to leave Palau",
+   "coffin": "Coffin inside a packing case",
+   "laissez_passer": "Not used",
+   "consular": "Palau embassy may help",
+   "permit": "No published entry permit",
+   "arrival": "Airai airport, family collects"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Contact the Palau Ministry of Health and Human Services and the nearest Palau mission."
+   },
+   {
+    "when": "Day 1-2",
+    "what": "Obtain the death certificate, embalming certificate and burial transit permit; seal the coffin in a packing case."
+   },
+   {
+    "when": "Day 2-3",
+    "what": "Book cargo (via Guam, Manila or Taipei) or arrange a private aircraft landing permit."
+   },
+   {
+    "when": "Day of flight",
+    "what": "Casket travels with the original documents."
+   },
+   {
+    "when": "Arrival",
+    "what": "Customs clearance at Airai; family collects for burial."
+   }
+  ],
+  "key_points": [
+   "No Palauan law limits time to burial",
+   "Embalming is required for remains leaving Palau",
+   "Director of Public Health may regulate dead bodies (34 PNCA 102)"
+  ],
+  "lead_days": null,
+  "authority": "Ministry of Health and Human Services, Bureau of Public Health (to be confirmed)",
+  "sources": [
+   "https://common.usembassy.gov/wp-content/uploads/sites/148/2023/11/Disposition-of-Remains-Report1-Palau-April-2019-FINAL-2.pdf",
+   "https://www.paclii.org/pw/legis/consol_act/phsawt34315.pdf"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "TV",
+  "name": "Tuvalu",
+  "status": "requirements",
+  "summary": "Tuvalu law expects bodies brought in for burial: the registrar of the district of burial issues a certificate for a body removed into Tuvalu (Births, Deaths and Marriages Registration Act, s. 32(2)). Most caskets transit Nadi, where Fiji's Ministry of Health must clear them in advance; confirm Tuvalu's own health requirements with the Ministry of Health.",
+  "documents": [
+   "Death certificate or medical cause-of-death certificate, in English",
+   "Medical letter that the death was not due to an infectious disease (required for Fiji transit)",
+   "Embalming certificate and casket sealing certificate (required for Fiji transit)",
+   "Copy of the deceased's passport bio page and of the escort's passport",
+   "Flight itinerary",
+   "Registrar's certificate for a body removed into Tuvalu (applied for in the district of burial)"
+  ],
+  "coffin": "Not set by Tuvaluan law. Fiji requires a funeral home certificate that the casket is hygienically sealed and safe for air transport for remains in transit; use a sealed casket in an outer case.",
+  "embalming": "Not specified in Tuvaluan law, but Fiji requires an embalming certificate for remains transiting Nadi, so embalming is in practice needed.",
+  "consular": "No Tuvaluan consular transfer permit was found. Ask the Tuvalu High Commission in Suva. For Fiji transit, send the application letter to the Permanent Secretary of Fiji's Ministry of Health with the documents (24-48 h processing; FJD 172.50 arrival or FJD 115 departure fee at Nadi Airport Health Office).",
+  "arrival": "Arrival at Funafuti International Airport. On application and payment of the fee, the registrar of the district where burial will take place issues a certificate for the body, which is passed to the person carrying out the burial (s. 32 of Cap. 22.10). Health and customs steps are not published. The family collects.",
+  "pouch_accepted": null,
+  "pouch": null,
+  "private_aviation": "Funafuti is the only international airport, served by scheduled flights from Suva. A private aircraft needs a landing permit and customs and health officers present on arrival; long over-water sectors limit aircraft choice. A direct private flight can avoid Fiji transit clearance, but confirm Tuvalu's health requirements.",
+  "private_jet_alert": false,
+  "private_jet_note": "Obtain Funafuti landing clearance and Ministry of Health agreement; if stopping in Nadi, get Fiji health clearance first.",
+  "export": "No published export procedure. Expect a medical cause-of-death certificate from Princess Margaret Hospital, death registration, and police involvement for unnatural deaths. Embalming capacity is very limited locally. Transit via Nadi requires Fiji Ministry of Health clearance.",
+  "export_points": [
+   "No published export procedure; ask the Ministry of Health",
+   "Embalming capacity on Funafuti is very limited",
+   "Fiji transit needs Ministry of Health clearance (24-48 h)"
+  ],
+  "at_a_glance": {
+   "death_certificate": "English death certificate",
+   "embalming": "Needed for Fiji transit",
+   "coffin": "Sealed casket with sealing certificate",
+   "laissez_passer": "Not used",
+   "consular": "Tuvalu High Commission, Suva",
+   "permit": "Registrar certificate; Fiji transit clearance",
+   "arrival": "Funafuti airport, family collects"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Contact the Tuvalu Ministry of Health and the Tuvalu High Commission in Suva."
+   },
+   {
+    "when": "Day 1-2",
+    "what": "Obtain the death certificate, non-infectious-disease letter, embalming and sealing certificates."
+   },
+   {
+    "when": "Day 1-3",
+    "what": "Apply to Fiji's Ministry of Health for Nadi transit clearance (24-48 h) and book the flight, or arrange a private aircraft."
+   },
+   {
+    "when": "Day of flight",
+    "what": "Casket travels with original documents."
+   },
+   {
+    "when": "Arrival",
+    "what": "Clearance at Funafuti; registrar's certificate for burial; family collects."
+   }
+  ],
+  "key_points": [
+   "Tuvalu law provides a registrar certificate for bodies brought in",
+   "Most routings transit Nadi, which needs advance Fiji health clearance",
+   "Confirm Tuvalu's own health requirements in writing"
+  ],
+  "lead_days": 3,
+  "authority": "Ministry of Health, Tuvalu; district registrar of births, deaths and marriages",
+  "sources": [
+   "https://www.paclii.org/tv/legis/consol_act_2022/bdamra2210400.pdf",
+   "https://www.paclii.org/tv/legis/consol_act_2008/qaqaar507/",
+   "https://fijihighcommission.au/wp-content/uploads/2023/11/Fiji-Human-Remain-Repatriation-Requirements.pdf"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "WF",
+  "name": "Wallis and Futuna",
+  "status": "requirements",
+  "summary": "A French overseas collectivity: a body coming from abroad travels with the body transport authorisation issued by the French embassy or consulate, in a sealed casket. Most repatriations come from New Caledonia, where many residents are evacuated for care, and the Territory can pay part of the cost. Local health formalities are not published; confirm with the Agence de santé and the Administration supérieure.",
+  "documents": [
+   "Death certificate (acte de décès)",
+   "Body transport authorisation from the French embassy or consulate (death abroad)",
+   "Certificate of no contagious disease (French practice; confirm locally)",
+   "Casket closing record (French practice; confirm locally)",
+   "Identity document of the deceased"
+  ],
+  "coffin": "French practice for international air transport is a hermetically sealed, zinc-lined casket. No specific Wallis and Futuna rule was found; confirm with the funeral operator.",
+  "embalming": "Not specified in a Wallis and Futuna source. Conservation care is expected for the long routings via Noumea; confirm with the funeral operator.",
+  "consular": "For a death abroad, the French embassy or consulate issues the authorisation to transport the body or ashes. Transcription of the death into French civil records is recommended but not mandatory.",
+  "arrival": "Arrival at Wallis-Hihifo airport, usually from Noumea (Aircalin); remains for Futuna continue to Vele. Bodies from mainland France mostly travel with Air France and Aircalin via Japan and New Caledonia. Besides the State aid for body transport (law 2017-256 of 28 February 2017, means-tested), the Territory pays part of the cost under deliberations 51/AT/2011 and 17/AT/2016, decided case by case by the territorial assembly's standing committee (e.g. 470,000 XPF towards a Noumea-Wallis repatriation in 2022). About ten transports a year receive aid.",
+  "pouch_accepted": null,
+  "pouch": null,
+  "private_aviation": "Wallis-Hihifo is the international airport; Futuna (Vele) is a short domestic strip. A private flight avoids transits in Japan and New Caledonia but needs French overseas landing, customs and health arrangements. No rule specific to human remains on private flights was found.",
+  "private_jet_alert": false,
+  "private_jet_note": "Plan clearance at Wallis-Hihifo; Futuna's strip suits only small aircraft.",
+  "export": "Not published for Wallis and Futuna. Expect a death certificate, a medical certificate, and authorisation from the Administration supérieure and the Agence de santé; routing to France goes via New Caledonia. Confirm with the Agence de santé.",
+  "export_points": [
+   "Local procedure not published; ask the Agence de santé",
+   "Usual routing via Noumea",
+   "State and territorial aid may cover part of transport costs"
+  ],
+  "at_a_glance": {
+   "death_certificate": "Death certificate required",
+   "embalming": "Expected; confirm locally",
+   "coffin": "Sealed zinc-lined casket expected",
+   "laissez_passer": "French consulate transport authorisation",
+   "consular": "French consulate issues authorisation",
+   "permit": "Confirm with territorial administration",
+   "arrival": "Wallis-Hihifo, then Futuna if needed"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Contact the French consulate in the country of death (or the funeral operator in Noumea) and the Wallis and Futuna administration."
+   },
+   {
+    "when": "Day 1-2",
+    "what": "Obtain the death certificate, medical certificates and the consular body transport authorisation."
+   },
+   {
+    "when": "Day 2-3",
+    "what": "Funeral operator seals the casket; book the routing via Noumea or a private aircraft."
+   },
+   {
+    "when": "Day 2-3",
+    "what": "Apply for State aid and for territorial aid with the Territory if eligible."
+   },
+   {
+    "when": "Arrival",
+    "what": "Clearance at Wallis-Hihifo; onward flight to Futuna if needed; family collects."
+   }
+  ],
+  "key_points": [
+   "French consulate issues the body transport authorisation",
+   "Most bodies come from New Caledonia after medical evacuation",
+   "Territorial aid (deliberations 51/AT/2011, 17/AT/2016) and State aid exist"
+  ],
+  "lead_days": null,
+  "authority": "Administrateur supérieur (State), Assemblée territoriale and Agence de santé de Wallis-et-Futuna; French consulate abroad",
+  "sources": [
+   "https://www.service-public.gouv.fr/particuliers/vosdroits/F16507",
+   "https://questions.assemblee-nationale.fr/dyn/15/questions/QANR5L15QE17959.pdf",
+   "https://www.wallis-et-futuna.gouv.fr/content/download/12406/79311/file/JOWF%20N%C2%B0%20637%20du%2031%20octobre%202022.pdf"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ }
+]

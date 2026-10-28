@@ -1,0 +1,531 @@
+[
+ {
+  "cc": "ID",
+  "status": "requirements",
+  "name": "Indonesia",
+  "summary": "An incoming coffin must be accompanied by a doctor's statement of the death (Surat Uraian Kematian) from the country of origin, which is presented to Customs to obtain the import duty exemption. The port health office (Balai Kekarantinaan Kesehatan) checks the health documents of the arriving body. Indonesian embassies and consulates assist with Indonesian nationals.",
+  "coffin": "Customs exempts from import duty a coffin or other container used only to hold or transport a body and sized for one body. No national specification on sealing or zinc lining was found in the official sources checked; airlines usually require a hermetically sealed coffin in an outer case. Confirm with the airline and the Indonesian embassy.",
+  "embalming": "No official Indonesian rule on embalming for incoming remains was found in the sources checked. Airlines and the departure country often require it; confirm with the Indonesian embassy or consulate.",
+  "consular": "Indonesian embassies and consulates assist with the paperwork for Indonesian nationals. The documents they request, and whether legalisation or an apostille is needed, were not published in the official sources checked; confirm with the Indonesian embassy or consulate.",
+  "arrival": "The airline or shipping agent informs the port health office of the arriving body; health quarantine officers verify the health documents and inspect the shipment, and can take quarantine action if there is a public health risk. To obtain the import duty exemption, the applicant presents the doctor's statement of the death to Customs on arrival; the exemption is free of charge and Customs decides within at most 14 working days of a complete application. Cargo handling fees may still apply. The receiving funeral service collects the coffin.",
+  "pouch": null,
+  "private_aviation": "No rule specific to private flights was found. Port health inspects arriving bodies at the airport, so arrive at an international airport with customs and port health and have the handling agent notify both in advance.",
+  "export": "Leaving Indonesia, the death is registered at the local civil registry (death certificate, Akta Kematian, which can take a few days). Permission to remove the body is issued by the Port Health Authority or other relevant authorities, on presentation of the death certificate and the deceased's passport. Police may order a post-mortem as part of a legal investigation. Confirm the destination country's requirements with its embassy.",
+  "authority": "Ministry of Health port health (Balai Kekarantinaan Kesehatan); Directorate General of Customs and Excise; Indonesian embassy or consulate",
+  "last_checked": "2026-10",
+  "documents": [
+   "Doctor's statement of the death from the country of origin (Surat Uraian Kematian), presented to Customs on arrival",
+   "Export permit from the authorities of the country of death",
+   "Embalming and sealing certificates if required by the airline or departure country",
+   "Passport of the deceased",
+   "Air waybill"
+  ],
+  "sources": [
+   "https://onewebfile.beacukai.go.id/cdn/download/file/6889d1c0521d4c40301da7d6",
+   "https://bbkkmakassar.kemkes.go.id/assets/files/10._SOP_Pemeriksaan_Lalu_Lintas_Jenazah.pdf",
+   "https://www.gov.uk/guidance/when-someone-dies-in-indonesia",
+   "https://www.gov.uk/government/publications/bereavement-guidance-indonesia"
+  ],
+  "pouch_accepted": null,
+  "private_jet_alert": false,
+  "at_a_glance": {
+   "death_certificate": "Doctor's death statement, presented to Customs",
+   "embalming": "Not set by Indonesian rule; confirm",
+   "coffin": "One-body coffin; airline sealing rules",
+   "laissez_passer": "Not applicable",
+   "consular": "Indonesian mission assists its nationals",
+   "permit": "Import duty exemption, free of charge",
+   "arrival": "Port health check, customs release"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Contact the Indonesian embassy or consulate and appoint funeral directors at both ends."
+   },
+   {
+    "when": "Day 1",
+    "what": "Obtain the death certificate, doctor's statement of the death and the export permit of the country of death."
+   },
+   {
+    "when": "Day 1-3",
+    "what": "Confirm with the Indonesian mission which documents, translations or legalisation it requires."
+   },
+   {
+    "when": "Day 3",
+    "what": "Book the flight; the airline or handling agent informs port health at the arrival airport."
+   },
+   {
+    "when": "Arrival",
+    "what": "Port health document check, customs duty exemption request, release to the funeral service."
+   }
+  ],
+  "key_points": [
+   "No import duty on a coffin containing remains",
+   "Doctor's death statement needed for the customs exemption",
+   "Port health checks the health documents on arrival"
+  ],
+  "export_points": [
+   "Civil registry death certificate (Akta Kematian)",
+   "Removal permission from the Port Health Authority",
+   "Police may order a post-mortem",
+   "Check the destination country's requirements"
+  ],
+  "private_jet_note": "Have the handling agent notify port health and customs before arrival.",
+  "confidence": "medium",
+  "lead_days": null
+ },
+ {
+  "cc": "IE",
+  "status": "requirements",
+  "name": "Ireland",
+  "summary": "No Irish import permit for a coffin was found in the official sources checked. The documents needed are mainly those issued by the country of death (death certificate, permission to remove the body, and any embalming or sealing certificates it or the airline requires). If the death abroad was unexplained or suspicious, the family may ask the coroner's office to examine the remains on return.",
+  "coffin": "No Irish import standard for the coffin was found in the official sources checked. International transport usually requires a hermetically sealed, zinc-lined coffin set by the departure country and the airline; a zinc-lined coffin may not be suitable for cremation, so check with the Irish funeral director and crematorium.",
+  "embalming": "Not required by Irish law for import as far as could be verified. Usually required by the departure country or airline.",
+  "consular": "The Department of Foreign Affairs and Irish embassies can help with local procedures and documentation and provide English-speaking local undertakers, but cannot pay for the return of the body, the funeral or relatives' travel. Repatriations take on average 10-14 days, often longer, depending on the formalities of the country of death. Ireland is not a party to the Strasbourg Agreement.",
+  "arrival": "The Irish funeral director receives the coffin. If the death abroad was unexplained or suspicious, the family may request further examination of the remains by the coroner's office on return to Ireland (Dublin coroner: coroners@dublincity.ie).",
+  "pouch": null,
+  "private_aviation": "There is no specific rule for private flights; human remains on a private or charter flight need the same documents as on an airline, and they travel with the coffin for customs and health checks at the arrival airport. A zinc-lined coffin is about 2.2 m long and 70-100 kg, so it must fit through the cargo door or into a cabin set up for it, which rules out many light and midsize jets. Flights from outside the Common Travel Area should land at an airport with customs facilities.",
+  "export": "Leaving Ireland, the coroner for the district where the body lies is notified before the body is moved abroad and, if satisfied, issues a removal order, usually to the funeral director. The destination country's embassy sets the other documents (typically embalming certificate, passport, funeral director's declaration, entry permit and any notarisation or apostille) and the coffin standard; confirm with it and with the airline.",
+  "authority": "Department of Foreign Affairs (assistance); coroner (exit and unnatural deaths)",
+  "last_checked": "2026-10",
+  "documents": [
+   "Foreign death certificate (with translation if not in English)",
+   "Permission to remove the body from the country of death",
+   "Embalming certificate if required by the departure country or airline",
+   "Passport of the deceased"
+  ],
+  "sources": [
+   "https://www.ireland.ie/en/dfa/overseas-travel/assistance-abroad/death-abroad/",
+   "https://www.gov.ie/en/department-of-foreign-affairs/services/sending-a-body-from-ireland-for-burial-or-cremation-abroad/",
+   "https://www.gov.ie/en/department-of-justice-home-affairs-and-migration/services/what-to-do-if-someone-dies-away-from-home/",
+   "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+  ],
+  "pouch_accepted": null,
+  "private_jet_alert": false,
+  "at_a_glance": {
+   "death_certificate": "Foreign certificate; translation if not English",
+   "embalming": "Usually required by departure country",
+   "coffin": "Sealed coffin per airline and departure rules",
+   "laissez_passer": "Not a Strasbourg party",
+   "consular": "Irish embassy assists; State does not pay",
+   "permit": "No Irish import permit",
+   "arrival": "Family may request coroner examination"
+  },
+  "steps": [
+   {
+    "when": "Day 0-1",
+    "what": "Contact the Irish embassy; appoint local and Irish funeral directors"
+   },
+   {
+    "when": "Day 1-3",
+    "what": "Obtain the death certificate, removal permission and any embalming required"
+   },
+   {
+    "when": "Day 3-5",
+    "what": "Coffin sealed; flight arranged"
+   },
+   {
+    "when": "Arrival",
+    "what": "Irish funeral director takes over; family may request coroner examination if the death was unexplained"
+   }
+  ],
+  "key_points": [
+   "The State does not pay for repatriation",
+   "Average repatriation 10-14 days, often longer",
+   "Check the airline's own requirements"
+  ],
+  "export_points": [
+   "Coroner notified; issues the removal order",
+   "Destination embassy sets documents and coffin standard",
+   "Embalming and apostille if the destination requires",
+   "Check the airline's requirements"
+  ],
+  "private_jet_note": "From outside the Common Travel Area, land at an airport with customs facilities.",
+  "confidence": "medium",
+  "lead_days": 2
+ },
+ {
+  "cc": "IL",
+  "status": "requirements",
+  "name": "Israel",
+  "summary": "To bring a body into Israel for burial, the Israeli embassy or consulate in the country of death issues a permit for transfer of the body for burial, on the basis of a commitment from a licensed Israeli burial society (Chevra Kadisha or other licensed burial company) and proof that the body was preserved. Jewish burial follows quickly, so arrangements are made before the flight.",
+  "coffin": "The Israeli mission sources checked do not set a casket construction standard; the container is set by the departure country, the airline and the Israeli burial society. Confirm the container with the burial society before the flight.",
+  "embalming": "Israeli missions ask for a certificate that a preservative was injected into the body or that it was packed in dry ice. Jewish practice generally avoids embalming, so dry ice is often used where the departure country and carrier allow it.",
+  "consular": "The Israeli embassy or consulate issues the permit for transfer of bodies for burial in Israel, usually by appointment; no permit is required for ashes. Missions ask for a body transfer form signed by the next of kin, the burial company's commitment, the preservation certificate and copies of the passports or IDs of the deceased and the next of kin. Missions are not authorised to recommend funeral firms. Fees were not published in the sources checked; confirm with the mission.",
+  "arrival": "The coffin arrives at Ben Gurion Airport and is collected by the licensed burial society or its funeral service, which arranges a quick burial. Only people of the Jewish faith may be buried in Jewish cemeteries; civil burial areas exist.",
+  "pouch": "Accepted in practice: a human remains pouch in a combination tray can be used as the transport container, provided the departure country, the funeral home and the carrier allow it and the Israeli burial society agrees before the flight. No Israeli official text on the container was found.",
+  "private_aviation": "No rule specific to remains on private aircraft was found. The private flight lands at Ben Gurion, clears Israeli security and customs, and the burial society must be arranged to meet the aircraft. Check current airport and airspace notices, as Ben Gurion operations can be disrupted.",
+  "export": "Leaving Israel: the Ministry of the Interior issues the death certificate in Hebrew. If police request an autopsy it is done only at the National Centre of Forensic Medicine in Tel Aviv, needs next-of-kin consent or a court order, and the body is usually released within a couple of days. Without an autopsy no cause of death appears on the certificate; the forensic centre and Ministry of Health may review other documents in exceptional cases. A local funeral director handles the export paperwork with the destination funeral director.",
+  "authority": "Israeli Ministry of Foreign Affairs (embassies and consulates) with a licensed Israeli burial society",
+  "last_checked": "2026-10",
+  "documents": [
+   "Death certificate of the country of death (confirm authentication with the Israeli mission)",
+   "Copies of the passport or ID of the deceased and of the next of kin",
+   "Body transfer form signed by the next of kin",
+   "Commitment from a licensed Israeli burial society (Chevra Kadisha or other licensed burial company)",
+   "Certificate of preservation (preservative injection or dry ice packing)",
+   "Israeli consular permit for transfer of the body for burial"
+  ],
+  "sources": [
+   "https://embassies.gov.il/singapore/en/node/4524",
+   "https://embassies.gov.il/oslo/ConsularServices/Pages/Burial-Services.aspx",
+   "https://www.gov.uk/government/publications/bereavement-information-israel-the-opts",
+   "https://assets.publishing.service.gov.uk/media/69132836d7081798fa18ad6f/when-someone-dies-in-Israel.odt"
+  ],
+  "pouch_accepted": true,
+  "private_jet_alert": false,
+  "at_a_glance": {
+   "death_certificate": "Local certificate; confirm authentication with mission",
+   "embalming": "Preservation proof: preservative or dry ice",
+   "coffin": "Set by airline and burial society",
+   "laissez_passer": "Israeli consular permit for burial",
+   "consular": "Israeli mission issues the transfer permit",
+   "permit": "Licensed burial society commitment",
+   "arrival": "Ben Gurion, burial society collects"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Contact a licensed Israeli burial society to fix the burial place and airport collection."
+   },
+   {
+    "when": "Day 0",
+    "what": "Book an appointment with the Israeli embassy or consulate in the country of death."
+   },
+   {
+    "when": "Day 1",
+    "what": "Obtain the death certificate and local export permits; arrange preservation (dry ice or preservative injection)."
+   },
+   {
+    "when": "Day 1-2",
+    "what": "Submit the documents to the Israeli mission and receive the transfer permit."
+   },
+   {
+    "when": "Day 2",
+    "what": "Fly to Ben Gurion; the burial society collects the body for burial."
+   }
+  ],
+  "key_points": [
+   "The burial society's commitment is needed for the consular permit",
+   "Dry ice packing is accepted as preservation proof",
+   "No permit is needed to bring ashes",
+   "Burial usually happens soon after arrival"
+  ],
+  "export_points": [
+   "Death certificate in Hebrew from the Ministry of the Interior",
+   "Autopsies only at the Tel Aviv forensic centre, usually a couple of days",
+   "No cause of death on certificate without autopsy",
+   "Local funeral director handles the export paperwork"
+  ],
+  "private_jet_note": "Confirm the burial society will meet the jet at Ben Gurion before take-off.",
+  "confidence": "medium",
+  "lead_days": 2
+ },
+ {
+  "cc": "IN",
+  "status": "requirements",
+  "name": "India",
+  "summary": "Remains need public health clearance from the Airport Health Officer (APHO) on arrival, with a no-objection certificate (NOC) from the Indian embassy or consulate and an embalmed body in a hermetically sealed casket. The consignee and the airline must notify the APHO by email at least 48 hours before arrival.",
+  "coffin": "Body in a zinc or other metal shell with all joints soldered to seal it hermetically, placed in a strong teak or hardwood coffin, inside a zinc- or tin-lined wooden packing case. Unembalmed remains (drowning, severe burns) go in a hermetically sealed container; the APHO may require extra packing. The package must not be opened in transit.",
+  "embalming": "An embalming certificate is required. Bodies not embalmed (for example after drowning or severe burns) must be in a hermetically sealed container, and the Airport Health Officer may impose extra packing.",
+  "consular": "The Indian embassy, high commission or consulate in the country of death issues the no-objection certificate (NOC) after local formalities, cancels the passport and endorses the certificate of the local municipal or government authority. MEA guidance also lists a clinical death certificate, embalming certificate, non-communicable disease certificate and power of attorney/consent from the legal heir. If there is no Indian mission in that country, the Airport Health Officer may waive the NOC. Health clearance is managed through the Ministry of Health's eCARe (e-Clearance for Afterlife Remains) portal.",
+  "arrival": "Remains are kept at a separate designated place at the airport and cannot leave until the Airport Health Officer authorises removal in writing; the consignee then disposes of them under local municipal rules. Bodies of people who died of yellow fever, plague, anthrax, glanders or other notified diseases may not be brought in.",
+  "pouch": null,
+  "private_aviation": "The same APHO health clearance applies at any Indian international airport, including the 48-hour email notice to the Airport Health Officer. Flight permissions for a foreign private aircraft are separate; confirm with the handling agent.",
+  "export": "Export needs prior written permission from the competent authority of the destination country, and from the District Magistrate, Deputy Commissioner, Chief Presidency Magistrate or Coroner for the place of death. The death is registered locally and the death certificate is normally issued 10-15 working days after registration. The body must be embalmed before repatriation. Police release the body after a post-mortem in unnatural deaths. UK guidance says local formalities generally take about two weeks.",
+  "authority": "Ministry of Health and Family Welfare - Airport Health Organisation (APHO); Ministry of External Affairs (Indian missions)",
+  "last_checked": "2026-10",
+  "documents": [
+   "Embalming certificate stating the body is embalmed and in a hermetically sealed (airtight and waterproof) casket",
+   "Death certificate stating the cause of death (or true copy), with English translation",
+   "No-objection certificate (NOC) from the Indian embassy, high commission or consulate",
+   "Cancelled passport of the deceased",
+   "Certificate of packaging per WHO guidelines",
+   "Consignee certificate that the casket contains only the named remains",
+   "Municipal or government certificate from the country of origin (endorsed by the Indian mission) with name, age, place, date and cause of death and confirming the sealing",
+   "Non-communicable disease certificate and legal heir's consent, as Indian missions request"
+  ],
+  "sources": [
+   "https://ihpoe.mohfw.gov.in/humanremains.php",
+   "https://www.mea.gov.in/transfer-of-mortal-remains.htm",
+   "https://www.gov.uk/government/publications/bereavement-information-pack-india/india-bereavement-information"
+  ],
+  "pouch_accepted": false,
+  "private_jet_alert": true,
+  "at_a_glance": {
+   "death_certificate": "Cause of death, English translation",
+   "embalming": "Required; otherwise hermetically sealed container",
+   "coffin": "Soldered zinc shell, hardwood coffin, lined case",
+   "laissez_passer": "Not applicable",
+   "consular": "NOC from the Indian mission",
+   "permit": "Airport Health Officer clearance",
+   "arrival": "Written APHO release; 48 h notice"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Death registered abroad; funeral home embalms the body"
+   },
+   {
+    "when": "Day 1-3",
+    "what": "Indian mission issues the NOC, cancels the passport and endorses the local certificate"
+   },
+   {
+    "when": "At least 48 h before arrival",
+    "what": "Consignee and airline email the Airport Health Officer"
+   },
+   {
+    "when": "Departure",
+    "what": "Casket sealed in a soldered zinc shell inside a lined wooden case"
+   },
+   {
+    "when": "Arrival",
+    "what": "APHO checks the documents and authorises removal in writing; family or funeral home collects"
+   }
+  ],
+  "key_points": [
+   "48-hour advance notice to the Airport Health Officer",
+   "NOC from the Indian embassy or consulate",
+   "Hermetically sealed zinc-lined casket",
+   "Some infectious-disease deaths cannot be imported"
+  ],
+  "export_points": [
+   "Permission from the District Magistrate or equivalent for the place of death",
+   "Embalming required before repatriation",
+   "Destination country's requirements must be met",
+   "Allow about two weeks"
+  ],
+  "private_jet_note": "Email the Airport Health Officer at the arrival airport at least 48 hours before landing.",
+  "confidence": "high",
+  "lead_days": 3
+ },
+ {
+  "cc": "IQ",
+  "status": "requirements",
+  "name": "Iraq",
+  "summary": "To bring a casket into Iraq, the Iraqi embassy or consulate in the country of death registers the death and must receive a written request from the next of kin naming the entry airport, so the approvals can be obtained before the flight. Expect an authenticated or apostilled foreign death certificate, Iraqi ID of the deceased and, for non-Iraqis, a consular fee.",
+  "coffin": "No Iraqi rule on casket construction was found in official sources. In practice a hermetically sealed, metal-lined casket in an outer wooden case is expected for air transport; confirm with the consulate and the airline or operator.",
+  "embalming": "No official Iraqi entry rule on embalming was found. Many departure countries and airlines require it; Muslim families may ask to avoid it. Confirm with the Iraqi consulate.",
+  "consular": "The Iraqi embassy or consulate registers the death (the Los Angeles consulate charges USD 15 to authenticate the foreign death certificate, plus late penalties if registered more than 30 days after the death) and handles the request to transport the body for burial in Iraq. The Iraqi Embassy in Washington lists a USD 3,200 fee for transporting the remains of Arabs or foreigners for burial in Iraq. The Los Angeles consulate also asks for a medical certificate that the deceased was free of COVID-19; confirm the current list with the consulate.",
+  "arrival": "The body enters through the airport named in the request, where it is cleared by Iraqi authorities and released to the family or a funeral service. Muslim burial takes place as soon as possible.",
+  "pouch": null,
+  "private_aviation": "The Iraqi consular approval is tied to a named entry point, so the private flight must land at that airport (for example Baghdad, Najaf, Basra or Erbil) and the operator must hold Iraqi landing and overflight permits. Check current conflict-zone notices for Iraqi airspace before planning.",
+  "export": "Leaving Iraq is governed by the Funerals Transfer Law No. 52 of 1967. The death is registered in Iraq (certificate in Arabic showing the cause of death); an autopsy is usually required outside the Kurdistan Region and carried out unless the cause is very clear inside it. Bodies are usually moved to the Baghdad funeral office at Bab Almoazam, next to the Institute of Forensic Medicine. Iraqi authorities require a No Objection letter from the deceased's embassy, and a consular officer witnesses the sealing of the casket and legalises the death certificate.",
+  "authority": "Iraqi Ministry of Foreign Affairs (embassies and consulates)",
+  "last_checked": "2026-10",
+  "documents": [
+   "Foreign death certificate, authenticated or apostilled in the country of death",
+   "Iraqi Civil Status ID and Nationality Certificate, or Unified National Card, of the deceased",
+   "ID of the relative reporting the death",
+   "Iraqi death certificate application filed online (icass.mofa.gov.iq) with consular appointment",
+   "Written request from the next of kin naming the entry point (airport) for the body",
+   "Medical certificate that the deceased was free of COVID-19 (requested by the Los Angeles consulate)",
+   "Burial or transit permit and health certificate from the country of death (confirm the current list with the consulate)"
+  ],
+  "sources": [
+   "https://www.gov.uk/government/publications/iraq-bereavement-information-pack/iraq-bereavement-information-pack",
+   "https://mofa.gov.iq/losangeles/?p=2387",
+   "https://iraqiembassy.us/?p=1085"
+  ],
+  "pouch_accepted": null,
+  "private_jet_alert": true,
+  "at_a_glance": {
+   "death_certificate": "Apostilled, registered at Iraqi consulate",
+   "embalming": "Not confirmed; ask the consulate",
+   "coffin": "Sealed metal-lined casket expected",
+   "laissez_passer": "Iraqi consular transport approval",
+   "consular": "Request naming the entry airport",
+   "permit": "Burial or transit permit from origin",
+   "arrival": "Airport clearance, prompt Muslim burial"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Contact the Iraqi embassy or consulate in the country of death and appoint a funeral home."
+   },
+   {
+    "when": "Day 1",
+    "what": "Obtain the local death certificate and have it authenticated or apostilled."
+   },
+   {
+    "when": "Day 1-2",
+    "what": "File the Iraqi death registration online and book the consular appointment."
+   },
+   {
+    "when": "Day 2-4",
+    "what": "Submit the written request naming the arrival airport and pay any transport fee."
+   },
+   {
+    "when": "Day 4-5",
+    "what": "Fly the sealed casket to the named airport; family or funeral service collects after clearance."
+   }
+  ],
+  "key_points": [
+   "The consular request must name the entry airport",
+   "Fee of USD 3,200 listed for non-Iraqi remains (Washington embassy)",
+   "Late penalties if registered after 30 days",
+   "Kurdistan Region has its own representation; check which office handles the case"
+  ],
+  "export_points": [
+   "Funerals Transfer Law No. 52 of 1967 allows repatriation",
+   "Autopsy is usual; Baghdad forensic institute or Kurdistan mortuaries",
+   "Embassy No Objection letter required by Iraqi authorities",
+   "Consular officer witnesses casket sealing"
+  ],
+  "private_jet_note": "Name the arrival airport in the consular request and get Iraqi landing permits before take-off.",
+  "confidence": "medium",
+  "lead_days": 4
+ },
+ {
+  "cc": "IT",
+  "status": "strict",
+  "name": "Italy",
+  "summary": "Italy is not a party to the Strasbourg Agreement. From countries outside the 1937 Berlin Agreement, the Italian consulate in the country of death must first obtain the entry authorisation (nulla osta) of the Italian municipality of burial, then issues a mortuary passport; from Berlin Agreement states, the departure authority's mortuary passport is used.",
+  "coffin": "DPR 285/1990 art. 30 requires a double coffin for international transport outside the Berlin Agreement: an outer metal case of zinc at least 0.660 mm (or lead 1.5 mm) hermetically sealed by continuous welding, and a solid wood coffin with boards at least 25 mm thick, screwed lid, absorbent biodegradable material at the bottom and metal bands. The consulate tells the funeral director when the coffin may be sealed.",
+  "embalming": "DPR 285/1990 art. 32 requires antiputrefaction treatment (at least 500 cc of formalin) from April to September, and in other months when the journey exceeds 24 hours or starts more than 48 hours after death; embalmed bodies are exempt. Consulates ask for a certificate that the remains were treated according to local law.",
+  "consular": "The Italian consulate in the country of death receives the file (apostilled and translated documents), requests the nulla osta from the municipality of burial, and only then issues the mortuary passport. A consular fee applies (Consular Fee Table art. 66H). The Miami consulate advises allowing about 3 weeks.",
+  "arrival": "The Italian funeral director (impresa funebre) receives the coffin at the airport and takes it by road to the cemetery or crematorium authorised by the municipality. Cremation needs a separate municipal authorisation.",
+  "pouch": null,
+  "private_aviation": "The mortuary passport and municipal clearance must be in hand before departure; the documents travel with the coffin. The Italian Embassy in Washington states that after arrival at the first Italian airport the remains must continue to their destination by land, as air transport within Italy is not allowed, so land at the airport closest to the place of burial. Use an airport of entry with customs and arrange for the funeral director to meet the aircraft.",
+  "export": "To leave Italy for a Berlin Agreement state the body travels with a mortuary passport (DPR 285/1990 art. 27). For other countries, the transport authorisation is requested with the entry clearance (nulla osta) of the destination country's consulate and a local health authority (ASL) certificate of compliance with the art. 30 coffin rules (art. 29). Italian law requires a basic preservation treatment for repatriation abroad; partial embalming needs the mayor's authorisation and may cause delay. The funeral director completes the transfer of remains certificate. Local formalities can take up to 2 weeks.",
+  "authority": "Italian consulate abroad; municipality (comune) of burial; Ministry of Health rules (DPR 285/1990)",
+  "last_checked": "2026-10",
+  "documents": [
+   "Death certificate (long form, with cause of death), apostilled and with full Italian translation; some consulates ask for two",
+   "Health authority certificate that the death was not from a contagious disease and that the remains were treated per local law",
+   "Notarised funeral director's affidavit attesting compliance with the Italian Mortuary Police Regulation (DPR 285/1990)",
+   "Repatriation request signed by the next of kin with ID; consular data sheet",
+   "Deceased's Italian passport (cancelled) or proof of identity/citizenship",
+   "Mortuary passport (passaporto mortuario) issued by the Italian consulate after municipal clearance, or by the departure authority for Berlin Agreement states"
+  ],
+  "sources": [
+   "https://consmiami.esteri.it/en/servizi-consolari-e-visti/servizi-per-il-cittadino-italiano/altri-servizi/albo-consolare/repatriation-of-human-remains-and-cremated-remains/",
+   "https://ambwashingtondc.esteri.it/en/servizi-consolari-e-visti/servizi-per-il-cittadino-italiano/altri-servizi/rimpatrio-salme-o-ceneri/",
+   "https://www.gov.uk/government/publications/when-someone-dies-in-italy/italy-bereavement-death-abroad",
+   "https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1990-09-10;285"
+  ],
+  "pouch_accepted": false,
+  "private_jet_alert": true,
+  "at_a_glance": {
+   "death_certificate": "Apostilled, with Italian translation",
+   "embalming": "Formalin treatment or embalming required",
+   "coffin": "Welded zinc inside solid wood",
+   "laissez_passer": "Berlin 1937 states only",
+   "consular": "Italian consulate issues mortuary passport",
+   "permit": "Municipal nulla osta of burial place",
+   "arrival": "Funeral director, road to cemetery"
+  },
+  "steps": [
+   {
+    "when": "Day 0-1",
+    "what": "Appoint funeral directors; obtain death and medical certificates"
+   },
+   {
+    "when": "Day 1-4",
+    "what": "Apostille and translate documents; file them with the Italian consulate"
+   },
+   {
+    "when": "Day 4-15",
+    "what": "Consulate obtains the municipal nulla osta, then issues the mortuary passport"
+   },
+   {
+    "when": "After passport",
+    "what": "Treatment and sealing in welded zinc and wood coffin when consulate confirms"
+   },
+   {
+    "when": "Arrival",
+    "what": "Funeral director takes coffin by road to the authorised cemetery"
+   }
+  ],
+  "key_points": [
+   "Municipal clearance of the burial place comes first",
+   "Allow about 2-3 weeks for consular processing",
+   "No onward air transport inside Italy",
+   "Consular fees, apostilles and translations are paid by the family"
+  ],
+  "export_points": [
+   "Mortuary passport (Berlin states) or transport authorisation",
+   "Destination consulate clearance for non-Berlin countries",
+   "Double zinc and wood coffin; preservation treatment",
+   "Allow up to 2 weeks for local formalities"
+  ],
+  "private_jet_note": "Fly direct to the airport nearest the burial place; no onward domestic flight is allowed.",
+  "confidence": "high",
+  "lead_days": 10
+ },
+ {
+  "cc": "JM",
+  "status": "requirements",
+  "name": "Jamaica",
+  "summary": "Before human remains arrive, the receiving licensed Jamaican funeral director must obtain a permit from the Medical Officer (Health) of the parish of entry, on presentation of the death certificate with cause of death and the embalming certificate. The body must be embalmed and in a leak-proof container (hermetically sealed casket if death was from a quarantinable disease), and arrival must be notified at least 24 hours ahead.",
+  "coffin": "Embalmed remains in a leak-proof container (puncture-resistant and sealed) if the cause of death is not a quarantinable communicable disease; a hermetically sealed casket, with documentation of the sealing, if it is (e.g. Ebola, cholera, infectious tuberculosis, plague, yellow fever, SARS). The casket should travel in an air tray or a compartment separate from baggage.",
+  "embalming": "Required, with an embalming certificate, except where embalming is prohibited for religious reasons.",
+  "consular": "No Jamaican consular document was found in the Ministry of Health guidelines. Jamaican missions advise using a funeral home in the country of death and a registered Jamaican funeral home with a licensed embalmer, which obtains the permit. A death certificate in another language needs an English translation.",
+  "arrival": "The airline or importer notifies the Medical Officer (Health) or Chief Public Health Inspector and the Quarantine Officer at least 24 hours before arrival (airline, flight, point of entry, date and time, name of the deceased). The remains are stored at the airport apart from food; the permit is presented to Customs for clearance and the funeral home collects. The Medical Officer (Health) may order detention, disinfection or other measures if contamination is suspected. Unclaimed remains are stored at the consignee's expense.",
+  "pouch": null,
+  "private_aviation": "The parish health permit must be obtained before arrival and the 24-hour arrival notification applies to any flight. Land at an international airport with customs and health officers and present the permit to Customs on arrival; confirm the airport with the handling agent.",
+  "export": "Leaving Jamaica, the death must be registered within 5 days unless the coroner is investigating; a post-mortem is always carried out after a sudden or suspected violent death, and the full registration process usually takes about 6 months (up to 2 years), so ask early which document the destination accepts. Repatriation needs a certificate permitting the transfer of the remains and an embalming certificate. Jamaican missions state that only registered funeral homes with a licensed embalmer can obtain a transit permit from the public health department (Kingston and St Andrew or St James).",
+  "authority": "Ministry of Health and Wellness (Environmental Health Unit); parish Medical Officer (Health)",
+  "last_checked": "2026-10",
+  "documents": [
+   "Death certificate stating the cause of death (English translation if needed)",
+   "Embalming certificate (except where embalming is prohibited for religious reasons)",
+   "Permit from the Medical Officer (Health) of the parish of entry, applied for in writing on the prescribed form with fee",
+   "Statement that the body is in a hermetically sealed casket, if death was from a quarantinable communicable disease",
+   "Free-from-infection certificate, coroner or post-mortem report where applicable, ID of the deceased and the transit permit of the country of death (as listed by the Jamaican Consulate in Toronto)"
+  ],
+  "sources": [
+   "https://congenmiami.mfaft.gov.jm/pdf/Guidelines-for-the-importation-of-Human-Remains.pdf",
+   "https://jcgtoronto.ca/?p=21439",
+   "https://mail.jhcottawa.ca/return-human-remains.html",
+   "https://www.gov.uk/guidance/when-someone-dies-in-jamaica"
+  ],
+  "pouch_accepted": null,
+  "private_jet_alert": true,
+  "at_a_glance": {
+   "death_certificate": "Required, with cause of death",
+   "embalming": "Required, except religious prohibition",
+   "coffin": "Leak-proof; hermetic if quarantinable disease",
+   "laissez_passer": "Not used",
+   "consular": "No consular step; English translation if needed",
+   "permit": "Parish Medical Officer (Health) permit",
+   "arrival": "24-hour notice; Customs; funeral home"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Appoint a funeral home abroad and a registered Jamaican funeral home with a licensed embalmer."
+   },
+   {
+    "when": "Day 1",
+    "what": "Obtain the death certificate with cause of death and the export permit of the country of death; embalming."
+   },
+   {
+    "when": "Day 1-2",
+    "what": "Jamaican funeral home applies to the Medical Officer (Health) of the parish of entry and pays the fee."
+   },
+   {
+    "when": "Day 2-3",
+    "what": "Collect the permit; notify health and quarantine officers at least 24 hours before arrival."
+   },
+   {
+    "when": "Arrival",
+    "what": "Present the permit to Customs; the funeral home collects the casket."
+   }
+  ],
+  "key_points": [
+   "Get the parish health permit before the body travels.",
+   "Notify health and quarantine at least 24 hours before arrival.",
+   "Permit fees differ between official sources (Ministry guideline: JA$10,000); confirm the current fee."
+  ],
+  "export_points": [
+   "Transit permit from the public health department",
+   "Only registered funeral homes with a licensed embalmer can apply",
+   "Death registered within 5 days; post-mortem after sudden deaths",
+   "Embalming certificate required"
+  ],
+  "private_jet_note": "Obtain the parish health permit and notify health and quarantine 24 hours before landing.",
+  "confidence": "high",
+  "lead_days": 3
+ }
+]

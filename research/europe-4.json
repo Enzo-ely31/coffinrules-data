@@ -1,0 +1,649 @@
+[
+  {
+    "cc": "NO",
+    "name": "Norway",
+    "status": "requirements",
+    "summary": "A casket coming into Norway must travel in approved packaging (a metal inner coffin for transport from outside the Nordic countries) with the death documents required by the country of departure, and the Norwegian embassy or consulate abroad issues the documents needed for repatriation. The receiving funeral home must collect the coffin as soon as possible after arrival.",
+    "documents": [
+      "Death certificate from the country of death (legalised or apostilled where the Norwegian embassy requires it)",
+      "Transport documents or laissez-passer issued in the country of departure",
+      "Documents issued by the Norwegian embassy or consulate for the repatriation",
+      "Cause of death, which may be sent to the municipal physician in a sealed envelope",
+      "Coffin marking with name, date of birth, date of death, sender and recipient"
+    ],
+    "coffin": "Norwegian regulation FOR-1998-04-03-327 requires transport in a coffin with a packaging method approved by the Directorate of Health for air transport. Its commentary states that a metal inner coffin is required for transport to and from countries outside the Nordic region, in line with the Council of Europe agreement on the transfer of corpses and IATA practice; a body bag may be used between Nordic countries under an agreement between funeral associations and airlines. The coffin must be marked with the deceased's identity and the sender and recipient. No Norwegian witness to sealing is required by the regulation.",
+    "embalming": "Not required by Norwegian rules for entry. Embalming falls under the hygiene rules of the regulation and must be done by qualified personnel. Not recommended when death was caused by a serious infectious disease.",
+    "consular": "The Norwegian embassy or consulate in the country of death issues the necessary documents for the repatriation and registers the death in the Norwegian population register; the original foreign death certificate must be handed to the embassy (some embassies require it to be legalised or apostilled). The regulation refers to the Council of Europe agreement on the transfer of corpses (Strasbourg 1973) for transport between member states.",
+    "arrival": "The recipient (usually a Norwegian funeral home) must collect the coffin as soon as possible. Ideally only the municipal physician at the point of arrival is told the cause of death. If a serious infectious disease makes re-coffining risky, it must be done at a forensic institute or hospital pathology department. Funeral homes in Norway often transfer the body to a coffin meeting Norwegian burial requirements.",
+    "pouch_accepted": null,
+    "pouch": "A body bag is allowed for transport between Nordic countries under an agreement between funeral associations and airlines; from outside the Nordic region a metal inner coffin is required.",
+    "private_aviation": "No Norwegian rule specific to private aircraft carrying human remains was found. The general packaging, marking and documentation rules of FOR-1998-04-03-327 apply. Norway is in Schengen but outside the EU customs union, so a flight from outside Schengen must land at an airport with border and customs control.",
+    "private_jet_alert": false,
+    "private_jet_note": "Use an airport with border and customs service if arriving from outside Schengen; packaging must meet the Directorate of Health approved method for air transport.",
+    "export": "Norwegian rules apply until the body leaves Norway. The sender must use packaging approved by the Directorate of Health unless the destination, transit country, airline or a treaty requires otherwise, and must learn the destination's rules. A metal inner coffin is required outside the Nordic region. Where required, death documents for transport abroad are issued by the local police on the basis of the physician's death certificate. Some destinations require embalming, an embalming certificate and an infection-free certificate. The local registry (tingrett) sends a copy of the death certificate to the funeral home.",
+    "export_points": [
+      "Police issue death documents for transport abroad on the basis of the doctor's death certificate",
+      "Metal inner coffin required outside the Nordic region",
+      "Body bag allowed to Nordic countries under the airline agreement",
+      "Embalming only if the destination requires it"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Foreign certificate, given to Norwegian embassy",
+      "embalming": "Not required by Norway",
+      "coffin": "Metal inner coffin from outside Nordic region",
+      "laissez_passer": "From departure country under Strasbourg rules",
+      "consular": "Norwegian embassy issues repatriation documents",
+      "permit": "No separate entry permit found",
+      "arrival": "Funeral home collects coffin promptly"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the insurer or a funeral home experienced in international repatriation, and the Norwegian embassy."
+      },
+      {
+        "when": "Day 1",
+        "what": "Obtain the local death certificate and give the original to the Norwegian embassy (legalised if required)."
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Local funeral home places the body in a metal-lined coffin and obtains the departure country's transport documents."
+      },
+      {
+        "when": "Day 2-4",
+        "what": "The Norwegian embassy issues the repatriation documents; book the flight."
+      },
+      {
+        "when": "Arrival",
+        "what": "Norwegian funeral home collects the coffin as soon as possible and arranges burial or cremation."
+      }
+    ],
+    "key_points": [
+      "Norway requires a metal inner coffin for transport from outside the Nordic countries",
+      "The embassy registers the death in Norway and issues the repatriation papers",
+      "The Norwegian foreign service does not pay repatriation costs"
+    ],
+    "lead_days": null,
+    "authority": "Norwegian Directorate of Health (packaging rules); Norwegian embassies and consulates; police (export documents)",
+    "sources": [
+      "https://lovdata.no/dokument/SF/forskrift/1998-04-03-327",
+      "https://www.norway.no/en/thailand/for-nordmenn/bistand-til-nordmenn/dodsfall/",
+      "https://www.gov.uk/government/publications/norway-bereavement-packinformation/norway-bereavement-information"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "PL",
+    "name": "Poland",
+    "status": "requirements",
+    "summary": "To bring a body into Poland you need a permit from the starosta (or mayor / city president) of the district where the burial will take place, and then a certificate from the Polish consul issued on the basis of that permit and the death certificate. The body must travel in a tightly sealed metal coffin inside a wooden case.",
+    "documents": [
+      "Permit (zezwolenie) from the starosta, mayor or city president of the burial district, issued after consulting the district sanitary inspector",
+      "Polish consul's certificate (zaświadczenie) allowing the body into Poland",
+      "Death certificate (or copy)",
+      "Certificate that death was not caused by an infectious disease",
+      "Permission to remove the body issued in the country of death",
+      "Funeral company declaration that the coffin contains only the remains"
+    ],
+    "coffin": "Metal coffin, tightly sealed, with a layer of absorbent material at least 5 cm thick on the bottom, placed in a wooden case so that it cannot move (Polish consulate in Dublin guidance). Who witnesses the sealing abroad is not stated.",
+    "embalming": "Not mentioned in the official Polish entry guidance; follow the rules of the country of departure.",
+    "consular": "The Polish consul issues the certificate for bringing the remains into Poland on the basis of the starosta's permit and a copy of the death certificate, at the latest within 3 days of receiving the application and originals (Dublin consulate). A consular fee applies; check the amount with the consulate. Polish translations were not required by the Dublin consulate. Only the spouse, descendants, ascendants, relatives to the 4th degree and in-laws to the 1st degree may apply.",
+    "arrival": "Bodies from abroad may only be transported by a specialised funeral company. For deaths from certain infectious diseases (e.g. cholera, plague, rabies, yellow fever) the transfer may only be allowed two years after death.",
+    "pouch_accepted": false,
+    "pouch": null,
+    "private_aviation": "No rule specific to private aircraft was found. The documents and the sealed metal coffin must accompany the body on any flight; Poland is in Schengen, so a flight from outside Schengen must use an airport with border control.",
+    "private_jet_alert": false,
+    "private_jet_note": "Obtain the starosta permit and consular certificate before take-off; the documents travel with the coffin.",
+    "export": "A permit from the competent district (powiatowy) or border state sanitary inspector is required to take a body abroad. It is issued only after documents from the destination and transit countries confirm there is no obstacle to entry or burial. The body must be in a wooden coffin lined with metal or a metal coffin with 5 cm of absorbent material, placed in a sealed wooden crate or other impermeable container; the inspector may require extra precautions and seals the coffin. The death certificate and the deceased's passport are also needed. Permits are not issued for certain infectious diseases until two years after death.",
+    "export_points": [
+      "Permit from the district (powiatowy) sanitary inspector",
+      "Destination-country consent needed before the permit is issued",
+      "Metal-lined coffin in a sealed outer case, sealed by the inspector",
+      "Death certificate and passport required"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Required, no Polish translation (Dublin)",
+      "embalming": "Not mentioned by Polish rules",
+      "coffin": "Sealed metal coffin in wooden case",
+      "laissez_passer": "Polish consul's certificate required",
+      "consular": "Consul certificate within 3 days",
+      "permit": "Starosta permit of burial district",
+      "arrival": "Specialised funeral company transports body"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Family appoints funeral companies abroad and in Poland."
+      },
+      {
+        "when": "Day 0-1",
+        "what": "Apply to the starosta / mayor of the burial district for the import permit (decision within 3 days, no stamp duty)."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain the death certificate, non-infectious disease certificate and local removal permit abroad."
+      },
+      {
+        "when": "Day 2-4",
+        "what": "Polish consul issues the certificate on the basis of the permit and death certificate."
+      },
+      {
+        "when": "Day 3-5",
+        "what": "Coffin sealed (metal coffin in wooden case) and flown to Poland."
+      },
+      {
+        "when": "Arrival",
+        "what": "Specialised Polish funeral company collects the coffin for burial."
+      }
+    ],
+    "key_points": [
+      "Two Polish documents are needed: starosta permit and consular certificate",
+      "Some infectious diseases block transfer for two years",
+      "Only close relatives may apply"
+    ],
+    "lead_days": 4,
+    "authority": "Starosta / mayor of the burial district; Polish consul; State Sanitary Inspection (export)",
+    "sources": [
+      "https://powroty.gov.pl/sprowadzanie-ciala-osoby-zmarlej-poza-granicami-kraju-10193/",
+      "https://www.gov.pl/web/irlandia/sprowadzenie-do-polski-zwlok",
+      "https://www.gov.pl/web/wsse-rzeszow/transport-zwlok",
+      "https://www.gov.uk/guidance/when-someone-dies-in-poland"
+    ],
+    "confidence": "high",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "PT",
+    "name": "Portugal",
+    "status": "requirements",
+    "summary": "For a Portuguese citizen who died abroad, the death must be registered with the Portuguese consulate, which draws up an alvará de trasladação (transfer permit) so the remains can be taken to Portugal. Detailed casket and entry rules for Portugal could not be confirmed from official pages; confirm with the consulate and the receiving funeral home.",
+    "documents": [
+      "Death certificate from the country of death",
+      "Registration of the death at the Portuguese consulate (for Portuguese nationals)",
+      "Alvará de trasladação issued by the Portuguese consulate",
+      "Documents required by the country of departure (e.g. removal permit, coffin sealing certificate)"
+    ],
+    "coffin": "Not verified on official Portuguese pages. A hermetically sealed metal-lined coffin in a wooden case is the usual international standard; confirm with the consulate.",
+    "embalming": "Not verified on official Portuguese pages; follow the rules of the departure country and confirm with the consulate.",
+    "consular": "The Portuguese consulate registers the death and issues the alvará de trasladação. The Consulate-General in London states no appointment is needed; the funeral homes in the UK and Portugal contact the consulate directly. British certificates do not need legalisation or translation for the London consulate. For ashes in a wooden urn the airline may require an alvará and the urn may need to be sealed at the consulate.",
+    "arrival": "Not verified on official pages. In Portugal funerals normally take place within 72 hours of death (gov.uk), so plan the burial with the receiving funeral home in advance.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No rule specific to private aircraft found. Portugal is in Schengen; a flight from outside Schengen must use an airport with border and customs control.",
+    "private_jet_alert": false,
+    "private_jet_note": "Have the consular alvará de trasladação issued before departure.",
+    "export": "The death is registered at the local civil registry (Assento de Óbito); an international death certificate (Certidão de Óbito Internacional) can be requested. A local funeral director arranges transport and needs the deceased's passport and a completed form with a copy of the applicant's passport. A post mortem, if required, normally takes place within 3 to 4 working days of death. For cremation, permission from the public prosecutor may be needed. Transport permits, coffin and embalming rules are not described on official pages consulted.",
+    "export_points": [
+      "Register the death and request the international death certificate",
+      "Funeral director needs the deceased's passport",
+      "Post mortem usually within 3-4 working days",
+      "Cremation may need public prosecutor approval"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Foreign certificate; registered at consulate",
+      "embalming": "Not confirmed; ask the consulate",
+      "coffin": "Not confirmed; sealed metal-lined usual",
+      "laissez_passer": "Consular alvará de trasladação",
+      "consular": "Portuguese consulate issues transfer permit",
+      "permit": "Alvará de trasladação",
+      "arrival": "Funeral home collects; burial usually quick"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact a local funeral home and a funeral home in Portugal."
+      },
+      {
+        "when": "Day 1",
+        "what": "Obtain the local death certificate."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Funeral homes contact the Portuguese consulate, which registers the death and issues the alvará de trasladação."
+      },
+      {
+        "when": "Day 2-4",
+        "what": "Coffin prepared and sealed according to the departure country's rules; flight booked."
+      },
+      {
+        "when": "Arrival",
+        "what": "Portuguese funeral home collects the coffin and arranges the funeral."
+      }
+    ],
+    "key_points": [
+      "The consular alvará de trasladação is the key Portuguese document",
+      "Portuguese entry casket rules not confirmed from official sources",
+      "Funerals in Portugal usually take place within 72 hours"
+    ],
+    "lead_days": null,
+    "authority": "Portuguese consulates (Ministry of Foreign Affairs)",
+    "sources": [
+      "https://londres.consuladoportugal.mne.gov.pt/pt/assuntos-consulares/quero-tratar-de/registo-de-obito",
+      "https://www.gov.uk/guidance/when-someone-dies-in-portugal"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "RO",
+    "name": "Romania",
+    "status": "unknown",
+    "summary": "Official Romanian rules for bringing a casket into Romania could not be confirmed (the Romanian foreign ministry and legislation sites were unreachable). Contact the Romanian consulate in the country of death before arranging the flight.",
+    "documents": [
+      "Death certificate from the country of death (translation / apostille to be confirmed with the Romanian consulate)",
+      "Transport documents from the country of departure",
+      "Any document required by the Romanian consulate (not confirmed)"
+    ],
+    "coffin": "Not verified from official Romanian sources; a hermetically sealed metal-lined coffin in a wooden case is the usual international standard. Confirm with the consulate.",
+    "embalming": "Not verified for entry. For bodies leaving Romania, an embalming certificate is required (gov.uk).",
+    "consular": "Not verified; confirm with the Romanian consulate. The Romanian consulate normally transcribes the death for Romanian citizens.",
+    "arrival": "Not verified; confirm with the receiving Romanian funeral home.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No rule specific to private aircraft found. Use an airport with border and customs control.",
+    "private_jet_alert": false,
+    "private_jet_note": "Confirm entry documents with the Romanian consulate before take-off.",
+    "export": "A local funeral director handles local requirements. Documents listed by the UK government for repatriation from Romania: notice of death certificate, international death certificate, mortuary passport, authorisation for international transport and embalming certificate. Deaths are registered at the civil registry office for the person's last known address. Post mortems are usually done within 24 hours; the body can be released before tissue tests are complete. The issuing authorities and casket rules are not stated on the pages consulted.",
+    "export_points": [
+      "Register the death at the local civil registry",
+      "Mortuary passport and international transport authorisation required",
+      "Embalming certificate required",
+      "Post mortem usually within 24 hours"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Required; translation to confirm",
+      "embalming": "Not confirmed for entry",
+      "coffin": "Not confirmed; sealed metal-lined usual",
+      "laissez_passer": "Not confirmed",
+      "consular": "Ask the Romanian consulate",
+      "permit": "Not confirmed",
+      "arrival": "Not confirmed"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the insurer, a funeral home and the Romanian consulate in the country of death."
+      },
+      {
+        "when": "Day 1",
+        "what": "Obtain the local death certificate and departure permits."
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Ask the Romanian consulate which documents and translations it requires."
+      },
+      {
+        "when": "Day 2-4",
+        "what": "Coffin prepared and sealed; flight booked."
+      },
+      {
+        "when": "Arrival",
+        "what": "Romanian funeral home collects the coffin."
+      }
+    ],
+    "key_points": [
+      "Entry rules not confirmed from official Romanian sources",
+      "Bodies leaving Romania need a mortuary passport and embalming certificate"
+    ],
+    "lead_days": null,
+    "authority": "Romanian consulates (Ministry of Foreign Affairs); public health authorities (not confirmed)",
+    "sources": [
+      "https://www.gov.uk/guidance/what-to-do-after-a-british-person-dies-in-romania",
+      "https://www.gov.uk/government/publications/romania-bereavement-information"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "SE",
+    "name": "Sweden",
+    "status": "requirements",
+    "summary": "Sweden approved the Council of Europe Agreement on the Transfer of Corpses (Strasbourg 1973), so a casket arriving from another party travels with the departure country's laissez-passer. In Sweden, burial or cremation of a body brought in from abroad needs a permit from the Police Authority, based on the foreign death certificate.",
+    "documents": [
+      "Death certificate from the competent authority or doctor in the country of death, stating the date and, if possible, the cause of death",
+      "Laissez-passer for the corpse from the departure country (Strasbourg Agreement parties) or that country's transport documents",
+      "Application for a burial or cremation permit to the Swedish Police Authority (Polismyndigheten)"
+    ],
+    "coffin": "Under the Strasbourg Agreement: an impervious coffin with absorbent material, either an outer wooden coffin with walls at least 20 mm thick and a soldered zinc inner coffin, or a single wooden coffin at least 30 mm thick lined with zinc or another self-destroying material; for air transport a purifying device or adequate pressure resistance. Sealing is certified by the departure country's authorities.",
+    "embalming": "Not required for transport. In Sweden embalming is required only before burial in a church, burial vault or similar space.",
+    "consular": "Under the Strasbourg Agreement the destination state may not require documents other than the laissez-passer (apart from general transport documents). For countries outside the Agreement, confirm with the Swedish embassy; translation of the foreign death certificate may be requested.",
+    "arrival": "The Police Authority grants the burial or cremation permit for a body brought into Sweden, sends it to the Tax Agency (Skatteverket) and forwards the foreign death certificate to the National Board of Health and Welfare. A funeral should if possible take place within a month of death.",
+    "pouch_accepted": null,
+    "pouch": "Between Nordic countries (Denmark, Finland, Iceland, Norway) the full coffin rules apply only if the carrier requests it or a doctor so decides after an infectious death; the coffin must still be sealed and sturdy.",
+    "private_aviation": "No Swedish rule specific to private aircraft found. Swedish rules for air transport of coffins require a pressure-equalising device or a coffin able to withstand pressure changes. Sweden is in Schengen; a flight from outside Schengen must use an airport with border and customs control.",
+    "private_jet_alert": false,
+    "private_jet_note": "Coffin needs a pressure-equalising device or pressure-resistant construction for air transport.",
+    "export": "A body may only leave Sweden with a passersedel (laissez-passer) issued by the Swedish Tax Agency (Skatteverket), which must accompany the body. It is issued once a burial or cremation certificate can be issued and an undertaker certifies the coffin meets the rules and contains only the body and personal effects (not required for Nordic destinations). The form is in Swedish and English or French. The coffin must be moisture-proof with absorbent lining: wooden outer coffin (2 cm) with zinc inner coffin, or 3 cm wooden coffin lined with zinc; for air transport a pressure-equalising device. Infectious deaths require a shroud soaked in antiseptic. A copy of the passersedel certifying export must be returned to Skatteverket within two weeks. Documents commonly provided: death certificate, non-contagious certificate, embalming certificate, freight certificate and soldering (sealing) certificate.",
+    "export_points": [
+      "Passersedel (laissez-passer) from Skatteverket",
+      "Undertaker's coffin certificate (zinc-lined, absorbent)",
+      "Pressure-equalising device for air transport",
+      "Return certified copy to Skatteverket within two weeks"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Foreign certificate with date of death",
+      "embalming": "Not required for transport",
+      "coffin": "Zinc-lined, sealed, Strasbourg standard",
+      "laissez_passer": "Departure country's laissez-passer accepted",
+      "consular": "No extra documents for Strasbourg parties",
+      "permit": "Police burial or cremation permit",
+      "arrival": "Funeral within a month if possible"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Appoint funeral homes abroad and in Sweden."
+      },
+      {
+        "when": "Day 1",
+        "what": "Obtain the death certificate in the country of death."
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Coffin sealed to Strasbourg standards; departure country issues the laissez-passer."
+      },
+      {
+        "when": "Day 2-4",
+        "what": "Flight to Sweden with the laissez-passer and death certificate."
+      },
+      {
+        "when": "After arrival",
+        "what": "Swedish funeral home applies to the Police Authority for the burial or cremation permit."
+      }
+    ],
+    "key_points": [
+      "Sweden approved the 1973 Strasbourg Agreement",
+      "Police issue the burial or cremation permit for bodies brought in",
+      "Skatteverket issues the passersedel for bodies leaving Sweden"
+    ],
+    "lead_days": 3,
+    "authority": "Swedish Police Authority (entry burial permit); Swedish Tax Agency, Skatteverket (export laissez-passer)",
+    "sources": [
+      "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/begravningsforordning-19901147_sfs-1990-1147/",
+      "https://data.riksdagen.se/dokument/G30346",
+      "https://www.gov.uk/government/publications/when-someone-dies-in-sweden/sweden-bereavement-information"
+    ],
+    "confidence": "high",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "SI",
+    "name": "Slovenia",
+    "status": "unknown",
+    "summary": "Official Slovenian rules for bringing a casket into Slovenia could not be confirmed (the Slovenian legal database could not be read). Contact the Slovenian consulate in the country of death before arranging the flight.",
+    "documents": [
+      "Death certificate from the country of death (translation / apostille to be confirmed)",
+      "Transport documents from the country of departure",
+      "Any document required by the Slovenian consulate (not confirmed)"
+    ],
+    "coffin": "Not verified from official Slovenian sources; a hermetically sealed metal-lined coffin in a wooden case is the usual international standard.",
+    "embalming": "Not verified for entry. In Slovenia embalming is not compulsory but can be requested by the next of kin, especially when repatriation is planned (gov.uk).",
+    "consular": "Not verified; confirm with the Slovenian consulate.",
+    "arrival": "Not verified; confirm with the receiving funeral home.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No rule specific to private aircraft found. Slovenia is in Schengen; a flight from outside Schengen must use an airport with border and customs control.",
+    "private_jet_alert": false,
+    "private_jet_note": "Confirm entry documents with the Slovenian consulate before take-off.",
+    "export": "Permission to remove the body is issued by a coroner and obtained by the funeral director. Documents: local death certificate (international multilingual version available), the deceased's passport and other documents required by local rules. Embalming is not compulsory but can be requested. Cremations can only be done in Ljubljana.",
+    "export_points": [
+      "Removal permission issued by a coroner",
+      "International multilingual death certificate available",
+      "Embalming optional, on request",
+      "Funeral director handles the paperwork"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Required; translation to confirm",
+      "embalming": "Not confirmed for entry",
+      "coffin": "Not confirmed; sealed metal-lined usual",
+      "laissez_passer": "Not confirmed",
+      "consular": "Ask the Slovenian consulate",
+      "permit": "Not confirmed",
+      "arrival": "Not confirmed"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the insurer, a funeral home and the Slovenian consulate in the country of death."
+      },
+      {
+        "when": "Day 1",
+        "what": "Obtain the local death certificate and departure permits."
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Ask the Slovenian consulate which documents it requires."
+      },
+      {
+        "when": "Day 2-4",
+        "what": "Coffin prepared and sealed; flight booked."
+      },
+      {
+        "when": "Arrival",
+        "what": "Slovenian funeral home collects the coffin."
+      }
+    ],
+    "key_points": [
+      "Entry rules not confirmed from official Slovenian sources",
+      "Bodies leaving Slovenia need removal permission from a coroner"
+    ],
+    "lead_days": null,
+    "authority": "Slovenian consulates (Ministry of Foreign and European Affairs); not confirmed",
+    "sources": [
+      "https://www.gov.uk/guidance/when-someone-dies-in-slovenia"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "SK",
+    "name": "Slovakia",
+    "status": "requirements",
+    "summary": "Slovakia is bound by the Agreement on the Transfer of Corpses (Strasbourg 1973, notice 11/2003 Coll.), so a casket from another party travels under that agreement with the departure country's laissez-passer. From a non-party state, a corpse passport (pas pre mŕtvolu) from the Slovak embassy or consulate is needed, and the coffin must meet the agreement's standards.",
+    "documents": [
+      "Laissez-passer from the departure country (Strasbourg Agreement parties)",
+      "From non-party states: corpse passport (pas pre mŕtvolu) issued by the Slovak embassy or consulate",
+      "Death certificate",
+      "Documents required by the country of departure"
+    ],
+    "coffin": "The coffin must meet the requirements of the Strasbourg Agreement: impervious, with absorbent material, a soldered zinc inner coffin in a wooden outer coffin (or a zinc-lined wooden coffin at least 30 mm thick). The coffin label must carry the deceased's identity.",
+    "embalming": "Not required by Slovak law for entry. Embalming, preservation and display of the body are prohibited when the person was infected with a dangerous disease at the time of death.",
+    "consular": "From a state not bound by the agreement, the Slovak diplomatic mission or consulate issues the corpse passport if all requirements of the departure state are met and the coffin meets the agreement's requirements (Act 131/2010 Coll. section 7(3)).",
+    "arrival": "Slovak funeral services, crematoria and embalmers may accept the remains on the basis of the corpse passport for international transport. Road transport in Slovakia must use a refrigerated hearse.",
+    "pouch_accepted": false,
+    "pouch": null,
+    "private_aviation": "No rule specific to private aircraft found. Slovakia is in Schengen; a flight from outside Schengen must use an airport with border and customs control.",
+    "private_jet_alert": false,
+    "private_jet_note": "From a non-Strasbourg country, obtain the Slovak consular corpse passport before take-off.",
+    "export": "Within Strasbourg countries, transport follows the agreement. The corpse passport (laissez-passer) is issued by the self-governing region (samosprávny kraj), by the regional public health authority if the deceased had a dangerous infectious disease, or by the Health Care Surveillance Authority if an autopsy was performed (Act 131/2010 section 7(4)). Documents listed by the UK government: international death certificate (or official translation), passport, medical certificate confirming no infectious disease, embalming certificate and the permission for international transport.",
+    "export_points": [
+      "Corpse passport from the self-governing region (or health authority)",
+      "Strasbourg-standard sealed zinc-lined coffin",
+      "Embalming and non-infection certificates usually requested",
+      "International death certificate"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Required",
+      "embalming": "Not required by Slovakia",
+      "coffin": "Strasbourg sealed zinc-lined coffin",
+      "laissez_passer": "Strasbourg laissez-passer accepted",
+      "consular": "Slovak corpse passport from non-party states",
+      "permit": "No separate entry permit",
+      "arrival": "Funeral service collects, refrigerated hearse"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Appoint funeral homes abroad and in Slovakia."
+      },
+      {
+        "when": "Day 1",
+        "what": "Obtain the death certificate and departure permits."
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Coffin sealed to Strasbourg standard; laissez-passer issued by the departure country, or corpse passport from the Slovak consulate for non-party states."
+      },
+      {
+        "when": "Day 2-4",
+        "what": "Flight to Slovakia."
+      },
+      {
+        "when": "Arrival",
+        "what": "Slovak funeral service collects the coffin in a refrigerated hearse."
+      }
+    ],
+    "key_points": [
+      "Slovakia applies the 1973 Strasbourg Agreement",
+      "Slovak consulates issue a corpse passport for non-party countries",
+      "Embalming forbidden if death involved a dangerous infectious disease"
+    ],
+    "lead_days": 3,
+    "authority": "Slovak self-governing regions; regional public health authorities; Slovak embassies and consulates",
+    "sources": [
+      "https://static.slov-lex.sk/static/SK/ZZ/2010/131/20260715.html",
+      "https://www.gov.uk/guidance/when-someone-dies-in-slovakia"
+    ],
+    "confidence": "high",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "SM",
+    "name": "San Marino",
+    "status": "unknown",
+    "summary": "San Marino is reached through Italy, so a casket flown to San Marino lands at an Italian airport and continues by road; Italian rules for transport of remains apply on Italian territory. San Marino's own requirements could not be confirmed from official sources.",
+    "documents": [
+      "Death certificate",
+      "Transport documents from the country of departure",
+      "Documents required by Italian authorities for transit (not confirmed)",
+      "Documents required by San Marino authorities (not confirmed)"
+    ],
+    "coffin": "Not verified; a hermetically sealed metal-lined coffin in a wooden case is the usual standard.",
+    "embalming": "Not verified. Italian law requires basic preservation treatment for repatriation from Italy (gov.uk).",
+    "consular": "Not verified; confirm with the San Marino authorities and the Italian consulate.",
+    "arrival": "The casket must transit through Italy by road. Confirm burial formalities with the San Marino authorities and the receiving funeral home.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "The flight lands in Italy (gov.uk: travel to San Marino is through Italy); Italian rules apply at the airport and on the road transfer.",
+    "private_jet_alert": true,
+    "private_jet_note": "Flights land in Italy; plan the Italian transit and road transfer to San Marino.",
+    "export": "Not verified from San Marino sources. The body transits through Italy; for comparison, leaving Italy requires a transfer of remains certificate (Nulla Osta), basic preservation treatment, and local formalities can take up to 2 weeks (gov.uk Italy).",
+    "export_points": [
+      "Road transfer through Italy to the departure airport",
+      "Italian transit formalities may apply",
+      "Confirm San Marino exit permits locally"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Required",
+      "embalming": "Not confirmed",
+      "coffin": "Not confirmed; sealed metal-lined usual",
+      "laissez_passer": "Not confirmed",
+      "consular": "Ask San Marino and Italian authorities",
+      "permit": "Not confirmed",
+      "arrival": "Lands in Italy, road to San Marino"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact a funeral home in San Marino and the San Marino authorities."
+      },
+      {
+        "when": "Day 1",
+        "what": "Obtain the death certificate and departure permits abroad."
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Confirm Italian transit and San Marino entry documents."
+      },
+      {
+        "when": "Day 2-5",
+        "what": "Fly to an Italian airport near San Marino."
+      },
+      {
+        "when": "Arrival",
+        "what": "Road transfer to San Marino by funeral home."
+      }
+    ],
+    "key_points": [
+      "San Marino is reached through Italy",
+      "Own rules not confirmed from official sources"
+    ],
+    "lead_days": null,
+    "authority": "San Marino authorities (not confirmed); Italian authorities for transit",
+    "sources": [
+      "https://www.gov.uk/foreign-travel-advice/san-marino",
+      "https://www.gov.uk/guidance/when-someone-dies-in-italy"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "VA",
+    "name": "Vatican City",
+    "status": "unknown",
+    "summary": "Vatican City is an enclave within Rome, so a casket arrives at an Italian airport and continues by road; Italian rules apply on Italian territory. No official Vatican procedure for transport of remains could be found.",
+    "documents": [
+      "Death certificate",
+      "Transport documents from the country of departure",
+      "Documents required by Italian authorities for transit (not confirmed)"
+    ],
+    "coffin": "Not verified; a hermetically sealed metal-lined coffin in a wooden case is the usual standard.",
+    "embalming": "Not verified. Italian law requires basic preservation treatment for repatriation from Italy (gov.uk).",
+    "consular": "Not verified; confirm with the Holy See authorities and the Italian consulate.",
+    "arrival": "The casket transits through Italy (Rome) by road. Confirm any arrangements with the Holy See authorities.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No airport in Vatican City; flights land in Italy and Italian rules apply at the airport and on the road transfer.",
+    "private_jet_alert": true,
+    "private_jet_note": "Flights land in Rome (Italy); plan the Italian formalities.",
+    "export": "Not verified from Vatican sources. The body transits through Italy; for comparison, leaving Italy requires a transfer of remains certificate (Nulla Osta), basic preservation treatment, and local formalities can take up to 2 weeks (gov.uk Italy).",
+    "export_points": [
+      "Road transfer through Rome to the airport",
+      "Italian formalities may apply",
+      "Confirm with the Holy See authorities"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Required",
+      "embalming": "Not confirmed",
+      "coffin": "Not confirmed; sealed metal-lined usual",
+      "laissez_passer": "Not confirmed",
+      "consular": "Ask Holy See and Italian authorities",
+      "permit": "Not confirmed",
+      "arrival": "Lands in Rome, Italy"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the Holy See authorities and a funeral home in Rome."
+      },
+      {
+        "when": "Day 1",
+        "what": "Obtain the death certificate and departure permits abroad."
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Confirm Italian transit documents."
+      },
+      {
+        "when": "Day 2-5",
+        "what": "Fly to a Rome airport."
+      },
+      {
+        "when": "Arrival",
+        "what": "Road transfer by funeral home."
+      }
+    ],
+    "key_points": [
+      "No airport; arrival is through Italy",
+      "No official Vatican procedure found"
+    ],
+    "lead_days": null,
+    "authority": "Holy See / Governorate of Vatican City State (not confirmed); Italian authorities for transit",
+    "sources": [
+      "https://www.gov.uk/guidance/when-someone-dies-in-italy"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  }
+]

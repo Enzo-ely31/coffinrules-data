@@ -1,0 +1,646 @@
+[
+ {
+  "cc": "BA",
+  "name": "Bosnia and Herzegovina",
+  "status": "requirements",
+  "summary": "A casket entering Bosnia and Herzegovina needs a BiH laissez-passer (certificate for the transfer of human remains) issued by the BiH embassy or consulate in the country of death, plus a transport request for the entity health ministry of the burial place (Federation of BiH, Republika Srpska or Brcko District). The body must travel in a hermetically sealed, metal-lined (zinc) casket.",
+  "documents": [
+   "Application for the BiH certificate for the transfer of human remains (laissez-passer), filled in by the next of kin",
+   "Formal shipment request from the funeral director",
+   "Ministry of Health transport request form for the burial location: Federation of BiH, Republika Srpska or Brcko District",
+   "Certified copies of the death certificate (Oslo embassy: medical certificate of death and court death certificate)",
+   "Certificate of no contagious disease (Chicago consulate: notarised letter from the health department)",
+   "Embalmer's affidavits (Chicago consulate: two notarised copies)",
+   "Acceptance letter from a BiH funeral home / proof of a funeral place reservation in BiH",
+   "Passport of the deceased (or birth and citizenship certificates if no valid passport)",
+   "Funeral director's letter with the flight itinerary",
+   "Funeral director's statement that the remains are prepared to international rules and the casket contains only the deceased",
+   "Police or local authority clearance to remove the body from the country of death (required by the Oslo embassy)",
+   "Consular fee receipt"
+  ],
+  "coffin": "Hermetically sealed, metal-lined (zinc) casket, placed in an air tray for air transport (BiH Consulate General Chicago; BiH Embassy Oslo requires a hermetically sealed zinc coffin certified by the funeral home). No witnessing of the sealing by BiH officials abroad is published; the funeral director certifies the preparation.",
+  "embalming": "Embalming is expected: the BiH Consulate General in Chicago requires two notarised embalmer's affidavits. Within BiH embalming is not obligatory for local burial and is performed only at the Institute of Forensic Medicine in Sarajevo.",
+  "consular": "The BiH embassy or consulate covering the place of death issues the laissez-passer / certificate for the transfer of human remains. Chicago fee: USD 30 plus USD 20 postage; Oslo charges per the consular tariff. For non-citizens, deaths from a contagious disease or exhumed remains, the certificate is issued only after approval by the competent BiH authorities (Oslo embassy), and a certified translation of the medical certificate of death into Bosnian, Croatian or Serbian is required.",
+  "arrival": "Customs and sanitary clearance at the arrival airport (Sarajevo, Banja Luka, Mostar or Tuzla). The BiH funeral home named in the acceptance letter collects the casket. No statutory burial deadline is published, but Muslim burial customs favour quick burial.",
+  "pouch_accepted": false,
+  "pouch": null,
+  "private_aviation": "No rules specific to private flights are published. The BiH laissez-passer and the flight itinerary must be ready before departure; land at an airport with customs and sanitary inspection and have the BiH funeral home meet the aircraft.",
+  "private_jet_alert": false,
+  "private_jet_note": "The consular laissez-passer lists the flight itinerary: obtain it before take-off.",
+  "export": "Leaving BiH: the zinc casket is sealed by soldering, placed in a wooden coffin, then in an air-transport bag. The sealing is witnessed by the Health Department (sanitary inspection) and Customs, after which the Health Department issues the laissez-passer for the corpse, the key export document (about USD 100 in fees). Embalming is only performed at the Institute of Forensic Medicine in Sarajevo. The prosecutor decides on autopsies. No crematorium in BiH (nearest Zagreb or Novi Sad).",
+  "export_points": [
+   "Zinc casket soldered, wooden coffin, transport bag",
+   "Sealing witnessed by Health Department and Customs",
+   "Health Department issues the laissez-passer",
+   "Embalming only in Sarajevo"
+  ],
+  "at_a_glance": {
+   "death_certificate": "Certified copies; translation if non-citizen",
+   "embalming": "Embalmer's affidavits required",
+   "coffin": "Sealed metal-lined casket in air tray",
+   "laissez_passer": "Issued by the BiH consulate",
+   "consular": "BiH consulate issues transfer certificate",
+   "permit": "Entity health ministry request form",
+   "arrival": "Customs clearance, BiH funeral home"
+  },
+  "steps": [
+   {
+    "when": "Day 0-1",
+    "what": "Death certificate, funeral director and BiH receiving funeral home (acceptance letter)."
+   },
+   {
+    "when": "Day 1-2",
+    "what": "Embalming, no-contagious-disease certificate, sealing in a metal-lined casket."
+   },
+   {
+    "when": "Day 1-3",
+    "what": "File the application, entity health ministry form and documents with the BiH consulate."
+   },
+   {
+    "when": "Day 2-4",
+    "what": "BiH consulate issues the laissez-passer; departure country permit obtained."
+   },
+   {
+    "when": "Day 3-5",
+    "what": "Flight to Sarajevo, Banja Luka, Mostar or Tuzla."
+   },
+   {
+    "when": "Arrival",
+    "what": "Customs and sanitary clearance; handover to the BiH funeral home."
+   }
+  ],
+  "key_points": [
+   "BiH consulate issues the transfer laissez-passer",
+   "Separate health ministry form per entity (FBiH, RS, Brcko)",
+   "Not a party to the 1973 Strasbourg Agreement on the Transfer of Corpses",
+   "No crematorium in BiH"
+  ],
+  "lead_days": null,
+  "authority": "BiH embassies and consulates (laissez-passer); entity ministries of health (Federation of BiH, Republika Srpska, Brcko District); Health Department and Customs for export",
+  "sources": [
+   "https://cgbhchicago.com/wp-content/uploads/2022/11/Shipment-of-human-remains.pdf",
+   "https://bhembassy.no/index.php/embassy/news/23-human-remains",
+   "https://ba.usembassy.gov/services/death-of-a-u-s-citizen/",
+   "https://www.gov.uk/guidance/when-someone-dies-in-bosnia-and-herzegovina",
+   "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "RS",
+  "name": "Serbia",
+  "status": "requirements",
+  "summary": "A casket entering Serbia must travel with a Serbian transfer permit (sprovodnica) issued by the Serbian embassy or consulate in the country of death, on the basis of the original apostilled death certificate, medical cause-of-death report, the departure country's transport permit and the deceased's passport. For deaths from plague or smallpox the Serbian Ministry of Health must approve first.",
+  "documents": [
+   "Serbian transfer permit (sprovodnica) issued by the Serbian embassy or consulate",
+   "Original death certificate from the country of death with apostille (Athens: translated into Serbian)",
+   "Medical report on the cause of death",
+   "Transport permit / laissez-passer of the departure country",
+   "Passport of the deceased (cancelled and returned to the family)",
+   "Written request from the next of kin or funeral company stating burial place, transport route and flight number",
+   "Embalming certificate (required by the Athens embassy)",
+   "Certificate of no contagious disease (required by the Oslo embassy)",
+   "Confirmation of a burial place in Serbia (for foreign nationals, or if no Serbian passport)"
+  ],
+  "coffin": "Not stated on the Serbian consular checklists. Serbian practice is a sealed coffin with a soldered metal container inside a wooden coffin (US Embassy Belgrade for export); plan a hermetically sealed zinc-lined casket meeting airline rules.",
+  "embalming": "An embalming certificate is listed by the Serbian Embassy in Athens; plan embalming in the country of departure. In Serbia embalming is available only in Belgrade and Novi Sad (Forensic Institutes).",
+  "consular": "The Serbian diplomatic mission covering the place of death issues the sprovodnica on presentation of original documents (death certificate apostilled; some posts require a Serbian translation). Documents can be pre-checked by email, then an appointment is booked to collect the permit (Oslo). Fee per the consular price list. If death was caused by plague or smallpox, the mission obtains Ministry of Health approval before issuing. A transit sprovodnica is needed if the body only crosses Serbia.",
+  "arrival": "Customs clearance at Belgrade or Nis; a Serbian funeral home collects the casket. The death of a Serbian citizen abroad is also registered with the Serbian civil registry (registration form via the consulate). For deaths in Serbia burial is normally within 72 hours unless refrigerated.",
+  "pouch_accepted": null,
+  "pouch": null,
+  "private_aviation": "No specific rules published for private flights carrying remains. The consulate's request form asks for the transport method and flight number, so the sprovodnica should name the private flight. Use Belgrade or Nis, which have customs.",
+  "private_jet_alert": false,
+  "private_jet_note": "Give the consulate the private flight details for the sprovodnica before departure.",
+  "export": "Leaving Serbia: the official Serbian death certificate on the international form and a customs declaration from the local Customs Administration office, attached to the outside of the container. The body is placed in a sealed coffin with a metal container. Embalming only in Belgrade and Novi Sad (about USD 1,300-2,000). Autopsy may be ordered by the Public Prosecutor (up to 4 working days). Burial must take place within 72 hours unless refrigerated.",
+  "export_points": [
+   "International-form death certificate",
+   "Customs declaration attached to the container",
+   "Sealed coffin with metal container",
+   "Embalming only in Belgrade and Novi Sad"
+  ],
+  "at_a_glance": {
+   "death_certificate": "Original, apostilled, Serbian translation",
+   "embalming": "Embalming certificate expected",
+   "coffin": "Sealed metal-lined coffin advised",
+   "laissez_passer": "Serbian sprovodnica from consulate",
+   "consular": "Consulate issues sprovodnica on originals",
+   "permit": "Departure country transport permit",
+   "arrival": "Customs clearance, Serbian funeral home"
+  },
+  "steps": [
+   {
+    "when": "Day 0-1",
+    "what": "Death certificate (apostilled), cause-of-death report and funeral director in the country of death."
+   },
+   {
+    "when": "Day 1-2",
+    "what": "Embalming, sealing and departure country transport permit."
+   },
+   {
+    "when": "Day 1-3",
+    "what": "Send scans to the Serbian consulate, then submit originals and request."
+   },
+   {
+    "when": "Day 2-4",
+    "what": "Collect the sprovodnica; passport cancelled and returned."
+   },
+   {
+    "when": "Day 3-5",
+    "what": "Flight to Belgrade or Nis."
+   },
+   {
+    "when": "Arrival",
+    "what": "Customs clearance and handover to the Serbian funeral home."
+   }
+  ],
+  "key_points": [
+   "Serbian consular sprovodnica is mandatory",
+   "Originals required; death certificate apostilled",
+   "Not a party to the 1973 Strasbourg Agreement on the Transfer of Corpses",
+   "Plague or smallpox deaths need Ministry of Health approval"
+  ],
+  "lead_days": null,
+  "authority": "Serbian Ministry of Foreign Affairs and its missions (sprovodnica); Ministry of Health (infectious cases); Customs Administration",
+  "sources": [
+   "https://athens.mfa.gov.rs/en/citizens/services/transport-human-remains",
+   "https://london.mfa.gov.rs/en/citizens/services/transport-human-remains",
+   "https://oslo.mfa.gov.rs/en/citizens/services/transport-human-remains",
+   "https://rs.usembassy.gov/death-of-a-u-s-citizen/",
+   "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "ME",
+  "name": "Montenegro",
+  "status": "requirements",
+  "summary": "A casket entering Montenegro needs a Montenegrin conveyance (sprovodnica) issued by the Montenegrin embassy or consulate covering the deceased's last residence, usually requested by a registered funeral company that supplies the documents. Plan a hermetically sealed metal-lined coffin with the death certificate, embalming certificate and the departure country's transfer permit.",
+  "documents": [
+   "Montenegrin conveyance (sprovodnica) from the Montenegrin embassy or consulate",
+   "Death certificate (international or translated version)",
+   "Medical certificate of cause of death",
+   "Embalming certificate",
+   "Transfer permit from the country of death",
+   "Passport of the deceased"
+  ],
+  "coffin": "Not published for entry. Montenegro's export practice is a hermetically sealed coffin with a metal container (leak-proof); the same standard is expected.",
+  "embalming": "Not published for entry; plan embalming in the departure country. For export, embalming is described as essential for overseas transport (only at the Clinical Centre in Podgorica, within 72 hours of death).",
+  "consular": "Montenegro's government states that a conveyance is the document for transporting remains (coffin or urn) across borders, for burial in Montenegro or transit. The request is made to the Montenegrin embassy or consulate general (or an authorised foreign consular office) in the area of the deceased's last residence, usually by the funeral company, which provides the documentation; the officer checks it and issues the conveyance. Fee 20 or 25 EUR. The exact document list is not published.",
+  "arrival": "Clearance at Podgorica or Tivat airport and handover to a local funeral home; the transport must be accompanied by a registered funeral agency. Burial may not take place until 24 hours after death.",
+  "pouch_accepted": null,
+  "pouch": null,
+  "private_aviation": "No specific rules published for private flights carrying remains. Use Podgorica or Tivat, both international airports with customs.",
+  "private_jet_alert": false,
+  "private_jet_note": "Obtain the Montenegrin conveyance before take-off.",
+  "export": "Leaving Montenegro: the death is registered with the Ministry of Interior registry office in the municipality of death. The funeral home obtains the death certificate, medical cause-of-death certificate, sanitary inspection certificates (Ministry of Health), embalming certificate, and the funeral home affidavit that the casket is hermetically sealed. Embalming only at the Clinical Centre in Podgorica, within 72 hours. No crematorium; cremation in Belgrade or Zagreb can take 5-10 days.",
+  "export_points": [
+   "Sanitary inspection certificates (Ministry of Health)",
+   "Embalming only in Podgorica, within 72 h",
+   "Hermetically sealed coffin with metal container",
+   "No crematorium in Montenegro"
+  ],
+  "at_a_glance": {
+   "death_certificate": "International or translated version",
+   "embalming": "Expected for air transport",
+   "coffin": "Sealed coffin with metal container",
+   "laissez_passer": "Montenegrin conveyance from consulate",
+   "consular": "Embassy issues conveyance, 20-25 EUR",
+   "permit": "Departure country transfer permit",
+   "arrival": "Local funeral home; burial after 24 h"
+  },
+  "steps": [
+   {
+    "when": "Day 0-1",
+    "what": "Death certificate and funeral director in the country of death."
+   },
+   {
+    "when": "Day 1-2",
+    "what": "Embalming, sealing and departure country transfer permit."
+   },
+   {
+    "when": "Day 1-3",
+    "what": "Funeral company files documents with the Montenegrin embassy or consulate."
+   },
+   {
+    "when": "Day 2-3",
+    "what": "Conveyance (sprovodnica) issued."
+   },
+   {
+    "when": "Day 3-4",
+    "what": "Flight to Podgorica or Tivat."
+   },
+   {
+    "when": "Arrival",
+    "what": "Clearance and handover to the Montenegrin funeral home."
+   }
+  ],
+  "key_points": [
+   "Montenegrin consular conveyance required (20-25 EUR)",
+   "Not a party to the 1973 Strasbourg Agreement on the Transfer of Corpses",
+   "No crematorium in Montenegro",
+   "Burial not before 24 h after death"
+  ],
+  "lead_days": null,
+  "authority": "Montenegrin embassies and consulates (conveyance); Ministry of Health (sanitary inspection); Ministry of Interior (civil registry)",
+  "sources": [
+   "https://www.gov.me/en/article/other-consular-services",
+   "https://me.usembassy.gov/death-of-a-u-s-citizen/",
+   "https://me.usembassy.gov/wp-content/uploads/sites/255/2025/08/2024-Disposition-of-Remains-Report.pdf",
+   "https://www.gov.uk/guidance/when-someone-dies-in-montenegro",
+   "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "MK",
+  "name": "North Macedonia",
+  "status": "requirements",
+  "summary": "North Macedonia does not publish entry rules for a casket, and no North Macedonian consular checklist could be found; expect a sealed metal casket in a wooden case, with the death certificate and the departure country's transfer and embalming documents. Confirm with the North Macedonian embassy or consulate before departure.",
+  "documents": [
+   "Death certificate (translated)",
+   "Transfer permit from the country of death",
+   "Embalming certificate",
+   "Passport of the deceased",
+   "Any consular certification (confirm with the consulate)"
+  ],
+  "coffin": "Not published for entry. For export, remains are placed in a metal casket sealed in the presence of police, a customs officer and a health inspector, inside a wooden casket and a transport case; the same standard is expected.",
+  "embalming": "Embalming is not available in North Macedonia (organised through Belgrade if needed). Embalming in the country of departure is expected.",
+  "consular": "No official consular procedure for incoming remains found. Contact the North Macedonian embassy or consulate in the country of death.",
+  "arrival": "Clearance at Skopje or Ohrid airport; a local funeral home collects the casket. No maximum period before burial; refrigeration is available. A large Muslim community follows quick-burial customs.",
+  "pouch_accepted": null,
+  "pouch": null,
+  "private_aviation": "No specific rules published for private flights carrying remains. Use Skopje or Ohrid, which have customs.",
+  "private_jet_alert": false,
+  "private_jet_note": null,
+  "export": "Leaving North Macedonia: the funeral home obtains the local death certificate, the transit permit from the State Sanitary and Health Inspectorate, the sanitary inspector's approval and the autopsy certificate if performed; the passport is required. The metal casket is sealed in the presence of police, customs and a health inspector. Autopsy is mandatory for sudden or unexpected deaths of foreigners (usually within 2 days). No embalming or cremation in the country (Belgrade used).",
+  "export_points": [
+   "Transit permit from State Sanitary and Health Inspectorate",
+   "Sealing witnessed by police, customs and health inspector",
+   "Mandatory autopsy for sudden death of foreigners",
+   "No embalming or cremation locally"
+  ],
+  "at_a_glance": {
+   "death_certificate": "Translated certificate required",
+   "embalming": "Done abroad; not available locally",
+   "coffin": "Sealed metal casket in wooden case",
+   "laissez_passer": "From country of death",
+   "consular": "Confirm with consulate",
+   "permit": "Transfer permit from departure country",
+   "arrival": "Local funeral home collects"
+  },
+  "steps": [
+   {
+    "when": "Day 0-1",
+    "what": "Death certificate and funeral director in the country of death."
+   },
+   {
+    "when": "Day 1-2",
+    "what": "Embalming, sealing and transfer permit."
+   },
+   {
+    "when": "Day 2-3",
+    "what": "Check documents with the North Macedonian consulate."
+   },
+   {
+    "when": "Day 3",
+    "what": "Flight to Skopje or Ohrid."
+   },
+   {
+    "when": "Arrival",
+    "what": "Clearance and handover to the local funeral home."
+   }
+  ],
+  "key_points": [
+   "Entry checklist not published; ask the consulate",
+   "Not a party to the 1973 Strasbourg Agreement on the Transfer of Corpses",
+   "No embalming or cremation in the country",
+   "Export sealing needs police, customs and health witnesses"
+  ],
+  "lead_days": null,
+  "authority": "State Sanitary and Health Inspectorate; police; customs; North Macedonian consulates",
+  "sources": [
+   "https://mk.usembassy.gov/death-of-a-u-s-citizen/",
+   "https://mk.usembassy.gov/wp-content/uploads/sites/233/2026/08/Information-on-Disposition-of-Remains-August-2026.pdf",
+   "https://www.gov.uk/guidance/when-someone-dies-in-north-macedonia",
+   "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "XK",
+  "name": "Kosovo",
+  "status": "requirements",
+  "summary": "Official entry rules for a casket into Kosovo are not published, and no Kosovo consular checklist could be found; a sealed zinc coffin in a wooden crate with the death certificate and the departure country's permits is the expected standard. Confirm with the Kosovo embassy or consulate (consular department of the Ministry of Foreign Affairs and Diaspora) and arrange a Kosovo funeral home to receive the casket at Pristina.",
+  "documents": [
+   "Death certificate (translated)",
+   "Transfer permit from the country of death",
+   "Embalming and sealing certificates",
+   "Passport of the deceased",
+   "Any Kosovo consular certification (confirm with the consulate)"
+  ],
+  "coffin": "Not published for entry. For export, Kosovo uses a zinc coffin in a wooden crate, welded shut before shipping; the same standard is expected on entry.",
+  "embalming": "Not required by published rules; superficial and full embalming are available in Kosovo.",
+  "consular": "No official Kosovo consular procedure for incoming remains was found. Deaths of Kosovo citizens abroad can be registered at Kosovo diplomatic or consular missions; contact the Kosovo embassy or consulate in the country of death, or the Ministry of Foreign Affairs and Diaspora consular department.",
+  "arrival": "Clearance at Pristina airport; cargo services must be notified in advance. A Kosovo funeral home collects the casket. The death must be registered with the municipality within 30 days. Most of the population is Muslim; quick burial is customary.",
+  "pouch_accepted": null,
+  "pouch": null,
+  "private_aviation": "Pristina is the only international airport. It may close unexpectedly due to weather; Skopje (about 95 km) and Tirana (about 250 km) are alternatives, which then require road transport and border crossing.",
+  "private_jet_alert": false,
+  "private_jet_note": "Have a fallback plan via Skopje or Tirana if Pristina closes for weather.",
+  "export": "Leaving Kosovo: the municipality issues the death certificate after the medical report of death is registered (electronic version via eKosova). The Kosovo Food and Veterinary Agency issues the transit certificate, obtained by the funeral home. The casket (zinc coffin and wooden crate) is welded shut; the funeral director's affidavit confirms contents and embalming. Cargo services must be notified in advance. Autopsy only on prosecutor's order. No cremation in Kosovo.",
+  "export_points": [
+   "Death certificate via municipality / eKosova",
+   "Transit certificate from Food and Veterinary Agency",
+   "Welded zinc coffin in wooden crate",
+   "Notify Pristina airport cargo in advance"
+  ],
+  "at_a_glance": {
+   "death_certificate": "Translated certificate required",
+   "embalming": "Not required by published rules",
+   "coffin": "Sealed zinc coffin, wooden crate",
+   "laissez_passer": "From country of death",
+   "consular": "Confirm with Kosovo consulate",
+   "permit": "Transfer permit from departure country",
+   "arrival": "Pristina cargo, local funeral home"
+  },
+  "steps": [
+   {
+    "when": "Day 0-1",
+    "what": "Death certificate and funeral director in the country of death."
+   },
+   {
+    "when": "Day 1-2",
+    "what": "Embalming if chosen, sealing and transfer permit."
+   },
+   {
+    "when": "Day 2-3",
+    "what": "Check documents with the Kosovo consulate; notify Pristina cargo."
+   },
+   {
+    "when": "Day 3",
+    "what": "Flight to Pristina (or Skopje/Tirana if closed)."
+   },
+   {
+    "when": "Arrival",
+    "what": "Clearance and handover to the Kosovo funeral home; register with the municipality."
+   }
+  ],
+  "key_points": [
+   "Entry checklist not published; ask the consulate",
+   "Not a Council of Europe member; not a party to the Strasbourg Agreement",
+   "Pristina may close in bad weather",
+   "No cremation in Kosovo"
+  ],
+  "lead_days": null,
+  "authority": "Kosovo Food and Veterinary Agency; municipalities (civil status); Kosovo consulates",
+  "sources": [
+   "https://xk.usembassy.gov/death-of-a-u-s-citizen/",
+   "https://www.gov.uk/guidance/when-someone-dies-in-kosovo",
+   "https://www.gov.uk/government/publications/kosovo-bereavement-guide"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "BG",
+  "name": "Bulgaria",
+  "status": "requirements",
+  "summary": "A coffin coming to Bulgaria travels with the local death certificate legalised by the Bulgarian embassy (or a death certificate issued by the embassy), and the Bulgarian mission assists with the transfer once costs are covered. Bulgaria is not a party to the Strasbourg or Berlin agreements; Bulgarian law requires a hermetically sealed metal or soldered zinc-lined coffin for international transport.",
+  "documents": [
+   "Death certificate issued by the local authorities and legalised by the Bulgarian embassy or consulate (or a death certificate issued by the embassy)",
+   "Transport or export permit of the country of death",
+   "Embalming certificate where required by the departure country",
+   "Funeral director's sealing certificate",
+   "Proof that all costs are paid (deposit with the Ministry of Foreign Affairs or payment document from relatives or insurer)"
+  ],
+  "coffin": "Bulgarian rules for incoming coffins are not published separately. For bodies leaving Bulgaria, Ordinance No. 2 of 2011 (art. 24) requires a hermetically sealed metal coffin with a filtering system, or a solid wooden coffin lined with sheet metal that is soldered and sealed, or a tightly closed transport container, with sawdust and a chlorine biocide or an absorbent mattress at the bottom. Plan the same standard for entry.",
+  "embalming": "No Bulgarian requirement published for incoming bodies. Ordinance No. 2 of 2011 allows embalming and/or cooling (maximum 8 C inside the container) for long-distance transport. For bodies leaving Bulgaria, embalming is not mandatory except after a crime or a hospital death (US Embassy) and cannot be done within 24 hours of death.",
+  "consular": "The Bulgarian embassy or consulate in the country of death legalises the local death certificate or issues its own, and assists with the transfer of the coffin or urn once relatives or an insurer have paid all costs. The municipality of the deceased's permanent address then issues the Bulgarian death certificate on the basis of the document accompanying the body.",
+  "arrival": "Not published in detail: arrival health and customs formalities should be confirmed with the receiving Bulgarian funeral director and the Bulgarian consulate. Funeral arrangements follow the will of the deceased or, failing that, the spouse, adult children, parents or siblings.",
+  "pouch_accepted": null,
+  "pouch": null,
+  "private_aviation": "Human remains on a private or charter flight need the same documents as airline cargo; they travel with the coffin and are shown to customs and health officials at the arrival airport. A zinc-lined coffin is about 2.2 m long and often 70-100 kg or more, so it must fit the aircraft's cargo door or a cabin configured for it, which rules out many light and midsize jets. Land at an airport with customs facilities and have the receiving funeral director meet the aircraft airside.",
+  "private_jet_alert": false,
+  "private_jet_note": null,
+  "export": "Leaving Bulgaria: transport abroad requires a permit from the director of the competent Regional Health Inspectorate (RZI), on the model in annex 2 of Ordinance No. 2 of 21 April 2011. The coffin (hermetically sealed metal coffin, or zinc/sheet-metal lined wooden coffin soldered and sealed, or closed transport container) is closed in the presence of a state health inspector of the RZI. Transport is by specialised hearse only. Deaths from cholera, plague, typhus, anthrax, infectious tuberculosis, CCHF, polio and similar diseases need polyethylene bags and a metal-lined coffin. For exhumed remains, health and customs permission is required.",
+  "export_points": [
+   "RZI director's permit (Ordinance No. 2/2011)",
+   "Sealing witnessed by a state health inspector",
+   "Soldered metal or zinc-lined coffin",
+   "Cremation available in Sofia, Plovdiv and Varna"
+  ],
+  "at_a_glance": {
+   "death_certificate": "Legalised by Bulgarian embassy",
+   "embalming": "Per departure country's rules",
+   "coffin": "Sealed metal or zinc-lined coffin",
+   "laissez_passer": "Not a Strasbourg party",
+   "consular": "Bulgarian mission legalises and assists",
+   "permit": "Departure country export permit",
+   "arrival": "Bulgarian funeral director collects"
+  },
+  "steps": [
+   {
+    "when": "Day 0-1",
+    "what": "Appoint funeral directors; contact the Bulgarian consulate"
+   },
+   {
+    "when": "Day 1-3",
+    "what": "Local death certificate, legalised by the Bulgarian mission"
+   },
+   {
+    "when": "Day 1-3",
+    "what": "Embalming if required; sealing in zinc-lined coffin; export permit"
+   },
+   {
+    "when": "Day 3-5",
+    "what": "Costs covered; flight to Bulgaria"
+   },
+   {
+    "when": "Arrival",
+    "what": "Municipality issues Bulgarian death certificate; burial arranged"
+   }
+  ],
+  "key_points": [
+   "Not party to Strasbourg or Berlin agreements",
+   "Consular legalisation of the death certificate is key",
+   "Mission acts only once costs are paid",
+   "Export needs RZI permit and health inspector at sealing"
+  ],
+  "lead_days": null,
+  "authority": "Ministry of Foreign Affairs and Bulgarian missions abroad; municipalities; Regional Health Inspectorates (RZI) for export",
+  "sources": [
+   "https://mfa.bg/en/services-travel/consular-services/death-abroad",
+   "https://iisda.government.bg/adm_services/service_regulatory_file/10459_23632",
+   "https://www.gov.uk/government/publications/bulgaria-bereavement-information/bulgaria-bereavement-information",
+   "https://bg.usembassy.gov/death-of-a-u-s-citizen/",
+   "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "RO",
+  "name": "Romania",
+  "status": "requirements",
+  "summary": "Romania is a party to the 1937 Berlin convention on the transport of corpses, not to the 1973 Strasbourg Agreement. Under Law 102/2014 (art. 29) bringing a body to Romania requires the approval of the Romanian consulate in the country of death (which issues a mortuary passport), the approval of that country's public health authorities and a receipt declaration from the Romanian cemetery; the body travels in a hermetically sealed metal coffin in a sealed wooden case.",
+  "documents": [
+   "Romanian mortuary passport (pasaport mortuar) issued by the Romanian embassy or consulate (Law 62/2019 art. 37); in Berlin-convention countries such as Italy the local authority's mortuary passport is used",
+   "Approval of the public health authorities of the country of death (transport permit)",
+   "Death certificate from the country of death (translation / apostille to be confirmed with the consulate)",
+   "Embalming certificate",
+   "Receipt declaration from the administration of the cemetery in Romania where the burial will take place",
+   "Identity document of the deceased"
+  ],
+  "coffin": "Berlin convention art. 3: the body is placed in a metal coffin that is hermetically sealed (welded). Romania's own mortuary passport model (HG 741/2016, annex 7) states the same special condition: metal coffin, hermetically closed, placed in a tightly closed wooden box. The coffin must stay closed during transport.",
+  "embalming": "For export Romania issues the mortuary passport on the basis of the death certificate and the embalming certificate (HG 741/2016 art. 32), and embalming is mandatory for transport over 30 km for burial (art. 5). Plan embalming in the departure country for entry; embalming is forbidden for some infectious diseases and before a judicial autopsy.",
+  "consular": "Romanian consular officers issue, on request, mortuary passports authorising the funeral transport to Romania of Romanian citizens or persons of Romanian origin to be buried in Romania (Law 62/2019 art. 37, quoted in the Transilvania University of Brasov law bulletin). The consulate approval is one of the three approvals under Law 102/2014 art. 29(2). The family or the funeral company applies. Consular pages (mae.ro) could not be opened to confirm the document list and fees.",
+  "arrival": "The Romanian funeral home receives the coffin; burial (not cremation) is the stated purpose of the Law 102/2014 transport rules, and the receiving cemetery's declaration must be obtained beforehand.",
+  "pouch_accepted": false,
+  "pouch": null,
+  "private_aviation": "No rule specific to private aircraft found. Use an airport with border and customs control and carry the mortuary passport with the coffin.",
+  "private_jet_alert": false,
+  "private_jet_note": "Obtain the consular mortuary passport and cemetery declaration before take-off.",
+  "export": "Leaving Romania: international transport is made on a 'pasaport pentru transport cadavru uman' (model in annex 7 of HG 741/2016), issued by the public health directorate (DSP) of the county where the death or exhumation occurred, on the basis of the death certificate and the embalming certificate. The coffin is a hermetically sealed metal coffin in a tightly closed wooden case, and transport abroad must comply with international conventions. The local funeral director also obtains the notice of death certificate, international death certificate and international transport authorisation (gov.uk). Post mortems are usually done within 24 hours.",
+  "export_points": [
+   "Mortuary passport from the county public health directorate",
+   "Embalming certificate required",
+   "Sealed metal coffin in sealed wooden case",
+   "Post mortem usually within 24 hours"
+  ],
+  "at_a_glance": {
+   "death_certificate": "Required; translation to confirm",
+   "embalming": "Embalming certificate expected",
+   "coffin": "Welded metal coffin in wooden case",
+   "laissez_passer": "Berlin 1937 mortuary passport",
+   "consular": "Romanian consulate approves and issues",
+   "permit": "Health authority approval, cemetery declaration",
+   "arrival": "Romanian funeral home; burial only"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Contact the insurer, a funeral home and the Romanian consulate in the country of death."
+   },
+   {
+    "when": "Day 1",
+    "what": "Local death certificate, embalming and health authority transport approval."
+   },
+   {
+    "when": "Day 1-2",
+    "what": "Obtain the receipt declaration from the cemetery in Romania."
+   },
+   {
+    "when": "Day 2-3",
+    "what": "Romanian consulate approves and issues the mortuary passport."
+   },
+   {
+    "when": "Day 3-4",
+    "what": "Coffin welded and sealed; flight to Romania."
+   },
+   {
+    "when": "Arrival",
+    "what": "Romanian funeral home collects the coffin for burial."
+   }
+  ],
+  "key_points": [
+   "Party to the 1937 Berlin convention (acceded 1942)",
+   "Three approvals: consulate, health authority, cemetery",
+   "Transport rules aim at burial, not cremation",
+   "Not a party to the Strasbourg Agreement"
+  ],
+  "lead_days": null,
+  "authority": "Romanian Ministry of Foreign Affairs consular offices (mortuary passport); county public health directorates (DSP) for export",
+  "sources": [
+   "https://dspbihor.gov.ro/legislatie/H.G.%20nr.%20741%20din%202016.pdf",
+   "https://webbut.unitbv.ro/index.php/Series_VII/article/download/4607/3528/8755",
+   "https://www.gov.uk/guidance/what-to-do-after-a-british-person-dies-in-romania",
+   "https://www.gov.uk/government/publications/romania-bereavement-information",
+   "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "SI",
+  "name": "Slovenia",
+  "status": "requirements",
+  "summary": "Slovenia is a party to the 1973 Strasbourg Agreement on the Transfer of Corpses. Remains entering Slovenia must be accompanied by a corpse passport (posmrtni potni list) issued by the competent authority of the departure country, in an impermeable coffin with absorbent material: a wooden coffin (sides 20 mm or more) with a hermetically sealed zinc inner coffin, or a 30 mm wooden coffin lined with zinc.",
+  "documents": [
+   "Corpse passport / laissez-passer (posmrtni potni list) issued by the competent authority of the departure country",
+   "Death certificate from the country of death (international multilingual version where available)",
+   "Cause-of-death certificate, in a sealed envelope attached to the passport if the cause is confidential",
+   "Passport or identity document of the deceased"
+  ],
+  "coffin": "Rules on the transport and burial of human remains (Uradni list RS 53/2017, art. 5): impermeable coffin containing absorbent material, either an outer wooden coffin with sides at least 20 mm thick and a hermetically sealed inner coffin of zinc or other self-decomposing material, or a single wooden coffin at least 30 mm thick lined with zinc or similar. For air transport the coffin needs a pressure-equalising device or resistance certification accepted by the departure country. Infectious-disease deaths: body also wrapped in a shroud soaked in antiseptic.",
+  "embalming": "Not addressed by the Slovenian rules; embalming is not compulsory in Slovenia but can be requested, especially when repatriation is planned (gov.uk).",
+  "consular": "Under the Strasbourg Agreement the departure country's laissez-passer suffices between parties. Where the departure country is not a party, the Slovenian embassy or consulate can help with the documents; confirm with the consulate. Urns do not need a corpse passport.",
+  "arrival": "On arrival the coffin is collected by a Slovenian funeral service provider (pogrebna dejavnost). Remains of a person who died of an infectious disease must be cremated or buried in the transport coffin. Cremation is available only in Ljubljana.",
+  "pouch_accepted": false,
+  "pouch": null,
+  "private_aviation": "No rule specific to private aircraft found. The coffin must be carried in a space separate from passengers and baggage (art. 4). Slovenia is in Schengen; a flight from outside Schengen must use an airport with border and customs control.",
+  "private_jet_alert": true,
+  "private_jet_note": "Coffin must be in a compartment separate from passengers and baggage.",
+  "export": "Leaving Slovenia: the corpse passport is issued by the Health Inspectorate of the Republic of Slovenia (Zdravstveni inspektorat RS) on application by the funeral provider with the death notification completed by the medical examiner, a copy of the identity document and the provider's written statement that the coffin complies and contains only the deceased. It is written in Slovenian and one official EU language; the cause of death is given with the WHO ICD code. Permission to remove the body is obtained by the funeral director (gov.uk). Embalming is optional.",
+  "export_points": [
+   "Health Inspectorate issues the corpse passport",
+   "Funeral provider applies with statement on the coffin",
+   "Zinc-lined coffin with absorbent material",
+   "Cremation only in Ljubljana"
+  ],
+  "at_a_glance": {
+   "death_certificate": "International multilingual version accepted",
+   "embalming": "Not required by Slovenian rules",
+   "coffin": "Zinc-lined wooden coffin, absorbent",
+   "laissez_passer": "Strasbourg laissez-passer from departure state",
+   "consular": "Consulate helps when no Strasbourg pass",
+   "permit": "Departure country corpse passport",
+   "arrival": "Slovenian funeral provider collects"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Contact the insurer, a funeral home and, if needed, the Slovenian consulate."
+   },
+   {
+    "when": "Day 1",
+    "what": "Local death certificate and cause-of-death certificate."
+   },
+   {
+    "when": "Day 1-2",
+    "what": "Coffin sealed to Strasbourg standard (zinc, absorbent material)."
+   },
+   {
+    "when": "Day 1-3",
+    "what": "Departure country issues the corpse passport / laissez-passer."
+   },
+   {
+    "when": "Day 2-4",
+    "what": "Flight to Ljubljana with the coffin in a separate hold."
+   },
+   {
+    "when": "Arrival",
+    "what": "Slovenian funeral provider collects the coffin."
+   }
+  ],
+  "key_points": [
+   "Party to the Strasbourg Agreement since 1998",
+   "Corpse passport from departure country required",
+   "Cause of death with WHO ICD code",
+   "Urns need no corpse passport"
+  ],
+  "lead_days": null,
+  "authority": "Health Inspectorate of the Republic of Slovenia (Zdravstveni inspektorat RS); Ministry of Health",
+  "sources": [
+   "https://www.uradni-list.si/glasilo-uradni-list-rs/vsebina/2017-01-2417",
+   "https://www.uradni-list.si/glasilo-uradni-list-rs/vsebina/6604",
+   "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p",
+   "https://www.gov.uk/guidance/when-someone-dies-in-slovenia"
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10"
+ }
+]

@@ -1,0 +1,772 @@
+[
+  {
+    "pouch_accepted": null,
+    "pouch": null,
+    "last_checked": "2026-10",
+    "cc": "CD",
+    "name": "DR Congo",
+    "status": "requirements",
+    "summary": "Remains travel in a sealed international-standard casket with a death certificate, embalming certificate and health documents, plus a permit for transporting the body issued by a DR Congo embassy or consulate. Requirements on arrival are not officially published, so confirm with the consulate and the receiving funeral home.",
+    "documents": [
+      "Death certificate (legalised; French translation advisable)",
+      "Embalming certificate",
+      "Certificate that death was not due to a contagious disease (usual practice; confirm with the consulate)",
+      "Permit for corpse transportation from the DR Congo embassy or consulate",
+      "Copy of the deceased's passport; if no valid Congolese passport, the consulate issues a substitute document (tenant-lieu)"
+    ],
+    "coffin": "Not officially published for entry. In practice, a hermetically sealed (zinc- or metal-lined) casket in a wooden outer case is expected for international air transport. Confirm with the consulate.",
+    "embalming": "Embalming is standard for international transport. The rules for entry are not officially published.",
+    "consular": "The DR Congo Embassy in Washington lists a 'permit for corpse transportation': USD 100 if the deceased has a valid passport, USD 150 if a tenant-lieu travel document must be created. Payment is by money order. Other missions charge their own fees. DR Congo is not a party to the 1973 Strasbourg Agreement.",
+    "arrival": "Customs and health clearance procedures at Kinshasa N'djili are not officially published. The family or a local funeral home collects the casket. Mortuary standards vary, and cold storage is limited outside Kinshasa.",
+    "private_aviation": "No published rule specific to private or charter flights was found. A private aircraft carrying a casket must land at an international airport with customs, immigration and health services; have the local handling agent and receiving funeral home confirm in advance that the remains can be cleared from a private flight.",
+    "private_jet_alert": false,
+    "private_jet_note": "Use an airport with customs and health services (e.g. Kinshasa N'djili) and confirm clearance with the handling agent beforehand.",
+    "export": "The local funeral home, working with an international funeral director, obtains a civil-registry death certificate, an embalming certificate and a certificate giving permission to transfer the body abroad. After a violent or sudden death, a certificate identifying the body from the judicial police and district prosecutor and an autopsy report are needed, and the attorney general may order an autopsy without family consent. If the death was ordinary, the body is usually released within a few days. Few local undertakers can quickly supply international caskets. Cremation is not available in the DRC.",
+    "export_points": [
+      "Death certificate from the hospital doctor (can take several days)",
+      "Embalming certificate and transfer permit from the local authorities",
+      "Prosecutor or police involvement after a sudden or violent death can delay release",
+      "Few local undertakers stock international caskets"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Legalised, French translation advisable",
+      "embalming": "Expected for international transport",
+      "coffin": "Sealed casket in outer case (confirm)",
+      "laissez_passer": "Embassy corpse transportation permit",
+      "consular": "DRC embassy permit, about USD 100-150",
+      "permit": "Consular permit before departure",
+      "arrival": "Funeral home collects; rules not published"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Appoint a funeral director and gather the death certificate and passport of the deceased."
+      },
+      {
+        "when": "Day 1",
+        "what": "Embalming, plus a health or non-contagious disease certificate."
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Apply to the DR Congo embassy or consulate for the corpse transportation permit."
+      },
+      {
+        "when": "Day 2-4",
+        "what": "Seal the casket, then book the flight to an airport with customs and health services."
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs and health clearance, then the family or local funeral home collects the casket."
+      }
+    ],
+    "key_points": [
+      "A consular corpse transportation permit is required",
+      "Rules for entry at the airport are not officially published",
+      "Cremation is not available in the DRC",
+      "Cold storage is limited outside Kinshasa"
+    ],
+    "lead_days": 3,
+    "authority": "DR Congo embassy or consulate in the country of death; DR Congo health and customs services on arrival",
+    "sources": [
+      "https://www.ambadrcusa.org/consular-affairs/all-consular-affairs-related-fees/",
+      "https://www.gov.uk/government/publications/bereavement-information-pack-democratic-republic-of-congo/democratic-republic-of-congo-bereavement-information"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "pouch_accepted": null,
+    "pouch": null,
+    "last_checked": "2026-10",
+    "cc": "CI",
+    "name": "Côte d'Ivoire",
+    "status": "requirements",
+    "summary": "No official Ivorian page on bringing a casket into the country was found. Expect a death certificate, embalming and non-contagious disease certificates, a hermetically sealed casket and authorisation from an Ivorian consulate. Confirm with the consulate before booking.",
+    "documents": [
+      "Death certificate (French translation if needed)",
+      "Embalming certificate",
+      "Certificate that death was not due to a contagious disease",
+      "Sealing certificate for the casket",
+      "Transfer authorisation from the Ivorian consulate (to be confirmed)",
+      "Copy of the deceased's passport"
+    ],
+    "coffin": "Not officially published. A hermetically sealed zinc-lined casket in a wooden outer case is the usual standard. Confirm with the consulate.",
+    "embalming": "Not officially published for entry. Embalming is usually expected for international transport.",
+    "consular": "The role of Ivorian consulates (transfer authorisation, legalisation) is not published online. Contact the Ivorian embassy or consulate in the country of death. Côte d'Ivoire is not a party to the 1973 Strasbourg Agreement.",
+    "arrival": "Customs and health clearance at Abidjan Félix-Houphouët-Boigny airport is not officially documented. The family or an Ivorian funeral home collects the casket. Cremation is not permitted in Côte d'Ivoire.",
+    "private_aviation": "No published rule specific to private or charter flights was found. A private aircraft carrying a casket must land at an international airport with customs, immigration and health services; have the local handling agent and receiving funeral home confirm in advance that the remains can be cleared from a private flight.",
+    "private_jet_alert": false,
+    "private_jet_note": "Confirm with the Abidjan handling agent and the receiving funeral home that remains can be cleared from a private aircraft.",
+    "export": "UK government guidance lists these documents for taking a body out of Côte d'Ivoire: a death certificate, a transfer authorisation, permission to remove the body issued by a coroner, and authorisation from the Ministry of Interior. The police can order an autopsy without the family's consent, often as soon as the body reaches the morgue. Cremation is not permitted. Typical delays are not published.",
+    "export_points": [
+      "Death certificate from the civil registry",
+      "Transfer authorisation and permission to remove the body",
+      "Ministry of Interior authorisation required",
+      "Cremation not permitted in Côte d'Ivoire"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Required, French translation if needed",
+      "embalming": "Usually expected (confirm)",
+      "coffin": "Sealed zinc-lined casket (confirm)",
+      "laissez_passer": "Not published; ask the consulate",
+      "consular": "Contact the Ivorian consulate",
+      "permit": "Ministry of Interior authorisation to leave",
+      "arrival": "Funeral home collects; no cremation"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the Ivorian consulate in the country of death for its current list of documents."
+      },
+      {
+        "when": "Day 1",
+        "what": "Embalming, a non-contagious disease certificate and casket sealing by the funeral director."
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Have the documents legalised or authorised by the consulate."
+      },
+      {
+        "when": "Day 3",
+        "what": "Flight to Abidjan, with an Ivorian funeral home ready to receive the casket."
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs and health clearance, then the funeral home collects the casket."
+      }
+    ],
+    "key_points": [
+      "No official rules for entry are published online",
+      "Cremation is not permitted in Côte d'Ivoire",
+      "The exit file requires Ministry of Interior authorisation"
+    ],
+    "lead_days": null,
+    "authority": "Ivorian consulate abroad; Ministry of Interior (exit)",
+    "sources": [
+      "https://www.gov.uk/guidance/when-someone-dies-in-cote-divoire"
+    ],
+    "confidence": "low"
+  },
+  {
+    "pouch_accepted": null,
+    "pouch": null,
+    "last_checked": "2026-10",
+    "cc": "DJ",
+    "name": "Djibouti",
+    "status": "unknown",
+    "summary": "No official information on bringing remains into Djibouti was found. Contact the Djiboutian embassy or consulate in the country of death before arranging transport.",
+    "documents": [
+      "Death certificate (French translation advisable)",
+      "Embalming certificate (usual international practice)",
+      "Certificate that death was not due to a contagious disease (usual practice)",
+      "Consular authorisation (to be confirmed with the embassy)"
+    ],
+    "coffin": "Not officially published. A hermetically sealed metal-lined casket in a wooden outer case is the usual international standard.",
+    "embalming": "Not officially published.",
+    "consular": "The role of the Djiboutian embassy or consulate is not published online. Contact the mission directly. Djibouti is not a party to the 1973 Strasbourg Agreement.",
+    "arrival": "Not officially published. Djibouti is a predominantly Muslim country, so families often want burial very quickly. Plan collection by a local funeral service in advance.",
+    "private_aviation": "No published rule specific to private or charter flights was found. A private aircraft carrying a casket must land at an international airport with customs, immigration and health services; have the local handling agent and receiving funeral home confirm in advance that the remains can be cleared from a private flight.",
+    "private_jet_alert": false,
+    "private_jet_note": "Confirm clearance at Djibouti-Ambouli airport with the handling agent before departure.",
+    "export": "Not officially published. Expect to need a death certificate, a medical certificate, embalming and an authorisation from the local authorities. Confirm with a local funeral service and with the consulate of the destination country.",
+    "export_points": [
+      "Exit rules are not officially published",
+      "Ask the destination country's consulate in Djibouti",
+      "Plan embalming and casket supply early"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Required (French translation advisable)",
+      "embalming": "Not published; usually expected",
+      "coffin": "Sealed casket usual (confirm)",
+      "laissez_passer": "Not published",
+      "consular": "Contact the Djiboutian embassy",
+      "permit": "Not published",
+      "arrival": "Confirm with a local funeral service"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the Djiboutian embassy or consulate for its requirements."
+      },
+      {
+        "when": "Day 1",
+        "what": "Funeral director handles embalming, the health certificate and sealing of the casket."
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Obtain the consular authorisation, if one is required."
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs and health clearance in Djibouti, then collection by the family or a funeral service."
+      }
+    ],
+    "key_points": [
+      "No official guidance found online",
+      "Confirm everything with the Djiboutian mission",
+      "Islamic burial customs may require a fast turnaround"
+    ],
+    "lead_days": null,
+    "authority": "Djiboutian embassy or consulate in the country of death",
+    "sources": [],
+    "confidence": "low"
+  },
+  {
+    "pouch_accepted": null,
+    "pouch": null,
+    "last_checked": "2026-10",
+    "cc": "GQ",
+    "name": "Equatorial Guinea",
+    "status": "requirements",
+    "summary": "The Equatorial Guinea embassy provides free consular assistance for repatriating remains, based on the official death certificate and the passport or ID of the deceased. Casket and health rules are not published, so confirm with the embassy.",
+    "documents": [
+      "Original official death certificate issued by local health authorities",
+      "Original passport and identification of the deceased",
+      "Contact details of the next of kin or designated funeral director",
+      "Embalming and non-contagious disease certificates (usual practice; confirm)"
+    ],
+    "coffin": "Not officially published. A hermetically sealed metal-lined casket in a wooden outer case is the usual international standard.",
+    "embalming": "Not officially published. Usually expected for international transport.",
+    "consular": "The Embassy in Washington handles death certificates abroad and gives free consular assistance and facilitation for repatriating remains, after reviewing the civil records. Equatorial Guinea is not a party to the 1973 Strasbourg Agreement.",
+    "arrival": "Not officially published. Plan collection in Malabo or Bata by a local funeral service.",
+    "private_aviation": "No published rule specific to private or charter flights was found. A private aircraft carrying a casket must land at an international airport with customs, immigration and health services; have the local handling agent and receiving funeral home confirm in advance that the remains can be cleared from a private flight.",
+    "private_jet_alert": false,
+    "private_jet_note": "Equatorial Guinea requires visas and yellow fever vaccination for passengers; check crew and escort entry rules early.",
+    "export": "Not officially published. Expect to need a death certificate, embalming and authorisation from the local authorities. Confirm with the consulate of the destination country.",
+    "export_points": [
+      "Exit rules are not officially published",
+      "Contact the destination country's consulate early"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Original official certificate required",
+      "embalming": "Not published; usually expected",
+      "coffin": "Sealed casket usual (confirm)",
+      "laissez_passer": "Embassy assistance, free",
+      "consular": "Free embassy repatriation assistance",
+      "permit": "Not published",
+      "arrival": "Confirm with a local funeral service"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the Equatorial Guinea embassy's consular section with the death certificate and passport."
+      },
+      {
+        "when": "Day 1",
+        "what": "Funeral director handles embalming, health certificates and sealing of the casket."
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Embassy reviews the civil records and helps arrange the repatriation."
+      },
+      {
+        "when": "Arrival",
+        "what": "Clearance in Malabo or Bata, then collection by the family or a funeral service."
+      }
+    ],
+    "key_points": [
+      "Consular repatriation assistance is free",
+      "Casket and health rules are not published",
+      "Escorts need a visa and yellow fever vaccination"
+    ],
+    "lead_days": null,
+    "authority": "Embassy of Equatorial Guinea (consular section)",
+    "sources": [
+      "https://www.egembassydc.com/consular"
+    ],
+    "confidence": "low"
+  },
+  {
+    "pouch_accepted": null,
+    "pouch": null,
+    "last_checked": "2026-10",
+    "cc": "ER",
+    "name": "Eritrea",
+    "status": "requirements",
+    "summary": "Eritrean consulates process the repatriation of Eritrean nationals: certified death certificates, two non-contagious disease letters, a funeral home preparation letter and proof of Eritrean nationality. A steel casket, or a wooden casket with a sealed steel liner, inside a wooden outer box is required.",
+    "documents": [
+      "Two certified copies of the death certificate",
+      "Non-contagious disease letter from a state, county or municipal health official",
+      "Non-contagious disease letter from the attending physician",
+      "Funeral home preparation letter (procedures, casket contents, consignee name, address and phone)",
+      "Copies of the deceased's Eritrean passport or ID card, plus foreign passport or residence permit"
+    ],
+    "coffin": "The consulates prefer a steel casket inside a wooden outer shipping container. A wooden casket is accepted with a steel screw-down liner for sealing and a wooden outer box.",
+    "embalming": "Not specified by the consulates. The preparation letter must describe how the body was prepared, and embalming is the usual practice.",
+    "consular": "The consulates (e.g. Washington and Frankfurt) require Eritrean nationality, shown by an Eritrean passport or national ID or other proof. Documents are submitted by email. Fees and processing time are not published. Eritrea is not a party to the 1973 Strasbourg Agreement.",
+    "arrival": "Not officially published. Plan collection at Asmara by the family or a local funeral service.",
+    "private_aviation": "No published rule specific to private or charter flights was found. A private aircraft carrying a casket must land at an international airport with customs, immigration and health services; have the local handling agent and receiving funeral home confirm in advance that the remains can be cleared from a private flight. Eritrea has strict entry and permit controls; obtain all authorisations before departure.",
+    "private_jet_alert": true,
+    "private_jet_note": "Exit requires an airport immigration police approval letter, and flight permissions in Eritrea can take time.",
+    "export": "To take a body out of Eritrea you need a death certificate issued by the Zoba (regional) Administration, the hospital death certificate form or dead body certificate, the passport of the deceased, a police clearance letter, an airport immigration police approval letter and an embalming certificate. The Zoba Administration also provides an English translation of the death certificate.",
+    "export_points": [
+      "Death certificate from the Zoba Administration, with English translation",
+      "Police clearance letter and airport immigration police approval letter",
+      "Embalming certificate required",
+      "Passport of the deceased"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Two certified copies",
+      "embalming": "Preparation letter required; embalming usual",
+      "coffin": "Steel casket or steel liner, outer box",
+      "laissez_passer": "Not used; consular processing",
+      "consular": "Eritrean nationality required",
+      "permit": "Two non-contagious disease letters",
+      "arrival": "Confirm with a local funeral service"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Collect the death certificates and proof of the deceased's Eritrean nationality."
+      },
+      {
+        "when": "Day 1",
+        "what": "Obtain the non-contagious disease letters from the health official and the physician."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Funeral home prepares the body, seals the casket and writes the preparation letter."
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Email the file to the Eritrean consulate and wait for clearance."
+      },
+      {
+        "when": "Arrival",
+        "what": "Clearance in Asmara, then collection by the family."
+      }
+    ],
+    "key_points": [
+      "Consular service is for Eritrean nationals",
+      "Steel casket, or sealed steel liner, required",
+      "Two separate non-contagious disease letters needed"
+    ],
+    "lead_days": 3,
+    "authority": "Eritrean embassy or consulate; Zoba Administration and police (exit)",
+    "sources": [
+      "https://us.embassyeritrea.org/human-remains-shipment/",
+      "https://konsulat-eritrea.de/human-remains-shipment/",
+      "https://www.gov.uk/government/publications/eritrea-bereavement-pack/eritrea-bereavement-information-pack"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "pouch_accepted": null,
+    "pouch": null,
+    "last_checked": "2026-10",
+    "cc": "SZ",
+    "name": "Eswatini",
+    "status": "unknown",
+    "summary": "No official Eswatini page on bringing remains into the country was found. Most international transfers go via South Africa, so South African transit rules may also apply. Confirm with the Eswatini High Commission or embassy.",
+    "documents": [
+      "Death certificate",
+      "Embalming certificate",
+      "Certificate that death was not due to a contagious disease (usual practice)",
+      "Transfer permit from the country of death",
+      "South African transit documents if routed via Johannesburg (to be confirmed)"
+    ],
+    "coffin": "Not officially published. A hermetically sealed casket in an outer case is the usual international standard.",
+    "embalming": "Not officially published for entry. Embalming certificates are standard for international transfers.",
+    "consular": "Not published online. Contact the Eswatini High Commission or embassy. Eswatini is not a party to the 1973 Strasbourg Agreement.",
+    "arrival": "Not officially published. Mortuaries in major towns have cold storage. A death occurring in Eswatini must be registered within 60 days with the Ministry of Home Affairs.",
+    "private_aviation": "No published rule specific to private or charter flights was found. A private aircraft carrying a casket must land at an international airport with customs, immigration and health services; have the local handling agent and receiving funeral home confirm in advance that the remains can be cleared from a private flight. Eswatini has few direct international flights, so most remains move via South Africa. A direct private flight to King Mswati III International Airport avoids the transit, but clearance must be confirmed.",
+    "private_jet_alert": false,
+    "private_jet_note": "A direct private flight avoids South African transit, but confirm customs and health clearance at King Mswati III airport.",
+    "export": "Local funeral directors work with international funeral directors to obtain a civil-registry death certificate, an embalming certificate and a certificate giving permission to transfer the remains. A post-mortem is required if the body is to be repatriated; state pathologists usually perform it within 1 to 2 days. There are no direct flights to the UK, so most bodies are repatriated via South Africa.",
+    "export_points": [
+      "A post-mortem is required before repatriation, usually within 1-2 days",
+      "Death certificate, embalming certificate and transfer permit",
+      "Most routes go via South Africa"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Required",
+      "embalming": "Usual; certificate needed on exit",
+      "coffin": "Sealed casket usual (confirm)",
+      "laissez_passer": "Not published",
+      "consular": "Contact the Eswatini High Commission",
+      "permit": "Transfer permit on exit",
+      "arrival": "Confirm with a local funeral service"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the Eswatini mission and a funeral home in Eswatini."
+      },
+      {
+        "when": "Day 1",
+        "what": "Embalming, health certificate and casket sealing in the country of death."
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Arrange routing: a direct private flight, or via South Africa with transit permits."
+      },
+      {
+        "when": "Arrival",
+        "what": "Clearance, then collection by the receiving funeral home."
+      }
+    ],
+    "key_points": [
+      "No official rules for entry published",
+      "A post-mortem is required for repatriation out of Eswatini",
+      "Commercial routing usually goes via South Africa"
+    ],
+    "lead_days": null,
+    "authority": "Eswatini Ministry of Home Affairs; Eswatini diplomatic missions",
+    "sources": [
+      "https://www.gov.uk/guidance/what-to-do-after-a-british-person-dies-in-eswatini"
+    ],
+    "confidence": "low"
+  },
+  {
+    "pouch_accepted": null,
+    "pouch": null,
+    "last_checked": "2026-10",
+    "cc": "ET",
+    "name": "Ethiopia",
+    "status": "requirements",
+    "summary": "An Ethiopian embassy or consulate issues a free permit for shipping the body. It requires the death certificate, a non-contagious disease letter, a burial permit, the passport of the deceased and a funeral home letter confirming embalming and a hermetically sealed casket.",
+    "documents": [
+      "Death certificate (original and copy)",
+      "Funeral home letter confirming embalming and a hermetically sealed casket (original and copy)",
+      "Non-contagious disease letter from the local health authority (original and copy)",
+      "Burial permit (original and copy)",
+      "Copy of the deceased's passport; if not an Ethiopian passport holder, a letter from the Ethiopian Ministry of Foreign Affairs permitting entry"
+    ],
+    "coffin": "A hermetically sealed casket is required, confirmed in the funeral home letter.",
+    "embalming": "Required: the funeral home must confirm the body was embalmed or preserved by standard methods.",
+    "consular": "The embassy reviews the file and issues a permit for shipping the body, free of charge. The Washington embassy says it issues the permit quickly once the file is complete, and emails it to be printed in colour. Applications are rejected without a passport showing Ethiopia as place of birth, or without the Ministry of Foreign Affairs letter for non-passport holders. Ethiopia is not a party to the 1973 Strasbourg Agreement.",
+    "arrival": "The embassy says the transport rules for human remains are set by Ethiopian Airlines. Arrival is at Addis Ababa Bole, where the family or a funeral home collects the casket.",
+    "private_aviation": "The embassy defers to Ethiopian Airlines for the transport rules. For a private flight, confirm with the Bole handling agent and the Ethiopian Civil Aviation Authority how remains are cleared. No published rule specific to private or charter flights was found. A private aircraft carrying a casket must land at an international airport with customs, immigration and health services; have the local handling agent and receiving funeral home confirm in advance that the remains can be cleared from a private flight.",
+    "private_jet_alert": false,
+    "private_jet_note": "Ethiopian Airlines sets the transport rules; confirm clearance at Bole for a private aircraft in advance.",
+    "export": "For a death in Ethiopia, the Ministry of Foreign Affairs issues a letter permitting repatriation (sometimes called a No Objection letter). It is issued after it receives a Letter of Release from the deceased's embassy, the local death certificate and any autopsy report. Most airlines require an autopsy before repatriation. Local undertakers can supply international caskets. Formalities normally take a week or more.",
+    "export_points": [
+      "Ministry of Foreign Affairs No Objection letter required",
+      "Letter of Release from the deceased's embassy",
+      "Autopsy usually required by airlines",
+      "Allow a week or more"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Original and copy required",
+      "embalming": "Required, confirmed by funeral home",
+      "coffin": "Hermetically sealed casket",
+      "laissez_passer": "Embassy shipping permit, free",
+      "consular": "Embassy permit, no fee",
+      "permit": "Burial permit and non-contagious letter",
+      "arrival": "Addis Ababa Bole; family collects"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Obtain the death certificate and burial permit in the country of death."
+      },
+      {
+        "when": "Day 1",
+        "what": "Embalming, hermetic sealing and the funeral home letter."
+      },
+      {
+        "when": "Day 1",
+        "what": "Non-contagious disease letter from the local health authority."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Submit the file to the Ethiopian embassy, which issues the shipping permit."
+      },
+      {
+        "when": "Arrival",
+        "what": "Clearance at Addis Ababa Bole, then the family collects."
+      }
+    ],
+    "key_points": [
+      "Consular shipping permit is free",
+      "Ethiopian passport, or MFA entry letter, required",
+      "Exit from Ethiopia takes a week or more"
+    ],
+    "lead_days": 2,
+    "authority": "Ethiopian embassy or consulate; Ministry of Foreign Affairs (exit)",
+    "sources": [
+      "https://ethiopianembassy.org/shipping-human-remains/",
+      "https://consular.ethiopianembassy.org/service-details_HR.php",
+      "https://www.gov.uk/government/publications/ethiopia-bereavement-pack/ethiopia-bereavement-information"
+    ],
+    "confidence": "high"
+  },
+  {
+    "pouch_accepted": null,
+    "pouch": null,
+    "last_checked": "2026-10",
+    "cc": "GA",
+    "name": "Gabon",
+    "status": "requirements",
+    "summary": "No official Gabonese page on bringing a casket into the country was found. Expect a death certificate, embalming and non-contagious disease certificates, a hermetically sealed casket and legalisation by a Gabonese consulate. Confirm with the consulate.",
+    "documents": [
+      "Death certificate (French translation if needed)",
+      "Embalming certificate",
+      "Certificate that death was not due to a contagious disease",
+      "Casket sealing certificate",
+      "Consular legalisation or authorisation (to be confirmed)"
+    ],
+    "coffin": "Not officially published for entry. A hermetically sealed zinc-lined casket in a wooden outer case is the usual standard.",
+    "embalming": "Not officially published for entry. Usually expected.",
+    "consular": "Gabonese consulates provide death certificate and legalisation services; a specific transfer permit for entry is not published. Gabon is not a party to the 1973 Strasbourg Agreement.",
+    "arrival": "Not officially published. Collection in Libreville by a Gabonese funeral home. Cremation is not available in Gabon.",
+    "private_aviation": "No published rule specific to private or charter flights was found. A private aircraft carrying a casket must land at an international airport with customs, immigration and health services; have the local handling agent and receiving funeral home confirm in advance that the remains can be cleared from a private flight.",
+    "private_jet_alert": false,
+    "private_jet_note": "Confirm clearance at Libreville Léon-Mba with the handling agent before departure.",
+    "export": "When a death occurs in Gabon, a funeral home preserves the body and provides a funeral pass, and the Town Hall establishes the death certificate. The Ministry of Foreign Affairs (Directorate of Consular Affairs) translates the documents. The deceased's consulate writes to the Ministry of the Interior, which issues a 'definitive authorization' to transfer the body. Gabonese funeral homes stock international-standard coffins. Registration can take some time. Cremation is not available, and the nearest is in Cameroon.",
+    "export_points": [
+      "Funeral pass from the funeral home, death certificate from the Town Hall",
+      "Ministry of the Interior 'definitive authorization' required",
+      "Consulate letter to the Ministry of the Interior",
+      "No cremation in Gabon"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Required, French translation if needed",
+      "embalming": "Usually expected (confirm)",
+      "coffin": "Sealed zinc-lined casket (confirm)",
+      "laissez_passer": "Not published",
+      "consular": "Gabonese consulate legalises",
+      "permit": "Interior Ministry authorization to leave",
+      "arrival": "Funeral home collects; no cremation"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the Gabonese consulate for its current list of documents."
+      },
+      {
+        "when": "Day 1",
+        "what": "Embalming, non-contagious disease certificate and casket sealing."
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Legalise the documents at the consulate."
+      },
+      {
+        "when": "Arrival",
+        "what": "Clearance in Libreville, then collection by a Gabonese funeral home."
+      }
+    ],
+    "key_points": [
+      "Rules for entry are not officially published",
+      "Exit requires Ministry of the Interior authorization",
+      "No cremation in Gabon"
+    ],
+    "lead_days": null,
+    "authority": "Gabonese consulate abroad; Ministry of the Interior (exit)",
+    "sources": [
+      "https://www.gov.uk/government/publications/gabon-bereavement-death-abroad/what-to-do-if-a-british-national-dies-in-gabon"
+    ],
+    "confidence": "low"
+  },
+  {
+    "pouch_accepted": null,
+    "pouch": null,
+    "last_checked": "2026-10",
+    "cc": "GM",
+    "name": "Gambia",
+    "status": "requirements",
+    "summary": "No official Gambian page on bringing a casket into the country was found. Expect a death certificate, embalming and non-contagious disease certificates and a sealed casket. Confirm with the Gambian High Commission or embassy.",
+    "documents": [
+      "Death certificate",
+      "Embalming certificate",
+      "Certificate that death was not due to a contagious disease",
+      "Transfer permit from the country of death",
+      "Copy of the deceased's passport"
+    ],
+    "coffin": "Not officially published for entry. A hermetically sealed casket in an outer case is the usual standard.",
+    "embalming": "Not officially published for entry. Usually expected.",
+    "consular": "Not published online. Contact the Gambian High Commission or embassy for any attestation required. The Gambia is not a party to the 1973 Strasbourg Agreement.",
+    "arrival": "Not officially published. Muslim burial generally takes place within 24 hours of death, so arrange collection in Banjul in advance. Cremation is against the law in The Gambia.",
+    "private_aviation": "No published rule specific to private or charter flights was found. A private aircraft carrying a casket must land at an international airport with customs, immigration and health services; have the local handling agent and receiving funeral home confirm in advance that the remains can be cleared from a private flight.",
+    "private_jet_alert": false,
+    "private_jet_note": "Confirm clearance at Banjul airport with the handling agent before departure.",
+    "export": "The death is registered at the Births and Deaths registry in Banjul, based on the medical certificate of death or a 'brought in dead' certificate. Bodies leaving the country must be embalmed. Local funeral directors provide the civil-registry death certificate, embalming certificate and a certificate giving permission to transfer the remains. A post-mortem or police investigation can delay the death certificate by several weeks.",
+    "export_points": [
+      "Register the death in Banjul",
+      "Embalming is mandatory for repatriation",
+      "Transfer permit arranged by the funeral director",
+      "A post-mortem can delay things by weeks"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Required",
+      "embalming": "Mandatory on exit; usual on entry",
+      "coffin": "Sealed casket usual (confirm)",
+      "laissez_passer": "Not published",
+      "consular": "Contact the Gambian High Commission",
+      "permit": "Transfer permit on exit",
+      "arrival": "Funeral home collects; no cremation"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the Gambian mission and a funeral home in The Gambia."
+      },
+      {
+        "when": "Day 1",
+        "what": "Embalming, health certificate and sealing of the casket."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain the transfer permit in the country of death and any consular attestation."
+      },
+      {
+        "when": "Arrival",
+        "what": "Clearance in Banjul and quick collection, often for burial within 24 hours."
+      }
+    ],
+    "key_points": [
+      "Embalming is mandatory for bodies leaving The Gambia",
+      "Cremation is illegal in The Gambia",
+      "Muslim burial usually within 24 hours"
+    ],
+    "lead_days": null,
+    "authority": "Gambian diplomatic missions; Registry of Births and Deaths, Banjul (exit)",
+    "sources": [
+      "https://www.gov.uk/guidance/what-to-do-after-a-british-person-dies-in-the-gambia"
+    ],
+    "confidence": "low"
+  },
+  {
+    "pouch_accepted": null,
+    "pouch": null,
+    "last_checked": "2026-10",
+    "cc": "GH",
+    "name": "Ghana",
+    "status": "requirements",
+    "summary": "Remains enter Ghana embalmed, in a hermetically sealed casket inside an all-wood outer container, with documents authenticated by a Ghana mission. If the deceased held a valid Ghanaian passport, the London High Commission says no further document from it is normally needed; otherwise it issues a letter that serves as a travel document.",
+    "documents": [
+      "Certified copy of the death certificate",
+      "Burial and/or transit permit issued in the country of death",
+      "Embalmer's (non-contagious) affidavit",
+      "Non-contagious disease letter from the local health authority",
+      "Copy of the deceased's passport or proof of Ghanaian nationality",
+      "Airline transport documents"
+    ],
+    "coffin": "A hermetically sealed casket in an all-wood outer shipping container (Ghana Embassy, Washington).",
+    "embalming": "Required: embalming by the standard method of the country of death.",
+    "consular": "Ghana missions authenticate the file. The Washington embassy charges USD 50 and asks for documents in triplicate (original plus two copies). In London, a valid Ghanaian passport normally suffices; otherwise the High Commission issues a letter that serves as the travel document. Ghana is not a party to the 1973 Strasbourg Agreement.",
+    "arrival": "Not officially detailed. The family or a Ghanaian funeral home collects the casket at Accra Kotoka. Cremated remains need the death certificate, cremation certificate and a hermetically sealed urn.",
+    "private_aviation": "No published rule specific to private or charter flights was found. A private aircraft carrying a casket must land at an international airport with customs, immigration and health services; have the local handling agent and receiving funeral home confirm in advance that the remains can be cleared from a private flight.",
+    "private_jet_alert": false,
+    "private_jet_note": "Confirm with the Accra Kotoka handling agent that the casket can be cleared from a private aircraft.",
+    "export": "The death is registered at the local births and deaths registry, usually by the funeral director. The hospital issues the cause-of-death certificate, usually within a week. An export licence is needed, which the funeral director obtains. For transfer to the UK, the body must be embalmed and placed in a zinc-lined coffin. A post-mortem is performed when the death is unknown, unnatural, sudden or violent.",
+    "export_points": [
+      "Cause-of-death certificate from the hospital, usually within a week",
+      "Registration of the death and an export licence",
+      "Embalming and a zinc-lined coffin",
+      "A post-mortem may be required"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Certified copy, authenticated",
+      "embalming": "Required",
+      "coffin": "Sealed casket, all-wood outer box",
+      "laissez_passer": "Mission letter if no Ghana passport",
+      "consular": "Authentication, e.g. USD 50 (Washington)",
+      "permit": "Burial or transit permit",
+      "arrival": "Accra Kotoka; family collects"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Obtain the death certificate and the burial or transit permit locally."
+      },
+      {
+        "when": "Day 1",
+        "what": "Embalming, the embalmer's affidavit and hermetic sealing of the casket."
+      },
+      {
+        "when": "Day 1",
+        "what": "Non-contagious disease letter from the local health authority."
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Authentication by the Ghana embassy or High Commission (triplicate copies)."
+      },
+      {
+        "when": "Arrival",
+        "what": "Clearance at Kotoka, then collection by the family or a funeral home."
+      }
+    ],
+    "key_points": [
+      "A valid Ghanaian passport simplifies the consular step",
+      "The casket must have an all-wood outer container",
+      "Leaving Ghana requires an export licence"
+    ],
+    "lead_days": 3,
+    "authority": "Ghana embassy or High Commission; Ghana registry and funeral director (exit)",
+    "sources": [
+      "https://washington.mfa.gov.gh/services/repatriation-of-a-body",
+      "https://london.mfa.gov.gh/services/repatriation-of-a-body",
+      "https://www.gov.uk/guidance/when-someone-dies-in-ghana"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "pouch_accepted": null,
+    "pouch": null,
+    "last_checked": "2026-10",
+    "cc": "GN",
+    "name": "Guinea",
+    "status": "requirements",
+    "summary": "No official Guinean page on bringing a casket into the country was found. Expect a death certificate, embalming and non-contagious disease certificates, a hermetically sealed casket and authorisation from a Guinean consulate. Confirm with the consulate.",
+    "documents": [
+      "Death certificate (French translation if needed)",
+      "Embalming certificate",
+      "Certificate that death was not due to a contagious disease",
+      "Casket sealing certificate",
+      "Consular authorisation (to be confirmed)"
+    ],
+    "coffin": "Not officially published for entry. A hermetically sealed zinc-lined casket in a wooden outer case is the usual standard.",
+    "embalming": "Not officially published for entry. Usually expected.",
+    "consular": "Not published online. Contact the Guinean embassy or consulate. Guinea is not a party to the 1973 Strasbourg Agreement.",
+    "arrival": "Not officially published. Collection in Conakry by the family or a funeral home. There is no cremation facility in Guinea.",
+    "private_aviation": "No published rule specific to private or charter flights was found. A private aircraft carrying a casket must land at an international airport with customs, immigration and health services; have the local handling agent and receiving funeral home confirm in advance that the remains can be cleared from a private flight.",
+    "private_jet_alert": false,
+    "private_jet_note": "Confirm clearance at Conakry Gbessia with the handling agent before departure.",
+    "export": "Local funeral directors provide the documents for repatriation, including the local death certificate and embalming certificate, and arrange release of the body. A letter of authorisation from the next of kin is required. If there is disagreement over who is next of kin, a family council decision may be needed. Hospitals in Conakry have cold storage, but rural areas may not.",
+    "export_points": [
+      "Death certificate and embalming certificate",
+      "Authorisation letter from the next of kin",
+      "A family council may be needed in disputes",
+      "No cremation in Guinea"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Required, French translation if needed",
+      "embalming": "Usually expected (confirm)",
+      "coffin": "Sealed zinc-lined casket (confirm)",
+      "laissez_passer": "Not published",
+      "consular": "Contact the Guinean consulate",
+      "permit": "Release arranged by funeral director",
+      "arrival": "Family collects; no cremation"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the Guinean consulate for its current list of documents."
+      },
+      {
+        "when": "Day 1",
+        "what": "Embalming, non-contagious disease certificate and casket sealing."
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Consular authorisation or legalisation, if required."
+      },
+      {
+        "when": "Arrival",
+        "what": "Clearance in Conakry, then collection by the family or a funeral home."
+      }
+    ],
+    "key_points": [
+      "Rules for entry are not officially published",
+      "No cremation facility in Guinea",
+      "Exit requires an authorisation letter from the next of kin"
+    ],
+    "lead_days": null,
+    "authority": "Guinean consulate abroad",
+    "sources": [
+      "https://www.gov.uk/government/publications/guinea-bereavement-death-abroad/guinea-bereavement-information"
+    ],
+    "confidence": "low"
+  }
+]

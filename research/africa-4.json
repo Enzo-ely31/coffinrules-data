@@ -1,0 +1,823 @@
+[
+  {
+    "cc": "NE",
+    "name": "Niger",
+    "status": "unknown",
+    "summary": "Niger publishes no official procedure for bringing a coffin into the country. Expect to obtain an authorisation from the Niger embassy or consulate in the country of death and to send the body embalmed in a hermetically sealed coffin; confirm everything with the mission first.",
+    "documents": [
+      "Death certificate (French or with French translation; confirm with the Niger mission)",
+      "Certificate of non-contagious disease",
+      "Embalming certificate",
+      "Coffin sealing record",
+      "Exit or transport permit from the country of death",
+      "Passport or ID of the deceased",
+      "Authorisation or visa from the Niger embassy or consulate (not officially documented online)"
+    ],
+    "coffin": "No official Nigerien specification found. Plan for the international standard of a hermetically sealed zinc-lined inner coffin in a wooden outer coffin, and confirm with the Niger mission.",
+    "embalming": "No official rule published; embalming is normally expected for a long-haul air transfer. Confirm with the Niger mission.",
+    "consular": "Niger has no published repatriation procedure. Contact the Niger embassy or consulate in the country of death before booking; documents may need legalisation rather than an apostille. Niger is not a party to the Strasbourg Agreement, so no mortuary laissez-passer replaces the consular step. The French embassy in Niamey is closed until further notice and cannot provide consular help.",
+    "arrival": "No official information on health or customs clearance at Niamey Diori Hamani airport was found. Arrange a local receiving funeral home or family member in advance.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "UK travel advice reports gunfire near Niamey's Diori Hamani International Airport in 2026 and warns that commercial flights can be disrupted at short notice. A private flight needs landing permission and must use an international airport with customs and health control.",
+    "private_jet_alert": true,
+    "private_jet_note": "Security incidents near Niamey airport in 2026; check airport status and landing permits before departure.",
+    "export": "No official procedure for taking a body out of Niger was found. Expect a death certificate, a medical certificate, embalming and a sealed coffin, plus the authorisations of the local authorities and of the destination country's consulate; confirm with a local funeral home.",
+    "export_points": [
+      "No official export procedure published",
+      "French embassy in Niamey closed; French families need other channels",
+      "Destination country's consulate approval usually needed",
+      "Check airport and security situation before planning"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Required; confirm translation with consulate",
+      "embalming": "Expected; not officially confirmed",
+      "coffin": "Sealed zinc-lined coffin expected",
+      "laissez_passer": "Exit permit from country of death",
+      "consular": "Contact the Niger mission before shipping",
+      "permit": "No official entry procedure published",
+      "arrival": "Niamey airport; check security first"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Obtain the death certificate and appoint a funeral home in the country of death."
+      },
+      {
+        "when": "Day 0-1",
+        "what": "Contact the Niger embassy or consulate for its written list of documents."
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Embalming, non-contagious disease certificate and sealing of the coffin."
+      },
+      {
+        "when": "Day 2-5",
+        "what": "Obtain local exit permit and the Niger consular authorisation; check Niamey airport status."
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs and health clearance in Niamey and handover to the family."
+      }
+    ],
+    "key_points": [
+      "No official Nigerien repatriation guidance was found",
+      "Security near Niamey airport has been volatile in 2026",
+      "Get the consular document list in writing"
+    ],
+    "lead_days": null,
+    "authority": "Niger embassy or consulate in the country of death (procedure not published)",
+    "sources": [
+      "https://www.gov.uk/foreign-travel-advice/niger",
+      "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/niger/"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "NG",
+    "name": "Nigeria",
+    "status": "strict",
+    "summary": "A coffin can enter Nigeria only with a waiver from the Federal Ministry of Health (Port Health Services, Abuja) followed by a letter for shipment of human remains from the Nigerian mission in the country of death. The body must be embalmed and placed in a hermetically sealed metal casket.",
+    "documents": [
+      "Port Health waiver from the Federal Ministry of Health, Abuja (request letter to the Minister of Health giving date, place and cause of death and age)",
+      "Death certificate (notarised or certified copy) and medical certificate of death",
+      "Burial transit permit or certificate for shipping the body out of the country of death",
+      "Non-communicable disease letter or certificate from a coroner, medical examiner or health agency",
+      "Notarised embalmer's affidavit or embalming certificate",
+      "Notarised funeral home letter confirming a hermetically sealed metal casket containing only the remains",
+      "Medical examiner's report if applicable",
+      "Deceased's Nigerian passport, or a notarised affidavit from a relative holding a Nigerian passport",
+      "Funeral home request letter to the mission and contact details of the receiving party in Nigeria",
+      "Mission fee and prepaid return envelope"
+    ],
+    "coffin": "A hermetically sealed metal casket is required, confirmed by a notarised funeral home letter stating that it contains only the remains of the deceased.",
+    "embalming": "Embalming is required, evidenced by a notarised embalmer's affidavit or embalming certificate.",
+    "consular": "After the Federal Ministry of Health waiver is granted, the Nigerian embassy, high commission or consulate checks the file and issues a letter (permission) for shipment of human remains. Fees vary by mission: 50 USD in Atlanta; 50 CAD per page plus a 50 CAD administrative fee in Ottawa, plus a 5,000 naira international waiver fee payable to Port Health Services. Ottawa quotes 10 business days.",
+    "arrival": "Port Health Services check the waiver and documents at the arrival airport before customs release to the family or funeral home. Arrival-side formalities are not detailed on the mission pages consulted.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "The Port Health waiver and mission letter are required whatever the aircraft. A private or charter flight should land at an international airport with Port Health presence (for example Lagos or Abuja) with the waiver, mission letter and original documents travelling with the casket.",
+    "private_jet_alert": true,
+    "private_jet_note": "Do not take off before the Federal Ministry of Health waiver and the mission letter are in hand.",
+    "export": "UK government guidance for taking a body out of Nigeria lists the death certificate, a death certificate from the National Population Commission, permission to remove the body issued by a coroner, the passport of the deceased and an infection-free declaration from the Ministry of Health; rules vary by location. The body must be embalmed (usually after any post-mortem) and placed in a metal casket. Cremation of a foreign national is possible.",
+    "export_points": [
+      "National Population Commission death certificate",
+      "Coroner's permission to remove the body",
+      "Ministry of Health infection-free declaration",
+      "Embalming and a metal casket are required"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Notarised or certified copy required",
+      "embalming": "Mandatory, notarised embalmer affidavit",
+      "coffin": "Hermetically sealed metal casket",
+      "laissez_passer": "Burial transit permit from country of death",
+      "consular": "Mission letter for shipment of remains",
+      "permit": "Federal Ministry of Health Port Health waiver",
+      "arrival": "Port Health clearance at arrival airport"
+    },
+    "steps": [
+      {
+        "when": "Day 0-1",
+        "what": "Send the waiver request letter to the Minister of Health, Federal Ministry of Health, Abuja."
+      },
+      {
+        "when": "Day 0-2",
+        "what": "Embalming, non-communicable disease letter, sealing of the metal casket and notarised letters."
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Submit the full file with the fee to the Nigerian mission in the country of death."
+      },
+      {
+        "when": "Day 3-10",
+        "what": "Waiver received; the mission issues the letter for shipment of human remains. Book the flight."
+      },
+      {
+        "when": "Arrival",
+        "what": "Port Health and customs clearance, then handover to the receiving family or funeral home."
+      }
+    ],
+    "key_points": [
+      "The Ministry of Health waiver is the critical step",
+      "Allow around 10 business days",
+      "Funeral home letters and embalmer affidavit must be notarised",
+      "Fees and lists differ slightly between missions"
+    ],
+    "lead_days": 10,
+    "authority": "Federal Ministry of Health, Port Health Services (Abuja); Nigerian diplomatic mission in the country of death",
+    "sources": [
+      "https://www.nigeriaconsulateatlanta.org/requirements-for-shipping-human-remains-to-nigeria/",
+      "https://nigeriahcottawa.ca/?p=2622",
+      "https://www.gov.uk/guidance/what-to-do-after-a-british-person-dies-in-nigeria"
+    ],
+    "confidence": "high",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "RW",
+    "name": "Rwanda",
+    "status": "requirements",
+    "summary": "To bring a body into Rwanda, the family or funeral home applies to the Rwandan embassy or high commission in the country of death for a body repatriation document (burial permit), with the death certificate, a non-communicable disease certificate and an embalming certificate.",
+    "documents": [
+      "Request letter to the Ambassador or High Commission (from next of kin or funeral home) with contact details of a relative in Rwanda",
+      "Death certificate",
+      "Certificate of non-communicable disease",
+      "Certificate of embalming (mortuary preparation report)",
+      "Certificate or permit for shipping the body out of the country of death (requested by the Ottawa mission)",
+      "Copies of the deceased's identity documents",
+      "Mission form and fee where applicable (Ottawa: burial permit form, free; Washington: 30 USD; Doha: 40 QR)"
+    ],
+    "coffin": "The Rwandan mission pages do not specify casket requirements. Follow the airline and IATA standard (hermetically sealed inner container in a wooden outer coffin) and confirm with the mission.",
+    "embalming": "Embalming is required: every Rwandan mission page consulted lists a certificate of embalming.",
+    "consular": "The Rwandan embassy or high commission in the country of death issues the body repatriation document or burial permit. The Ottawa mission processes it free of charge in up to 3 business days; Washington charges 30 USD and Doha 40 QR. Incomplete applications are returned.",
+    "arrival": "No official description of arrival clearance at Kigali was found. Carry the mission document and originals with the coffin; a relative or funeral home in Rwanda collects it.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No rule specific to private flights was found. Land at an international airport with customs and health control (Kigali International) with the mission document travelling with the coffin.",
+    "private_jet_alert": false,
+    "private_jet_note": "Have the mission's repatriation document issued before departure and carry the originals on board.",
+    "export": "For a body leaving Rwanda, UK guidance says a local death certificate, a certificate of embalming and a certificate giving permission to transfer the body are always required. Local formalities normally take three or four days for a natural death; police investigation of sudden or suspicious deaths can delay release. The only crematorium is the Hindu Mandal crematorium in Bugesera, which needs district authority permission.",
+    "export_points": [
+      "Local death certificate and embalming certificate",
+      "Permission to transfer the body",
+      "Three to four days for a natural death",
+      "Police inquiries can delay suspicious deaths"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Required, from country of death",
+      "embalming": "Required, certificate needed",
+      "coffin": "Not specified; follow airline standard",
+      "laissez_passer": "Shipping permit from country of death",
+      "consular": "Rwandan mission repatriation document",
+      "permit": "Mission burial permit, about 3 days",
+      "arrival": "Family or funeral home collects"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Obtain the death certificate and appoint a funeral home in the country of death."
+      },
+      {
+        "when": "Day 0-1",
+        "what": "Embalming, non-communicable disease certificate and sealing of the coffin."
+      },
+      {
+        "when": "Day 1",
+        "what": "Send the request letter and documents to the Rwandan embassy or high commission."
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Mission issues the repatriation document; obtain the local exit permit and book the flight."
+      },
+      {
+        "when": "Arrival",
+        "what": "Clearance at Kigali and handover to the family or funeral home."
+      }
+    ],
+    "key_points": [
+      "Each Rwandan mission has its own fee and form",
+      "Embalming certificate is always requested",
+      "Incomplete files are returned"
+    ],
+    "lead_days": 3,
+    "authority": "Rwandan embassy or high commission in the country of death",
+    "sources": [
+      "https://www.rwandainusa.gov.rw/services/service-details/body-repatriationusa",
+      "https://www.rwandaincanada.gov.rw/services/service-details/cnd-burial-permit",
+      "https://rwandainqatar.gov.rw/services/service-details/body-repatriation-1",
+      "https://www.gov.uk/government/publications/rwanda-bereavement-information-pack/rwanda-bereavement-information"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "ST",
+    "name": "São Tomé and Príncipe",
+    "status": "unknown",
+    "summary": "No official procedure for bringing a coffin into São Tomé and Príncipe was found. Contact the São Tomé and Príncipe embassy or consulate in the country of death for its document list before booking.",
+    "documents": [
+      "Death certificate (Portuguese or with translation; confirm with the mission)",
+      "Medical certificate of cause of death and non-contagious disease",
+      "Embalming certificate",
+      "Exit or transport permit from the country of death",
+      "Passport or ID of the deceased",
+      "Any authorisation required by the São Tomé and Príncipe mission (not published)"
+    ],
+    "coffin": "No official specification found. Plan for a hermetically sealed zinc-lined inner coffin in a wooden outer coffin and confirm with the mission.",
+    "embalming": "No official rule published; embalming is normally expected for international air transport.",
+    "consular": "No published consular procedure. Ask the São Tomé and Príncipe embassy or consulate whether a transfer authorisation and legalisation of documents are needed.",
+    "arrival": "No official information on clearance at São Tomé International Airport was found.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No rule specific to private flights was found. A private flight should use São Tomé International Airport, with customs and health control, and carry all originals with the coffin.",
+    "private_jet_alert": false,
+    "private_jet_note": "Confirm landing permission and receiving funeral arrangements before departure.",
+    "export": "No official procedure for taking a body out of São Tomé and Príncipe was found. Expect a death certificate, medical and embalming certificates, local authority permission and the destination consulate's authorisation; confirm locally.",
+    "export_points": [
+      "No official export procedure published",
+      "Confirm with local authorities and a funeral home",
+      "Destination country's consulate approval usually needed"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Required; confirm translation with consulate",
+      "embalming": "Expected; not officially confirmed",
+      "coffin": "Sealed zinc-lined coffin expected",
+      "laissez_passer": "Exit permit from country of death",
+      "consular": "Ask the country's embassy or consulate",
+      "permit": "No official entry procedure published",
+      "arrival": "Customs and health check at airport"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Obtain the death certificate and appoint a funeral home."
+      },
+      {
+        "when": "Day 0-1",
+        "what": "Ask the São Tomé and Príncipe mission for its written document list."
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Embalming, health certificate and sealing of the coffin."
+      },
+      {
+        "when": "Day 2-5",
+        "what": "Obtain the local exit permit and any consular authorisation; book the flight."
+      },
+      {
+        "when": "Arrival",
+        "what": "Clearance at São Tomé airport and handover to the family."
+      }
+    ],
+    "key_points": [
+      "No official repatriation guidance was found",
+      "Get the consular document list in writing",
+      "Allow extra time for flight connections"
+    ],
+    "lead_days": null,
+    "authority": "São Tomé and Príncipe embassy or consulate in the country of death (procedure not published)",
+    "sources": [],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "SN",
+    "name": "Senegal",
+    "status": "unknown",
+    "summary": "Senegal publishes no official checklist for bringing a coffin in. In practice the Senegalese embassy or consulate in the country of death authorises the transfer on the basis of the death certificate, health and embalming certificates and the local exit permit; confirm the list with the consulate.",
+    "documents": [
+      "Death certificate with cause of death, in French or translated",
+      "Certificate of non-contagious disease",
+      "Embalming certificate",
+      "Coffin sealing record",
+      "Exit permit or mortuary laissez-passer from the country of death",
+      "Passport or ID of the deceased",
+      "Transfer authorisation from the Senegalese embassy or consulate (practice; not officially documented online)",
+      "Air waybill and details of the receiving family or funeral home"
+    ],
+    "coffin": "No official Senegalese specification found. Plan for a hermetically sealed zinc-lined inner coffin in a wooden outer coffin and confirm with the consulate.",
+    "embalming": "No official entry rule published; Senegal itself requires a certificate of embalming for bodies leaving the country, and embalming is normally expected for air transport. Ask the consulate about religious washing before sealing.",
+    "consular": "The Senegalese embassy or consulate in the country of death is the authority to contact; its document list is not published online. Senegal is not a party to the Strasbourg Agreement, so a mortuary laissez-passer alone is not enough.",
+    "arrival": "No official description of arrival clearance at Dakar Blaise Diagne airport was found. Burial usually follows quickly; arrange a receiving funeral home or family member in advance.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No rule specific to private flights was found. A private flight should land at an international airport with customs and health control (normally Dakar Blaise Diagne) with all originals travelling with the coffin.",
+    "private_jet_alert": false,
+    "private_jet_note": "Ask the consulate to reference the private flight in its authorisation and carry all originals on board.",
+    "export": "UK government guidance for taking a body out of Senegal lists a civil registry death certificate (in French), permission to remove the body, the passport, a certificate of cause of death, a certificate of non-contagiousness, a burial permit from the town hall, a police report, an authorisation from the Ministry of Interior, a transportation certificate and a certificate of embalming. Cremation is not available in Senegal.",
+    "export_points": [
+      "Ministry of Interior authorisation required",
+      "Police report and town hall burial permit",
+      "Non-contagiousness and embalming certificates",
+      "No cremation facilities in Senegal"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Required, French or translated",
+      "embalming": "Expected; confirm with consulate",
+      "coffin": "Sealed zinc-lined coffin expected",
+      "laissez_passer": "Exit permit from country of death",
+      "consular": "Senegalese consulate authorisation (practice)",
+      "permit": "No official entry checklist published",
+      "arrival": "Burial usually soon after arrival"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Obtain the death certificate and appoint a funeral home in the country of death."
+      },
+      {
+        "when": "Day 0-1",
+        "what": "Ask the Senegalese consulate for its written document list."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Embalming, non-contagious disease certificate and sealing of the coffin."
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Obtain the local exit permit and the consular authorisation; book the flight."
+      },
+      {
+        "when": "Arrival",
+        "what": "Clearance at Dakar and handover to the family or funeral home for burial."
+      }
+    ],
+    "key_points": [
+      "Entry list is not published; ask the consulate",
+      "Leaving Senegal needs Ministry of Interior authorisation",
+      "No cremation in Senegal"
+    ],
+    "lead_days": null,
+    "authority": "Senegalese embassy or consulate in the country of death; Ministry of Interior for bodies leaving Senegal",
+    "sources": [
+      "https://www.gov.uk/guidance/when-someone-dies-in-senegal"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "SC",
+    "name": "Seychelles",
+    "status": "unknown",
+    "summary": "No official procedure for bringing a coffin into Seychelles was found. Contact the Seychelles Ministry of Health / Public Health Authority, through the Seychelles mission or the receiving funeral home, before shipping.",
+    "documents": [
+      "Death certificate (English or French, or translated)",
+      "Medical certificate of cause of death and non-contagious disease",
+      "Embalming certificate",
+      "Exit permit from the country of death",
+      "Passport of the deceased",
+      "Any import authorisation from the Seychelles health authorities (not published; confirm)"
+    ],
+    "coffin": "No official specification found. Plan for a hermetically sealed zinc-lined inner coffin in a wooden outer coffin.",
+    "embalming": "No official entry rule published; embalming is normally expected for international air transport.",
+    "consular": "No published consular procedure. Ask the Seychelles embassy, high commission or consulate whether an authorisation or legalisation is needed.",
+    "arrival": "No official information on clearance at Seychelles International Airport (Mahé) was found. A local undertaker should receive the coffin.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No rule specific to private flights was found. A private flight should land at Seychelles International Airport with customs and health control and carry all originals with the coffin.",
+    "private_jet_alert": false,
+    "private_jet_note": "Confirm in advance with the Seychelles health authorities that no import authorisation is needed.",
+    "export": "UK guidance says local formalities for repatriation from Seychelles can take up to seven days or more. The local undertaker handles embalming and preparation; the passport and all original documents, including post-mortem and police reports, must travel with the body. Ashes leaving Seychelles need a letter of authorisation from the Seychelles Public Health Authority.",
+    "export_points": [
+      "Allow seven days or more",
+      "Undertaker handles embalming and documents",
+      "Passport and original reports travel with the body",
+      "Ashes need a Public Health Authority letter"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Required; confirm translation with consulate",
+      "embalming": "Expected; not officially confirmed",
+      "coffin": "Sealed zinc-lined coffin expected",
+      "laissez_passer": "Exit permit from country of death",
+      "consular": "Ask the country's embassy or consulate",
+      "permit": "No official entry procedure published",
+      "arrival": "Customs and health check at airport"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Obtain the death certificate and appoint a funeral home in the country of death."
+      },
+      {
+        "when": "Day 0-1",
+        "what": "Ask the Seychelles mission or health authority for the entry requirements."
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Embalming, health certificate and sealing of the coffin."
+      },
+      {
+        "when": "Day 2-5",
+        "what": "Obtain the local exit permit and any Seychelles authorisation; book the flight."
+      },
+      {
+        "when": "Arrival",
+        "what": "Clearance at Mahé and handover to the local undertaker."
+      }
+    ],
+    "key_points": [
+      "Entry rules are not published",
+      "Leaving Seychelles can take a week or more",
+      "Public Health Authority is involved for ashes"
+    ],
+    "lead_days": null,
+    "authority": "Seychelles Ministry of Health / Public Health Authority (entry procedure not published)",
+    "sources": [
+      "https://www.gov.uk/government/publications/seychelles-bereavement-pack/what-to-do-after-a-british-person-dies-in-seychelles"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "SL",
+    "name": "Sierra Leone",
+    "status": "unknown",
+    "summary": "No official procedure for bringing a coffin into Sierra Leone was found. Contact the Sierra Leone embassy or high commission in the country of death for its requirements before shipping.",
+    "documents": [
+      "Death certificate",
+      "Medical certificate of cause of death and non-contagious disease",
+      "Embalming certificate",
+      "Exit permit from the country of death",
+      "Passport of the deceased",
+      "Any authorisation required by the Sierra Leone mission (not published)"
+    ],
+    "coffin": "No official specification found. Plan for a hermetically sealed zinc-lined inner coffin in a wooden outer coffin.",
+    "embalming": "No official entry rule published; embalming is normally expected for international air transport.",
+    "consular": "No published consular procedure; the Sierra Leone High Commission in London does not list a repatriation service online. Ask the mission directly.",
+    "arrival": "No official information on clearance at Freetown Lungi airport was found. Sierra Leone law requires repatriations out of the country to be handled by a funeral home; use a local funeral home to receive the coffin.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "UK guidance states that only one commercial airline operating from Sierra Leone (Brussels Airlines) carries human remains, so commercial repatriation can take several weeks. A private flight avoids this constraint but must land at Freetown Lungi International Airport with customs and health control.",
+    "private_jet_alert": false,
+    "private_jet_note": "Commercial options for remains are very limited; a private flight can save weeks, but confirm landing permits and paperwork.",
+    "export": "Under Sierra Leone law all repatriations must be carried out by a funeral home. UK guidance lists the death certificate, permission to remove the body issued by a coroner, the passport and (for the UK) a letter of no objection from the British High Commission. Embalming is possible in Freetown but standards are lower than in the UK. Only Brussels Airlines carries remains commercially, so delays of several weeks are possible.",
+    "export_points": [
+      "A funeral home must handle the repatriation",
+      "Coroner's permission to remove the body",
+      "Only one commercial airline carries remains",
+      "Destination consulate's letter may be needed"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Required; confirm translation with consulate",
+      "embalming": "Expected; not officially confirmed",
+      "coffin": "Sealed zinc-lined coffin expected",
+      "laissez_passer": "Exit permit from country of death",
+      "consular": "Ask the country's embassy or consulate",
+      "permit": "No official entry procedure published",
+      "arrival": "Customs and health check at airport"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Obtain the death certificate and appoint a funeral home in the country of death."
+      },
+      {
+        "when": "Day 0-1",
+        "what": "Ask the Sierra Leone mission for its written requirements."
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Embalming, health certificate and sealing of the coffin."
+      },
+      {
+        "when": "Day 2-5",
+        "what": "Obtain the exit permit and any mission authorisation; book the flight."
+      },
+      {
+        "when": "Arrival",
+        "what": "Clearance at Freetown Lungi and handover to the local funeral home."
+      }
+    ],
+    "key_points": [
+      "Entry rules are not published",
+      "Only Brussels Airlines carries remains commercially",
+      "Funeral home is mandatory for repatriations"
+    ],
+    "lead_days": null,
+    "authority": "Sierra Leone embassy or high commission in the country of death (procedure not published)",
+    "sources": [
+      "https://www.gov.uk/guidance/when-someone-dies-in-sierra-leone"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "SO",
+    "name": "Somalia",
+    "status": "unknown",
+    "summary": "No official procedure for bringing a coffin into Somalia was found. Contact the Somali embassy or consulate in the country of death, and for Somaliland the Somaliland authorities, before shipping; the security situation affects airports.",
+    "documents": [
+      "Death certificate (with translation if needed)",
+      "Medical certificate of cause of death and non-contagious disease",
+      "Embalming certificate or statement of the preservation method used",
+      "Exit permit from the country of death",
+      "Passport of the deceased",
+      "Any authorisation required by the Somali mission (not published)"
+    ],
+    "coffin": "No official specification found. Plan for a hermetically sealed inner container in a wooden outer coffin and confirm with the mission.",
+    "embalming": "No official rule published. Families often prefer to avoid embalming for Islamic burial; ask the mission and the airline what alternative is accepted.",
+    "consular": "No published consular procedure. Ask the Somali embassy or consulate; Somaliland (Hargeisa) applies its own entry formalities.",
+    "arrival": "No official information on clearance at Mogadishu or Hargeisa airports was found. Islamic burial is normally held as quickly as possible; arrange the receiving family or burial organisation in advance.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "UK travel advice reports rocket attacks on Mogadishu International Airport in 2025 and notes that Hargeisa applies separate entry rules. A private flight needs landing permission and must use an international airport with customs control; security arrangements are essential.",
+    "private_jet_alert": true,
+    "private_jet_note": "Mogadishu airport has been targeted by attacks; check security, landing permits and the destination (Mogadishu or Hargeisa) before departure.",
+    "export": "No official procedure for taking a body out of Somalia was found. Expect a death certificate, medical certificates, preparation of the body and the destination country's consular authorisation; confirm locally.",
+    "export_points": [
+      "No official export procedure published",
+      "Security affects airports and road transfers",
+      "Destination country's consulate approval usually needed"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Required; confirm translation with consulate",
+      "embalming": "Not confirmed; ask the mission",
+      "coffin": "Sealed zinc-lined coffin expected",
+      "laissez_passer": "Exit permit from country of death",
+      "consular": "Ask the country's embassy or consulate",
+      "permit": "No official entry procedure published",
+      "arrival": "Mogadishu or Hargeisa; check security"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Obtain the death certificate and appoint a funeral home in the country of death."
+      },
+      {
+        "when": "Day 0-1",
+        "what": "Ask the Somali mission (or Somaliland office) for its requirements."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Preparation of the body and sealing of the coffin."
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Obtain the exit permit and any authorisation; check airport security; book the flight."
+      },
+      {
+        "when": "Arrival",
+        "what": "Clearance at Mogadishu or Hargeisa and handover to the family for burial."
+      }
+    ],
+    "key_points": [
+      "No official repatriation guidance was found",
+      "Security at Mogadishu airport is a major factor",
+      "Somaliland applies its own entry rules"
+    ],
+    "lead_days": null,
+    "authority": "Somali embassy or consulate in the country of death (procedure not published)",
+    "sources": [
+      "https://www.gov.uk/foreign-travel-advice/somalia"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "ZA",
+    "name": "South Africa",
+    "status": "strict",
+    "summary": "A coffin can enter South Africa only with an import permit issued in advance by the National Department of Health (Director-General of Health); no permit is issued at the point of entry. The body must be embalmed (unless religion forbids it) and sealed in an airtight container inside a sturdy non-transparent coffin.",
+    "documents": [
+      "Import permit from the National Department of Health, applied for by email to humanremainspermits@health.gov.za (valid 30 days)",
+      "Cover letter from the embassy or funeral undertaker naming the deceased, place of burial, date, place and cause of death, the South African point of entry and the type of transport",
+      "Death certificate clearly stating the cause of death (certified English translation if needed)",
+      "ID document or passport of the deceased",
+      "Embalming certificate (or statement of the alternative preservation method if embalming is refused for religious reasons)",
+      "Letter from a family member requesting the import, with their ID or passport and contact details",
+      "Non-infectious (or infectious) disease certificate signed by a registered medical practitioner or forensic pathologist",
+      "Certificate of Competence of the South African funeral undertaker who will receive the remains"
+    ],
+    "coffin": "For non-infectious remains, the body is sealed in an airtight container and placed in a sturdy, non-transparent coffin. Infectious remains must also be placed in a polythene bag. The sealed container may not be opened without approval of a health officer.",
+    "embalming": "Embalming is required and certified. If embalming cannot be done for religious reasons, a statement from the relevant authority describing the alternative preservation method must be supplied. Bodies of persons who died of smallpox, anthrax or viral haemorrhagic fever must not be embalmed.",
+    "consular": "A South African embassy or the funeral undertaker can submit the permit application; the Consulate General in New York, for example, sends a request letter with the deceased's particulars to Pretoria. Documents not in English need a certified translation. South Africa is not a party to the Strasbourg Agreement.",
+    "arrival": "Port Health (Border Management Authority) detains and inspects human remains on arrival and grants clearance only once permit conditions are met. Remains arriving without a permit can be held in a mortuary at the importer's cost and, if no permit follows within 30 days, buried by order of the Director-General. A certified local undertaker receives the coffin.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "The permit application must name the point of entry and the type of transport, so a private flight must land at the declared port of entry with Port Health (Border Management Authority) presence. The regulations require an airtight container in a sealed coffin on public transport and an approved coffin or container otherwise; confirm acceptable containers with the Department of Health.",
+    "private_jet_alert": true,
+    "private_jet_note": "The Department of Health permit must be issued before take-off and must name your arrival airport.",
+    "export": "Leaving South Africa also requires an export permit from the National Department of Health (applied for by email; about 2 working days once complete). The file includes a cover letter naming the exit point and transport, death certificate with cause of death, ID or passport (or a police affidavit), an embalming certificate stamped by the undertaker and embalmer with the address of the embalming premises, a family request letter, a non-infectious disease certificate, the Notice of Death form (BI-1663), the Burial Order from the Department of Home Affairs and the undertaker's Certificate of Competence.",
+    "export_points": [
+      "Department of Health export permit, about 2 working days",
+      "Burial Order from Home Affairs and BI-1663 notice of death",
+      "Embalming and airtight container in a sealed coffin",
+      "Port Health inspection at departure"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Required, cause of death in English",
+      "embalming": "Required unless religious exemption",
+      "coffin": "Airtight container in sturdy opaque coffin",
+      "laissez_passer": "Export permit of country of death",
+      "consular": "Embassy may submit; translations certified",
+      "permit": "Health Department import permit before departure",
+      "arrival": "Port Health inspection, certified undertaker"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Obtain the death certificate and appoint a funeral home in the country of death and a certified undertaker in South Africa."
+      },
+      {
+        "when": "Day 0-1",
+        "what": "Embalming, non-infectious disease certificate and sealing of the airtight container and coffin."
+      },
+      {
+        "when": "Day 1",
+        "what": "Email the complete import permit application to the National Department of Health."
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Permit issued (target 2 working days); obtain the local exit permit and book the flight to the named point of entry."
+      },
+      {
+        "when": "Arrival",
+        "what": "Port Health inspection and clearance, then handover to the South African undertaker."
+      }
+    ],
+    "key_points": [
+      "No permit is issued at the airport",
+      "Permit valid 30 days and names the entry point",
+      "Incomplete applications are not processed",
+      "Ashes need no permit, only death and cremation certificates"
+    ],
+    "lead_days": 3,
+    "authority": "National Department of Health (Director-General of Health); Port Health, Border Management Authority",
+    "sources": [
+      "https://www.health.gov.za/wp-content/uploads/2024/03/Approved-Guidelines-on-Issuance-of-Human-Remains-Permits-1.pdf",
+      "https://ugu.gov.za/wp-content/uploads/2024/07/Regulation-R363-Relating-to-the-Management-of-Human-remains.pdf",
+      "https://www.sars.gov.za/latest-news/updated-prohibited-and-restricted-imports-and-exports-list-21/",
+      "https://dirco.gov.za/newyork/importing-mortal-remains/",
+      "https://www.gov.uk/guidance/when-someone-dies-in-south-africa"
+    ],
+    "confidence": "high",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "SS",
+    "name": "South Sudan",
+    "status": "unknown",
+    "summary": "No official procedure for bringing a coffin into South Sudan was found. Contact the South Sudan embassy in the country of death before shipping, and check that Juba airport and the airspace are open.",
+    "documents": [
+      "Death certificate (English or translated)",
+      "Medical certificate of cause of death and non-contagious disease",
+      "Embalming certificate",
+      "Exit permit from the country of death",
+      "Passport of the deceased",
+      "Any authorisation required by the South Sudan mission (not published)"
+    ],
+    "coffin": "No official specification found. Plan for a hermetically sealed zinc-lined inner coffin in a wooden outer coffin.",
+    "embalming": "No official rule published; embalming is normally expected for international air transport.",
+    "consular": "No published consular procedure. Ask the South Sudan embassy whether an authorisation or legalisation is required.",
+    "arrival": "No official information on clearance at Juba International Airport was found. Arrange the receiving family or funeral home in advance.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "UK travel advice warns that Juba airport may close or be inaccessible, flights can be cancelled at short notice and South Sudan's airspace has closed temporarily in the past because of events in Sudan. A private flight needs landing permission at Juba and current security information.",
+    "private_jet_alert": true,
+    "private_jet_note": "Juba airport and airspace can close at short notice; confirm status and permits the day before departure.",
+    "export": "No official procedure for taking a body out of South Sudan was found. Expect a death certificate, medical and embalming certificates and the destination country's consular authorisation; consular support from many countries is very limited.",
+    "export_points": [
+      "No official export procedure published",
+      "Consular support is severely limited",
+      "Flights from Juba can be cancelled at short notice"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Required; confirm translation with consulate",
+      "embalming": "Expected; not officially confirmed",
+      "coffin": "Sealed zinc-lined coffin expected",
+      "laissez_passer": "Exit permit from country of death",
+      "consular": "Ask the country's embassy or consulate",
+      "permit": "No official entry procedure published",
+      "arrival": "Juba airport; check it is open"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Obtain the death certificate and appoint a funeral home in the country of death."
+      },
+      {
+        "when": "Day 0-1",
+        "what": "Ask the South Sudan embassy for its written requirements."
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Embalming, health certificate and sealing of the coffin."
+      },
+      {
+        "when": "Day 2-5",
+        "what": "Obtain exit permit and any authorisation; check Juba airport status; book the flight."
+      },
+      {
+        "when": "Arrival",
+        "what": "Clearance at Juba and handover to the family."
+      }
+    ],
+    "key_points": [
+      "No official repatriation guidance was found",
+      "Juba airport and airspace can close suddenly",
+      "Consular help on the ground is limited"
+    ],
+    "lead_days": null,
+    "authority": "South Sudan embassy in the country of death (procedure not published)",
+    "sources": [
+      "https://www.gov.uk/foreign-travel-advice/south-sudan"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "SD",
+    "name": "Sudan",
+    "status": "unknown",
+    "summary": "No official procedure for bringing a coffin into Sudan was found, and the ongoing conflict severely limits airports and services. Contact the Sudanese embassy in the country of death and check airport status before any plan.",
+    "documents": [
+      "Death certificate (Arabic or translated)",
+      "Medical certificate of cause of death and non-contagious disease",
+      "Embalming certificate or statement of preservation method",
+      "Exit permit from the country of death",
+      "Passport of the deceased",
+      "Any authorisation required by the Sudanese embassy (not published)"
+    ],
+    "coffin": "No official specification found. Plan for a hermetically sealed inner container in a wooden outer coffin and confirm with the embassy.",
+    "embalming": "No official entry rule published. Families may prefer to avoid embalming for Islamic burial; ask the embassy and airline what is accepted.",
+    "consular": "No published consular procedure. Ask the Sudanese embassy or consulate whether an authorisation or legalisation is required.",
+    "arrival": "No official arrival procedure was found. UK travel advice says Khartoum and Port Sudan airports operate limited flights and have been targeted by drone strikes. Islamic burial is normally held quickly; arrange the receiving family in advance.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "Khartoum and Port Sudan airports operate limited flights and may close temporarily after drone strikes. A private flight needs landing and overflight permission and current security information.",
+    "private_jet_alert": true,
+    "private_jet_note": "Sudan is in active conflict; airports can close at short notice. Confirm permits and status before departure.",
+    "export": "UK guidance (2021) says deaths are registered at the district health office and the death certificate is issued in Arabic; embalming is required for repatriation, and the local undertaker needs a permission letter signed and stamped by the destination country's embassy. A death certificate can state the cause as not yet determined to allow repatriation while a forensic report is pending. Consular support inside Sudan is now severely limited.",
+    "export_points": [
+      "Death registered at district health office, certificate in Arabic",
+      "Embalming required for repatriation",
+      "Destination embassy permission letter needed",
+      "Conflict severely limits flights and consular help"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Required; confirm translation with consulate",
+      "embalming": "Not confirmed for entry; ask embassy",
+      "coffin": "Sealed zinc-lined coffin expected",
+      "laissez_passer": "Exit permit from country of death",
+      "consular": "Ask the country's embassy or consulate",
+      "permit": "No official entry procedure published",
+      "arrival": "Limited airports; check status first"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Obtain the death certificate and appoint a funeral home in the country of death."
+      },
+      {
+        "when": "Day 0-1",
+        "what": "Ask the Sudanese embassy for its written requirements."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Preparation of the body and sealing of the coffin."
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Obtain exit permit and any authorisation; check airport status and permits; book the flight."
+      },
+      {
+        "when": "Arrival",
+        "what": "Clearance at the arrival airport and handover to the family for burial."
+      }
+    ],
+    "key_points": [
+      "No official entry guidance was found",
+      "Active conflict affects airports and services",
+      "Exit needs destination embassy letter and embalming"
+    ],
+    "lead_days": null,
+    "authority": "Sudanese embassy in the country of death (procedure not published)",
+    "sources": [
+      "https://www.gov.uk/government/publications/sudan-bereavement-death-abroad/sudan-bereavement-death-abroad",
+      "https://www.gov.uk/foreign-travel-advice/sudan"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  }
+]

@@ -1,0 +1,721 @@
+[
+  {
+    "cc": "AE",
+    "name": "United Arab Emirates",
+    "status": "requirements",
+    "summary": "Bringing a casket into the UAE goes through the UAE embassy or consulate in the country of death, which attests the death certificate and its Arabic translation; detailed import rules for non-nationals are not published, so confirm with the consulate. Leaving the UAE requires police no-objection letters, an attested death certificate, embalming and the home embassy's no-objection letter.",
+    "documents": [
+      "Death certificate attested by the country of death and by the UAE embassy, with certified Arabic translation (official u.ae list for UAE nationals)",
+      "Report on the cause of death (UAE Ministry of Foreign Affairs, for UAE nationals)",
+      "Embalming certificate and certificate of sealed casket (expected; confirm with the consulate)",
+      "Copy of the deceased's passport and airway bill"
+    ],
+    "coffin": "No official UAE import standard for the casket was found. Use a hermetically sealed, zinc-lined casket in an outer wooden case meeting IATA/airline requirements; confirm with the UAE consulate.",
+    "embalming": "Embalming is required for remains leaving the UAE (gov.uk). For incoming remains, embalming is expected but not confirmed by an official UAE source.",
+    "consular": "For UAE nationals who die abroad, the UAE embassy in the country of death attests the death certificate and translates it into Arabic. For non-UAE nationals being buried in the UAE, confirm requirements with the UAE consulate.",
+    "arrival": "No official arrival procedure was found. The receiving funeral service collects the casket after customs and health clearance; Muslim burials are normally held very quickly. Local burial needs a burial permit from the police (u.ae).",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No official rule specific to private or charter flights carrying human remains was found for the UAE. Remains are cleared like air cargo: plan arrival at an international airport with customs and health staff, and have the handling agent and the receiving funeral home confirm clearance before departure.",
+    "private_jet_alert": false,
+    "private_jet_note": "Confirm cargo and customs clearance of the casket with the handling agent at the UAE arrival airport.",
+    "export": "The death must be registered and an official death certificate issued; MOFA stamps and signs the certificate and its translation. Police issue no-objection letters (to the airport police, embalming facility and mortuary). The deceased's embassy issues a no-objection letter and cancels the passport; the residency visa is cancelled. The body must be embalmed and placed in a coffin meeting specific rules; documents travel with the body (with seven photocopies each for the cargo handler). Cremation is possible. Typical delay is a few days, longer if a forensic report is needed.",
+    "export_points": [
+      "Death certificate stamped by the UAE Ministry of Foreign Affairs",
+      "Police no-objection letters for mortuary, embalming and airport",
+      "Embassy no-objection letter and cancelled passport",
+      "Embalming certificate; seven copies of each document"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Attested by UAE embassy, Arabic translation",
+      "embalming": "Expected; required for exit",
+      "coffin": "Sealed casket, airline standard",
+      "laissez_passer": "Not applicable (no Strasbourg)",
+      "consular": "UAE embassy attests documents",
+      "permit": "Police NOCs for exit",
+      "arrival": "Customs clearance, then quick burial"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the UAE embassy or consulate in the country of death and appoint funeral directors at both ends."
+      },
+      {
+        "when": "Day 1",
+        "what": "Obtain the local death certificate, non-contagious disease certificate and embalming certificate."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Have the death certificate legalised and translated into Arabic, then attested by the UAE embassy."
+      },
+      {
+        "when": "Day 2",
+        "what": "Seal the casket, book the flight and send copies to the receiving UAE funeral service."
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs and health clearance at the airport, collection by the funeral service, burial."
+      }
+    ],
+    "key_points": [
+      "Official UAE guidance covers UAE nationals dying abroad; for others confirm with the consulate",
+      "Procedures can vary by emirate",
+      "UAE weekend is Saturday-Sunday for government offices; plan around it"
+    ],
+    "lead_days": null,
+    "authority": "UAE embassy/consulate abroad; Ministry of Foreign Affairs; police and Ministry of Health and Prevention (exit)",
+    "sources": [
+      "https://www.gov.uk/guidance/when-someone-dies-in-the-united-arab-emirates",
+      "https://u.ae/en/information-and-services/social-affairs/Life-events/deaths",
+      "https://ajman.ae/en/node/277"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "SA",
+    "name": "Saudi Arabia",
+    "status": "strict",
+    "summary": "No official Saudi procedure for importing a casket was found; expect the death certificate to be legalised by the Saudi embassy and translated into Arabic, and confirm with the consulate. Sending remains out of Saudi Arabia is slow: sponsor-led, with embassy NOC, governorate and police approvals and mandatory embalming, usually 3 to 6 weeks.",
+    "documents": [
+      "Death certificate, legalised by the destination country's embassy/consulate and translated into Arabic (confirm with the consulate)",
+      "Medical certificate stating the death was not due to a contagious disease (confirm with the consulate)",
+      "Embalming certificate (confirm with the consulate)",
+      "Certificate of hermetic sealing of the casket (confirm with the consulate)",
+      "Copy of the deceased's passport and airway bill"
+    ],
+    "coffin": "No official Saudi import standard was found. Use a hermetically sealed, zinc-lined casket in an outer wooden case meeting airline requirements; confirm with the Saudi consulate.",
+    "embalming": "Embalming is mandatory before remains leave Saudi Arabia (British Embassy Riyadh). For incoming remains, embalming is expected but not confirmed officially.",
+    "consular": "Documents are normally legalised by the Saudi embassy or consulate in the country of death. Specific import requirements are not published; confirm with the consulate.",
+    "arrival": "No official arrival procedure was found. Burial options for non-Muslims in Saudi Arabia are very limited (not confirmed by an official source; check with the consulate). Muslim burial normally takes place very quickly; government offices are closed Friday and Saturday.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No official rule specific to private or charter flights carrying human remains was found for Saudi Arabia. Remains are cleared like air cargo: plan arrival at an international airport with customs and health staff, and have the handling agent and the receiving funeral home confirm clearance before departure.",
+    "private_jet_alert": false,
+    "private_jet_note": "Confirm customs clearance of the casket and the receiving funeral service before departure.",
+    "export": "The sponsor/employer drives the process. The deceased's embassy issues a no-objection certificate (after the next of kin's consent or power of attorney). The city Principality/Governorate instructs police, who issue letters to the mortuary, passport office (exit visa), cargo and customs. A 'Death Certificate for Non-Saudis' is issued by the Civil Affairs office; documents are attested by the Saudi Ministry of Foreign Affairs. Embalming is mandatory, done at a government hospital mortuary about 12 hours before departure, with an embalming certificate and letter to the airline. The body goes to the cargo office 6 to 12 hours before departure. Typical delay 3 to 6 weeks; months for unnatural deaths.",
+    "export_points": [
+      "Sponsor handles the process; embassy NOC first",
+      "Governorate and police permission, final exit visa",
+      "Mandatory embalming at a government mortuary",
+      "Typically 3 to 6 weeks, longer if investigated"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Legalised by Saudi embassy, Arabic translation",
+      "embalming": "Expected; mandatory for exit",
+      "coffin": "Sealed casket, airline standard",
+      "laissez_passer": "Not applicable (no Strasbourg)",
+      "consular": "Saudi embassy legalises documents",
+      "permit": "Governorate and police approvals for exit",
+      "arrival": "Customs clearance; confirm burial plot first"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the Saudi embassy or consulate and appoint funeral directors at both ends."
+      },
+      {
+        "when": "Day 1",
+        "what": "Obtain death certificate, non-contagious disease and embalming certificates."
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Legalise documents at the Saudi consulate and translate them into Arabic."
+      },
+      {
+        "when": "Day 3",
+        "what": "Seal the casket, book the flight, confirm the receiving funeral service and burial plot."
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs and health clearance, collection and burial."
+      }
+    ],
+    "key_points": [
+      "Non-Muslim burial is very limited; confirm before travel",
+      "Government offices closed Friday and Saturday, no out-of-hours service",
+      "Exit procedures typically take 3 to 6 weeks"
+    ],
+    "lead_days": null,
+    "authority": "Saudi embassy/consulate abroad; Ministry of Foreign Affairs; Governorate, police and Civil Affairs (exit)",
+    "sources": [
+      "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/846855/Saudi_Arabia_Bereavement_Guide.pdf",
+      "https://www.eoiriyadh.gov.in/page/disposal-transportation-of-mortal-remains/"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "QA",
+    "name": "Qatar",
+    "status": "requirements",
+    "summary": "No official Qatari procedure for importing a casket was found; confirm documents with the Qatari embassy. Leaving Qatar requires a police transfer of dead body certificate, embalming and sealing certificate and the home embassy's no-objection letter, coordinated through the Humanitarian Services Office.",
+    "documents": [
+      "Death certificate, legalised by the destination country's embassy/consulate and translated into Arabic (confirm with the consulate)",
+      "Medical certificate stating the death was not due to a contagious disease (confirm with the consulate)",
+      "Embalming certificate (confirm with the consulate)",
+      "Certificate of hermetic sealing of the casket (confirm with the consulate)",
+      "Copy of the deceased's passport and airway bill"
+    ],
+    "coffin": "No official Qatari import standard was found. Use a hermetically sealed, zinc-lined casket in an outer wooden case meeting airline requirements; confirm with the Qatari consulate.",
+    "embalming": "Remains leaving Qatar must have an embalming and sealing certificate (gov.uk). Incoming embalming rules are not published officially.",
+    "consular": "Not published; confirm legalisation and Arabic translation requirements with the Qatari embassy or consulate.",
+    "arrival": "No official arrival procedure was found. Customs and health clearance at the airport; collection by the receiving funeral service. Cremation is not possible in Qatar.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No official rule specific to private or charter flights carrying human remains was found for Qatar. Remains are cleared like air cargo: plan arrival at an international airport with customs and health staff, and have the handling agent and the receiving funeral home confirm clearance before departure.",
+    "private_jet_alert": false,
+    "private_jet_note": "Confirm customs clearance of the casket with the handling agent in Doha before departure.",
+    "export": "The death is registered and a bilingual death certificate issued. The Humanitarian Services Office (behind Hamad Hospital mortuary, open daily 7am-6pm) issues burial and repatriation documents free of charge. Required: embalming and sealing certificate, police transfer of dead body certificate, the home embassy's no-objection letter (which cancels the passport), the doctor's notification of death and an immigration exit stamp. Customs permission is obtained at the cargo building and documents travel with the body. Cremation is not possible.",
+    "export_points": [
+      "Humanitarian Services Office issues documents free",
+      "Embalming and sealing certificate, police transfer certificate",
+      "Embassy no-objection letter and exit stamp",
+      "Cremation not available in Qatar"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Legalised and translated (confirm)",
+      "embalming": "Expected; required for exit",
+      "coffin": "Sealed casket, airline standard",
+      "laissez_passer": "Not applicable (no Strasbourg)",
+      "consular": "Check with Qatari consulate",
+      "permit": "Police transfer certificate for exit",
+      "arrival": "Customs clearance, funeral service collects"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the Qatari embassy or consulate and appoint funeral directors at both ends."
+      },
+      {
+        "when": "Day 1",
+        "what": "Obtain death certificate, non-contagious disease and embalming certificates."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Legalise and translate documents as the consulate requires."
+      },
+      {
+        "when": "Day 2",
+        "what": "Seal the casket, book the flight and confirm the receiving funeral service."
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs and health clearance, collection and burial."
+      }
+    ],
+    "key_points": [
+      "Import rules are not published; ask the consulate early",
+      "Cremation is not possible in Qatar",
+      "Humanitarian Services Office handles exit paperwork"
+    ],
+    "lead_days": null,
+    "authority": "Qatari embassy/consulate abroad; Humanitarian Services Office and police (exit)",
+    "sources": [
+      "https://www.gov.uk/guidance/when-someone-dies-in-qatar"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "KW",
+    "name": "Kuwait",
+    "status": "strict",
+    "summary": "No official Kuwaiti procedure for importing a casket was found; confirm with the Kuwaiti embassy. Sending remains out of Kuwait requires prosecutor and police permission, a Certificate of Repatriation from the Preventive Medicine Unit and a sealed shipping container; embalming is not available in Kuwait.",
+    "documents": [
+      "Death certificate, legalised by the destination country's embassy/consulate and translated into Arabic (confirm with the consulate)",
+      "Medical certificate stating the death was not due to a contagious disease (confirm with the consulate)",
+      "Embalming certificate (confirm with the consulate)",
+      "Certificate of hermetic sealing of the casket (confirm with the consulate)",
+      "Copy of the deceased's passport and airway bill"
+    ],
+    "coffin": "No official Kuwaiti import standard was found. Use a hermetically sealed casket in an outer case meeting airline requirements; confirm with the Kuwaiti consulate.",
+    "embalming": "Embalming and cremation are not available in Kuwait (against Islamic law and custom, per British Embassy guidance). Whether embalming is required for incoming remains is not published.",
+    "consular": "Not published; confirm legalisation and Arabic translation with the Kuwaiti embassy or consulate. Kuwaiti documents must be attested by the Kuwait Ministry of Foreign Affairs.",
+    "arrival": "No official arrival procedure was found. Burial is not permitted after sunset; government offices are closed Friday and Saturday with no emergency service.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No official rule specific to private or charter flights carrying human remains was found for Kuwait. Remains are cleared like air cargo: plan arrival at an international airport with customs and health staff, and have the handling agent and the receiving funeral home confirm clearance before departure.",
+    "private_jet_alert": false,
+    "private_jet_note": "Exit requires Airport Police, Health Office and cargo to be informed; confirm with the handling agent.",
+    "export": "Register the death at the Central Registry (Hawalli or Ahmadi); the certificate is attested by the Kuwait MOFA and translated. The Preventive Medicine Department must complete tests and the Prosecutor must authorise release; police issue a repatriation permit. The Preventive Medicine Unit at Al-Sabah Hospital issues a Certificate of Repatriation and transfer authorisation; the General Department of Criminal Evidence is notified. Al-Sabah Hospital Mortuary is the only facility preparing remains for shipment. No embalming: the body goes in a sealed shipping container; the shipping agent witnesses casketing and an embassy representative applies the seal on shipment day. Post-mortem reports take 3 to 4 weeks.",
+    "export_points": [
+      "Prosecutor permission and police repatriation permit",
+      "Certificate of Repatriation from Preventive Medicine Unit",
+      "No embalming available; sealed shipping container",
+      "Embassy representative seals the container"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Legalised and translated (confirm)",
+      "embalming": "Not available in Kuwait",
+      "coffin": "Sealed shipping container",
+      "laissez_passer": "Not applicable (no Strasbourg)",
+      "consular": "Check with Kuwaiti consulate",
+      "permit": "Prosecutor and police permits for exit",
+      "arrival": "No burial after sunset"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the Kuwaiti embassy or consulate and appoint funeral directors at both ends."
+      },
+      {
+        "when": "Day 1",
+        "what": "Obtain death certificate, non-contagious disease and embalming or sealing certificates."
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Legalise and translate documents as the consulate requires."
+      },
+      {
+        "when": "Day 3",
+        "what": "Seal the casket, book the flight and confirm the receiving funeral service."
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs and health clearance, collection and burial before sunset."
+      }
+    ],
+    "key_points": [
+      "Embalming and cremation are not available in Kuwait",
+      "Government offices closed Friday and Saturday",
+      "Sudden deaths can mean weeks of inquiry before release"
+    ],
+    "lead_days": null,
+    "authority": "Kuwaiti embassy/consulate abroad; Preventive Medicine Department, Prosecutor and police (exit)",
+    "sources": [
+      "https://www.gov.uk/government/publications/kuwait-bereavement-information/kuwait-bereavement-information"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "BH",
+    "name": "Bahrain",
+    "status": "requirements",
+    "summary": "No official Bahraini procedure for importing a casket was found; confirm with the Bahraini embassy. Leaving Bahrain normally takes 7 to 10 days and requires an embalming and sealing certificate, a police transfer of dead body certificate and the home embassy's no-objection letter.",
+    "documents": [
+      "Death certificate, legalised by the destination country's embassy/consulate and translated into Arabic (confirm with the consulate)",
+      "Medical certificate stating the death was not due to a contagious disease (confirm with the consulate)",
+      "Embalming certificate (confirm with the consulate)",
+      "Certificate of hermetic sealing of the casket (confirm with the consulate)",
+      "Copy of the deceased's passport and airway bill"
+    ],
+    "coffin": "No official Bahraini import standard was found. Use a hermetically sealed, zinc-lined casket in an outer wooden case meeting airline requirements; confirm with the Bahraini consulate.",
+    "embalming": "Remains leaving Bahrain need an embalming and sealing certificate (gov.uk). Incoming embalming rules are not published officially.",
+    "consular": "Not published; confirm legalisation and Arabic translation with the Bahraini embassy or consulate.",
+    "arrival": "No official arrival procedure was found. Customs and health clearance at Bahrain International Airport; collection by the receiving funeral service, mosque or church.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No official rule specific to private or charter flights carrying human remains was found for Bahrain. Remains are cleared like air cargo: plan arrival at an international airport with customs and health staff, and have the handling agent and the receiving funeral home confirm clearance before departure.",
+    "private_jet_alert": false,
+    "private_jet_note": "Confirm customs clearance of the casket with the handling agent before departure.",
+    "export": "Required: death certificate (can be attested at the Ministry of Foreign Affairs), notification of cause of death, embalming and sealing certificate, police transfer of dead body certificate, cancelled passport and the home embassy's no-objection letter. The body must be identified by someone who knew the deceased. Release can follow within a day of the no-objection letter; repatriation normally takes 7 to 10 days. Cremation is possible at the Hindu cremation ground in Askar.",
+    "export_points": [
+      "Embalming and sealing certificate",
+      "Police transfer of dead body certificate",
+      "Embassy no-objection letter, cancelled passport",
+      "Usually 7 to 10 days"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Legalised and translated (confirm)",
+      "embalming": "Expected; required for exit",
+      "coffin": "Sealed casket, airline standard",
+      "laissez_passer": "Not applicable (no Strasbourg)",
+      "consular": "Check with Bahraini consulate",
+      "permit": "Police transfer certificate for exit",
+      "arrival": "Customs clearance, funeral service collects"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the Bahraini embassy or consulate and appoint funeral directors at both ends."
+      },
+      {
+        "when": "Day 1",
+        "what": "Obtain death certificate, non-contagious disease and embalming certificates."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Legalise and translate documents as the consulate requires."
+      },
+      {
+        "when": "Day 2",
+        "what": "Seal the casket, book the flight and confirm the receiving funeral service."
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs and health clearance, collection and burial."
+      }
+    ],
+    "key_points": [
+      "Import rules are not published; ask the consulate early",
+      "Cremation is available in Bahrain (Askar)",
+      "Exit repatriation normally 7 to 10 days"
+    ],
+    "lead_days": null,
+    "authority": "Bahraini embassy/consulate abroad; police and Ministry of Foreign Affairs (exit)",
+    "sources": [
+      "https://www.gov.uk/guidance/when-someone-dies-in-bahrain",
+      "https://www.gov.uk/government/publications/bahrain-bereavement-information-pack"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "OM",
+    "name": "Oman",
+    "status": "requirements",
+    "summary": "No official Omani procedure for importing a casket was found; confirm with the Omani embassy. Leaving Oman requires a death certificate, embalming certificate, certificate that the remains are free from infectious disease and a coffin sealing certificate, with embalming and a zinc-lined coffin.",
+    "documents": [
+      "Death certificate, legalised by the destination country's embassy/consulate and translated into Arabic (confirm with the consulate)",
+      "Medical certificate stating the death was not due to a contagious disease (confirm with the consulate)",
+      "Embalming certificate (confirm with the consulate)",
+      "Certificate of hermetic sealing of the casket (confirm with the consulate)",
+      "Copy of the deceased's passport and airway bill"
+    ],
+    "coffin": "No official Omani import standard was found. A zinc-lined, sealed coffin is the standard for international transport (gov.uk); confirm with the Omani consulate.",
+    "embalming": "Embalming is required for remains leaving Oman (gov.uk). Incoming embalming rules are not published officially.",
+    "consular": "Not published; confirm legalisation and Arabic translation with the Omani embassy or consulate.",
+    "arrival": "No official arrival procedure was found. Customs and health clearance at the airport; collection by the receiving funeral service.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No official rule specific to private or charter flights carrying human remains was found for Oman. Remains are cleared like air cargo: plan arrival at an international airport with customs and health staff, and have the handling agent and the receiving funeral home confirm clearance before departure.",
+    "private_jet_alert": false,
+    "private_jet_note": "Confirm customs clearance of the casket with the handling agent before departure.",
+    "export": "The death is registered at the Royal Oman Police civil status office; the ROP takes the body to the police mortuary in Qurum. The bilingual death certificate requires the notification of death, the home embassy's no-objection certificate and a next-of-kin authorisation. The airline needs the death certificate, embalming certificate, certificate that the remains are free from infectious diseases and a coffin sealing certificate. Embalming and a zinc-lined coffin are required. Delay not published.",
+    "export_points": [
+      "Registration with Royal Oman Police civil status",
+      "Embassy no-objection certificate",
+      "Embalming, infectious-disease-free and sealing certificates",
+      "Zinc-lined coffin required"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Legalised and translated (confirm)",
+      "embalming": "Expected; required for exit",
+      "coffin": "Zinc-lined sealed coffin",
+      "laissez_passer": "Not applicable (no Strasbourg)",
+      "consular": "Check with Omani consulate",
+      "permit": "ROP registration and embassy NOC (exit)",
+      "arrival": "Customs clearance, funeral service collects"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the Omani embassy or consulate and appoint funeral directors at both ends."
+      },
+      {
+        "when": "Day 1",
+        "what": "Obtain death certificate, non-contagious disease and embalming certificates."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Legalise and translate documents as the consulate requires."
+      },
+      {
+        "when": "Day 2",
+        "what": "Seal the zinc-lined casket, book the flight and confirm the receiving funeral service."
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs and health clearance, collection and burial."
+      }
+    ],
+    "key_points": [
+      "Import rules are not published; ask the consulate early",
+      "Royal Oman Police registers deaths and holds remains in Qurum",
+      "Zinc-lined coffin and embalming for exit"
+    ],
+    "lead_days": null,
+    "authority": "Omani embassy/consulate abroad; Royal Oman Police (exit)",
+    "sources": [
+      "https://www.gov.uk/guidance/when-someone-dies-in-oman",
+      "https://oman.embassy.gov.lk/?p=357"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "YE",
+    "name": "Yemen",
+    "status": "unknown",
+    "summary": "No reliable official information on bringing a casket into Yemen was found. The country is in conflict, foreign embassies such as the British Embassy in Sana'a have suspended services, and airports can close at short notice; confirm every step with the Yemeni embassy before planning.",
+    "documents": [
+      "Not published; expect a death certificate legalised by the Yemeni embassy with Arabic translation, a non-contagious disease certificate, embalming and sealing certificates (confirm with the consulate)"
+    ],
+    "coffin": "Not published. Use a hermetically sealed, zinc-lined casket in an outer wooden case meeting airline requirements; confirm with the Yemeni consulate.",
+    "embalming": "Not published; confirm with the Yemeni consulate.",
+    "consular": "Not published; the Yemeni embassy or consulate in the country of death is the starting point for legalisation and any transfer authorisation.",
+    "arrival": "Not published. Confirm which airport is operating and who will collect the remains before departure.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No official information found. Yemen is a conflict zone; airports and airspace can close at short notice (gov.uk travel advice). Landing and overflight permissions must be confirmed before any flight is planned.",
+    "private_jet_alert": true,
+    "private_jet_note": "Conflict zone: confirm airport status, landing permission and insurance before scheduling.",
+    "export": "Not published. Foreign consular support is severely limited (British Embassy Sana'a services suspended). Confirm exit requirements with the deceased's embassy covering Yemen and the Yemeni authorities.",
+    "export_points": [
+      "No reliable official exit procedure found",
+      "Foreign consular services largely suspended",
+      "Airports may close at short notice"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Confirm with Yemeni consulate",
+      "embalming": "Not published",
+      "coffin": "Sealed casket, airline standard",
+      "laissez_passer": "Not applicable (no Strasbourg)",
+      "consular": "Yemeni embassy is the starting point",
+      "permit": "Not published",
+      "arrival": "Confirm operating airport first"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the Yemeni embassy or consulate and a funeral director experienced with Yemen."
+      },
+      {
+        "when": "Day 1",
+        "what": "Obtain death certificate, non-contagious disease and embalming certificates."
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Legalise and translate documents as the consulate requires."
+      },
+      {
+        "when": "Before flight",
+        "what": "Confirm airport status, landing permission and receiving party in Yemen."
+      },
+      {
+        "when": "Arrival",
+        "what": "Clearance and collection as arranged locally."
+      }
+    ],
+    "key_points": [
+      "No reliable official procedure published",
+      "Security situation can disrupt flights",
+      "Start with the Yemeni consulate"
+    ],
+    "lead_days": null,
+    "authority": "Yemeni embassy/consulate abroad",
+    "sources": [
+      "https://www.gov.uk/foreign-travel-advice/yemen"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "JO",
+    "name": "Jordan",
+    "status": "requirements",
+    "summary": "A foreign death certificate for a Jordanian must be attested by the Jordanian embassy (or MOFA route) and translated into Arabic by a certified centre; detailed casket import rules are not published, so confirm with the Jordanian consulate. Leaving Jordan requires the home embassy's no-objection letter and next-of-kin consent; burial is normally within 24 hours.",
+    "documents": [
+      "Official foreign death certificate, attested by the Jordanian embassy in the country of death",
+      "Certified Arabic translation of the death certificate",
+      "Medical certificate of non-contagious disease (expected; confirm with the consulate)",
+      "Embalming and sealed casket certificates (expected; confirm with the consulate)",
+      "Deceased's passport or Jordanian ID"
+    ],
+    "coffin": "No official Jordanian import standard was found. Use a hermetically sealed, zinc-lined casket in an outer wooden case meeting airline requirements; confirm with the Jordanian consulate.",
+    "embalming": "Not published officially for incoming remains; confirm with the consulate. Infectious conditions (such as hepatitis or HIV) must be declared to the authorities.",
+    "consular": "The Jordanian embassy or consulate attests the foreign death certificate; the death of a Jordanian can be registered with the Civil Status and Passports Department or at a Jordanian embassy (JD1 fee, extra JD10 after 7 days).",
+    "arrival": "Burial is required within 24 hours of death; a Ministry of Health permit can extend this to 72 hours if remains are kept in a suitable facility (gov.uk). Cremation is not permitted in Jordan.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No official rule specific to private flights carrying human remains was found. Plan arrival at an international airport (e.g. Amman Queen Alia) with customs and health staff, and confirm clearance with the handling agent.",
+    "private_jet_alert": false,
+    "private_jet_note": "Confirm customs clearance and the funeral service at the arrival airport before departure.",
+    "export": "The hospital issues a notification of death; the Civil Status and Passports Department issues the death certificate (Arabic; English version on request, without cause of death). Deaths outside hospital require an autopsy (usually within 2 to 3 days). Jordanian authorities require a no-objection letter from the deceased's embassy and written next-of-kin consent. Embalming and sealing requirements for exit are not published officially. Cremation is not permitted.",
+    "export_points": [
+      "Death certificate from Civil Status and Passports Department",
+      "Embassy no-objection letter and next-of-kin consent",
+      "Autopsy mandatory for deaths outside hospital",
+      "Cremation not permitted in Jordan"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Attested by Jordanian embassy, Arabic translation",
+      "embalming": "Confirm with consulate",
+      "coffin": "Sealed casket, airline standard",
+      "laissez_passer": "Not applicable (no Strasbourg)",
+      "consular": "Jordanian embassy attests the certificate",
+      "permit": "Embassy NOC for exit",
+      "arrival": "Burial within 24 hours (72 with permit)"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the Jordanian embassy or consulate and appoint funeral directors at both ends."
+      },
+      {
+        "when": "Day 1",
+        "what": "Obtain the death certificate, non-contagious disease and embalming certificates."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Have the death certificate attested by the Jordanian embassy and translated into Arabic."
+      },
+      {
+        "when": "Day 2",
+        "what": "Seal the casket, book the flight and arrange the burial in Jordan."
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs and health clearance, collection and prompt burial."
+      }
+    ],
+    "key_points": [
+      "Burial within 24 hours, extendable to 72 with a Ministry of Health permit",
+      "Cremation is not permitted",
+      "Register a Jordanian's death abroad within two years"
+    ],
+    "lead_days": null,
+    "authority": "Jordanian embassy/consulate abroad; Civil Status and Passports Department; Ministry of Health",
+    "sources": [
+      "https://gov.uk/government/publications/jordan-bereavement-death-abroad/jordan-bereavement-information",
+      "https://www.cspd.gov.jo/EN/ListDetails/Services__Guide/45/2"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "LB",
+    "name": "Lebanon",
+    "status": "requirements",
+    "summary": "Bringing a casket into Lebanon requires the Lebanese embassy or consulate to process the transfer: original death certificate, burial transit permit, non-contagious disease letter, embalming letter and sealed casket letter, with the deceased's passport and Lebanese ID. Leaving Lebanon requires a Mukhtar death certificate, the home embassy's no-objection letter and Ministry of Health permission.",
+    "documents": [
+      "Original death certificate",
+      "Burial transit permit",
+      "Letter of non-contagious disease from an authorised health institution",
+      "Letter of embalming",
+      "Letter of sealed casket",
+      "Original passport of the deceased and Lebanese ID or civil registry extract",
+      "Death registration form signed by a family member"
+    ],
+    "coffin": "A letter confirming the casket is sealed is required by the Lebanese embassy; use a hermetically sealed, zinc-lined casket in an outer wooden case meeting airline requirements. Who witnesses the sealing is not specified.",
+    "embalming": "The Lebanese embassy in Washington requires a letter of embalming; the embassy in the Netherlands lists the embalming certificate as optional. Confirm with the consulate handling the case.",
+    "consular": "The Lebanese embassy or consulate reviews the documents and issues the mortuary pass (Netherlands embassy, EUR 44 fee); the Washington embassy waived consular fees for transfers from 1 March 2026. The death is also registered with the Lebanese civil registry through the consulate.",
+    "arrival": "Customs and health clearance at Beirut airport; the receiving funeral director or family collects. Burial takes place in religious burial grounds; cremation is generally prohibited in Lebanon.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No official rule specific to private flights carrying human remains was found. Beirut-Rafic Hariri is the international port of entry; airspace can be disrupted during regional hostilities. Confirm clearance with the handling agent.",
+    "private_jet_alert": false,
+    "private_jet_note": "Check Beirut airport and airspace status shortly before departure.",
+    "export": "The hospital issues a death attestation; the local Mukhtar issues the death certificate (signed and stamped by the certifying doctor) and the death is registered at the local registry office. Unnatural deaths need General Prosecutor approval for post-mortem. Repatriation requires the death certificate, the deceased's passport, a no-objection letter from the deceased's embassy and Ministry of Health permission. Cremation is not available.",
+    "export_points": [
+      "Mukhtar issues the death certificate",
+      "Embassy no-objection letter",
+      "Ministry of Health permission to repatriate",
+      "Cremation not available in Lebanon"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Original certificate to the Lebanese consulate",
+      "embalming": "Letter usually requested",
+      "coffin": "Sealed casket letter required",
+      "laissez_passer": "Lebanese consulate mortuary pass",
+      "consular": "Consulate processes transfer, registers death",
+      "permit": "Burial transit permit from country of death",
+      "arrival": "Beirut customs, religious burial"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the Lebanese embassy or consulate and appoint funeral directors at both ends."
+      },
+      {
+        "when": "Day 1",
+        "what": "Obtain the death certificate, burial transit permit and non-contagious disease letter."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Embalm, seal the casket and obtain the embalming and sealed casket letters."
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Submit the file to the consulate and receive the mortuary pass; book the flight."
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs clearance in Beirut, collection by the funeral director, burial."
+      }
+    ],
+    "key_points": [
+      "Requirements vary slightly between Lebanese consulates",
+      "Cremation is generally prohibited in Lebanon",
+      "Register the death with the Lebanese civil registry"
+    ],
+    "lead_days": null,
+    "authority": "Lebanese embassy/consulate abroad; Ministry of Health (exit)",
+    "sources": [
+      "https://lebanonembassyus.org/?p=467",
+      "https://lebanonembassy.nl/civil-status/",
+      "https://www.gov.uk/government/publications/lebanon-bereavement-support/lebanon-bereavement-information"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "SY",
+    "name": "Syria",
+    "status": "unknown",
+    "summary": "No reliable official information on bringing a casket into Syria was found. Consular support from many governments is unavailable inside Syria and airports can close at short notice; confirm every step with the Syrian embassy or consulate before planning.",
+    "documents": [
+      "Not published; expect a death certificate legalised by the Syrian embassy with Arabic translation, a non-contagious disease certificate, embalming and sealing certificates (confirm with the consulate)"
+    ],
+    "coffin": "Not published. Use a hermetically sealed, zinc-lined casket in an outer wooden case meeting airline requirements; confirm with the Syrian consulate.",
+    "embalming": "Not published; confirm with the Syrian consulate.",
+    "consular": "Not published; the Syrian embassy or consulate in the country of death is the starting point for legalisation and any transfer authorisation.",
+    "arrival": "Not published. Confirm which airport is operating and who will collect the remains before departure.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No official information found. Airports and airspace may close at short notice (gov.uk travel advice); sanctions and conflict-zone restrictions may apply to operators. Confirm landing permission and operator eligibility before planning.",
+    "private_jet_alert": true,
+    "private_jet_note": "Confirm airport status, landing permission and sanctions/insurance constraints before scheduling.",
+    "export": "Not published. UK consular support is not available inside Syria. Confirm exit requirements with the Syrian authorities and the deceased's embassy covering Syria.",
+    "export_points": [
+      "No reliable official exit procedure found",
+      "Consular support inside Syria very limited",
+      "Airports may close at short notice"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Confirm with Syrian consulate",
+      "embalming": "Not published",
+      "coffin": "Sealed casket, airline standard",
+      "laissez_passer": "Not applicable (no Strasbourg)",
+      "consular": "Syrian embassy is the starting point",
+      "permit": "Not published",
+      "arrival": "Confirm operating airport first"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the Syrian embassy or consulate and a funeral director experienced with Syria."
+      },
+      {
+        "when": "Day 1",
+        "what": "Obtain death certificate, non-contagious disease and embalming certificates."
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Legalise and translate documents as the consulate requires."
+      },
+      {
+        "when": "Before flight",
+        "what": "Confirm airport status, landing permission and receiving party in Syria."
+      },
+      {
+        "when": "Arrival",
+        "what": "Clearance and collection as arranged locally."
+      }
+    ],
+    "key_points": [
+      "No reliable official procedure published",
+      "Flight operations can be disrupted",
+      "Start with the Syrian consulate"
+    ],
+    "lead_days": null,
+    "authority": "Syrian embassy/consulate abroad",
+    "sources": [
+      "https://www.gov.uk/foreign-travel-advice/syria"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  }
+]

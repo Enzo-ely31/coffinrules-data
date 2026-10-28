@@ -1,0 +1,755 @@
+[
+  {
+    "cc": "TR",
+    "name": "Turkey",
+    "status": "requirements",
+    "summary": "Turkey is a party to the 1973 Strasbourg Agreement, so a body coming from another party state travels with the international laissez-passer. For burial of a Turkish citizen in Turkey, the Turkish consulate in the country of death issues a free funeral transfer document (Cenaze Nakil Belgesi) on the basis of the death certificate, embalming certificate, non-contagious disease letter and sealed-coffin certificate.",
+    "documents": [
+      "Original death certificate (and cause-of-death certificate where issued)",
+      "Embalming certificate (original or notarised copy)",
+      "Letter from the health authority confirming no contagious disease",
+      "Certificate that the coffin was closed for international transport (zinc soldering / sealing certificate)",
+      "Export or removal permit from the country of death",
+      "International laissez-passer for the corpse when leaving a Strasbourg Agreement state",
+      "Cenaze Nakil Belgesi issued by the Turkish consulate",
+      "Turkish passport and ID card of the deceased, if any",
+      "Flight details (air waybill or ticket copy)"
+    ],
+    "coffin": "Turkish consulates ask for a certificate that the coffin was closed in line with international rules; in practice a soldered zinc-lined inner coffin inside a wooden coffin, with a zinc soldering (sealing) certificate. Sealing is done by the funeral company in the country of death; Turkish consulates do not publish a requirement for an official witness.",
+    "embalming": "Required: Turkish consulates ask for an embalming certificate before issuing the transfer document.",
+    "consular": "The Turkish consulate in the country of death issues the Cenaze Nakil Belgesi free of charge, usually on application by the funeral company, in person or by post. The name on the Turkish ID must match the death certificate; name changes must be documented. From Strasbourg Agreement states the laissez-passer is the transport document. Foreign documents used for Turkish civil registration may need legalisation or apostille and translation.",
+    "arrival": "Documents travel with the coffin. The coffin is cleared at the arrival airport by customs, with border health control, and released to the family or the municipal funeral service. Burial usually takes place very quickly, in line with Muslim practice. There is no cremation in Turkey.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No rule specific to remains on private aircraft was found. The laissez-passer or consular transfer document and the death and embalming certificates must travel with the coffin, and the handling agent must arrange customs clearance at an international airport.",
+    "private_jet_alert": false,
+    "private_jet_note": "Fly into an international airport with customs; keep the original consular transfer document with the coffin.",
+    "export": "Leaving Turkey requires the Formul C multilingual death certificate from the civil registry (or the hospital death report if not yet issued), an embalming certificate and permission to transfer the body. In unnatural or unexplained deaths the prosecutor and forensic medicine are involved and a post-mortem is usually done within 1 to 3 days. For Strasbourg Agreement destinations an international laissez-passer is issued. Cremation is not legal in Turkey.",
+    "export_points": [
+      "Formul C death certificate from the civil registry",
+      "Embalming certificate and permission to transfer the body",
+      "Prosecutor and post-mortem in unnatural deaths, usually 1-3 days",
+      "Laissez-passer for Strasbourg Agreement destinations"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Original, Formul C where available",
+      "embalming": "Embalming certificate required",
+      "coffin": "Sealed zinc-lined coffin in wooden case",
+      "laissez_passer": "Yes, Strasbourg Agreement party",
+      "consular": "Free Turkish consular transfer document",
+      "permit": "Export permit from country of death",
+      "arrival": "Airport customs clearance, prompt burial"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Obtain the death certificate and non-contagious disease letter"
+      },
+      {
+        "when": "Day 0-1",
+        "what": "Embalm the body and solder it into a zinc-lined coffin"
+      },
+      {
+        "when": "Day 1",
+        "what": "Obtain the export permit or Strasbourg laissez-passer"
+      },
+      {
+        "when": "Day 1",
+        "what": "Funeral company obtains the free Cenaze Nakil Belgesi from the Turkish consulate"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Flight, customs clearance at the Turkish airport and burial"
+      }
+    ],
+    "key_points": [
+      "Strasbourg Agreement party since 1976",
+      "Turkish consular transfer document is free",
+      "No cremation in Turkey",
+      "Name on Turkish ID must match the death certificate"
+    ],
+    "lead_days": 2,
+    "authority": "Turkish consulate abroad (Ministry of Foreign Affairs); civil registry and public prosecutor for exit",
+    "sources": [
+      "https://www.gov.uk/guidance/what-to-do-after-a-british-person-dies-in-turkey",
+      "https://houston-bk.mfa.gov.tr/Content/assets/consulate/images/localCache/1/f928eca2-5703-4690-a010-be01246b5e35.pdf",
+      "https://stokholm-be.mfa.gov.tr/Content/assets/consulate/images/localCache/1/005a93de-adbc-40f0-9bb9-eb106556c4a7.pdf",
+      "https://www.konsolosluk.gov.tr/Procedure/Index",
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+    ],
+    "confidence": "high",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "GE",
+    "name": "Georgia",
+    "status": "unknown",
+    "summary": "No official Georgian rules for bringing a casket into Georgia were found. Expect a sealed zinc-lined coffin with the death certificate, embalming and non-contagious disease certificates; confirm the exact list with the Georgian consulate in the country of death before departure.",
+    "documents": [
+      "Death certificate from the country of death, with translation",
+      "Embalming certificate (expected; confirm with the consulate)",
+      "Certificate that the death was not caused by a contagious disease (expected; confirm)",
+      "Zinc sealing certificate (expected; confirm)",
+      "Export permit from the country of death",
+      "Passport or ID of the deceased"
+    ],
+    "coffin": "Not published officially. Airlines and international practice require a hermetically sealed zinc-lined coffin in an outer wooden case; confirm with the Georgian consulate.",
+    "embalming": "Not published officially for entry; embalming is expected for international transport. Confirm with the Georgian consulate.",
+    "consular": "Georgia is not a party to the 1973 Strasbourg Agreement, so the laissez-passer is not enough on its own. Contact the Georgian consulate in the country of death (Consular Department of the Ministry of Foreign Affairs, hotline +995 32 2 94 50 50) about any consular certificate, legalisation or apostille and Georgian translations.",
+    "arrival": "Not published officially. Expect customs clearance at the arrival airport and collection by a Georgian funeral service. Cremation is not possible in Georgia.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No official rule specific to human remains on private aircraft was found. Plan arrival at an international airport with customs, border and sanitary-quarantine control, and have the handling agent confirm clearance of the coffin in advance.",
+    "private_jet_alert": false,
+    "private_jet_note": "Confirm documents with the Georgian consulate before take-off.",
+    "export": "Deaths are registered by the Public Service Development Agency at the nearest Public Service Hall, usually with the certificate available one day after death; certificates are in Georgian and do not state the cause of death. A post-mortem is done when death is not natural or the cause is unclear, and the body may be held while investigators collect evidence. The UK government advises using an international funeral director working with a Georgian funeral service; no official list of export permits was published.",
+    "export_points": [
+      "Death certificate from Public Service Hall, usually next day",
+      "Post-mortem when death is unnatural or unclear",
+      "Investigation can delay release of the body",
+      "Use an international funeral director with a local partner"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Original with Georgian translation",
+      "embalming": "Expected; confirm with consulate",
+      "coffin": "Sealed zinc-lined coffin expected",
+      "laissez_passer": "No, not a Strasbourg party",
+      "consular": "Ask the Georgian consulate first",
+      "permit": "Export permit from country of death",
+      "arrival": "Airport customs, local funeral service"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Obtain the death certificate and contact the Georgian consulate"
+      },
+      {
+        "when": "Day 0-1",
+        "what": "Embalm and seal the body in a zinc-lined coffin"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain export permit and any consular certificate or legalisation"
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Book the flight and send documents to the Georgian funeral service"
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs clearance and handover to the funeral service"
+      }
+    ],
+    "key_points": [
+      "Official entry rules not published online",
+      "Not a Strasbourg Agreement party",
+      "No cremation in Georgia"
+    ],
+    "lead_days": null,
+    "authority": "Ministry of Foreign Affairs of Georgia (consular department); Public Service Development Agency for deaths in Georgia",
+    "sources": [
+      "https://www.gov.uk/government/publications/georgia-bereavement-pack-information/georgia-bereavement-pack",
+      "https://geoconsul.gov.ge/",
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "AM",
+    "name": "Armenia",
+    "status": "unknown",
+    "summary": "No official Armenian rules for bringing a casket into Armenia were found. Expect a sealed zinc-lined coffin with death certificate, embalming and non-contagious disease certificates; confirm the exact list with the Armenian consulate in the country of death.",
+    "documents": [
+      "Death certificate from the country of death, with translation",
+      "Embalming certificate (expected; confirm)",
+      "Certificate that the death was not caused by a contagious disease (expected; confirm)",
+      "Zinc sealing certificate (expected; confirm)",
+      "Export permit from the country of death",
+      "Passport of the deceased"
+    ],
+    "coffin": "Not published officially. International practice requires a hermetically sealed zinc-lined coffin in an outer wooden case; confirm with the Armenian consulate.",
+    "embalming": "Not published officially for entry; embalming is expected for international transport. Confirm with the Armenian consulate.",
+    "consular": "Armenia is not a party to the 1973 Strasbourg Agreement. Contact the Armenian embassy or consulate in the country of death about any consular certificate, legalisation or apostille and translations; the published consular fee list does not mention a body transfer document.",
+    "arrival": "Not published officially. Expect customs clearance at Zvartnots airport (Yerevan) and handover to a local funeral director. There are no cremation facilities in Armenia.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No official rule specific to human remains on private aircraft was found. Plan arrival at an international airport with customs, border and sanitary-quarantine control, and have the handling agent confirm clearance of the coffin in advance.",
+    "private_jet_alert": false,
+    "private_jet_note": "Confirm documents with the Armenian consulate before take-off.",
+    "export": "The death is registered with the Civic Status Registration Department, normally on the same day and free of charge; the long-form certificate states the cause of death. Leaving Armenia requires the death certificate, permission to remove the body and the passport of the deceased. A post-mortem may be done when death is unknown, unnatural, sudden or violent. Bodies travel as airline cargo.",
+    "export_points": [
+      "Death registered same day, free",
+      "Permission to remove the body",
+      "Passport of the deceased",
+      "Post-mortem in unexplained or violent deaths"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Original with Armenian translation",
+      "embalming": "Expected; confirm with consulate",
+      "coffin": "Sealed zinc-lined coffin expected",
+      "laissez_passer": "No, not a Strasbourg party",
+      "consular": "Ask the Armenian consulate first",
+      "permit": "Export permit from country of death",
+      "arrival": "Airport customs, local funeral director"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Obtain the death certificate and contact the Armenian consulate"
+      },
+      {
+        "when": "Day 0-1",
+        "what": "Embalm and seal the body in a zinc-lined coffin"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain export permit and any consular certificate or legalisation"
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Book the flight and inform the Armenian funeral director"
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs clearance in Yerevan and handover to the funeral director"
+      }
+    ],
+    "key_points": [
+      "Official entry rules not published online",
+      "Not a Strasbourg Agreement party",
+      "No cremation in Armenia"
+    ],
+    "lead_days": null,
+    "authority": "Ministry of Foreign Affairs of Armenia (consular service); Civic Status Registration Department for deaths in Armenia",
+    "sources": [
+      "https://www.gov.uk/guidance/when-someone-dies-in-armenia--2",
+      "https://www.mfa.am/en/fees/",
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "AZ",
+    "name": "Azerbaijan",
+    "status": "requirements",
+    "summary": "No official Azerbaijani rules for bringing a casket in were found; confirm with the Azerbaijani consulate in the country of death. For deaths in Azerbaijan, a compulsory autopsy, the AZS-106 medical death certificate, the civil death certificate and a coroner's release are needed before the body can leave.",
+    "documents": [
+      "Death certificate from the country of death, with translation (confirm with consulate)",
+      "Embalming certificate (expected; confirm)",
+      "Certificate that the death was not caused by a contagious disease (expected; confirm)",
+      "Zinc sealing certificate (expected; confirm)",
+      "Export permit from the country of death",
+      "Passport of the deceased"
+    ],
+    "coffin": "Not published officially for entry. International practice requires a hermetically sealed zinc-lined coffin in an outer wooden case; confirm with the Azerbaijani consulate.",
+    "embalming": "Not published officially for entry; embalming is expected for international transport. Confirm with the Azerbaijani consulate.",
+    "consular": "Azerbaijan is not a party to the 1973 Strasbourg Agreement. Contact the Azerbaijani embassy or consulate in the country of death about consular certification, legalisation or apostille and Azerbaijani translations. Local authorities do not work in English.",
+    "arrival": "Not published officially. Expect customs clearance at the arrival airport (normally Baku) and handover to a local funeral service; Muslim families usually bury quickly. There are no cremation facilities in Azerbaijan. Authorities must be told of infectious conditions such as hepatitis or HIV.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No official rule specific to human remains on private aircraft was found. Plan arrival at an international airport with customs, border and sanitary-quarantine control, and have the handling agent confirm clearance of the coffin in advance.",
+    "private_jet_alert": false,
+    "private_jet_note": "Confirm documents with the Azerbaijani consulate before take-off.",
+    "export": "All foreign nationals who die in Azerbaijan undergo a compulsory autopsy, usually within 24 hours, by the district Medical Court Examination Department, which issues the AZS-106 medical death certificate. The death certificate (in Azerbaijani) is then issued by the district Registration Department or ASAN Service; no burial or repatriation is possible without it. Repatriation needs the death certificate, permission to remove the body from the coroner, the passport, and (for British nationals) a no-objection letter from their embassy.",
+    "export_points": [
+      "Compulsory autopsy for foreigners, usually within 24 hours",
+      "AZS-106 then civil death certificate",
+      "Coroner's permission to remove the body",
+      "Embassy no-objection letter for foreign nationals"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Original with Azerbaijani translation",
+      "embalming": "Expected; confirm with consulate",
+      "coffin": "Sealed zinc-lined coffin expected",
+      "laissez_passer": "No, not a Strasbourg party",
+      "consular": "Ask the Azerbaijani consulate first",
+      "permit": "Export permit from country of death",
+      "arrival": "Airport customs, quick Muslim burial"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Obtain the death certificate and contact the Azerbaijani consulate"
+      },
+      {
+        "when": "Day 0-1",
+        "what": "Embalm and seal the body in a zinc-lined coffin"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain export permit and consular certification"
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Book the flight and inform the receiving funeral service"
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs clearance in Baku and burial"
+      }
+    ],
+    "key_points": [
+      "Entry rules not published online",
+      "Compulsory autopsy for foreigners dying in Azerbaijan",
+      "No cremation in Azerbaijan"
+    ],
+    "lead_days": null,
+    "authority": "Ministry of Foreign Affairs of Azerbaijan (consular service); Medical Court Examination Department and Registration Department / ASAN Service for deaths in Azerbaijan",
+    "sources": [
+      "https://www.gov.uk/guidance/when-someone-dies-in-azerbaijan",
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "KZ",
+    "name": "Kazakhstan",
+    "status": "requirements",
+    "summary": "No official Kazakh rules for bringing a casket in were found; confirm with the Kazakh consulate in the country of death. Kazakhstan itself requires embalming, an airtight sealed zinc coffin, a health inspection certificate and customs permission for bodies leaving the country, and similar standards should be expected on entry.",
+    "documents": [
+      "Death certificate from the country of death, with translation (confirm with consulate)",
+      "Embalming certificate (expected; confirm)",
+      "Certificate that the death was not caused by a contagious disease (expected; confirm)",
+      "Zinc sealing certificate and list of accompanying items (expected; confirm)",
+      "Export permit from the country of death",
+      "Passport of the deceased"
+    ],
+    "coffin": "Not published officially for entry. Kazakhstan requires an airtight, sealed zinc coffin for bodies leaving the country, and the same standard should be expected for incoming coffins; confirm with the Kazakh consulate.",
+    "embalming": "Mandatory for repatriation from Kazakhstan; expected for incoming bodies. Confirm with the Kazakh consulate.",
+    "consular": "Kazakhstan is not a party to the 1973 Strasbourg Agreement. Contact the Kazakh embassy or consulate in the country of death about consular certification, legalisation or apostille and Kazakh or Russian translations.",
+    "arrival": "Not published officially. Expect customs and sanitary-quarantine clearance at the arrival airport and handover to a local funeral service. Kazakhstan's first crematorium opened in Almaty in April 2026, with strict consent conditions.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No official rule specific to human remains on private aircraft was found. Plan arrival at an international airport with customs, border and sanitary-quarantine control, and have the handling agent confirm clearance of the coffin in advance.",
+    "private_jet_alert": false,
+    "private_jet_note": "Confirm documents and customs clearance before take-off.",
+    "export": "The death is registered at a registry office; the certificate is in Kazakh and Russian, without the cause of death, and can be apostilled. A post-mortem is usually done within 24 hours (it can be waived in some supervised natural deaths). Repatriation needs embalming, the death certificate, permission to remove the body from the mortuary or forensic facility, an airtight sealed zinc coffin, a funeral director's letter that the coffin contains no foreign objects with a list of accompanying items, a Health Inspection Services certificate confirming embalming, and Customs Department permission.",
+    "export_points": [
+      "Embalming is mandatory",
+      "Airtight sealed zinc coffin, no-foreign-objects letter",
+      "Health inspection certificate and customs permission",
+      "Post-mortem usually within 24 hours"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Original with Russian or Kazakh translation",
+      "embalming": "Expected; mandatory for exit",
+      "coffin": "Airtight sealed zinc coffin",
+      "laissez_passer": "No, not a Strasbourg party",
+      "consular": "Ask the Kazakh consulate first",
+      "permit": "Export permit from country of death",
+      "arrival": "Customs and sanitary clearance at airport"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Obtain the death certificate and contact the Kazakh consulate"
+      },
+      {
+        "when": "Day 0-1",
+        "what": "Embalm and seal the body in an airtight zinc coffin"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain export permit and consular certification"
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Book the flight and inform the receiving funeral service"
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs and sanitary clearance, then burial"
+      }
+    ],
+    "key_points": [
+      "Entry rules not published online",
+      "Embalming and zinc coffin mandatory for exit",
+      "Crematorium in Almaty since April 2026, strict consent rules"
+    ],
+    "lead_days": null,
+    "authority": "Ministry of Foreign Affairs of Kazakhstan (consular service); Health Inspection Services and Customs for exit",
+    "sources": [
+      "https://www.gov.uk/guidance/when-someone-dies-in-kazakhstan",
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "KG",
+    "name": "Kyrgyzstan",
+    "status": "requirements",
+    "summary": "No official Kyrgyz rules for bringing a casket in were found; confirm with the Kyrgyz consulate in the country of death. For bodies leaving Kyrgyzstan, a transfer permit and a zinc coffin sealing report are required, and local formalities take about 7 days.",
+    "documents": [
+      "Death certificate from the country of death, with translation (confirm with consulate)",
+      "Embalming certificate (expected; confirm)",
+      "Certificate that the death was not caused by a contagious disease (expected; confirm)",
+      "Zinc sealing certificate (expected; confirm)",
+      "Export permit from the country of death",
+      "Passport of the deceased"
+    ],
+    "coffin": "Not published officially for entry. A sealed zinc coffin with a sealing report is required for bodies leaving Kyrgyzstan, and the same standard should be expected on entry; confirm with the Kyrgyz consulate.",
+    "embalming": "Not published officially; embalming is expected for international transport. Confirm with the Kyrgyz consulate.",
+    "consular": "Kyrgyzstan is not a party to the 1973 Strasbourg Agreement. Contact the Kyrgyz embassy or consulate in the country of death about consular certification, legalisation or apostille and Kyrgyz or Russian translations.",
+    "arrival": "Not published officially. Expect customs and sanitary clearance at the arrival airport (normally Bishkek or Osh) and handover to a local funeral service; Muslim families usually bury quickly. There is no cremation service in Kyrgyzstan.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No official rule specific to human remains on private aircraft was found. Plan arrival at an international airport with customs, border and sanitary-quarantine control, and have the handling agent confirm clearance of the coffin in advance.",
+    "private_jet_alert": false,
+    "private_jet_note": "Confirm documents and customs clearance before take-off.",
+    "export": "The death is registered with the civil registry (ZAGS), which issues a death certificate in Russian and Kyrgyz in 3 to 5 business days. Leaving Kyrgyzstan requires the local medical and civil death certificates, a certificate permitting transfer of the remains and a zinc coffin sealing report. Local formalities normally take around 7 days.",
+    "export_points": [
+      "Medical and civil (ZAGS) death certificates, 3-5 business days",
+      "Transfer permit for the remains",
+      "Zinc coffin sealing report",
+      "Allow about 7 days for local formalities"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Original with Russian or Kyrgyz translation",
+      "embalming": "Expected; confirm with consulate",
+      "coffin": "Sealed zinc coffin expected",
+      "laissez_passer": "No, not a Strasbourg party",
+      "consular": "Ask the Kyrgyz consulate first",
+      "permit": "Export permit from country of death",
+      "arrival": "Customs clearance, local funeral service"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Obtain the death certificate and contact the Kyrgyz consulate"
+      },
+      {
+        "when": "Day 0-1",
+        "what": "Embalm and seal the body in a zinc coffin"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain export permit and consular certification"
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Book the flight and inform the receiving funeral service"
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs clearance and burial"
+      }
+    ],
+    "key_points": [
+      "Entry rules not published online",
+      "Exit takes about 7 days",
+      "No cremation in Kyrgyzstan"
+    ],
+    "lead_days": null,
+    "authority": "Ministry of Foreign Affairs of Kyrgyzstan (consular service); State Registry Service (ZAGS) for deaths in Kyrgyzstan",
+    "sources": [
+      "https://www.gov.uk/guidance/when-someone-dies-in-kyrgyzstan",
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "TJ",
+    "name": "Tajikistan",
+    "status": "requirements",
+    "summary": "No official Tajik rules for bringing a casket in were found; confirm with the Tajik consulate in the country of death. Tajikistan requires embalming, an airtight sealed zinc coffin and a Health Inspection Services certificate for bodies leaving the country, and similar standards should be expected on entry.",
+    "documents": [
+      "Death certificate from the country of death, with translation (confirm with consulate)",
+      "Embalming certificate (expected; confirm)",
+      "Certificate that the death was not caused by a contagious disease (expected; confirm)",
+      "Zinc sealing certificate (expected; confirm)",
+      "Export permit from the country of death",
+      "Passport of the deceased"
+    ],
+    "coffin": "Not published officially for entry. Tajikistan requires an airproof, sealed zinc coffin for bodies leaving the country; expect the same on entry and confirm with the Tajik consulate.",
+    "embalming": "Mandatory for repatriation from Tajikistan; expected for incoming bodies. Confirm with the Tajik consulate.",
+    "consular": "Tajikistan is not a party to the 1973 Strasbourg Agreement. Contact the Tajik embassy or consulate in the country of death about consular certification, legalisation or apostille and Tajik or Russian translations.",
+    "arrival": "Not published officially. Expect customs and sanitary clearance at the arrival airport (normally Dushanbe) and handover to a local funeral service; Muslim families usually bury quickly. Cremation is not available in Tajikistan.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No official rule specific to human remains on private aircraft was found. Plan arrival at an international airport with customs, border and sanitary-quarantine control, and have the handling agent confirm clearance of the coffin in advance.",
+    "private_jet_alert": false,
+    "private_jet_note": "Confirm documents and customs clearance before take-off.",
+    "export": "The civil registry (ZAGS) issues the death certificate in Tajik and Russian within 1 to 3 days of the medical certificate of death. In sudden deaths the prosecutor or criminal police issue a report before release; criminal investigations can delay release. Repatriation needs embalming, an airproof sealed zinc coffin delivered to the airport cargo terminal at least 4 hours before the flight, the death certificate, permission to remove the body issued by a coroner, a funeral director's letter that no foreign objects were in the coffin with a list of accompanying items, and a Health Inspection Services certificate. A no-objection letter from the deceased's embassy is sometimes required.",
+    "export_points": [
+      "Embalming is mandatory",
+      "Airproof sealed zinc coffin at cargo terminal 4 hours before flight",
+      "Health inspection certificate and removal permit",
+      "Prosecutor report in sudden deaths"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Original with Russian or Tajik translation",
+      "embalming": "Expected; mandatory for exit",
+      "coffin": "Airproof sealed zinc coffin",
+      "laissez_passer": "No, not a Strasbourg party",
+      "consular": "Ask the Tajik consulate first",
+      "permit": "Export permit from country of death",
+      "arrival": "Customs clearance, quick Muslim burial"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Obtain the death certificate and contact the Tajik consulate"
+      },
+      {
+        "when": "Day 0-1",
+        "what": "Embalm and seal the body in an airproof zinc coffin"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain export permit and consular certification"
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Book the flight and inform the receiving funeral service"
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs and sanitary clearance, then burial"
+      }
+    ],
+    "key_points": [
+      "Entry rules not published online",
+      "Embalming and zinc coffin mandatory for exit",
+      "No cremation in Tajikistan"
+    ],
+    "lead_days": null,
+    "authority": "Ministry of Foreign Affairs of Tajikistan (consular department); Health Inspection Services and ZAGS for exit",
+    "sources": [
+      "https://www.gov.uk/guidance/when-someone-dies-in-tajikistan",
+      "https://www.consular.tj/",
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "TM",
+    "name": "Turkmenistan",
+    "status": "requirements",
+    "summary": "No official Turkmen rules for bringing a casket in were found; confirm with the Turkmen consulate in the country of death well in advance. For deaths in Turkmenistan, a prosecutor's repatriation letter is needed, and burial of a foreign citizen needs special permission requested through the Ministry of Foreign Affairs.",
+    "documents": [
+      "Death certificate from the country of death, with translation (confirm with consulate)",
+      "Embalming certificate (expected; confirm)",
+      "Certificate that the death was not caused by a contagious disease (expected; confirm)",
+      "Zinc sealing certificate (expected; confirm)",
+      "Export permit from the country of death",
+      "Passport of the deceased"
+    ],
+    "coffin": "Not published officially. International practice requires a hermetically sealed zinc-lined coffin in an outer wooden case; confirm with the Turkmen consulate.",
+    "embalming": "Not published officially; embalming is expected for international transport. Confirm with the Turkmen consulate.",
+    "consular": "Turkmenistan is not a party to the 1973 Strasbourg Agreement. Contact the Turkmen embassy or consulate in the country of death about consular certification, legalisation and Turkmen or Russian translations. For a foreign citizen to be buried in Turkmenistan, local authorities must give special permission, requested through the Ministry of Foreign Affairs.",
+    "arrival": "Not published officially. Expect customs and sanitary clearance at the arrival airport (normally Ashgabat) and handover to a local funeral service. There are no cremation facilities in Turkmenistan.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No official rule specific to human remains on private aircraft was found. Plan arrival at an international airport with customs, border and sanitary-quarantine control, and have the handling agent confirm clearance of the coffin in advance.",
+    "private_jet_alert": false,
+    "private_jet_note": "Confirm all documents with the Turkmen consulate well before take-off.",
+    "export": "The civil registry (ZAGS) issues the death certificate in Turkmen, recording the cause of death, within a few days; a consular officer may need to be present. If the cause is still being investigated, the certificate may be delayed. Leaving Turkmenistan requires a letter of repatriation from the local Prosecutor's Office confirming no signs of violent or suspicious death, and the Turkmen death certificate. A post-mortem needs next-of-kin consent except in suspected murder, infectious disease or pregnancy-related deaths.",
+    "export_points": [
+      "Turkmen death certificate from ZAGS",
+      "Prosecutor's repatriation letter (no violent death)",
+      "Delays if the cause of death is investigated",
+      "Embassy consular staff can help with the prosecutor"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Original with Turkmen or Russian translation",
+      "embalming": "Expected; confirm with consulate",
+      "coffin": "Sealed zinc-lined coffin expected",
+      "laissez_passer": "No, not a Strasbourg party",
+      "consular": "Ask the Turkmen consulate first",
+      "permit": "Export permit from country of death",
+      "arrival": "Customs clearance; foreigners need burial permission"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Obtain the death certificate and contact the Turkmen consulate"
+      },
+      {
+        "when": "Day 0-1",
+        "what": "Embalm and seal the body in a zinc-lined coffin"
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Obtain export permit and consular certification"
+      },
+      {
+        "when": "Day 2-4",
+        "what": "For a foreign citizen, obtain burial permission via the Ministry of Foreign Affairs"
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs clearance and burial"
+      }
+    ],
+    "key_points": [
+      "Entry rules not published online",
+      "Prosecutor's letter needed to leave Turkmenistan",
+      "Burial of foreigners needs special permission",
+      "No cremation in Turkmenistan"
+    ],
+    "lead_days": null,
+    "authority": "Ministry of Foreign Affairs of Turkmenistan; Prosecutor's Office and ZAGS for exit",
+    "sources": [
+      "https://www.gov.uk/guidance/when-someone-dies-in-turkmenistan",
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "UZ",
+    "name": "Uzbekistan",
+    "status": "requirements",
+    "summary": "No official Uzbek rules for bringing a casket in were found; confirm with the Uzbek consulate in the country of death. Uzbekistan requires embalming, an airproof sealed zinc coffin, a health inspection certificate and customs permission for bodies leaving the country, and burial usually takes place within 48 hours.",
+    "documents": [
+      "Death certificate from the country of death, with translation (confirm with consulate)",
+      "Embalming certificate (expected; confirm)",
+      "Certificate that the death was not caused by a contagious disease (expected; confirm)",
+      "Zinc sealing certificate (expected; confirm)",
+      "Export permit from the country of death",
+      "Passport of the deceased"
+    ],
+    "coffin": "Not published officially for entry. Uzbekistan requires an airproof sealed zinc coffin (container) for bodies leaving the country; expect the same on entry and confirm with the Uzbek consulate.",
+    "embalming": "Mandatory for repatriation from Uzbekistan; expected for incoming bodies. Embalming and refrigeration facilities in Uzbekistan are limited, so the body should arrive properly embalmed.",
+    "consular": "Uzbekistan is not a party to the 1973 Strasbourg Agreement. Contact the Uzbek embassy or consulate in the country of death about consular certification, legalisation or apostille and Uzbek or Russian translations.",
+    "arrival": "Not published officially. Expect customs and sanitary clearance at the arrival airport (normally Tashkent) and handover to a local funeral service. Burial usually takes place within 48 hours of death. There are no cremation facilities in Uzbekistan.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No official rule specific to human remains on private aircraft was found. Plan arrival at an international airport with customs, border and sanitary-quarantine control, and have the handling agent confirm clearance of the coffin in advance.",
+    "private_jet_alert": false,
+    "private_jet_note": "Confirm documents and customs clearance before take-off.",
+    "export": "A post-mortem is usually done within 24 hours and the mortuary or forensic institute issues a medical certificate of death, which is often enough for repatriation; ZAGS issues the death certificate in Uzbek and Russian in 1 to 3 days. Repatriation needs embalming, an airproof sealed zinc coffin delivered to the airport cargo terminal at least 4 hours before the flight, customs permission, a funeral director's act that no foreign objects were in the coffin with a list of accompanying items, and a Health Inspection Services certificate. A no-objection letter from the deceased's embassy is sometimes required.",
+    "export_points": [
+      "Embalming is mandatory",
+      "Airproof sealed zinc coffin at cargo terminal 4 hours before flight",
+      "Customs permission and health inspection certificate",
+      "Post-mortem usually within 24 hours"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Original with Uzbek or Russian translation",
+      "embalming": "Expected; mandatory for exit",
+      "coffin": "Airproof sealed zinc coffin",
+      "laissez_passer": "No, not a Strasbourg party",
+      "consular": "Ask the Uzbek consulate first",
+      "permit": "Export permit from country of death",
+      "arrival": "Customs clearance, burial within 48 hours"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Obtain the death certificate and contact the Uzbek consulate"
+      },
+      {
+        "when": "Day 0-1",
+        "what": "Embalm and seal the body in an airproof zinc coffin"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain export permit and consular certification"
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Book the flight and inform the receiving funeral service"
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs and sanitary clearance, burial usually within 48 hours"
+      }
+    ],
+    "key_points": [
+      "Entry rules not published online",
+      "Burial usually within 48 hours",
+      "Embalming and zinc coffin mandatory for exit",
+      "No cremation in Uzbekistan"
+    ],
+    "lead_days": null,
+    "authority": "Ministry of Foreign Affairs of Uzbekistan (consular service); Customs and Health Inspection Services for exit",
+    "sources": [
+      "https://www.gov.uk/government/publications/uzbekistan-bereavement-information/bereavement-information-uzbekistan",
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "MN",
+    "name": "Mongolia",
+    "status": "requirements",
+    "summary": "No official Mongolian rules for bringing a casket in were found; confirm with the Mongolian consulate in the country of death. For deaths in Mongolia, an autopsy is required for foreign nationals and can take up to a month, embalming is required for repatriation, and UK guidance says a foreigner cannot be buried locally.",
+    "documents": [
+      "Death certificate from the country of death, with translation (confirm with consulate)",
+      "Embalming certificate (expected; confirm)",
+      "Certificate that the death was not caused by a contagious disease (expected; confirm)",
+      "Zinc sealing certificate (expected; confirm)",
+      "Export permit from the country of death",
+      "Passport of the deceased"
+    ],
+    "coffin": "Not published officially. International practice requires a hermetically sealed zinc-lined coffin in an outer wooden case; confirm with the Mongolian consulate.",
+    "embalming": "Required for repatriation from Mongolia, with an embalming certificate; expected for incoming bodies. Confirm with the Mongolian consulate.",
+    "consular": "Mongolia is not a party to the 1973 Strasbourg Agreement. Contact the Mongolian embassy or consulate in the country of death about consular certification, legalisation or apostille and Mongolian translations.",
+    "arrival": "Not published officially. Expect customs and health clearance at Ulaanbaatar airport and handover to a local funeral service. The UK government states that a local burial cannot be arranged in Mongolia for a deceased British national (cremation is the only local option); confirm burial arrangements for Mongolian citizens with the local funeral service.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No official rule specific to human remains on private aircraft was found. Plan arrival at an international airport with customs, border and sanitary-quarantine control, and have the handling agent confirm clearance of the coffin in advance.",
+    "private_jet_alert": false,
+    "private_jet_note": "Confirm documents and customs clearance before take-off.",
+    "export": "The hospital or State Registration Office issues the death certificate in Mongolian; it should state the cause of death and that it was not an infectious disease, and police clearance may be needed if injuries are unexplained. An autopsy at the National Institute of Forensic Science is required for foreign nationals and can take up to 1 month, during which the body is not released. The deceased's Mongolian visa must be cancelled with the Immigration Authority before release. Embalming is required, with an embalming certificate.",
+    "export_points": [
+      "Autopsy required for foreigners, up to 1 month",
+      "Death certificate stating non-infectious cause",
+      "Visa cancelled with Immigration Authority before release",
+      "Embalming certificate required"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Original with Mongolian translation",
+      "embalming": "Expected; required for exit",
+      "coffin": "Sealed zinc-lined coffin expected",
+      "laissez_passer": "No, not a Strasbourg party",
+      "consular": "Ask the Mongolian consulate first",
+      "permit": "Export permit from country of death",
+      "arrival": "Customs and health clearance at Ulaanbaatar"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Obtain the death certificate and contact the Mongolian consulate"
+      },
+      {
+        "when": "Day 0-1",
+        "what": "Embalm and seal the body in a zinc-lined coffin"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain export permit and consular certification"
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Book the flight and inform the receiving funeral service"
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs and health clearance at Ulaanbaatar"
+      }
+    ],
+    "key_points": [
+      "Entry rules not published online",
+      "Autopsy of foreigners can delay exit up to a month",
+      "UK guidance: no local burial for foreigners, cremation only"
+    ],
+    "lead_days": null,
+    "authority": "Ministry of Foreign Affairs of Mongolia (consular department); National Institute of Forensic Science and Immigration Authority for exit",
+    "sources": [
+      "https://www.gov.uk/government/publications/mongolia-bereavement-information-pack/mongolia-bereavement-information-pack",
+      "https://consul.mn/",
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  }
+]

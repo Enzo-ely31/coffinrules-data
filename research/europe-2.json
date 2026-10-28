@@ -1,0 +1,794 @@
+[
+  {
+    "cc": "FI",
+    "name": "Finland",
+    "status": "requirements",
+    "summary": "Finland is a party to the 1973 Strasbourg Agreement on the Transfer of Corpses, so a coffin coming from another party travels on the corpse laissez-passer issued in the country of death. Finland's own national entry rules could not be checked on official Finnish sites, so confirm the exact documents with the Finnish embassy and the receiving funeral director.",
+    "documents": [
+      "Foreign death certificate (an apostille may be asked for when it is used in Finland)",
+      "Laissez-passer for the corpse (Strasbourg Agreement), or a permit to remove the body issued in the country of death",
+      "Embalming certificate and certificate that the death was not from a contagious disease, where the departure country issues them",
+      "Passport of the deceased"
+    ],
+    "coffin": "Under the Strasbourg Agreement, a hermetically sealed coffin is used: an inner zinc (metal) coffin, soldered shut, inside a wooden coffin. Finland's own rule for coffins coming from countries outside the Agreement was not verified.",
+    "embalming": "Not verified for entry into Finland. Embalming is usually required by the departure country or by the airline on long journeys.",
+    "consular": "No Finnish consular permit for entry was confirmed in official sources. Finnish embassies help their own nationals but cannot pay repatriation costs. Confirm with the Finnish embassy in the country of death.",
+    "arrival": "The receiving Finnish funeral director collects the coffin. Before burial or cremation in Finland, a certificate that the cause of death has been established is normally needed. For a death abroad, confirm with the funeral director which foreign documents will be accepted.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "There is no specific rule for private flights; human remains on a private or charter flight need the same documents as on an airline, and they travel with the coffin for customs and health checks at the arrival airport. A zinc-lined coffin is about 2.2 m long and 70-100 kg, so it must fit through the cargo door or into a cabin set up for it, which rules out many light and midsize jets. Finland is in the Schengen area. A flight from outside Schengen must land at an airport with border and customs control.",
+    "private_jet_alert": false,
+    "private_jet_note": "From outside Schengen, land at a Finnish airport with border and customs control.",
+    "export": "When a death occurs in Finland, the hospital or doctor issues the Finnish death certificate. If the cause of death is unclear, the police investigate it and a forensic autopsy may follow; the final certificate with the cause of death can take 4-6 months. For a transfer to another Strasbourg country, a corpse laissez-passer is used. The issuing authority and the usual timescale were not confirmed on Finnish official sites. A Finnish funeral director arranges embalming and the sealed zinc-lined coffin.",
+    "export_points": [
+      "Hospital or doctor issues the Finnish death certificate",
+      "Police investigate when the cause of death is unclear",
+      "Strasbourg laissez-passer for transfers to other party states",
+      "Final cause-of-death certificate can take 4-6 months"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Foreign certificate; apostille may be needed",
+      "embalming": "Set by departure country; not verified",
+      "coffin": "Sealed zinc-lined coffin (Strasbourg)",
+      "laissez_passer": "Party to Strasbourg Agreement since 1989",
+      "consular": "No Finnish entry permit confirmed",
+      "permit": "Removal permit from country of death",
+      "arrival": "Finnish funeral director collects the coffin"
+    },
+    "steps": [
+      {
+        "when": "Day 0-1",
+        "what": "Register the death locally and appoint funeral directors in both countries"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain the death certificate and the permit to remove the body"
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Embalming and sealing of the zinc-lined coffin; laissez-passer issued where applicable"
+      },
+      {
+        "when": "Day 3-5",
+        "what": "Flight to Finland with the documents travelling with the coffin"
+      },
+      {
+        "when": "On arrival",
+        "what": "Finnish funeral director collects the coffin and arranges burial or cremation"
+      }
+    ],
+    "key_points": [
+      "Party to the Strasbourg Agreement since 15 March 1989",
+      "Finnish official pages could not be opened; confirm with the embassy",
+      "Families pay repatriation costs; check insurance first"
+    ],
+    "lead_days": null,
+    "authority": "Not confirmed (country of death issues the laissez-passer; Finnish police and doctors for deaths in Finland)",
+    "sources": [
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p",
+      "https://www.gov.uk/government/publications/finland-bereavement-packinformation",
+      "https://assets.publishing.service.gov.uk/media/6409a136e90e0740d715a309/Death_Abroad_Information_Sheet_Finland_March_2023.odt"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "FO",
+    "name": "Faroe Islands",
+    "status": "unknown",
+    "summary": "The Faroe Islands are a self-governing part of the Kingdom of Denmark, and no official Faroese or Danish source on bringing a coffin into the islands could be verified. Denmark is not listed as a party to the Strasbourg Agreement. Confirm all requirements with the Faroese authorities, the Danish embassy and a local funeral director before planning.",
+    "documents": [
+      "Foreign death certificate (translation likely needed; confirm)",
+      "Permit to remove the body issued in the country of death",
+      "Embalming and non-contagious disease certificates where issued by the departure country",
+      "Passport of the deceased"
+    ],
+    "coffin": "Not verified. In practice airlines and departure countries require a hermetically sealed zinc-lined coffin inside a wooden coffin for air transport.",
+    "embalming": "Not verified; usually required by the departure country or airline.",
+    "consular": "Not published; confirm with the Danish embassy or consulate in the country of death.",
+    "arrival": "Not published; confirm burial arrangements with the parish or local funeral director in the Faroe Islands.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "There is no specific rule for private flights; human remains on a private or charter flight need the same documents as on an airline, and they travel with the coffin for customs and health checks at the arrival airport. A zinc-lined coffin is about 2.2 m long and 70-100 kg, so it must fit through the cargo door or into a cabin set up for it, which rules out many light and midsize jets. The Faroe Islands have one airport, Vagar, so a coffin can only arrive there. Customs procedures were not verified.",
+    "private_jet_alert": false,
+    "private_jet_note": "Vagar is the only airport; check customs and landing arrangements in advance.",
+    "export": "Not verified. Expect a local death certificate, a permit to remove the body from the local authorities, embalming and a sealed zinc-lined coffin. The destination country's consular rules also apply.",
+    "export_points": [
+      "Rules not published in sources we could check",
+      "Confirm with Faroese authorities and the destination consulate",
+      "Expect a sealed zinc-lined coffin for air transport"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Foreign certificate; confirm translation",
+      "embalming": "Not verified; usually required",
+      "coffin": "Sealed zinc-lined coffin expected",
+      "laissez_passer": "Denmark not a Strasbourg party",
+      "consular": "Confirm with Danish embassy",
+      "permit": "Removal permit from country of death",
+      "arrival": "Only via Vagar airport"
+    },
+    "steps": [
+      {
+        "when": "Day 0-1",
+        "what": "Contact the Danish embassy and a funeral director in the Faroe Islands"
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Obtain the death certificate, removal permit and embalming abroad"
+      },
+      {
+        "when": "Day 3-5",
+        "what": "Sealing of the zinc-lined coffin and flight booking to Vagar"
+      },
+      {
+        "when": "On arrival",
+        "what": "Local funeral director collects the coffin; burial arranged with the parish"
+      }
+    ],
+    "key_points": [
+      "Self-governing territory of Denmark with its own rules",
+      "No official procedure found online",
+      "Treat as low confidence and confirm locally"
+    ],
+    "lead_days": null,
+    "authority": "Not confirmed (Faroese authorities; Danish embassies abroad)",
+    "sources": [
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "FR",
+    "name": "France",
+    "status": "requirements",
+    "summary": "Entry of a coffin into France is authorised by the French embassy or consulate in the country of death, which issues a transport authorisation for the body. An airtight metal-lined coffin is mandatory for any air transport, and burial or cremation must take place within 14 calendar days of the body entering France.",
+    "documents": [
+      "Local death certificate (transcription into the French civil register by the consulate is recommended)",
+      "Authorisation to transport the body issued by the French embassy or consulate (or the laissez-passer for the corpse when the death occurred in another Strasbourg Agreement country)",
+      "Medical certificate stating the death was not from a contagious disease, where the departure country requires it",
+      "Embalming certificate where required by the departure country",
+      "Burial or cremation arrangements in France (receiving funeral director)"
+    ],
+    "coffin": "For air transport an airtight coffin (a metal box, in practice a soldered zinc lining inside a wooden coffin) is mandatory. A sealed metal coffin usually cannot go into a French cremator, and opening it to transfer the body is heavily restricted, so plan cremation before departure.",
+    "embalming": "France has no separate rule for incoming bodies. Embalming is normally required by the departure country or by the airline on long journeys.",
+    "consular": "The French embassy or consulate (with the Crisis and Support Centre where relevant) issues the authorisation to transport the body or ashes to France, and can transcribe the local death certificate into French civil status. It can give an indicative cost and contacts for local and French funeral directors. Families bear all costs. France has been a party to the Strasbourg Agreement since 10 June 2000.",
+    "arrival": "The receiving French funeral director takes charge at the airport. Burial or cremation must take place no later than the 14th calendar day after the body enters France (CGCT art. R2213-33, decree 2024-790). The prefect may extend this in particular local circumstances, up to 21 days.",
+    "pouch_accepted": false,
+    "pouch": null,
+    "private_aviation": "There is no specific rule for private flights; human remains on a private or charter flight need the same documents as on an airline, and they travel with the coffin for customs and health checks at the arrival airport. A zinc-lined coffin is about 2.2 m long and 70-100 kg, so it must fit through the cargo door or into a cabin set up for it, which rules out many light and midsize jets. France requires an airtight coffin for any air transport, including private flights. A flight from outside the Schengen area must land at an airport with border and customs control.",
+    "private_jet_alert": false,
+    "private_jet_note": "An airtight metal-lined coffin is mandatory on any aircraft.",
+    "export": "To send a coffin out of France, the funeral company obtains authorisation from the prefect of the place where the coffin is closed. The same rule applies to EU and non-EU destinations. An airtight (metal-lined) coffin is mandatory for air transport. Ashes need authorisation from the prefect of the place of cremation or of the applicant's residence. The destination country's consular requirements also apply. The death is registered at the town hall (mairie), which issues the death certificate.",
+    "export_points": [
+      "Prefect of the place where the coffin is closed authorises transport abroad",
+      "Airtight metal-lined coffin mandatory by air",
+      "Death certificate from the town hall (mairie)",
+      "Check the destination consulate's requirements"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Local certificate; consular transcription advised",
+      "embalming": "Usually required by departure country",
+      "coffin": "Airtight metal-lined coffin mandatory by air",
+      "laissez_passer": "Strasbourg party since 2000",
+      "consular": "French consulate authorises entry",
+      "permit": "Consular transport authorisation",
+      "arrival": "Funeral within 14 days of entry"
+    },
+    "steps": [
+      {
+        "when": "Day 0-1",
+        "what": "Register the death locally, contact the French consulate and appoint funeral directors"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain the local death certificate, medical certificates and embalming"
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Coffin placed in an airtight zinc-lined coffin and sealed; consulate issues the transport authorisation"
+      },
+      {
+        "when": "Day 3-5",
+        "what": "Flight to France with the documents travelling with the coffin"
+      },
+      {
+        "when": "Within 14 days of entry",
+        "what": "Burial or cremation in France"
+      }
+    ],
+    "key_points": [
+      "Families pay repatriation costs; check insurance first",
+      "Sealed metal coffins complicate cremation in France",
+      "The 14-day deadline runs from entry into France"
+    ],
+    "lead_days": 3,
+    "authority": "French embassy or consulate abroad (entry); prefect of the department (exit)",
+    "sources": [
+      "https://www.service-public.gouv.fr/particuliers/vosdroits/F35706",
+      "https://www.diplomatie.gouv.fr/fr/services-aux-francaises-et-aux-francais/assistance-et-securite/deces-a-l-etranger",
+      "https://www.gov.uk/guidance/what-to-do-after-a-british-person-dies-in-france",
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+    ],
+    "confidence": "high",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "GB",
+    "name": "United Kingdom",
+    "status": "requirements",
+    "summary": "The UK has no import permit for a coffin. It must arrive with a certified English translation of the foreign death certificate and the foreign authority's permission to remove the body. In England and Wales the registrar then issues a certificate of no liability to register; Scotland requires approval from the Death Certification Review Service before burial or cremation.",
+    "documents": [
+      "Foreign death certificate with certified English translation",
+      "Permission to remove the body issued by a coroner or equivalent authority abroad",
+      "Embalming and non-contagious disease certificates where issued by the departure country",
+      "Passport of the deceased",
+      "For cremation in England and Wales: coroner's certificate (form Cremation 6)",
+      "For Scotland: DCRS Form Y (request for repatriation) with supporting documents"
+    ],
+    "coffin": "UK law sets no specific import coffin standard. Airlines and departure countries normally require a hermetically sealed zinc-lined coffin inside a wooden coffin.",
+    "embalming": "Not required by UK law for import, but usually required by the departure country or airline. Embalming may affect a post-mortem, so tell the funeral director if an inquest is likely.",
+    "consular": "No UK consular legalisation or entry permit is needed. British embassies can give lists of funeral directors but cannot pay costs. The UK is not a party to the Strasbourg Agreement.",
+    "arrival": "The UK funeral director collects the coffin. In England and Wales, take the foreign death certificate to the register office for the area of the funeral to get a certificate of no liability to register. Tell the coroner if the death was violent, unnatural or of unknown cause, as an inquest is likely. In Scotland, the body cannot be buried or cremated until DCRS has authorised it; DCRS aims to do this within 5 working days. Northern Ireland has its own process.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "There is no specific rule for private flights; human remains on a private or charter flight need the same documents as on an airline, and they travel with the coffin for customs and health checks at the arrival airport. A zinc-lined coffin is about 2.2 m long and 70-100 kg, so it must fit through the cargo door or into a cabin set up for it, which rules out many light and midsize jets. For international general aviation flights, a General Aviation Report must be submitted online in advance through an approved method (penalty up to GBP 10,000). Arrive at an airport able to provide customs clearance and declare the remains.",
+    "private_jet_alert": true,
+    "private_jet_note": "Submit a General Aviation Report before the flight and land where customs clearance is available.",
+    "export": "To take a body out of England, the funeral director gives notice (Form 104) to the coroner for the area where the body lies, using the death certificate, the deceased's passport and the applicant's passport. The coroner issues the Out of England form (Form 103), usually within 4 working days when the death is not being investigated, longer after a post-mortem. Do not book travel until the funeral director has Form 103. The coroner's permission is not needed to take ashes abroad. Scotland and Northern Ireland have their own procedures.",
+    "export_points": [
+      "Form 104 notice to the coroner where the body lies",
+      "Coroner issues Out of England form (Form 103)",
+      "About 4 working days; longer if investigated",
+      "Do not book flights before Form 103 is issued"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Foreign certificate plus certified English translation",
+      "embalming": "Usually required by departure country",
+      "coffin": "Sealed zinc-lined coffin usual for air",
+      "laissez_passer": "Not a Strasbourg party",
+      "consular": "No UK legalisation needed",
+      "permit": "Removal permit from country of death",
+      "arrival": "Registrar certificate; Scotland needs DCRS approval"
+    },
+    "steps": [
+      {
+        "when": "Day 0-1",
+        "what": "Register the death abroad and appoint local and UK funeral directors"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain the foreign death certificate, certified translation and permission to remove the body"
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Embalming and sealing of the zinc-lined coffin; for Scotland, send Form Y to DCRS"
+      },
+      {
+        "when": "Day 3-4",
+        "what": "Flight to the UK; coffin cleared through customs at the arrival airport"
+      },
+      {
+        "when": "After arrival",
+        "what": "Registrar issues certificate of no liability to register (England and Wales); coroner informed if required"
+      }
+    ],
+    "key_points": [
+      "A death registered abroad is not registered again in the UK",
+      "Cremation in England and Wales needs the coroner's Cremation 6",
+      "Scotland: no burial or cremation without DCRS authorisation",
+      "Do not cremate abroad if a UK inquest may be needed"
+    ],
+    "lead_days": 2,
+    "authority": "Register office and coroner (England and Wales); Death Certification Review Service (Scotland); HM Revenue and Customs at entry",
+    "sources": [
+      "https://www.gov.uk/after-a-death/death-abroad",
+      "https://www.hertfordshire.gov.uk/services/births-deaths-marriages-and-citizenship/deaths/coroner-service/take-a-body-out-of-england.aspx",
+      "https://www.gov.scot/publications/certification-death-scotland-act-2011-statutory-guidance-2/pages/3/",
+      "https://blogs.gov.scot/funeral-industry/wp-content/uploads/sites/54/2026/07/Deaths-Abroad-Handy-Guide-for-Funeral-Directors-v1.00.pdf",
+      "https://www.gov.uk/government/publications/general-aviation-operators-and-pilots-notification-of-flights"
+    ],
+    "confidence": "high",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "GG",
+    "name": "Guernsey",
+    "status": "unknown",
+    "summary": "Guernsey is a British Crown Dependency with its own laws, outside the UK. The States of Guernsey website could not be reached, so its entry rules for a coffin could not be verified. Confirm the requirements with the Guernsey registrar or HM Greffier and a local funeral director.",
+    "documents": [
+      "Foreign death certificate with English translation",
+      "Permit to remove the body issued in the country of death",
+      "Embalming and non-contagious disease certificates where issued by the departure country",
+      "Passport of the deceased"
+    ],
+    "coffin": "Not verified. Airlines and departure countries normally require a hermetically sealed zinc-lined coffin for international air transport.",
+    "embalming": "Not verified; usually required by the departure country or airline.",
+    "consular": "Guernsey has no consulates of its own; British embassies help British nationals abroad. Guernsey's own entry formalities were not confirmed.",
+    "arrival": "Not verified. The local funeral director collects the coffin; confirm with the Guernsey registrar what is needed before burial or cremation.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "There is no specific rule for private flights; human remains on a private or charter flight need the same documents as on an airline, and they travel with the coffin for customs and health checks at the arrival airport. A zinc-lined coffin is about 2.2 m long and 70-100 kg, so it must fit through the cargo door or into a cabin set up for it, which rules out many light and midsize jets. Flights between the UK, Ireland, the Channel Islands and the Isle of Man may also have to be notified to the police under the UK Terrorism Act notification rules. Guernsey's own customs procedures were not verified.",
+    "private_jet_alert": false,
+    "private_jet_note": "Check Guernsey customs and flight notification rules before departure.",
+    "export": "Not verified for Guernsey. If the body is going to Scotland for burial or cremation, Scotland treats a death in the Channel Islands as a death abroad: the Death Certification Review Service must authorise it before the funeral. For England and Wales, the documents listed for deaths abroad apply (death certificate, permission to remove the body).",
+    "export_points": [
+      "Guernsey's local removal rules not published in sources we could check",
+      "Scotland treats Guernsey deaths as deaths abroad (DCRS approval)",
+      "Confirm with the Guernsey registrar or HM Greffier"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Foreign certificate; English translation",
+      "embalming": "Not verified; usually required",
+      "coffin": "Sealed zinc-lined coffin expected",
+      "laissez_passer": "Not a Strasbourg party (UK)",
+      "consular": "British embassies assist abroad",
+      "permit": "Removal permit from country of death",
+      "arrival": "Confirm with Guernsey registrar"
+    },
+    "steps": [
+      {
+        "when": "Day 0-1",
+        "what": "Appoint local and Guernsey funeral directors"
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Obtain the death certificate, translation, removal permit and embalming"
+      },
+      {
+        "when": "Day 3-5",
+        "what": "Sealing of the coffin and flight booking"
+      },
+      {
+        "when": "On arrival",
+        "what": "Guernsey funeral director collects the coffin; registrar formalities"
+      }
+    ],
+    "key_points": [
+      "Crown Dependency outside the UK, with its own laws",
+      "Official Guernsey pages could not be opened",
+      "Low confidence; confirm locally"
+    ],
+    "lead_days": null,
+    "authority": "Not confirmed (States of Guernsey registrar / HM Greffier)",
+    "sources": [
+      "https://www.gov.scot/publications/certification-death-scotland-act-2011-statutory-guidance-2/pages/3/",
+      "https://www.gov.uk/government/publications/general-aviation-operators-and-pilots-notification-of-flights"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "GI",
+    "name": "Gibraltar",
+    "status": "unknown",
+    "summary": "Gibraltar is a British Overseas Territory with its own laws (Coroner Act, Cemeteries Act 2018, Births and Deaths Registration Act). Their texts could not be read online, so the entry rules for a coffin could not be verified. Confirm with the Civil Status and Registration Office and a local funeral director.",
+    "documents": [
+      "Foreign death certificate with English translation",
+      "Permit to remove the body issued in the country of death",
+      "Embalming and non-contagious disease certificates where issued by the departure country",
+      "Passport of the deceased"
+    ],
+    "coffin": "Not verified. Airlines and departure countries normally require a hermetically sealed zinc-lined coffin for international air transport.",
+    "embalming": "Not verified; usually required by the departure country or airline.",
+    "consular": "Gibraltar has no consulates of its own; British embassies help British nationals abroad. No Gibraltar entry permit was confirmed.",
+    "arrival": "Not verified. Deaths in Gibraltar are registered with the Civil Status and Registration Office. Confirm with the cemetery authority and a local funeral director what is needed for burial of a body from abroad.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "There is no specific rule for private flights; human remains on a private or charter flight need the same documents as on an airline, and they travel with the coffin for customs and health checks at the arrival airport. A zinc-lined coffin is about 2.2 m long and 70-100 kg, so it must fit through the cargo door or into a cabin set up for it, which rules out many light and midsize jets. Gibraltar Airport is shared with a military airfield, and private flight access and customs procedures were not verified; check landing permission well in advance.",
+    "private_jet_alert": false,
+    "private_jet_note": "Check landing permission and customs at Gibraltar Airport well in advance.",
+    "export": "Not verified. Expect a Gibraltar death certificate from the Civil Status and Registration Office, coroner involvement where the death is reported to the coroner, embalming and a sealed zinc-lined coffin. The destination country's consular rules also apply.",
+    "export_points": [
+      "Death registered with the Civil Status and Registration Office",
+      "Local removal rules not published in sources we could check",
+      "Confirm with the coroner and the destination consulate"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Foreign certificate; English translation",
+      "embalming": "Not verified; usually required",
+      "coffin": "Sealed zinc-lined coffin expected",
+      "laissez_passer": "Not a Strasbourg party (UK)",
+      "consular": "British embassies assist abroad",
+      "permit": "Removal permit from country of death",
+      "arrival": "Confirm with Gibraltar registry"
+    },
+    "steps": [
+      {
+        "when": "Day 0-1",
+        "what": "Appoint local and Gibraltar funeral directors"
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Obtain the death certificate, translation, removal permit and embalming"
+      },
+      {
+        "when": "Day 3-5",
+        "what": "Sealing of the coffin; confirm landing permission at Gibraltar"
+      },
+      {
+        "when": "On arrival",
+        "what": "Gibraltar funeral director collects the coffin; burial arranged with the cemetery authority"
+      }
+    ],
+    "key_points": [
+      "British Overseas Territory with its own legislation",
+      "Legislation texts could not be read online",
+      "Low confidence; confirm locally"
+    ],
+    "lead_days": null,
+    "authority": "Not confirmed (Civil Status and Registration Office; Coroner of Gibraltar)",
+    "sources": [
+      "https://www.gibraltar.gov.gi/department-of-immigration-and-home-affairs/births-and-deaths",
+      "https://www.gibraltarlaws.gov.gi/legislations/coroner-act-47",
+      "https://www.gibraltarlaws.gov.gi/legislations/cemeteries-act-2018-4404"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "GL",
+    "name": "Greenland",
+    "status": "unknown",
+    "summary": "Greenland is a self-governing part of the Kingdom of Denmark, and no official source on bringing a coffin into Greenland could be verified. Denmark is not listed as a party to the Strasbourg Agreement. Confirm all requirements with the Greenland authorities (Naalakkersuisut) and the Danish embassy before planning.",
+    "documents": [
+      "Foreign death certificate (translation likely needed; confirm)",
+      "Permit to remove the body issued in the country of death",
+      "Embalming and non-contagious disease certificates where issued by the departure country",
+      "Passport of the deceased"
+    ],
+    "coffin": "Not verified. In practice a hermetically sealed zinc-lined coffin inside a wooden coffin is required for air transport.",
+    "embalming": "Not verified; usually required by the departure country or airline.",
+    "consular": "Not published; confirm with the Danish embassy or consulate in the country of death.",
+    "arrival": "Not published; confirm with the local municipality, church and funeral arrangements in the destination town.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "There is no specific rule for private flights; human remains on a private or charter flight need the same documents as on an airline, and they travel with the coffin for customs and health checks at the arrival airport. A zinc-lined coffin is about 2.2 m long and 70-100 kg, so it must fit through the cargo door or into a cabin set up for it, which rules out many light and midsize jets. Most international flights arrive at a few airports such as Kangerlussuaq or Nuuk, and onward transport to smaller towns may need a domestic flight or ship. Customs procedures were not verified.",
+    "private_jet_alert": false,
+    "private_jet_note": "Check which Greenland airport can receive the flight and handle customs.",
+    "export": "Not verified. Expect a local death certificate, a permit to remove the body from the local authorities, embalming and a sealed zinc-lined coffin. The destination country's consular rules also apply.",
+    "export_points": [
+      "Rules not published in sources we could check",
+      "Confirm with Greenland authorities and the destination consulate",
+      "Expect a sealed zinc-lined coffin for air transport"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Foreign certificate; confirm translation",
+      "embalming": "Not verified; usually required",
+      "coffin": "Sealed zinc-lined coffin expected",
+      "laissez_passer": "Denmark not a Strasbourg party",
+      "consular": "Confirm with Danish embassy",
+      "permit": "Removal permit from country of death",
+      "arrival": "Confirm with local municipality"
+    },
+    "steps": [
+      {
+        "when": "Day 0-1",
+        "what": "Contact the Danish embassy and Greenland authorities"
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Obtain the death certificate, removal permit and embalming abroad"
+      },
+      {
+        "when": "Day 3-6",
+        "what": "Sealing of the coffin; plan the flight and any onward domestic transport"
+      },
+      {
+        "when": "On arrival",
+        "what": "Local funeral arrangements with the municipality and church"
+      }
+    ],
+    "key_points": [
+      "Self-governing territory of Denmark with its own rules",
+      "No official procedure found online",
+      "Remote towns may need onward transport"
+    ],
+    "lead_days": null,
+    "authority": "Not confirmed (Naalakkersuisut / Government of Greenland; Danish embassies abroad)",
+    "sources": [
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "GR",
+    "name": "Greece",
+    "status": "requirements",
+    "summary": "Transfer of a body to Greece is handled in person at the Greek consulate in the country of death under Ministry of Health rules. Documents must be translated into Greek, the body must be embalmed, and the sealed metal coffin is closed in front of consular officials, who issue the transfer certificate.",
+    "documents": [
+      "Medical certificate from the hospital or clinic stating the cause of death",
+      "Embalming certificate",
+      "Local death certificate",
+      "Medical certificate that the deceased had no communicable disease in the 6 months before death",
+      "Relative's authorisation for the transfer (at a consulate, KEP office or via gov.gr)",
+      "Exit permit from the country of death",
+      "Flight details to Greece",
+      "Apostille where required, Greek translations with the translator's signature certified by the consulate",
+      "Greek civil registry death certificate (printed by the consulate)"
+    ],
+    "coffin": "The embalmed body is placed in a closed metal coffin with a 5 cm layer of absorbent material soaked in antiseptic and embalming fluid at the bottom. This goes inside an airtight wooden coffin and is wedged so it cannot move. If death was caused by a contagious disease, the body is also wrapped in a cover containing antiseptic. Sealing takes place in front of the consular authorities, by appointment.",
+    "embalming": "Mandatory: embalming according to scientific rules, certified by the competent authority.",
+    "consular": "The application is made in person at the Greek consulate with ID. The transfer certificate costs EUR 10 and is issued the same day once the file is complete. Death certificate copies are also listed at EUR 10 each. Greece has been a party to the Strasbourg Agreement since 1983 (Law 1315/1983), but the consular certificate is still the published route.",
+    "arrival": "The receiving Greek funeral director collects the coffin at the airport and arranges burial with the municipality. Burials in Greece normally take place within a month of death. For COVID-19 or other special cases, contact the Ministry of Health (ddy@moh.gov.gr).",
+    "pouch_accepted": false,
+    "pouch": null,
+    "private_aviation": "There is no specific rule for private flights; human remains on a private or charter flight need the same documents as on an airline, and they travel with the coffin for customs and health checks at the arrival airport. A zinc-lined coffin is about 2.2 m long and 70-100 kg, so it must fit through the cargo door or into a cabin set up for it, which rules out many light and midsize jets. The coffin is sealed in front of the consul before departure and the seal must still be intact on arrival. A flight from outside the Schengen area must land at an airport with border and customs control.",
+    "private_jet_alert": false,
+    "private_jet_note": "Book the consular sealing appointment before fixing the departure slot.",
+    "export": "To send a body out of Greece, the death is registered at the local registry office (dimos), and the funeral director obtains a permit to remove the body, an embalming certificate and the deceased's passport. Local formalities usually take 8-10 days. The destination country's consular rules also apply.",
+    "export_points": [
+      "Death registered at the local registry office (dimos)",
+      "Permit to remove the body and embalming certificate",
+      "Allow 8-10 days for local formalities"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Apostilled, translated into Greek",
+      "embalming": "Mandatory",
+      "coffin": "Sealed metal coffin inside airtight wooden coffin",
+      "laissez_passer": "Party; consular certificate still used",
+      "consular": "Consulate witnesses sealing, issues certificate",
+      "permit": "Consular transfer certificate (EUR 10)",
+      "arrival": "Greek funeral director collects at airport"
+    },
+    "steps": [
+      {
+        "when": "Day 0-1",
+        "what": "Appoint funeral directors; obtain the medical and death certificates"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Embalming; obtain the non-contagion certificate and exit permit"
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Apostille and Greek translations; book the consular appointment"
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Coffin sealed in front of the consul; transfer certificate issued the same day"
+      },
+      {
+        "when": "Arrival",
+        "what": "Greek funeral director collects the coffin and arranges burial"
+      }
+    ],
+    "key_points": [
+      "Application in person at the consulate only",
+      "Consulate must witness the sealing",
+      "All documents translated into Greek",
+      "Embalming is mandatory"
+    ],
+    "lead_days": 3,
+    "authority": "Ministry of Health; Greek consular authorities abroad",
+    "sources": [
+      "https://en.mitos.gov.gr/index.php/%CE%94%CE%94:Transfer_of_a_corpse_from_abroad_to_Greece",
+      "https://www.gov.uk/government/publications/greece-bereavement-packinformation/greece-bereavement-information",
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+    ],
+    "confidence": "high",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "HR",
+    "name": "Croatia",
+    "status": "requirements",
+    "summary": "To bring a body into Croatia, the family or funeral company applies to a Croatian embassy or consulate for a sprovodnica (transfer document), with a certified international death extract and a medical certificate that the death was not contagious. For air transport, the body travels in a sealed metal coffin, or a sealed bag with a filter valve, inside a wooden coffin.",
+    "documents": [
+      "International death extract, certified for use in Croatia",
+      "Medical certificate of the cause of death stating it was not a contagious disease",
+      "Proof of the deceased's citizenship and passport (a Croatian passport is cancelled by the mission)",
+      "Approval for the transfer issued by the departure country",
+      "Transport details: flight number, airline, arrival airport, onward transport and the person receiving the body",
+      "For a foreign national buried in Croatia: written confirmation of the burial place from the cemetery or parish"
+    ],
+    "coffin": "For air transport: a hermetically sealed metal coffin, or a hermetically sealed bag with a filter safety valve, placed inside a wooden coffin. If the death was caused by a listed infectious disease, a soldered metal coffin inside a wooden coffin is required, with the body wrapped in cloth soaked in disinfectant. On the aircraft the coffin goes in the cargo hold, separate from baggage, unless a special aircraft is used, in which case the cabin may be used.",
+    "embalming": "Not required by Croatian rules for entry as far as could be verified. The British embassy notes that embalming is not compulsory in Croatia but can be requested, especially for repatriation.",
+    "consular": "The Croatian embassy or consulate issues the sprovodnica on the official form. Before transport starts, the carrier must notify the mission in the country of departure by email or fax, with the transport consent, date and place of departure. No sprovodnica is needed for transit through Croatia. Croatia is not a party to the Strasbourg Agreement.",
+    "arrival": "The receiving funeral director collects the coffin. Ashes need no sprovodnica: carry the crematorium's certificate and show it to the police on entry.",
+    "pouch_accepted": false,
+    "pouch": null,
+    "private_aviation": "There is no specific rule for private flights; human remains on a private or charter flight need the same documents as on an airline, and they travel with the coffin for customs and health checks at the arrival airport. A zinc-lined coffin is about 2.2 m long and 70-100 kg, so it must fit through the cargo door or into a cabin set up for it, which rules out many light and midsize jets. Croatian rules say a body may travel in the passenger cabin only on a special aircraft, otherwise in the cargo hold separate from baggage. A dedicated private charter fits this, but the coffin must still meet the sealed coffin rules.",
+    "private_jet_alert": false,
+    "private_jet_note": "The cabin may be used only on a dedicated aircraft; the sealed coffin rules still apply.",
+    "export": "To send a body out of Croatia, the death is registered at the local registry office, which issues the death certificate (an international multilingual version is available; it does not show the cause of death). The transport request must state the border crossing. A death examiner (coroner) issues permission to remove the body. The sprovodnica is issued by the sanitary inspector where the death was from an infectious disease or for exhumed remains. For air transport the body must be in a sealed metal coffin or sealed bag inside a wooden coffin. Non-infectious bodies not yet buried must be transported within 48 hours of death.",
+    "export_points": [
+      "Death registered locally; international death certificate available",
+      "Permission to remove the body issued by a coroner",
+      "Sanitary inspector issues sprovodnica for infectious-disease deaths",
+      "Sealed metal coffin or sealed bag inside wooden coffin by air"
+    ],
+    "at_a_glance": {
+      "death_certificate": "International extract, certified for Croatia",
+      "embalming": "Not required by Croatian rules",
+      "coffin": "Sealed metal coffin or sealed bag, wooden outer",
+      "laissez_passer": "Not a Strasbourg party",
+      "consular": "Embassy issues the sprovodnica",
+      "permit": "Sprovodnica plus departure-country approval",
+      "arrival": "Notify mission before transport starts"
+    },
+    "steps": [
+      {
+        "when": "Day 0-1",
+        "what": "Appoint funeral directors and contact the Croatian embassy or consulate"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain the certified death extract, medical certificate and the departure country's transfer approval"
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Apply for the sprovodnica with flight and receiver details"
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Place the body in the sealed coffin; notify the mission of the transport date by email or fax"
+      },
+      {
+        "when": "Arrival",
+        "what": "Funeral director collects the coffin; burial arranged with the cemetery or parish"
+      }
+    ],
+    "key_points": [
+      "Sprovodnica is issued by Croatian missions abroad",
+      "No sprovodnica needed for transit or for ashes",
+      "Cremation is only available in Zagreb"
+    ],
+    "lead_days": 3,
+    "authority": "Croatian diplomatic missions (entry); sanitary inspectorate and local registry (exit)",
+    "sources": [
+      "https://www.gov.hr/hr/smrtni-slucaj-u-inozemstvu/762",
+      "https://narodne-novine.nn.hr/clanci/sluzbeni/2018_12_116_2322.html",
+      "https://www.gov.uk/guidance/when-someone-dies-in-croatia",
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "HU",
+    "name": "Hungary",
+    "status": "requirements",
+    "summary": "A permit to transport a body from abroad into Hungary is issued by a Hungarian consular officer, and a double coffin (an inner metal coffin inside the outer coffin) is mandatory in every case. At the destination, the public health authority inspects the shipment and withdraws the permit.",
+    "documents": [
+      "Foreign death certificate (official Hungarian translation likely needed; confirm with the consulate)",
+      "Medical certificate of the cause of death",
+      "Transport permit issued by the Hungarian consular officer",
+      "Embalming certificate where required by the departure country",
+      "Passport of the deceased"
+    ],
+    "coffin": "A double coffin is mandatory for every transport from abroad into Hungary. For air transport, or any transport to or from abroad, a metal coffin must be used inside the transport coffin. The coffin must be tightly closed and watertight.",
+    "embalming": "Not specifically required by Hungarian law for incoming bodies. Preservation is optional in Hungary, at the family's request. The departure country or airline usually requires embalming.",
+    "consular": "The Hungarian consular officer issues the permit to transport a body into Hungary, applying Hungarian domestic transport rules. Hungary is not a party to the Strasbourg Agreement. Fees and processing times were not published in the sources checked; confirm with the consulate.",
+    "arrival": "At the destination, after notice from the cemetery operator, the public health authority inspects the shipment and withdraws and keeps the transport permit. For deaths in Hungary, coffin burial must normally take place within 96 hours of the death certificate, or within 15 days if the body is kept refrigerated. How this applies to bodies from abroad should be confirmed locally.",
+    "pouch_accepted": false,
+    "pouch": null,
+    "private_aviation": "There is no specific rule for private flights; human remains on a private or charter flight need the same documents as on an airline, and they travel with the coffin for customs and health checks at the arrival airport. A zinc-lined coffin is about 2.2 m long and 70-100 kg, so it must fit through the cargo door or into a cabin set up for it, which rules out many light and midsize jets. Hungary requires a metal inner coffin for any air transport. A flight from outside the Schengen area must land at an airport with border and customs control.",
+    "private_jet_alert": false,
+    "private_jet_note": "A metal inner coffin is mandatory on any aircraft.",
+    "export": "Transporting a body abroad from Hungary needs a permit from the district office (járási hivatal) acting as the public health authority for the place of death. The application states the deceased's details, cause and date of death, route, vehicle, mode of transport and escort, and the permit sets the transport conditions, which are checked before departure. A metal coffin inside the transport coffin is mandatory for air transport or transport abroad. The destination country's consular rules also apply.",
+    "export_points": [
+      "Public health district office of the place of death issues the transport permit",
+      "Metal inner coffin mandatory for air or international transport",
+      "Permit conditions checked before departure",
+      "Check the destination consulate's requirements"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Foreign certificate; translation likely",
+      "embalming": "Not required by Hungarian law",
+      "coffin": "Double coffin with metal inner mandatory",
+      "laissez_passer": "Not a Strasbourg party",
+      "consular": "Hungarian consul issues entry permit",
+      "permit": "Consular transport permit",
+      "arrival": "Public health authority inspects at destination"
+    },
+    "steps": [
+      {
+        "when": "Day 0-1",
+        "what": "Register the death locally and appoint funeral directors in both countries"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain the death certificate, medical certificate and translations"
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Apply to the Hungarian consulate for the transport permit"
+      },
+      {
+        "when": "Day 2-4",
+        "what": "Body placed in a double coffin with metal inner; flight to Hungary"
+      },
+      {
+        "when": "Arrival",
+        "what": "Public health authority checks the shipment; burial arranged with the cemetery"
+      }
+    ],
+    "key_points": [
+      "Double coffin mandatory for every body from abroad",
+      "Permit withdrawn by the authority at destination",
+      "Families pay repatriation costs; check insurance first"
+    ],
+    "lead_days": 3,
+    "authority": "Hungarian consular officer (entry); district office acting as public health authority (exit)",
+    "sources": [
+      "https://net.jogtar.hu/jogszabaly?docid=99900145.kor",
+      "https://www.gov.uk/government/publications/hungary-bereavement-packinformation/hungary-bereavement-information",
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "IE",
+    "name": "Ireland",
+    "status": "requirements",
+    "summary": "Ireland has no import permit for a coffin. The documents needed are mainly those issued by the country of death (death certificate, removal permission, embalming and non-contagion certificates). The coroner is not usually involved unless the person died in unnatural circumstances abroad.",
+    "documents": [
+      "Foreign death certificate (with translation if not in English)",
+      "Permission to remove the body from the country of death",
+      "Embalming certificate",
+      "Certificate of non-contagious disease where issued",
+      "Passport of the deceased"
+    ],
+    "coffin": "Irish guidance states that international rules require coffins crossing borders to be lined with zinc or lead and sealed. Such coffins are not suitable for cremation; the lining must be removed or another coffin provided.",
+    "embalming": "Not required by Irish law for import as far as could be verified. Usually required by the departure country or airline.",
+    "consular": "The Department of Foreign Affairs and Irish embassies help with local procedures and documents but do not pay repatriation costs. Repatriations take on average 10-14 days, often longer. Ireland is not a party to the Strasbourg Agreement.",
+    "arrival": "The Irish funeral director receives the coffin. If the person died in unnatural circumstances, the coroner for the district the body is brought to must be informed; the coroner authorises burial or cremation and may order a post-mortem. Families may ask the coroner to examine a death abroad that was unexplained or suspicious.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "There is no specific rule for private flights; human remains on a private or charter flight need the same documents as on an airline, and they travel with the coffin for customs and health checks at the arrival airport. A zinc-lined coffin is about 2.2 m long and 70-100 kg, so it must fit through the cargo door or into a cabin set up for it, which rules out many light and midsize jets. Flights from outside the Common Travel Area should land at an airport with customs facilities.",
+    "private_jet_alert": false,
+    "private_jet_note": "From outside the Common Travel Area, land at an airport with customs facilities.",
+    "export": "The coroner for the district where the body lies must be notified whenever a body is to leave Ireland, even for a natural death certified by a doctor. If satisfied, the coroner issues a removal order (certificate), usually to the funeral director. Documents usually required: the coroner's removal order or non-infectious note, an embalming certificate, the passport, a funeral director's declaration, the destination embassy's permit and any notarisation or apostille. Coffins must be zinc- or lead-lined and sealed.",
+    "export_points": [
+      "Coroner must be notified; issues the removal order",
+      "Embalming certificate and funeral director's declaration",
+      "Destination embassy permit; apostille if required",
+      "Sealed zinc- or lead-lined coffin"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Foreign certificate; translation if not English",
+      "embalming": "Usually required by departure country",
+      "coffin": "Sealed zinc- or lead-lined coffin",
+      "laissez_passer": "Not a Strasbourg party",
+      "consular": "Irish embassy assists, no permit",
+      "permit": "No Irish import permit",
+      "arrival": "Coroner only if unnatural death"
+    },
+    "steps": [
+      {
+        "when": "Day 0-1",
+        "what": "Contact the Irish embassy; appoint local and Irish funeral directors"
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Obtain the death certificate, removal permission and embalming"
+      },
+      {
+        "when": "Day 3-5",
+        "what": "Coffin sealed; flight arranged"
+      },
+      {
+        "when": "Arrival",
+        "what": "Irish funeral director takes over; coroner informed if the death was unnatural"
+      }
+    ],
+    "key_points": [
+      "The State does not fund repatriation",
+      "Average repatriation 10-14 days",
+      "Zinc-lined coffins are unsuitable for cremation"
+    ],
+    "lead_days": 2,
+    "authority": "Department of Foreign Affairs (assistance); coroner (exit and unnatural deaths)",
+    "sources": [
+      "https://www.ireland.ie/en/dfa/overseas-travel/assistance-abroad/death-abroad/",
+      "https://www.gov.ie/en/department-of-foreign-affairs/services/sending-a-body-from-ireland-for-burial-or-cremation-abroad/",
+      "https://www.gov.ie/en/department-of-justice-home-affairs-and-migration/services/what-to-do-if-someone-dies-away-from-home/",
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+    ],
+    "confidence": "high",
+    "last_checked": "2026-10"
+  }
+]

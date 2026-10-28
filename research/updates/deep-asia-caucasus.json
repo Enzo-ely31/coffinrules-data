@@ -1,0 +1,665 @@
+[
+ {
+  "cc": "AM",
+  "name": "Armenia",
+  "status": "requirements",
+  "summary": "Armenia publishes no consular checklist for bringing a casket in, but as an EAEU member it applies the EAEU Customs Code: the coffin is declared at customs with the death certificate from the country of departure and an act from the firm that soldered the zinc coffin confirming there are no foreign items inside. Confirm the remaining documents (embalming, non-contagious disease certificate, translations) with the Armenian consulate.",
+  "documents": [
+   "Death certificate (or medical death certificate, or copies) from the country of death, with translation (EAEU Customs Code Art. 260(20))",
+   "Act from the firm that soldered the zinc coffin confirming no foreign items inside, with inventory of belongings if any (EAEU Customs Code Art. 260(20))",
+   "Free-form customs statement by the person accompanying the coffin (Art. 260(18))",
+   "Embalming certificate (expected; confirm)",
+   "Certificate that the death was not caused by a contagious disease (expected; confirm)",
+   "Export permit from the country of death; passport of the deceased"
+  ],
+  "coffin": "Zinc coffin soldered shut by a specialised funeral firm, which issues the no-foreign-items act required by EAEU customs; placed in an outer wooden case per airline practice. Who witnesses the sealing is not published; confirm with the Armenian consulate.",
+  "embalming": "Not published officially for entry; embalming is expected for international transport. Confirm with the Armenian consulate.",
+  "consular": "Armenia is not a party to the 1973 Strasbourg Agreement. Contact the Armenian embassy or consulate in the country of death about any consular certificate, legalisation or apostille and translations; the published consular fee list does not mention a body transfer document.",
+  "arrival": "Customs declaration of the coffin at Zvartnots airport (Yerevan) under the EAEU Customs Code, using the death certificate and the zinc-sealing act; the accompanying person may file a free-form statement. Handover to a local funeral director. There are no cremation facilities in Armenia.",
+  "pouch_accepted": null,
+  "pouch": null,
+  "private_aviation": "No official rule specific to human remains on private aircraft was found. Plan arrival at an international airport with customs, border and sanitary-quarantine control, and have the handling agent confirm clearance of the coffin in advance.",
+  "private_jet_alert": false,
+  "private_jet_note": "Confirm documents with the Armenian consulate before take-off.",
+  "export": "The death is registered with the Civic Status Registration Department, normally on the same day and free of charge; the long-form certificate states the cause of death. Leaving Armenia requires the death certificate, permission to remove the body and the passport of the deceased. A post-mortem may be done when death is unknown, unnatural, sudden or violent. Bodies travel as airline cargo.",
+  "export_points": [
+   "Death registered same day, free",
+   "Permission to remove the body",
+   "Passport of the deceased",
+   "Post-mortem in unexplained or violent deaths"
+  ],
+  "at_a_glance": {
+   "death_certificate": "Original with Armenian translation",
+   "embalming": "Expected; confirm with consulate",
+   "coffin": "Soldered zinc coffin with sealing act",
+   "laissez_passer": "No, not a Strasbourg party",
+   "consular": "Ask the Armenian consulate first",
+   "permit": "EAEU customs: death cert + sealing act",
+   "arrival": "Airport customs, local funeral director"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Obtain the death certificate and contact the Armenian consulate"
+   },
+   {
+    "when": "Day 0-1",
+    "what": "Embalm and seal the body in a zinc-lined coffin"
+   },
+   {
+    "when": "Day 1-2",
+    "what": "Obtain export permit and any consular certificate or legalisation"
+   },
+   {
+    "when": "Day 2-3",
+    "what": "Book the flight and inform the Armenian funeral director"
+   },
+   {
+    "when": "Arrival",
+    "what": "Customs clearance in Yerevan and handover to the funeral director"
+   }
+  ],
+  "key_points": [
+   "EAEU customs rules apply to coffins",
+   "Zinc-sealing act needed for customs",
+   "Not a Strasbourg Agreement party",
+   "No cremation in Armenia"
+  ],
+  "lead_days": null,
+  "authority": "Ministry of Foreign Affairs of Armenia (consular service); Civic Status Registration Department for deaths in Armenia; State Revenue Committee (customs) under the EAEU Customs Code",
+  "sources": [
+   "https://www.gov.uk/guidance/when-someone-dies-in-armenia--2",
+   "https://www.mfa.am/en/fees/",
+   "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p",
+   "https://www.consultant.ru/document/cons_doc_LAW_215315/c90ae4a93484d8cc34d2e3ff337e9e8ea96f7a05/"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "GE",
+  "name": "Georgia",
+  "status": "unknown",
+  "summary": "No official Georgian rules for bringing a casket into Georgia were found. Expect a sealed zinc-lined coffin with the death certificate, embalming and non-contagious disease certificates; confirm the exact list with the Georgian consulate in the country of death before departure.",
+  "documents": [
+   "Death certificate from the country of death, with translation",
+   "Embalming certificate (expected; confirm with the consulate)",
+   "Certificate that the death was not caused by a contagious disease (expected; confirm)",
+   "Zinc sealing certificate (expected; confirm)",
+   "Export permit from the country of death",
+   "Passport or ID of the deceased"
+  ],
+  "coffin": "Not published officially. Airlines and international practice require a hermetically sealed zinc-lined coffin in an outer wooden case; confirm with the Georgian consulate.",
+  "embalming": "Not published officially for entry; embalming is expected for international transport. Confirm with the Georgian consulate.",
+  "consular": "Georgia is not a party to the 1973 Strasbourg Agreement, so the laissez-passer is not enough on its own. Contact the Georgian consulate in the country of death (Consular Department of the Ministry of Foreign Affairs, hotline +995 32 2 94 50 50) about any consular certificate, legalisation or apostille and Georgian translations. For Georgian citizens who die abroad, the Government of Georgia can reimburse repatriation costs on application by a family member (Decree No. 330 of 18 July 2016, amended by Decree No. 158 of 26 March 2019; refused when household declared income exceeds GEL 100,000).",
+  "arrival": "Not published officially. Expect customs clearance at the arrival airport and collection by a Georgian funeral service. Cremation is not possible in Georgia.",
+  "pouch_accepted": null,
+  "pouch": null,
+  "private_aviation": "No official rule specific to human remains on private aircraft was found. Plan arrival at an international airport with customs, border and sanitary-quarantine control, and have the handling agent confirm clearance of the coffin in advance.",
+  "private_jet_alert": false,
+  "private_jet_note": "Confirm documents with the Georgian consulate before take-off.",
+  "export": "Deaths are registered by the Public Service Development Agency at the nearest Public Service Hall, usually with the certificate available one day after death; certificates are in Georgian and do not state the cause of death. A post-mortem is done when death is not natural or the cause is unclear, and the body may be held while investigators collect evidence. The UK government advises using an international funeral director working with a Georgian funeral service; no official list of export permits was published.",
+  "export_points": [
+   "Death certificate from Public Service Hall, usually next day",
+   "Post-mortem when death is unnatural or unclear",
+   "Investigation can delay release of the body",
+   "Use an international funeral director with a local partner"
+  ],
+  "at_a_glance": {
+   "death_certificate": "Original with Georgian translation",
+   "embalming": "Expected; confirm with consulate",
+   "coffin": "Sealed zinc-lined coffin expected",
+   "laissez_passer": "No, not a Strasbourg party",
+   "consular": "Ask the Georgian consulate first",
+   "permit": "Export permit from country of death",
+   "arrival": "Airport customs, local funeral service"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Obtain the death certificate and contact the Georgian consulate"
+   },
+   {
+    "when": "Day 0-1",
+    "what": "Embalm and seal the body in a zinc-lined coffin"
+   },
+   {
+    "when": "Day 1-2",
+    "what": "Obtain export permit and any consular certificate or legalisation"
+   },
+   {
+    "when": "Day 2-3",
+    "what": "Book the flight and send documents to the Georgian funeral service"
+   },
+   {
+    "when": "Arrival",
+    "what": "Customs clearance and handover to the funeral service"
+   }
+  ],
+  "key_points": [
+   "Official entry rules not published online",
+   "Not a Strasbourg Agreement party",
+   "Georgian state may reimburse repatriation costs for citizens",
+   "No cremation in Georgia"
+  ],
+  "lead_days": null,
+  "authority": "Ministry of Foreign Affairs of Georgia (consular department); Public Service Development Agency for deaths in Georgia",
+  "sources": [
+   "https://www.gov.uk/government/publications/georgia-bereavement-pack-information/georgia-bereavement-pack",
+   "https://geoconsul.gov.ge/",
+   "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p",
+   "https://matsne.gov.ge/ka/document/view/4518733"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "BY",
+  "name": "Belarus",
+  "status": "requirements",
+  "summary": "Belarus publishes no consular checklist for bringing a casket in. Coffins with bodies must go through the customs red channel, and under the EAEU Customs Code they are declared with the death certificate from the country of departure and an act from the firm that soldered the zinc coffin confirming there are no foreign items inside. Confirm the other documents with the Belarusian consulate and check sanctions before any flight.",
+  "documents": [
+   "Death certificate (or medical death certificate, or copies) from the country of death, translated into Russian or Belarusian (EAEU Customs Code Art. 260(20))",
+   "Act from the firm that soldered the zinc coffin confirming no foreign items inside, with inventory of belongings if any (Art. 260(20))",
+   "Free-form customs statement by the person accompanying the coffin (Art. 260(18))",
+   "Transfer permit from the country of death",
+   "Embalming certificate (expected; confirm)",
+   "Passport of the deceased; confirm any consular certification with the Belarusian consulate"
+  ],
+  "coffin": "Zinc coffin soldered shut by a specialised firm, which issues the no-foreign-items act required by EAEU customs; wooden outer case per airline practice. Belarusian burial law requires zinc-lined hermetically sealed coffins for deaths from listed dangerous infections (plague, cholera, anthrax and others), which may not be opened.",
+  "embalming": "Not published for entry. For deaths in Belarus, embalming before repatriation is always recommended.",
+  "consular": "Not published; confirm with the Belarusian embassy or consulate.",
+  "arrival": "Coffins with bodies must be declared in the customs red channel (State Customs Committee) at Minsk National Airport, with the death certificate and zinc-sealing act. Handover to a local funeral home.",
+  "pouch_accepted": null,
+  "pouch": null,
+  "private_aviation": "No published rules. Sanctions and airspace restrictions (EU, UK, US and others) limit flights to and from Belarus; check before planning a private flight.",
+  "private_jet_alert": true,
+  "private_jet_note": "Check sanctions and airspace bans before any flight to Belarus.",
+  "export": "Leaving Belarus: all hospital bills must be paid before the body is released. Embalming before repatriation is always recommended. Autopsy samples may be taken without consent; the full autopsy report takes at least 2 weeks. Information on the death is released only through a legal representative (at least 10 days). Detailed export permit requirements are not published.",
+  "export_points": [
+   "Hospital bills paid before release",
+   "Embalming recommended",
+   "Autopsy report takes 2 weeks or more",
+   "Export permits not published; ask local funeral home"
+  ],
+  "at_a_glance": {
+   "death_certificate": "Translated and legalised",
+   "embalming": "Recommended",
+   "coffin": "Soldered zinc coffin with sealing act",
+   "laissez_passer": "From country of death",
+   "consular": "Ask Belarusian consulate",
+   "permit": "Red-channel customs declaration",
+   "arrival": "Red channel customs at Minsk airport"
+  },
+  "steps": [
+   {
+    "when": "Day 0-1",
+    "what": "Death certificate and funeral director in the country of death."
+   },
+   {
+    "when": "Day 1-2",
+    "what": "Contact the Belarusian consulate for the document list."
+   },
+   {
+    "when": "Day 2-4",
+    "what": "Embalming, sealing, translations and legalisation."
+   },
+   {
+    "when": "Day 4-5",
+    "what": "Check sanctions and routing; book transport."
+   },
+   {
+    "when": "Arrival",
+    "what": "Customs clearance and handover to the Belarusian funeral home."
+   }
+  ],
+  "key_points": [
+   "Coffins go through the customs red channel",
+   "Zinc-sealing act needed for EAEU customs",
+   "FCDO advises against all travel to Belarus",
+   "Not a party to the Strasbourg Agreement"
+  ],
+  "lead_days": null,
+  "authority": "Belarusian embassies and consulates; State Customs Committee",
+  "sources": [
+   "https://www.gov.uk/government/publications/belarus-bereavement-information/belarus-bereavement-information",
+   "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p",
+   "https://www.customs.gov.by/fizicheskim-litsam/krasnyy-koridor/",
+   "https://www.consultant.ru/document/cons_doc_LAW_215315/c90ae4a93484d8cc34d2e3ff337e9e8ea96f7a05/",
+   "https://pravo.by/document/?guid=3871&p0=h10100055",
+   "https://www.gov.uk/foreign-travel-advice/belarus"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "KR",
+  "name": "South Korea",
+  "status": "requirements",
+  "summary": "Korea's Quarantine Act requires anyone bringing a body into the country to submit documents to the chief of the quarantine station at the port of entry: the death certificate (or post-mortem certificate), a copy of the air waybill and, if the death was caused by a quarantinable infectious disease, an embalming certificate. Korean embassies certify (consular confirmation) the foreign documents, and the casket is released at the Incheon cargo terminal after quarantine and customs clearance.",
+  "documents": [
+   "Death certificate or post-mortem (autopsy) certificate stating the cause of death (Quarantine Act Enforcement Rule, Art. 19)",
+   "Copy of the air waybill (or bill of lading for sea transport) (Art. 19)",
+   "Embalming certificate: legally required when death was due to a quarantinable infectious disease; Korean embassies also list it for all repatriated bodies",
+   "Any further document the quarantine station chief requests to rule out a quarantinable infectious disease (Art. 19)",
+   "Original passport of the deceased (Korean embassy guidance)",
+   "Korean or English translation of foreign documents, with Korean consular confirmation or apostille (embassy guidance)"
+  ],
+  "coffin": "For deaths from a quarantinable infectious disease, the quarantine station refuses entry unless the body is embalmed and sealed in an impermeable coffin, or cremated (Quarantine Act, Art. 25(2)). For other deaths the law sets no coffin specification; use an airline (IATA) compliant hermetically sealed casket in an outer case.",
+  "embalming": "Embalming certificate is legally required only when death was caused by a quarantinable infectious disease (Enforcement Rule Art. 19(2)); in practice Korean embassies (Spain, Poland) list an embalming certificate for every body repatriated to Korea.",
+  "consular": "The Korean embassy or consulate in the country of death performs consular confirmation of the foreign death and embalming certificates (Korea is also an Apostille Convention party). Documents must be in Korean or English; one embassy (Spain) translates and notarises Spanish documents and issues a body transport permit to the funeral company. Korea is not a party to the Strasbourg Agreement.",
+  "arrival": "The airline's handling agent at Incheon passes the documents to the National Quarantine Station; after quarantine and customs clearance the casket is collected at the cargo terminal, about two hours after landing per the Korean Embassy in Spain, by the receiver with ID and a pre-arranged hearse (terminal fee about KRW 150,000 per that embassy). If the cause of death cannot be confirmed or an infectious disease is suspected, the quarantine station chief may order an autopsy and may restrict the funeral method (Art. 25(4)-(5)). The death must then be reported in Korea within one month. Cremated remains are exempt from customs and quarantine clearance (embassy guidance).",
+  "pouch_accepted": null,
+  "pouch": null,
+  "private_aviation": "The Quarantine Act applies to any aircraft: whoever brings a body into Korea must submit the documents to the quarantine station chief, and a death occurring on board in flight must be reported with a death circumstance report (Enforcement Rule Art. 20). Land at an airport with quarantine and customs (Incheon, Gimpo, Gimhae and other international airports) and have the handling agent arrange quarantine and customs clearance of the casket before departure.",
+  "private_jet_alert": false,
+  "private_jet_note": "Send the death certificate and waybill/manifest to the quarantine station via the handling agent before landing.",
+  "export": "Police investigate deaths. For non-natural deaths, the police and a prosecutor must approve release, and the police issue a completion-of-examination certificate (geomsi piljeung), which the hospital needs before releasing the body. The hospital issues the death certificate. A post-mortem by the National Forensic Service is mandatory for foreign nationals unless the cause of death is already established; the report can take up to 3 months, but repatriation does not wait for it. For the UK, documents are a translated, notarised and apostilled death certificate, embalming certificate, non-contagious disease certificate, transfer permit and the original passport.",
+  "export_points": [
+   "Police and prosecutor release for unnatural deaths",
+   "National Forensic Service post-mortem common for foreigners",
+   "Translated, notarised, apostilled death certificate",
+   "Embalming and non-contagious disease certificates"
+  ],
+  "at_a_glance": {
+   "death_certificate": "Required, with cause of death",
+   "embalming": "Required by embassies; legal if infectious",
+   "coffin": "Sealed impermeable casket",
+   "laissez_passer": "Not applicable (no Strasbourg)",
+   "consular": "Korean consular confirmation of documents",
+   "permit": "Quarantine station clearance on arrival",
+   "arrival": "Incheon cargo terminal, hearse needed"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Contact the Korean embassy or consulate and appoint a local funeral director."
+   },
+   {
+    "when": "Day 1-3",
+    "what": "Obtain the death certificate with cause of death, embalming certificate and local export permit."
+   },
+   {
+    "when": "Day 3-5",
+    "what": "Translate into Korean or English and obtain Korean consular confirmation or apostille."
+   },
+   {
+    "when": "Day 5-7",
+    "what": "Book the flight; the airline sends documents to the Incheon quarantine station via its handling agent."
+   },
+   {
+    "when": "Arrival",
+    "what": "Quarantine and customs clearance; family collects the casket at the cargo terminal with a hearse."
+   },
+   {
+    "when": "Within 1 month",
+    "what": "Report the death in Korea."
+   }
+  ],
+  "key_points": [
+   "Quarantine Act Art. 25 governs bodies brought into Korea",
+   "Death certificate must state the cause of death",
+   "Infectious-disease deaths: embalmed and sealed, or cremated",
+   "Leaving Korea: police release for unnatural deaths"
+  ],
+  "lead_days": 7,
+  "authority": "Korea Disease Control and Prevention Agency, National Quarantine Stations (Incheon Airport); Korea Customs Service; Korean embassies and consulates",
+  "sources": [
+   "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=281917&chrClsCd=010202&urlMode=lsInfoP&efYd=20260701&ancYnChk=0",
+   "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=289275&chrClsCd=010202&urlMode=lsInfoP&efYd=20261001&ancYnChk=0",
+   "https://overseas.mofa.go.kr/es-ko/brd/m_8092/view.do?seq=1338207&srchFr=&srchTo=&srchWord=&srchTp=&multi_itm_seq=0&itm_seq_1=0&itm_seq_2=0&company_cd=&company_nm=&page=1",
+   "https://overseas.mofa.go.kr/pl-ko/brd/m_9366/view.do?company_cd=&company_nm=&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&seq=1346376&srchFr=&srchTo=&srchTp=&srchWord=",
+   "https://www.gov.uk/guidance/what-to-do-after-a-british-person-dies-in-south-korea"
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "MO",
+  "name": "Macao",
+  "status": "requirements",
+  "summary": "A casket entering Macao needs a Health Bureau Certificate of Medical Sanitation for Human Body Transportation (Decree-Law 7/85/M, Art. 8), applied for with the foreign death certificate and proof of proper sanitary handling, and, for burial or storage, Municipal Affairs Bureau (IAM) paperwork: a Public Security Police relocation record if the body arrives within 60 hours of death, otherwise a mortuary laissez-passer (livre-trânsito mortuário). The coffin must be lead-lined and sealed in the presence of an IAM sanitary inspector.",
+  "documents": [
+   "Original or certified copy of the death certificate issued by a doctor or authority at the place of death, plus a photocopy (Health Bureau)",
+   "Declaration or proof of appropriate sanitary handling of the body: copy submitted in advance, original shown on arrival (Health Bureau)",
+   "Photocopies of the deceased's and applicant's identity documents; Health Bureau request form",
+   "Embalming certificate (Health Bureau FAQ requires it for transport other than direct vehicle transport to Zhuhai)",
+   "Mortuary laissez-passer (livre-trânsito mortuário) if more than 60 hours passed between death and entry; otherwise a Public Security Police (CPSP) relocation record (IAM)",
+   "Declaration of relationship with the deceased and death registration from the Civil Registry, for temporary storage in a Macao cemetery (IAM)"
+  ],
+  "coffin": "Lead-lined coffin; an IAM Sanitary Inspector must be notified to seal it. For storage in a public tomb, the lead coffin must be welded tight, coated outside with a 1.5 mm layer of quicklime and placed inside a wooden coffin (IAM temporary storage permit conditions).",
+  "embalming": "Required for storage in a public tomb (IAM). The Health Bureau requires an embalming certificate for body transport except a coffin travelling alone by vehicle to Zhuhai. Embalming and body preparation are regulated by Health Bureau Despacho 02/SS/2018.",
+  "consular": "No consular step specific to Macao is published. Macao is a Special Administrative Region of China; the mortuary laissez-passer (livre-trânsito mortuário) issued at the place of departure is required when the body arrives more than 60 hours after death. Foreign documents may need translation into Chinese or Portuguese; confirm with the Health Bureau.",
+  "arrival": "The Health Bureau Centre for Disease Prevention and Control checks the original sanitary handling declaration when the body arrives and issues the certificate on the next working day (stamp duty MOP 5). The IAM temporary storage permit takes 3 working days (MOP 2,000 per body over age 7, storage up to 6 months). Health Bureau office: Avenida do Comendador Ho Yin, Qingmao Government Building, 18th floor; tel. +853 8504 1425; weekends and holidays by appointment.",
+  "pouch_accepted": false,
+  "pouch": null,
+  "private_aviation": "No rule specific to private flights carrying remains was found. The same Health Bureau and IAM documents apply whatever the aircraft; arrange the Health Bureau certificate and the sanitary inspector's attendance before landing at Macau International Airport, especially on weekends (appointment needed).",
+  "private_jet_alert": false,
+  "private_jet_note": "Book the Health Bureau and IAM sealing appointments before a weekend arrival.",
+  "export": "A doctor (hospital death) or the coroner (police case) issues the death certificate. The death must be registered with the Civil Registry before the body can leave the mortuary. The Health Bureau, Public Security Police and Municipal Affairs Bureau handle transfer, embalming and export. The Health Bureau charges MOP 200 per day for cold storage after the death certificate is issued. Repatriation costs about MOP 30,000 excluding air freight (UK guidance). A Public Prosecutions Office autopsy can delay release. Leaving Macao needs the Health Bureau Certificate of Medical Sanitation (issued next working day; the sanitary handling declaration is submitted before the coffin is sealed) and an embalming certificate except for a coffin sent alone by vehicle to Zhuhai.",
+  "export_points": [
+   "Register the death with the Civil Registry first",
+   "Health Bureau sanitation certificate, next working day",
+   "Embalming certificate unless by vehicle to Zhuhai",
+   "Cold storage charged MOP 200 per day"
+  ],
+  "at_a_glance": {
+   "death_certificate": "Original or certified copy",
+   "embalming": "Required (certificate)",
+   "coffin": "Lead-lined, sealed by sanitary inspector",
+   "laissez_passer": "Required if over 60 hours",
+   "consular": "No Macao consular step published",
+   "permit": "Health Bureau sanitation certificate",
+   "arrival": "Next working day; IAM permit 3 days"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Contact the Macao Health Bureau CDC and a Macao funeral service."
+   },
+   {
+    "when": "Day 0-1",
+    "what": "Obtain the death certificate, embalming certificate and mortuary laissez-passer at the place of death."
+   },
+   {
+    "when": "Day 1",
+    "what": "Send copies and the sanitary handling declaration to the Health Bureau in advance."
+   },
+   {
+    "when": "Day 1-2",
+    "what": "Seal the lead-lined coffin; book the IAM sanitary inspector and storage or burial."
+   },
+   {
+    "when": "Arrival",
+    "what": "Show originals to the Health Bureau; certificate next working day; IAM permit within 3 working days."
+   }
+  ],
+  "key_points": [
+   "Laissez-passer needed if over 60 hours since death",
+   "Lead-lined coffin sealed by an IAM sanitary inspector",
+   "Health Bureau certificate issued next working day",
+   "Exhumed bones over 5 years old need no permit"
+  ],
+  "lead_days": 3,
+  "authority": "Health Bureau (SSM) Centre for Disease Prevention and Control; Municipal Affairs Bureau (IAM); Public Security Police Force (CPSP)",
+  "sources": [
+   "https://www.gov.mo/en/services/ps-1580/",
+   "https://www.gov.mo/en/services/ps-1580/faqs",
+   "https://www.gov.mo/en/?p=37933",
+   "https://www.gov.mo/en/?p=31928",
+   "https://www.gov.uk/government/publications/bereavement-information-for-macao/macao-bereavement-information"
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "KP",
+  "name": "North Korea",
+  "status": "unknown",
+  "summary": "No reliable official information on bringing a casket into North Korea was found. Borders have been largely closed since 2020, many embassies including the British Embassy remain closed, and any repatriation would have to go through the DPRK Ministry of Foreign Affairs.",
+  "documents": [
+   "Not published; confirm through the DPRK Ministry of Foreign Affairs or a DPRK embassy"
+  ],
+  "coffin": "Not published.",
+  "embalming": "Not published.",
+  "consular": "The British Embassy liaised with the Consular Department of the DPRK Ministry of Foreign Affairs for funeral matters. Foreign consular help is severely limited now that many embassies are closed.",
+  "arrival": "Not published. Entry is tightly controlled by the state; borders have been closed to general entry since 2020.",
+  "pouch_accepted": null,
+  "pouch": null,
+  "private_aviation": "No information; flights into North Korea are very limited and need state authorisation. Sanctions rules may also apply to aircraft and payments.",
+  "private_jet_alert": true,
+  "private_jet_note": "Private flights to North Korea are very unlikely to be authorised; check sanctions and DPRK permits first.",
+  "export": "Not published. The British Embassy's 2020 guidance said visitors should go through their guide or sponsor or the embassy, which would liaise with the DPRK Ministry of Foreign Affairs Consular Department. With most embassies closed, assistance is severely limited.",
+  "export_points": [
+   "Go through the tour sponsor and the DPRK Ministry of Foreign Affairs",
+   "Foreign consular help is very limited",
+   "No published procedure"
+  ],
+  "at_a_glance": {
+   "death_certificate": "Not published",
+   "embalming": "Not published",
+   "coffin": "Not published",
+   "laissez_passer": "Not applicable",
+   "consular": "DPRK Foreign Ministry handles everything",
+   "permit": "State authorisation required",
+   "arrival": "Not published"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Contact your foreign ministry and a DPRK embassy"
+   },
+   {
+    "when": "Following days",
+    "what": "Obtain DPRK state authorisation for entry of the remains"
+   },
+   {
+    "when": "Before flight",
+    "what": "Check sanctions and flight permissions"
+   }
+  ],
+  "key_points": [
+   "No published procedure",
+   "Borders largely closed since 2020",
+   "Expect long delays and uncertainty"
+  ],
+  "lead_days": null,
+  "authority": "DPRK Ministry of Foreign Affairs (Consular Department)",
+  "sources": [
+   "https://www.gov.uk/foreign-travel-advice/north-korea",
+   "https://assets.publishing.service.gov.uk/media/5f49326bd3bf7f0a2f2e5024/funeral_directors_list_DPRK.odt"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "AF",
+  "name": "Afghanistan",
+  "status": "requirements",
+  "summary": "Afghanistan publishes no national import procedure for a casket. Afghan missions abroad issue a support letter for transferring a deceased person to Afghanistan, based on the death certificate and a local health certificate that the transfer poses no health risk; confirm with the airline and the receiving family before booking.",
+  "documents": [
+   "Support letter from the Afghan embassy or consulate in the country of death (free at the Ottawa embassy, issued the same day)",
+   "Death certificate with cause of death and family details, plus the official death registration",
+   "Certificate from the local health authority that the transfer poses no health risk",
+   "Copy of the deceased's passport, Tazkira or residence document",
+   "Embalming certificate (airline requirement; not published by Afghan authorities)"
+  ],
+  "coffin": "Not published. Assume a hermetically sealed, zinc-lined coffin in an outer case, as airlines require.",
+  "embalming": "Not published; confirm with the airline and the receiving funeral service.",
+  "consular": "The Afghan embassy in Ottawa issues a free support letter for the transfer of a deceased person to Afghanistan, on request of the Canadian authorities, the same day it receives a complete file, and seeks cooperation from transit countries and Afghan airports. The Stockholm embassy lists the same service. Afghan missions abroad are in different situations (some still use the former Islamic Republic's name); check that the mission's documents are accepted on arrival. Afghanistan is not a party to the Strasbourg Agreement.",
+  "arrival": "Not published. Kabul is the main international airport. Muslim burial normally takes place quickly.",
+  "pouch_accepted": null,
+  "pouch": null,
+  "private_aviation": "No official guidance was found. Many governments advise against all travel to Afghanistan, and foreign private flights face heavy permission, security and insurance restrictions. Check with an experienced operator.",
+  "private_jet_alert": true,
+  "private_jet_note": "High-risk destination; permits, insurance and security clearance are uncertain.",
+  "export": "Taking a body out of Afghanistan: no official procedure published. The UK has no embassy in Afghanistan and cannot give in-person consular help, and the same is true for many other countries. Expect delays, and confirm the documents with the airline and the destination country's authorities.",
+  "export_points": [
+   "No official published procedure found",
+   "Many foreign embassies closed in Kabul",
+   "Expect delays and limited consular help"
+  ],
+  "at_a_glance": {
+   "death_certificate": "Required, with cause of death",
+   "embalming": "Airline requirement; confirm",
+   "coffin": "Sealed coffin likely; confirm",
+   "laissez_passer": "Not used",
+   "consular": "Afghan mission support letter",
+   "permit": "Local health no-risk certificate",
+   "arrival": "Kabul airport; quick burial"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Obtain the death certificate and death registration in the country of death."
+   },
+   {
+    "when": "Day 0-1",
+    "what": "Obtain the local health authority certificate that the transfer poses no health risk."
+   },
+   {
+    "when": "Day 1",
+    "what": "Send the file to the Afghan embassy or consulate for its support letter."
+   },
+   {
+    "when": "Day 1-2",
+    "what": "Funeral home embalms and seals the coffin; confirm routing and transit with the airline."
+   },
+   {
+    "when": "Arrival",
+    "what": "Family collects at Kabul (or another airport) and buries promptly."
+   }
+  ],
+  "key_points": [
+   "Afghan missions issue a support letter for the transfer",
+   "Local health no-risk certificate is required by missions",
+   "Mission status varies; confirm acceptance",
+   "Many governments advise against all travel"
+  ],
+  "lead_days": null,
+  "authority": "Afghan embassies and consulates abroad; airline and destination family",
+  "sources": [
+   "https://www.afghanembassy.ca/bw",
+   "https://www.gov.uk/foreign-travel-advice/afghanistan",
+   "https://www.gov.uk/foreign-travel-advice/afghanistan/getting-help"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "BT",
+  "name": "Bhutan",
+  "status": "unknown",
+  "summary": "Bhutan does not publish official rules for bringing a casket into the country. Contact the Royal Bhutanese embassy or consulate (missions exist in New Delhi, Kolkata and a few other cities) before planning.",
+  "documents": [
+   "Death certificate (likely required; not published)",
+   "Embalming certificate (likely required by airlines; not published)",
+   "Clearance from the Royal Bhutanese embassy or consulate (not published; confirm)"
+  ],
+  "coffin": "Not published. Assume a hermetically sealed, zinc-lined coffin in an outer case, as airlines require, and confirm with the Bhutanese mission.",
+  "embalming": "Not published; confirm with the Bhutanese mission.",
+  "consular": "Not published. In a 2024 case of a Bhutanese national who died abroad, the Royal Bhutanese embassy assisted, including with a certificate for transit through third countries. Confirm the current procedure with the mission.",
+  "arrival": "Not published. Paro is the only international airport. Cremation is the usual custom.",
+  "pouch_accepted": null,
+  "pouch": null,
+  "private_aviation": "Not published for remains. Paro is a demanding mountain airport where foreign private aircraft need prior permission from the Bhutan Civil Aviation Authority and crews with specific approval (not confirmed from an official page).",
+  "private_jet_alert": true,
+  "private_jet_note": "Paro needs prior permission and qualified crews; many cases route via India.",
+  "export": "Bhutan's Ministry of Home Affairs adopted a Standard Operating Procedure for deaths of foreign nationals in 2016, but its text could not be retrieved. The British High Commission in Kolkata covers consular help for British nationals in Bhutan. Confirm the procedure with the deceased's embassy and Bhutanese authorities.",
+  "export_points": [
+   "Government SOP on foreigners' deaths exists (2016)",
+   "Contact the deceased's embassy covering Bhutan",
+   "Paro is the only international airport"
+  ],
+  "at_a_glance": {
+   "death_certificate": "Likely required; confirm",
+   "embalming": "Not published; confirm",
+   "coffin": "Sealed coffin likely; confirm",
+   "laissez_passer": "Not used",
+   "consular": "Contact Royal Bhutanese embassy",
+   "permit": "Not published",
+   "arrival": "Paro airport only"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Obtain the death certificate in the country of death."
+   },
+   {
+    "when": "Day 0-1",
+    "what": "Contact the Royal Bhutanese embassy or consulate for its requirements."
+   },
+   {
+    "when": "Day 1-2",
+    "what": "Funeral home embalms and seals the coffin; gather certificates."
+   },
+   {
+    "when": "Day 2+",
+    "what": "Arrange the flight to Paro (or via India) once Bhutanese clearance is confirmed."
+   }
+  ],
+  "key_points": [
+   "No official published import rules found",
+   "Government SOP on foreigners' deaths (2016) not retrievable",
+   "Paro has strict operating restrictions",
+   "Allow extra time for confirmation"
+  ],
+  "lead_days": null,
+  "authority": "Royal Bhutanese embassies; Ministry of Home Affairs, Bhutan",
+  "sources": [
+   "https://www.gov.uk/foreign-travel-advice/bhutan/getting-help"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "MV",
+  "name": "Maldives",
+  "status": "unknown",
+  "summary": "The Maldives does not publish an accessible import checklist for a casket. Maldivian state media reported that the Health Protection Agency requires an authorisation to import or export human remains, applied for through its International Border Health Unit with a medical document; this could not be confirmed from the official regulation text. Contact the Maldivian mission and the Health Protection Agency before planning; cremation is not permitted in the Maldives.",
+  "documents": [
+   "Death certificate with English translation (likely required; not published)",
+   "Health Protection Agency authorisation to import human remains (reported by state media; not confirmed from the regulation)",
+   "Medical document on the condition of the remains signed by a doctor or medical facility (reported; confirm)",
+   "Embalming certificate (likely required by airlines; not published)",
+   "Permit from the Maldivian mission in the country of death (Maldivian mission guidance for citizens)"
+  ],
+  "coffin": "Not published. Assume a hermetically sealed, zinc-lined coffin in an outer case, as airlines require, and confirm with the Maldivian mission.",
+  "embalming": "Not published; confirm with the Maldivian mission.",
+  "consular": "Maldivian missions' guidance for citizens who die abroad: register the death with the local authorities, report it to the nearest Maldives mission, and obtain a permit from that mission and from the authorities of the country of death to transfer the remains to the Maldives for burial (mission page found in search but blocked by a bot check, so not opened). Contact the mission directly.",
+  "arrival": "Not published. Velana International Airport (Malé) is the main port of entry. Cremation is not permitted in the Maldives.",
+  "pouch_accepted": null,
+  "pouch": null,
+  "private_aviation": "No official guidance on private flights carrying remains was found. Velana International Airport (Malé) is the main international port of entry with customs and health staff.",
+  "private_jet_alert": false,
+  "private_jet_note": "Plan arrival at Malé (Velana) and confirm clearance in advance.",
+  "export": "To take a body out of the Maldives, you need a death certificate and a police report from the local authorities, plus an official translation if they are not in English. The repatriation company also needs a letter of no objection from the destination country's mission (e.g. the British High Commission in Malé), issued after the next of kin confirms in writing. The Maldives does not carry out post-mortem examinations. Mortuaries exist in Malé, Hulhumalé and some regional centres, so remains from resort islands must be moved there. The official sources do not publish embalming availability or typical delays.",
+  "export_points": [
+   "Death certificate and police report from local authorities",
+   "Destination embassy's letter of no objection",
+   "No post-mortems; no cremation in the Maldives",
+   "Mortuaries only in Malé, Hulhumalé, regional centres"
+  ],
+  "at_a_glance": {
+   "death_certificate": "Likely required; confirm",
+   "embalming": "Not published; confirm",
+   "coffin": "Sealed coffin likely; confirm",
+   "laissez_passer": "Not used",
+   "consular": "Contact Maldivian embassy",
+   "permit": "HPA authorisation reported; confirm",
+   "arrival": "Malé (Velana) airport"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Obtain the death certificate in the country of death."
+   },
+   {
+    "when": "Day 0-1",
+    "what": "Contact the Maldivian embassy or high commission for its requirements."
+   },
+   {
+    "when": "Day 1-2",
+    "what": "Funeral home embalms and seals the coffin; gather certificates."
+   },
+   {
+    "when": "Day 2+",
+    "what": "Fly to Malé once clearance is confirmed; arrange local burial."
+   }
+  ],
+  "key_points": [
+   "Health Protection Agency authorisation reported for imports",
+   "Maldivian mission permit needed for citizens' remains",
+   "Cremation is not permitted in the Maldives",
+   "Outbound: no post-mortems are carried out"
+  ],
+  "lead_days": null,
+  "authority": "Health Protection Agency (International Border Health Unit); Maldivian embassies; Maldives Police Service and local authorities (outbound)",
+  "sources": [
+   "https://www.gov.uk/government/publications/maldives-bereavement-death-abroad/maldives-bereavement-death-abroad",
+   "https://www.gov.uk/world/maldives"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ }
+]

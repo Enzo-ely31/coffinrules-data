@@ -1,0 +1,692 @@
+[
+  {
+    "cc": "MN",
+    "status": "requirements",
+    "name": "Mongolia",
+    "summary": "No official Mongolian rules for bringing a casket in were found; confirm with the Mongolian consulate in the country of death. For deaths in Mongolia, an autopsy is required for foreign nationals and can take up to a month, embalming is required for repatriation, and UK guidance says a local burial cannot be arranged (cremation is the only local option).",
+    "coffin": "Not published officially. International practice requires a hermetically sealed zinc-lined coffin in an outer wooden case; confirm with the Mongolian consulate.",
+    "embalming": "Required for repatriation from Mongolia, with an embalming certificate; expected for incoming bodies. Confirm with the Mongolian consulate.",
+    "consular": "Mongolia is not a party to the 1973 Strasbourg Agreement. Contact the Mongolian embassy or consulate in the country of death about consular certification, legalisation or apostille and Mongolian translations.",
+    "arrival": "Not published officially. Expect customs and health clearance at Ulaanbaatar airport and handover to a local funeral service. The UK government states that a local burial cannot be arranged in Mongolia for a deceased British national (cremation is the only local option); confirm burial arrangements for Mongolian citizens with the local funeral service.",
+    "pouch": null,
+    "private_aviation": "No official rule specific to human remains on private aircraft was found. Plan arrival at an international airport with customs, border and sanitary-quarantine control, and have the handling agent confirm clearance of the coffin in advance.",
+    "export": "The hospital or local State Registration Office issues the death certificate in Mongolian (a certified translation may be needed); it should state the cause of death and that it was not an infectious disease, and police clearance may be needed if the death was caused by injuries of unknown origin. An autopsy at the National Institute of Forensic Science is required for foreign nationals and can take up to 1 month, during which the body is not released. The deceased's Mongolian visa must be cancelled with the Immigration Authority before release. Embalming is required, with an embalming certificate.",
+    "authority": "Ministry of Foreign Affairs of Mongolia (consular department); National Institute of Forensic Science and Immigration Authority for exit",
+    "last_checked": "2026-10",
+    "documents": [
+      "Death certificate from the country of death, with translation (confirm with consulate)",
+      "Embalming certificate (expected; confirm)",
+      "Certificate that the death was not caused by a contagious disease (expected; confirm)",
+      "Zinc sealing certificate (expected; confirm)",
+      "Export permit from the country of death",
+      "Passport of the deceased"
+    ],
+    "sources": [
+      "https://www.gov.uk/government/publications/mongolia-bereavement-information-pack/mongolia-bereavement-information-pack",
+      "https://consul.mn/",
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+    ],
+    "pouch_accepted": null,
+    "private_jet_alert": false,
+    "at_a_glance": {
+      "death_certificate": "Original; ask consulate about translation",
+      "embalming": "Expected; required for exit",
+      "coffin": "Sealed zinc-lined coffin expected",
+      "laissez_passer": "No, not a Strasbourg party",
+      "consular": "Ask the Mongolian consulate first",
+      "permit": "Export permit from country of death",
+      "arrival": "Customs and health clearance at Ulaanbaatar"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Obtain the death certificate and contact the Mongolian consulate"
+      },
+      {
+        "when": "Day 0-1",
+        "what": "Embalm and seal the body in a zinc-lined coffin"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain export permit and consular certification"
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Book the flight and inform the receiving funeral service"
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs and health clearance at Ulaanbaatar"
+      }
+    ],
+    "key_points": [
+      "Entry rules not published online",
+      "Autopsy of foreigners can delay exit up to a month",
+      "UK guidance: no local burial, cremation only"
+    ],
+    "export_points": [
+      "Autopsy required for foreigners, up to 1 month",
+      "Death certificate stating non-infectious cause",
+      "Visa cancelled with Immigration Authority before release",
+      "Embalming certificate required"
+    ],
+    "private_jet_note": "Confirm documents and customs clearance before take-off.",
+    "confidence": "medium",
+    "lead_days": null
+  },
+  {
+    "cc": "MO",
+    "status": "requirements",
+    "name": "Macao",
+    "summary": "A casket entering Macao needs a Health Bureau Certificate of Medical Sanitation for Human Body Transportation (linked to the Funeral and Burial Pass of Decree-Law 7/85, Art. 8), applied for with the foreign death certificate and proof of proper sanitary handling. For temporary storage in a Macao cemetery, the Municipal Affairs Bureau (IAM) also requires a Public Security Police relocation record if the body arrives within 60 hours of death, otherwise a mortuary laissez-passer (livre-trânsito mortuário), and a lead coffin sealed by an IAM sanitary inspector.",
+    "coffin": "For temporary storage (IAM permit): lead coffin, and an IAM Sanitary Inspector must be notified to seal it. For storage in a public tomb, the lead coffin must be welded tight, coated outside with a 1.5 mm layer of quicklime and placed inside a wooden coffin. Confirm coffin rules for other destinations with the Health Bureau.",
+    "embalming": "Required for storage in a public tomb (IAM). For bodies leaving Macao, the Health Bureau requires an embalming certificate except for a coffin sent alone by vehicle to Zhuhai. No general embalming rule for incoming bodies is published; confirm with the Health Bureau.",
+    "consular": "No consular step specific to Macao is published. Macao is a Special Administrative Region of China; the mortuary laissez-passer (livre-trânsito mortuário) issued at the place of departure is required when the body arrives more than 60 hours after death. Foreign documents may need translation into Chinese or Portuguese; confirm with the Health Bureau.",
+    "arrival": "The Health Bureau Centre for Disease Prevention and Control checks the original sanitary handling declaration when the body arrives and issues the certificate on the next working day (stamp duty MOP 5). The IAM temporary storage permit takes 3 working days (fee MOP 2,000 per body over age 7, MOP 1,000 for age 7 or under, plus 10% stamp duty; storage up to 6 months). Health Bureau office: Avenida do Comendador Ho Yin, Qingmao Government Building, 18th floor; tel. +853 8504 1425; weekends and holidays by appointment.",
+    "pouch": null,
+    "private_aviation": "No rule specific to private flights carrying remains was found. The same Health Bureau and IAM documents apply whatever the aircraft; arrange the Health Bureau certificate and the sanitary inspector's attendance before landing at Macau International Airport, especially on weekends (appointment needed).",
+    "export": "A doctor (hospital death) or the coroner (police case) issues the death certificate. The death must be registered with the Civil Registry before the body can leave the mortuary. The Public Prosecution Office decides whether an autopsy is needed, which can delay release. The Health Bureau charges MOP 200 per day for frozen storage after the death certificate is issued. Repatriation costs about MOP 30,000 excluding air freight (UK guidance, 2020). Leaving Macao needs the Health Bureau Certificate of Medical Sanitation (issued next working day; the sanitary handling declaration is submitted before the coffin is sealed) and an embalming certificate except for a coffin sent alone by vehicle to Zhuhai.",
+    "authority": "Health Bureau (SSM) Centre for Disease Prevention and Control (Decree-Law 7/85, Despachos 02/SS/2018 and 05/SS/2018); Municipal Affairs Bureau (IAM); Public Security Police Force (CPSP)",
+    "last_checked": "2026-10",
+    "documents": [
+      "Original or certified copy of the death certificate issued at the place of death, plus a photocopy (Health Bureau)",
+      "Declaration or proof of appropriate sanitary handling of the body: copy submitted in advance, original shown on arrival (Health Bureau)",
+      "Photocopies of the deceased's and applicant's identity documents; Health Bureau request form",
+      "Mortuary laissez-passer (livre-trânsito mortuário) if more than 60 hours passed between death and entry; otherwise a Public Security Police (CPSP) relocation record (IAM, for temporary storage)",
+      "Declaration of relationship with the deceased and death registration from the Civil Registry, for temporary storage in a Macao cemetery (IAM)",
+      "Embalming certificate (confirm with the Health Bureau; required for public tomb storage)"
+    ],
+    "sources": [
+      "https://www.gov.mo/en/services/ps-1580/",
+      "https://www.gov.mo/en/services/ps-1580/faqs",
+      "https://www.gov.mo/en/?p=37933",
+      "https://www.gov.mo/en/?p=31928",
+      "https://www.gov.uk/government/publications/bereavement-information-for-macao/macao-bereavement-information"
+    ],
+    "pouch_accepted": false,
+    "private_jet_alert": false,
+    "at_a_glance": {
+      "death_certificate": "Original or certified copy",
+      "embalming": "Required for public tomb storage",
+      "coffin": "Lead coffin sealed by sanitary inspector (storage)",
+      "laissez_passer": "Required if over 60 hours",
+      "consular": "No Macao consular step published",
+      "permit": "Health Bureau sanitation certificate",
+      "arrival": "Next working day; IAM permit 3 days"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the Macao Health Bureau CDC and a Macao funeral service."
+      },
+      {
+        "when": "Day 0-1",
+        "what": "Obtain the death certificate, embalming certificate and mortuary laissez-passer at the place of death."
+      },
+      {
+        "when": "Day 1",
+        "what": "Send copies and the sanitary handling declaration to the Health Bureau in advance."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Seal the lead-lined coffin; book the IAM sanitary inspector and storage or burial."
+      },
+      {
+        "when": "Arrival",
+        "what": "Show originals to the Health Bureau; certificate next working day; IAM permit within 3 working days."
+      }
+    ],
+    "key_points": [
+      "Laissez-passer needed if over 60 hours since death (IAM storage)",
+      "Lead coffin sealed by an IAM sanitary inspector for storage",
+      "Health Bureau certificate issued next working day",
+      "Exhumed remains buried 5+ years need no permit"
+    ],
+    "export_points": [
+      "Register the death with the Civil Registry first",
+      "Health Bureau sanitation certificate, next working day",
+      "Embalming certificate unless by vehicle to Zhuhai",
+      "Cold storage charged MOP 200 per day"
+    ],
+    "private_jet_note": "Book the Health Bureau and IAM sealing appointments before a weekend arrival.",
+    "confidence": "medium",
+    "lead_days": 3
+  },
+  {
+    "cc": "MQ",
+    "status": "requirements",
+    "name": "Martinique",
+    "summary": "Martinique is a French overseas department: French rules apply. A casket coming from abroad needs a transport authorisation from the French embassy or consulate in the country of death, and for air transport the body must be in an airtight metal-lined coffin.",
+    "coffin": "For any air transport an airtight coffin is mandatory under French rules (in practice a soldered zinc lining inside a wooden coffin). A hermetic coffin cannot normally be cremated without being reopened, so plan cremation before departure.",
+    "embalming": "No embalming rule for incoming bodies is stated in the official French guidance read; it is usually required by the departure country and by airlines for long journeys. Confirm with the French consulate.",
+    "consular": "The French embassy or consulate in the country of death issues the authorisation to transport the body to France (including overseas departments) and can transcribe the death certificate. France is a party to the 1973 Strasbourg Agreement, so a laissez-passer from another party state is accepted. From mainland France, no consulate is involved: the prefect of the department where the coffin is closed authorises transport to Martinique.",
+    "arrival": "The receiving funeral director in Martinique takes charge on arrival after customs and health formalities. Since Decree 2024-790 (10 July 2024), burial or cremation of a person who died abroad must take place no later than the 14th calendar day after the body enters France (Martinique is part of France); the prefect can grant exemptions.",
+    "pouch": null,
+    "private_aviation": "Same documents as airline cargo; they travel with the coffin and are shown to customs and health officials at the arrival airport. The airtight zinc-lined coffin rule applies to any flight. Use an airport with customs (the main international airport) and arrange for the funeral director to meet the aircraft.",
+    "export": "To send a coffin out of Martinique, the funeral director obtains authorisation from the prefect of Martinique (the department where the coffin is closed), for EU, non-EU and mainland France destinations alike. An airtight metal coffin is mandatory for air transport. The destination country's consular requirements also apply.",
+    "authority": "French embassy or consulate abroad (entry); Prefect of Martinique (exit)",
+    "last_checked": "2026-10",
+    "documents": [
+      "Local death certificate (transcription into French civil status advised, done by the consulate)",
+      "Medical certificate / non-contagious disease certificate as required by the departure country",
+      "Embalming (soins de conservation) certificate where required at departure",
+      "Authorisation to transport the body issued by the French embassy or consulate (or a mortuary laissez-passer from a Strasbourg Agreement state)",
+      "Coffin closing / sealing report",
+      "Receiving funeral director and burial or cremation arrangements in Martinique"
+    ],
+    "sources": [
+      "https://www.service-public.gouv.fr/particuliers/vosdroits/F35706?lang=en",
+      "https://www.diplomatie.gouv.fr/fr/services-aux-francaises-et-aux-francais/assistance-et-securite/deces-a-l-etranger",
+      "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000049938465",
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+    ],
+    "pouch_accepted": false,
+    "private_jet_alert": false,
+    "at_a_glance": {
+      "death_certificate": "Local certificate; consular transcription advised",
+      "embalming": "Per departure country and airline",
+      "coffin": "Airtight zinc-lined coffin by air",
+      "laissez_passer": "Accepted from Strasbourg Agreement states",
+      "consular": "French consulate authorises transport",
+      "permit": "Consular authorisation (prefect if from France)",
+      "arrival": "Funeral within 14 days of entry"
+    },
+    "steps": [
+      {
+        "when": "Day 0-1",
+        "what": "Register the death locally; contact the French consulate; appoint funeral directors"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain death certificate, medical certificate and embalming as required at departure"
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Coffin placed in airtight zinc-lined coffin and sealed; consulate issues transport authorisation"
+      },
+      {
+        "when": "Day 3-5",
+        "what": "Flight to Martinique with documents travelling with the coffin"
+      },
+      {
+        "when": "On arrival",
+        "what": "Customs/health formalities; local funeral director collects; burial or cremation within 14 calendar days"
+      }
+    ],
+    "key_points": [
+      "French national rules apply in full",
+      "Hermetic coffins complicate cremation",
+      "Strasbourg laissez-passer accepted"
+    ],
+    "export_points": [
+      "Prefect of Martinique authorises transport",
+      "Airtight metal-lined coffin mandatory by air",
+      "Same prefect authorisation for transport to mainland France",
+      "Check the destination consulate's requirements"
+    ],
+    "private_jet_note": "Airtight zinc-lined coffin mandatory on any flight into France, including overseas departments.",
+    "confidence": "medium",
+    "lead_days": 3
+  },
+  {
+    "cc": "MS",
+    "status": "strict",
+    "name": "Montserrat",
+    "summary": "Under the Cadavers (Importation) Act (Cap. 14.13), no body may be brought into Montserrat without a written cadaver import permit from the Chief Medical Officer, who must first be satisfied, on documents from the place of death, that export is lawful, of the cause of death and that there is no health risk. Customs must refuse landing without the permit; the fee is $1,000 per body.",
+    "coffin": "The Chief Medical Officer sets the container type as a permit condition. The Act defines an impervious container as one hermetically sealed by gasket or soldered/welded metal, or a heat- or adhesive-sealed inner container inside an outer box. Customs may not open an impervious container without the Chief Medical Officer's approval. The definition also covers a heat- or adhesive-sealed plastic container inside an outer box, so a sealed pouch in a case may be acceptable if the permit allows it; confirm with the Chief Medical Officer.",
+    "embalming": "Not set by the Act. The Chief Medical Officer may impose conditions on the permit (container, keeping and disposal); confirm with the Chief Medical Officer whether embalming is required.",
+    "consular": "Montserrat has no consulates of its own; UK missions handle consular matters. No legalisation requirement is set by the Act, but the export authorisation and cause of death must be documented by the place of death.",
+    "arrival": "Customs at the port of entry checks the permit and may examine the container (not an impervious one without the Chief Medical Officer's approval). The permit fixes where the body is kept and how it is disposed of; burial still needs the registration formalities under the Registration of Births and Deaths Act. No customs duty is payable on the body.",
+    "pouch": null,
+    "private_aviation": "Montserrat's only airport (John A. Osborne) has a very short runway served by small turboprops; most business jets cannot land there, so a casket often travels by small aircraft or ferry via Antigua. Without a valid cadaver import permit the aircraft or vessel will be refused permission to land the body.",
+    "export": "No official procedure for sending a body out of Montserrat was found. Ask the local funeral home and the Ministry of Health and Social Services; the destination country's requirements apply.",
+    "authority": "Chief Medical Officer, Ministry of Health and Social Services, Government of Montserrat; Customs",
+    "last_checked": "2026-10",
+    "documents": [
+      "Cadaver import permit issued by the Chief Medical Officer (apply before shipping)",
+      "Documentary evidence from the place of death that export of the body is lawfully authorised",
+      "Evidence of the cause of death (death certificate)",
+      "Evidence that the body is not likely to endanger health in Montserrat through disease",
+      "Consent of executors, administrators or relatives where practicable",
+      "Permit fee: $1,000 per body (Cadavers (Importation) (Fees) Regulations, S.R.O. 14/2013)"
+    ],
+    "sources": [
+      "https://parliament.ms/wp-content/uploads/2026/05/14.13-Cadavers-Importation-Act.pdf",
+      "https://www.gov.ms/government/ministries/ministry-of-health-and-social-services/"
+    ],
+    "pouch_accepted": null,
+    "private_jet_alert": true,
+    "at_a_glance": {
+      "death_certificate": "Required, with cause of death",
+      "embalming": "Not in the Act; ask Chief Medical Officer",
+      "coffin": "Sealed container set by permit",
+      "laissez_passer": "Not used",
+      "consular": "None; UK missions assist",
+      "permit": "Chief Medical Officer import permit, $1,000",
+      "arrival": "Customs checks permit; funeral home collects"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Appoint a funeral home abroad and one in Montserrat."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Gather death certificate, cause of death, export authorisation and family consent."
+      },
+      {
+        "when": "Day 2-4",
+        "what": "Apply to the Chief Medical Officer for the cadaver import permit; pay $1,000."
+      },
+      {
+        "when": "Before departure",
+        "what": "Seal the casket as the permit requires; book transfer via Antigua if needed."
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs checks the permit; funeral home collects for burial."
+      }
+    ],
+    "key_points": [
+      "Import permit from the Chief Medical Officer is mandatory by law",
+      "Fee $1,000 per body; no customs duty",
+      "Landing refused without a permit",
+      "Airport only takes small aircraft"
+    ],
+    "export_points": [
+      "Procedure not published; confirm with the Ministry of Health and Social Services",
+      "Check the destination country's requirements",
+      "Transfer may need to go via Antigua because of the small airport"
+    ],
+    "private_jet_note": "Cadaver import permit needed before arrival; most jets cannot land, plan a transfer via Antigua.",
+    "confidence": "medium",
+    "lead_days": null
+  },
+  {
+    "cc": "MT",
+    "status": "requirements",
+    "name": "Malta",
+    "summary": "Repatriation of human remains to, from or via Malta is supervised by Port Health Services (Health Inspectorate, Environmental Health Directorate). The coffin must arrive with a death certificate, identity certificate, embalming certificate, burial permit or coroner clearance, and a health-authority certificate that it can be transported safely, in a soldered lead or zinc inner coffin inside a wooden coffin; a fee of 64 euros applies.",
+    "coffin": "Soldered inner coffin of lead or zinc, or repatriation foil approved by the Environmental Health Directorate, packed inside a wooden coffin. The lid is screwed down, the screws are covered with tamper-proof seals and the coffin is wrapped in canvas or tarpaulin so the contents are not apparent. For infectious disease or advanced decomposition the body is normally placed in a body bag.",
+    "embalming": "A certificate of embalmment must accompany the remains (Port Health Services).",
+    "consular": "Malta is not a party to the Strasbourg Agreement. No Maltese consular permit is published; ask the Maltese embassy whether translation or apostille of the documents is required.",
+    "arrival": "Port Health Services clear the remains; a Maltese funeral director collects the coffin and a burial permit is needed for burial in Malta (Burials Regulatory Unit). There is no crematorium in Malta (UK guidance); a funeral director may arrange cremation in Sicily.",
+    "pouch": null,
+    "private_aviation": "Arrive at Malta International Airport and arrange the Port Health clearance in advance through the receiving funeral director (porthealth@gov.mt). The same documents and coffin standard apply as for airline cargo; out-of-hours clearance is possible at extra cost.",
+    "export": "Port Health Services supervise repatriations to, from or via Malta, with the same documents and coffin standard: death certificate, identity certificate, embalming certificate, burial permit (Burials Regulatory Unit) or coroner clearance form, and a health-authority certificate that the remains can be transported safely, in a soldered lead or zinc inner coffin (or approved repatriation foil) inside a wooden coffin. Fee 64 euros in office hours. Additional signed copies of the hospital death certificate are needed for repatriation. A magisterial inquiry into a death can take months and delay matters (UK guidance).",
+    "authority": "Port Health Services, Health Inspectorate (Environmental Health Directorate, Ministry for Health)",
+    "last_checked": "2026-10",
+    "documents": [
+      "Certificate of death",
+      "Certificate of identity of the deceased",
+      "Certificate of embalmment",
+      "Burial permit (Burials Regulatory Unit) / coroner clearance form",
+      "Certificate from the health authority concerned that the remains can be transported without risk to public health",
+      "Port Health fee of 64 euros (office hours; extra charges outside them)"
+    ],
+    "sources": [
+      "https://environmentalhealth.gov.mt/en/ehs/phs/repatriation-of-human-remains/",
+      "https://environmentalhealth.gov.mt/en/?p=5169",
+      "https://www.gov.uk/government/publications/malta-bereavement-guide/malta-bereavement-information",
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+    ],
+    "pouch_accepted": false,
+    "private_jet_alert": false,
+    "at_a_glance": {
+      "death_certificate": "Required, with cause of death",
+      "embalming": "Required, certificate needed",
+      "coffin": "Soldered lead/zinc inner, wooden outer",
+      "laissez_passer": "Not a Strasbourg party",
+      "consular": "No Maltese consular permit published",
+      "permit": "Port Health clearance, 64 euros",
+      "arrival": "Port Health clears; funeral director collects"
+    },
+    "steps": [
+      {
+        "when": "Day 0-1",
+        "what": "Appoint funeral directors in the country of death and in Malta"
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Obtain death, identity, embalming and public health certificates and burial permit"
+      },
+      {
+        "when": "Day 2-4",
+        "what": "Seal body in soldered zinc/lead inner coffin in a wooden coffin"
+      },
+      {
+        "when": "Day 2-4",
+        "what": "Maltese funeral director notifies Port Health Services of the arrival"
+      },
+      {
+        "when": "Departure",
+        "what": "Flight to Malta with documents attached to the coffin"
+      },
+      {
+        "when": "Arrival",
+        "what": "Port Health clearance (64 euros); funeral director arranges burial"
+      }
+    ],
+    "key_points": [
+      "Port Health Services supervise all repatriations",
+      "Embalming certificate required",
+      "No crematorium in Malta",
+      "Not a Strasbourg Agreement party"
+    ],
+    "export_points": [
+      "Port Health Services supervise every departure",
+      "Embalming certificate and soldered lead/zinc inner coffin",
+      "Burial permit or coroner clearance form required",
+      "Magisterial inquiry can delay release"
+    ],
+    "confidence": "medium",
+    "lead_days": null
+  },
+  {
+    "cc": "MU",
+    "status": "requirements",
+    "name": "Mauritius",
+    "summary": "No official Mauritian rules for bringing a casket in were found; confirm the requirements (including any Ministry of Health clearance) with the Mauritian high commission or embassy before the flight. In Mauritius, embalming is compulsory for delayed burial or repatriation, and an unembalmed body must be buried within 24 hours (UK guidance).",
+    "coffin": "No official Mauritian specification found. Standard practice: hermetically sealed zinc-lined coffin in a wooden outer case; confirm with the mission and airline.",
+    "embalming": "UK guidance states that in Mauritius embalming is compulsory for delayed burial or repatriation, and that unembalmed bodies must be buried within 24 hours. Confirm the rule for incoming remains with the Mauritian mission.",
+    "consular": "No official Mauritian consular procedure for incoming remains was found; contact the Mauritian high commission or embassy in the country of death. Mauritius is not a party to the 1973 Strasbourg Agreement.",
+    "arrival": "Not published officially. Expect clearance at Sir Seewoosagur Ramgoolam International Airport and handover to the family's funeral director. If not embalmed, burial within 24 hours (UK guidance).",
+    "pouch": null,
+    "private_aviation": "No rules specific to private flights carrying remains were found. Land at SSR International Airport and confirm the required documents with the Mauritian mission before departure.",
+    "export": "UK guidance: post-mortems are normally carried out within 24 hours of death or as soon as possible after. Embalming is compulsory for repatriation; arterial embalming by a certified embalmer allows more than 30 days before transport. A local funeral director arranges documentation. Polish consular guidance lists: permit for burial abroad issued by local authorities, certificate of cause of death, embalming certificate and certificate of no sanitary objection for body transport.",
+    "authority": "Ministry of Health and Wellness of Mauritius (via the Mauritian mission)",
+    "last_checked": "2026-10",
+    "documents": [
+      "Death certificate stating the cause of death (confirm with mission)",
+      "Embalming certificate (expected; confirm)",
+      "Certificate that the death was not caused by a contagious disease (expected; confirm)",
+      "Exit permit from the country of death",
+      "Passport or ID of the deceased",
+      "Any Ministry of Health clearance required: confirm with the Mauritian mission"
+    ],
+    "sources": [
+      "https://www.gov.uk/government/publications/mauritius-bereavement-information-pack/mauritius-bereavement-information",
+      "https://www.gov.pl/web/kenya/certificate-allowing-the-repatriation-of-body-or-ashes-remains-into-poland",
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+    ],
+    "pouch_accepted": null,
+    "private_jet_alert": false,
+    "at_a_glance": {
+      "death_certificate": "Required, with cause of death",
+      "embalming": "Compulsory for exit; expected on entry",
+      "coffin": "Sealed zinc-lined coffin expected",
+      "laissez_passer": "Not Strasbourg party",
+      "consular": "Ask the Mauritian mission first",
+      "permit": "Not published; confirm with mission",
+      "arrival": "SSR airport; 24 h if not embalmed"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Death certificate with cause of death; appoint a funeral director; contact the Mauritian mission."
+      },
+      {
+        "when": "Day 0-1",
+        "what": "Embalming, health certificate and coffin sealing."
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Obtain any clearance the Mauritian mission requires, plus the local exit permit."
+      },
+      {
+        "when": "Day 2-4",
+        "what": "Book the flight and inform the receiving funeral director."
+      },
+      {
+        "when": "Arrival",
+        "what": "Clearance at SSR International Airport and handover to the funeral director."
+      }
+    ],
+    "key_points": [
+      "Entry rules not published officially",
+      "Embalming compulsory for repatriation from Mauritius",
+      "Unembalmed bodies buried within 24 hours"
+    ],
+    "export_points": [
+      "Embalming compulsory for repatriation",
+      "Permit for burial abroad from local authorities",
+      "Certificate of no sanitary objection for transport",
+      "Post-mortem normally within 24 hours"
+    ],
+    "private_jet_note": "Confirm entry documents with the Mauritian mission before take-off.",
+    "confidence": "low",
+    "lead_days": null
+  },
+  {
+    "cc": "MW",
+    "status": "requirements",
+    "name": "Malawi",
+    "summary": "Malawi's Consulate General in South Africa publishes the checklist for an authority letter to import human remains into Malawi: death certificate, embalming certificate, passport, the export authority from the sending country's health department and a non-epidemic or non-infectious certificate. Ask the Malawi mission accredited to the country of death for this letter before booking.",
+    "coffin": "No Malawian coffin specification is published. Airlines and sending countries normally require a hermetically sealed (zinc-lined) coffin in an outer case; confirm with the airline.",
+    "embalming": "Required: an embalming certificate is on the Malawi mission's import checklist.",
+    "consular": "Malawi missions issue an authority letter to import human remains (published by the Consulate General in Sandton, South Africa). The High Commission in London provides documentation only when proper documents are lacking (covering letter, copies of death certificate and passport or birth certificate, funeral director documents) and gives no financial support. Malawian death certificates can be apostilled via the Ministry of Foreign Affairs. Malawi is not a party to the 1973 Strasbourg Agreement.",
+    "arrival": "Remains arrive at Lilongwe (Kamuzu) or Blantyre (Chileka) international airports and are released to the consignee named in the mission file after customs clearance. The mission checklist requires the deceased's home village, Traditional Authority and district. Temperature-controlled mortuary storage may not be available in rural areas (UK guidance).",
+    "pouch": null,
+    "private_aviation": "No rule specific to private flights carrying remains is published. Land at Lilongwe or Blantyre (customs and health services) with the mission's authority letter and original documents on board, and the consignee waiting.",
+    "export": "UK guidance: the death is registered with the National Registration Bureau based on the district hospital's death report. Airlines usually require a post-mortem and embalming for repatriation; post-mortems are done by government hospital pathology units. A funeral director usually needs the original burial permit, the embalming certificate, the death registration or certificate, a certificate permitting transfer of the remains and sometimes a passport copy.",
+    "authority": "Malawi diplomatic missions (Ministry of Foreign Affairs); National Registration Bureau",
+    "last_checked": "2026-10",
+    "documents": [
+      "Death certificate",
+      "Embalming certificate",
+      "Passport of the deceased (or a police affidavit if there is none)",
+      "Authority letter to export the remains from the sending country's government health department",
+      "Non-epidemic area certificate or proof of no infectious disease",
+      "Consignor details, and consignee full name, address and phone numbers",
+      "Deceased's home address in Malawi (village, Traditional Authority, district)",
+      "Authority letter to import human remains issued by the Malawi mission"
+    ],
+    "sources": [
+      "https://malawiconsulate.co.za/?p=173",
+      "https://malawihighcommission.co.uk/index.php/immigration-and-consular",
+      "https://www.gov.uk/guidance/what-to-do-after-a-british-person-dies-in-malawi"
+    ],
+    "pouch_accepted": null,
+    "private_jet_alert": false,
+    "at_a_glance": {
+      "death_certificate": "Required",
+      "embalming": "Required, certificate on checklist",
+      "coffin": "Sealed coffin expected by airlines",
+      "laissez_passer": "Not a Strasbourg party",
+      "consular": "Malawi mission import authority letter",
+      "permit": "Sending country's health export authority",
+      "arrival": "Lilongwe or Blantyre, consignee collects"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Death certificate and appointment of a funeral director in the country of death."
+      },
+      {
+        "when": "Day 0-1",
+        "what": "Embalming and non-infectious disease or non-epidemic certificate."
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Export authority from the sending country's health department."
+      },
+      {
+        "when": "Day 2-4",
+        "what": "Apply to the Malawi mission for the authority letter to import human remains; book the flight."
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs clearance at Lilongwe or Blantyre and handover to the named consignee."
+      }
+    ],
+    "key_points": [
+      "Malawi mission import authority letter needed",
+      "Give the home village, Traditional Authority and district",
+      "The mission does not pay for repatriation",
+      "Cremation available in Lilongwe and Blantyre"
+    ],
+    "export_points": [
+      "Embalming and usually a post-mortem required by airlines",
+      "Original burial permit and NRB death registration",
+      "Certificate permitting transfer of remains",
+      "Rural mortuaries may lack refrigeration"
+    ],
+    "private_jet_note": "Carry the Malawi mission's import authority letter on board.",
+    "confidence": "medium",
+    "lead_days": null
+  },
+  {
+    "cc": "MX",
+    "status": "requirements",
+    "name": "Mexico",
+    "summary": "To bring a body into Mexico, the documents from the country of death (apostilled death certificate, transit permit, embalming certificate and certificate of no contagious disease) must be presented in original with a Spanish translation and visaed by the Mexican consulate covering the place of death. A funeral home abroad ships the coffin and a Mexican funeral home receives it.",
+    "coffin": "The consular pages consulted do not specify the coffin. In practice a sealed coffin prepared for international air transport is used; confirm the exact specification with the Mexican consulate and the airline.",
+    "embalming": "An embalming certificate is required for a body (not for cremated remains).",
+    "consular": "Original documents with Spanish translation are presented to the Mexican consulate with jurisdiction over the place of death, which visas them; the Seattle consulate states this visa is free of charge. The death certificate must be apostilled. Requirements vary slightly between consulates; Mexican consulates may give limited financial help to families in need, paid directly to the funeral home.",
+    "arrival": "The receiving Mexican funeral home presents the visaed documents and collects the coffin, then arranges burial or cremation under state law. Burial deadlines and local permits are set by the state civil registry and health authorities; confirm with the receiving funeral home.",
+    "pouch": null,
+    "private_aviation": "A private flight must clear immigration, customs and health at an international airport of entry in Mexico. The consular-visaed originals must travel with the coffin. Confirm with the handling agent that customs and health authorities are informed in advance.",
+    "export": "In Mexico the funeral director registers the death at the local Civil Registry (a medical certificate from the hospital or doctor is needed first; after violent or accidental deaths the police provide it) and obtains the civil registry death certificate, an embalming certificate and a certificate permitting transfer of the remains, then meets the destination's requirements (for the US, CDC leak-proof container rules). Post-mortems are carried out by forensic doctors; their reports can take several months, longer if there is a criminal investigation. Federal health permit details were not verified on an official page.",
+    "authority": "Mexican consulates (Secretaria de Relaciones Exteriores); Mexican state health authorities and civil registries",
+    "last_checked": "2026-10",
+    "documents": [
+      "Death certificate, apostilled (or legalised), with Spanish translation",
+      "Transit permit for the body issued in the country of death",
+      "Embalming certificate",
+      "Certificate of no contagious disease",
+      "Mexican consular visa on the documents",
+      "Passport or ID of the deceased"
+    ],
+    "sources": [
+      "https://consulmex.sre.gob.mx/seattle/index.php/es/proteccion/repatriacion-de-restos",
+      "https://www.gov.uk/guidance/what-to-do-after-a-british-person-dies-in-mexico"
+    ],
+    "pouch_accepted": null,
+    "private_jet_alert": false,
+    "at_a_glance": {
+      "death_certificate": "Apostilled, with Spanish translation",
+      "embalming": "Required; embalming certificate",
+      "coffin": "Sealed coffin; confirm with consulate",
+      "laissez_passer": "Transit permit from country of death",
+      "consular": "Mexican consular visa, free at Seattle",
+      "permit": "Consular visa of documents",
+      "arrival": "Mexican funeral home collects"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Hire a funeral home at the place of death and contact the Mexican consulate covering that place."
+      },
+      {
+        "when": "Day 1",
+        "what": "Obtain the death certificate, transit permit and certificate of no contagious disease."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Embalming and sealed coffin; obtain the embalming certificate."
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Apostille the death certificate and obtain Spanish translations."
+      },
+      {
+        "when": "Day 3-4",
+        "what": "Mexican consulate visas the documents; book the flight."
+      },
+      {
+        "when": "Arrival",
+        "what": "Mexican funeral home receives the coffin and arranges burial."
+      }
+    ],
+    "key_points": [
+      "Contact the Mexican consulate for the place of death early; lists vary.",
+      "Consular visa is free at the Seattle consulate; check yours.",
+      "Cremation greatly reduces paperwork and cost."
+    ],
+    "export_points": [
+      "Death registered at the Civil Registry; certified copies",
+      "Embalming certificate and certificate permitting transfer",
+      "Police provide the medical certificate after violent deaths",
+      "Destination country rules (e.g. US CDC leak-proof container)"
+    ],
+    "private_jet_note": "Keep the consular-visaed original documents on board with the coffin.",
+    "confidence": "medium",
+    "lead_days": 4
+  },
+  {
+    "cc": "MY",
+    "status": "requirements",
+    "name": "Malaysia",
+    "summary": "Under section 9 of the Prevention and Control of Infectious Diseases Act 1988 (Act 342), human remains may only be imported into Malaysia in accordance with regulations made under the Act (Ministry of Health); importing otherwise is an offence. The permit and inspection procedure is not published on an official page we could read: confirm the current permit, documents and arrival inspection with the Malaysian mission and the health office at the arrival airport.",
+    "coffin": "No published Malaysian specification was found. Airlines and IATA practice call for a hermetically sealed, zinc-lined coffin in a wooden outer case; confirm with the Malaysian mission.",
+    "embalming": "Not specified in an accessible official Malaysian source for incoming remains; embalming is normally required by the country of departure and by airlines.",
+    "consular": "No official Malaysian consular procedure for incoming remains was found online; confirm with the Malaysian embassy or high commission in the country of death. Malaysia is not a party to the 1973 Strasbourg Agreement.",
+    "arrival": "Expect health and customs clearance at the arrival airport before release to the receiving funeral service; the exact Ministry of Health inspection procedure is not published on an official page we could read. Under Act 342, if an infectious cause of death is suspected an authorised officer may order the body examined and give directions on burial or cremation.",
+    "pouch": null,
+    "private_aviation": "No rule specific to private flights was found. Land at an international airport with health and customs staff (for example KLIA) and confirm the Ministry of Health import requirements in advance through the handling agent.",
+    "export": "For a death outside hospital a post-mortem may be carried out; the hospital issues a Medical Certificate of Cause of Death and the police issue a burial permit, both free of charge. The death is registered with the National Registration Department (JPN) within seven working days of those documents, using them and the original passport (Australian High Commission). Repatriation needs a local death certificate, a certificate of embalming and a certificate giving permission to transfer the remains; some hospitals ask for a letter of no objection from the deceased's embassy (UK guidance). Export of human remains is also regulated under Act 342.",
+    "authority": "Ministry of Health Malaysia (Act 342) with Royal Malaysian Customs",
+    "last_checked": "2026-10",
+    "documents": [
+      "Ministry of Health import permit or clearance under Act 342 regulations (confirm with the Malaysian mission)",
+      "Death certificate from the country of death stating the cause of death (English or Malay translation advisable)",
+      "Burial or transit permit / exit permit from the country of death",
+      "Embalming certificate and coffin sealing certificate (expected; confirm with the mission)",
+      "Passport or identity card of the deceased",
+      "Air waybill and airline release documents"
+    ],
+    "sources": [
+      "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1687632_BI/Act%20342%20-%20Draf%20Bersih.pdf",
+      "https://www.gov.uk/government/publications/malaysia-bereavement-pack",
+      "https://malaysia.highcommission.gov.au/files/klpr/Death%20in%20Malaysia.docx",
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+    ],
+    "pouch_accepted": null,
+    "private_jet_alert": true,
+    "at_a_glance": {
+      "death_certificate": "Certificate with cause of death",
+      "embalming": "Expected by airlines; not officially specified",
+      "coffin": "Sealed zinc-lined coffin advised; confirm",
+      "laissez_passer": "Not applicable",
+      "consular": "Ask the Malaysian mission first",
+      "permit": "Ministry of Health import permission (Act 342)",
+      "arrival": "Health and customs clearance at airport"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the Malaysian embassy or high commission and appoint funeral directors at both ends."
+      },
+      {
+        "when": "Day 1",
+        "what": "Obtain the death certificate with cause of death, burial/transit permit, embalming and sealing certificates in the country of death."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "The receiving funeral service confirms the Ministry of Health import requirements with the health office at the arrival airport."
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Book the flight and send copies of all documents to the receiving funeral service and handling agent."
+      },
+      {
+        "when": "Arrival",
+        "what": "Health and customs clearance; the coffin is released to the funeral service."
+      }
+    ],
+    "key_points": [
+      "Importing remains is an offence unless done under Act 342 regulations",
+      "Permit procedure not published online; confirm with the mission",
+      "Cremated ashes are handled more simply than a body"
+    ],
+    "export_points": [
+      "Police burial permit and medical cause-of-death certificate",
+      "Register the death with JPN within seven working days",
+      "Embalming certificate and transfer certificate",
+      "Embassy letter of no objection may be required"
+    ],
+    "private_jet_note": "Confirm the Ministry of Health import requirements at the arrival airport before take-off.",
+    "confidence": "medium",
+    "lead_days": null
+  }
+]

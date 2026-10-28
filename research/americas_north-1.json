@@ -1,0 +1,734 @@
+[
+  {
+    "cc": "US",
+    "name": "United States",
+    "status": "requirements",
+    "summary": "Human remains entering the US fall under CDC rules and are cleared by CBP at the first port of entry: non-cremated remains must be fully contained in a leak-proof container, and remains that are not embalmed must travel with a death certificate stating the cause of death (with an English translation attested by a notary if needed). A US funeral home receives the remains and obtains the state burial or cremation permit.",
+    "documents": [
+      "Death certificate stating the cause of death (required for non-embalmed, non-cremated remains), with an English translation attested by a notary or similar official if not in English",
+      "If no death certificate is available: Consular Mortuary Certificate, Affidavit of Foreign Funeral Director and Transit Permit, prepared with the US embassy or consulate",
+      "Embalming certificate where the body was embalmed (embalmed remains are exempt from the death-certificate and permit requirements)",
+      "Export clearance documents required by the country of death",
+      "CDC import permit only if the person died of an infectious disease and the remains are not embalmed or cremated"
+    ],
+    "coffin": "CDC requires all non-cremated remains to be fully contained in a leak-proof container: a double-layered puncture-resistant body bag (two sealed bags, one inside the other), a casket whose interior lining is certified leak-proof and puncture-resistant by the manufacturer, or a sealed metal body transfer case. No witnessed sealing is required by US law; the country of departure or the carrier may impose a hermetically sealed or zinc-lined coffin and an outer air tray.",
+    "embalming": "Not required by US federal rules. Embalming before import removes the need for a death certificate and for any CDC permit, including when the death was caused by an infectious disease. The country of departure often requires embalming anyway.",
+    "consular": "No legalisation or consular visa is required by the US for entry. For a US citizen, the US embassy or consulate abroad can help obtain the documents and may issue a Consular Report of Death Abroad and, where needed, a Consular Mortuary Certificate. The State Department does not pay for repatriation.",
+    "arrival": "CBP clears the remains at the first US port of entry, checking the CDC documents. A licensed US funeral director collects the remains and obtains the local burial-transit or cremation permit under state law. There is no federal burial deadline; timing follows state rules.",
+    "pouch_accepted": true,
+    "pouch": "Accepted by CDC as a leak-proof container only as a double-layered, puncture-resistant body bag (two sealed bags, one inside the other). The country of departure, the carrier and the receiving funeral home may still require a casket or transfer case.",
+    "private_aviation": "A private aircraft arriving from abroad must transmit the arrival manifest through eAPIS (or another CBP-approved system) no later than 60 minutes before departure and must receive CBP landing approval before leaving the foreign airport; the manifest alone does not grant landing rights. Flights from the south must generally land at the nearest designated airport to the border or coastline crossing. The remains are declared and cleared by CBP on arrival with the same CDC documents.",
+    "private_jet_alert": false,
+    "private_jet_note": "File eAPIS and obtain CBP landing approval before take-off; keep the CDC documents on board.",
+    "export": "There is no federal export permit. The funeral home obtains a certified death certificate and the burial-transit (disposition) permit from the local or state registrar, embalms the body and prepares letters required by the destination (embalming affidavit, non-contagious disease letter). Many destinations require these documents apostilled by the Secretary of State and visaed by their consulate. Release can be delayed when a medical examiner investigates a sudden or unattended death.",
+    "export_points": [
+      "Burial-transit or disposition permit from the local registrar",
+      "Certified death certificate, often apostilled for the destination",
+      "Embalming affidavit and non-contagious disease letter as the destination requires",
+      "Medical examiner release needed after sudden or unattended deaths"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Needed unless embalmed; English translation",
+      "embalming": "Not required by US law",
+      "coffin": "Leak-proof container, casket or transfer case",
+      "laissez_passer": "Not used",
+      "consular": "No legalisation; US consulate helps citizens",
+      "permit": "CDC permit only for unembalmed infectious cases",
+      "arrival": "CBP clearance; US funeral home collects"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Appoint a funeral home abroad and a receiving US funeral home; inform the US embassy if the deceased was a US citizen."
+      },
+      {
+        "when": "Day 1",
+        "what": "Obtain the local death certificate with cause of death and the export clearance of the country of death."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Embalming (recommended) and placement in a leak-proof casket or transfer case; obtain the embalming certificate."
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Translate documents into English if needed; for a private flight, file eAPIS and obtain CBP landing approval."
+      },
+      {
+        "when": "Arrival",
+        "what": "CBP clearance at the port of entry; the US funeral home collects and obtains the state burial or cremation permit."
+      }
+    ],
+    "key_points": [
+      "Embalmed or cremated remains need no death certificate or CDC permit for entry.",
+      "A double sealed body bag meets the CDC leak-proof rule, but airlines may want a casket.",
+      "Private flights need CBP landing approval before departure."
+    ],
+    "lead_days": 3,
+    "authority": "Centers for Disease Control and Prevention (CDC); US Customs and Border Protection (CBP); state vital records offices",
+    "sources": [
+      "https://www.cdc.gov/importation/human-remains/index.html",
+      "https://www.law.cornell.edu/cfr/text/19/122.22",
+      "https://www.law.cornell.edu/cfr/text/19/122.24",
+      "https://www.gov.uk/guidance/when-someone-dies-in-the-usa"
+    ],
+    "confidence": "high",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "CA",
+    "name": "Canada",
+    "status": "requirements",
+    "summary": "Remains entering Canada are screened by the CBSA for the Public Health Agency of Canada: the body must travel in at least a leak-proof container with a death certificate (in English or French, or translated). A hermetically sealed container avoids referral to a quarantine officer when the cause of death is missing or is a communicable disease.",
+    "documents": [
+      "Death certificate (translated into English or French if needed), ideally stating the cause of death",
+      "If no death certificate: other evidence such as a coroner's letter identifying the remains, reviewed by a quarantine officer",
+      "Embalming certificate and transit permit as required by the country of departure",
+      "Air waybill or flight documents"
+    ],
+    "coffin": "At minimum a leak-proof container (CBSA memorandum D19-9-3); some carriers require a hermetically sealed container. If the death certificate does not state the cause of death or shows a communicable disease, a hermetically sealed container can usually be released with an advisory not to open it; otherwise the CBSA officer must contact a quarantine officer. No witnessed sealing is required by Canada.",
+    "embalming": "Not addressed by the federal import rules. The country of departure and airlines usually require it; provincial rules govern later handling.",
+    "consular": "No legalisation or consular visa is required by Canada for entry. Documents in other languages need an English or French translation. Canadian consular officials can assist families abroad but do not issue an import permit.",
+    "arrival": "CBSA border services officers check the documents and release the remains, referring to a PHAC quarantine officer if there is no death certificate, a communicable disease is suspected, the cause of death is missing with an unsealed container, or the remains arrive damaged. A Canadian funeral director collects and obtains the provincial burial or cremation permit; timing follows provincial rules.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "Private aircraft arriving from abroad must land at a CBSA-designated airport of entry and report to the CBSA before passengers or goods leave the aircraft. The remains must be declared on arrival with the death certificate; the same Quarantine Act screening applies. Confirm reporting procedures with the CBSA for the chosen airport.",
+    "private_jet_alert": false,
+    "private_jet_note": "Land at a CBSA airport of entry and declare the remains on arrival.",
+    "export": "The funeral home obtains the provincial death registration and burial or transit permit, embalms and casket the body as the destination requires, and meets the destination consulate's requirements (often authentication by Global Affairs Canada followed by consular legalisation). If the deceased had a communicable disease, permission from the Public Health Agency of Canada is required before export. Coroner investigations can delay release.",
+    "export_points": [
+      "Provincial burial or transit permit and death certificate",
+      "PHAC permission if the deceased had a communicable disease",
+      "Authentication by Global Affairs Canada if the destination requires legalisation",
+      "Embalming and sealed casket per destination and airline"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Required; English or French translation",
+      "embalming": "Not required federally; usually done",
+      "coffin": "Leak-proof; hermetic avoids quarantine referral",
+      "laissez_passer": "Not used",
+      "consular": "No legalisation needed for entry",
+      "permit": "No federal import permit",
+      "arrival": "CBSA screening; funeral director collects"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Appoint a funeral home abroad and a receiving Canadian funeral director."
+      },
+      {
+        "when": "Day 1",
+        "what": "Obtain the death certificate with cause of death and the export permit of the country of death."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Embalming and placement in a leak-proof, preferably hermetically sealed, coffin."
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Translate documents into English or French; book the flight or arrange private-aircraft arrival at an airport of entry."
+      },
+      {
+        "when": "Arrival",
+        "what": "CBSA screening and release; funeral director obtains the provincial burial or cremation permit."
+      }
+    ],
+    "key_points": [
+      "A death certificate stating the cause of death prevents delays.",
+      "A hermetically sealed coffin is released even when the cause of death is unclear.",
+      "Exporting a body after a communicable disease needs PHAC permission."
+    ],
+    "lead_days": 3,
+    "authority": "Public Health Agency of Canada (PHAC), with screening by the Canada Border Services Agency (CBSA); provincial vital statistics authorities",
+    "sources": [
+      "https://www.cbsa-asfc.gc.ca/publications/dm-md/d19/d19-9-3-eng.html"
+    ],
+    "confidence": "high",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "MX",
+    "name": "Mexico",
+    "status": "requirements",
+    "summary": "To bring a body into Mexico, the documents from the country of death (apostilled death certificate, transit permit, embalming certificate and certificate of no contagious disease) must be presented in original with a Spanish translation and visaed by the Mexican consulate covering the place of death. A funeral home abroad ships the coffin and a Mexican funeral home receives it.",
+    "documents": [
+      "Death certificate, apostilled (or legalised), with Spanish translation",
+      "Transit permit for the body issued in the country of death",
+      "Embalming certificate",
+      "Certificate of no contagious disease",
+      "Mexican consular visa on the documents",
+      "Passport or ID of the deceased"
+    ],
+    "coffin": "The consular pages consulted do not specify the coffin. In practice a sealed coffin prepared for international air transport is used; confirm the exact specification with the Mexican consulate and the airline.",
+    "embalming": "An embalming certificate is required for a body (not for cremated remains).",
+    "consular": "Original documents with Spanish translation are presented to the Mexican consulate with jurisdiction over the place of death, which visas them; the Seattle consulate states this visa is free of charge. The death certificate must be apostilled. Requirements vary slightly between consulates; Mexican consulates may give limited financial help to families in need, paid directly to the funeral home.",
+    "arrival": "The receiving Mexican funeral home presents the visaed documents and collects the coffin, then arranges burial or cremation under state law. Burial deadlines and local permits are set by the state civil registry and health authorities; confirm with the receiving funeral home.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "A private flight must clear immigration, customs and health at an international airport of entry in Mexico. The consular-visaed originals must travel with the coffin. Confirm with the handling agent that customs and health authorities are informed in advance.",
+    "private_jet_alert": false,
+    "private_jet_note": "Keep the consular-visaed original documents on board with the coffin.",
+    "export": "In Mexico the funeral director registers the death at the Civil Registry (a medical certificate is needed first; police or forensic services provide it after violent or accidental deaths) and obtains the certified death certificate, an embalming certificate and the health authority authorisation to transfer the body, then meets the destination's requirements (for the US, CDC leak-proof container rules). Post-mortems by forensic doctors and investigations can delay release. Federal health permit details were not verified on an official page.",
+    "export_points": [
+      "Death registered at the Civil Registry; certified copies",
+      "Embalming certificate and health authority transfer authorisation",
+      "Forensic or police release after violent or accidental deaths",
+      "Destination country rules (e.g. US CDC leak-proof container)"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Apostilled, with Spanish translation",
+      "embalming": "Required; embalming certificate",
+      "coffin": "Sealed coffin; confirm with consulate",
+      "laissez_passer": "Transit permit from country of death",
+      "consular": "Mexican consular visa, free at Seattle",
+      "permit": "Consular visa of documents",
+      "arrival": "Mexican funeral home collects"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Hire a funeral home at the place of death and contact the Mexican consulate covering that place."
+      },
+      {
+        "when": "Day 1",
+        "what": "Obtain the death certificate, transit permit and certificate of no contagious disease."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Embalming and sealed coffin; obtain the embalming certificate."
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Apostille the death certificate and obtain Spanish translations."
+      },
+      {
+        "when": "Day 3-4",
+        "what": "Mexican consulate visas the documents; book the flight."
+      },
+      {
+        "when": "Arrival",
+        "what": "Mexican funeral home receives the coffin and arranges burial."
+      }
+    ],
+    "key_points": [
+      "Contact the Mexican consulate for the place of death early; lists vary.",
+      "Consular visa is free at the Seattle consulate; check yours.",
+      "Cremation greatly reduces paperwork and cost."
+    ],
+    "lead_days": 4,
+    "authority": "Mexican consulates (Secretaria de Relaciones Exteriores); Mexican state health authorities and civil registries",
+    "sources": [
+      "https://consulmex.sre.gob.mx/seattle/index.php/es/proteccion/repatriacion-de-restos",
+      "https://www.gov.uk/guidance/what-to-do-after-a-british-person-dies-in-mexico"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "BM",
+    "name": "Bermuda",
+    "status": "unknown",
+    "summary": "Bermuda is a British Overseas Territory with its own health and registration laws; UK rules do not apply directly. No official page on bringing a body into Bermuda was found: plan on a death certificate, embalming certificate and a sealed coffin, and confirm the requirements with a Bermuda funeral home and the Government of Bermuda health authorities before shipping.",
+    "documents": [
+      "Death certificate stating the cause of death, with English translation (expected; not confirmed officially)",
+      "Embalming certificate (expected; not confirmed officially)",
+      "Export or transit permit from the country of death",
+      "Any Bermuda entry permit: not published; confirm with the receiving funeral home"
+    ],
+    "coffin": "Not published officially. A hermetically sealed coffin with outer case is the safe standard; confirm with the Bermuda funeral home and the airline.",
+    "embalming": "Not published officially; embalming is normally expected for international transport.",
+    "consular": "Bermuda has no consulates of its own abroad; UK missions handle consular matters for Bermudians. No legalisation requirement was found; confirm with the receiving funeral home.",
+    "arrival": "The receiving Bermuda funeral home normally handles customs and health clearance at L.F. Wade International Airport and the burial permit. Deaths in Bermuda are notified to the Registry General by a doctor or coroner. Confirm timing locally.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "Private flights arrive at L.F. Wade International Airport, the only airport, where customs and immigration clear the aircraft. Specific rules for human remains on private aircraft were not found; arrange clearance of the coffin in advance through a local funeral home and handling agent.",
+    "private_jet_alert": false,
+    "private_jet_note": "Confirm in advance with a Bermuda funeral home that the coffin can be cleared on arrival.",
+    "export": "Leaving Bermuda, the death is first registered with the Registry General on notice from a doctor or coroner; the funeral home then obtains the death certificate, embalming and any removal permit and meets the destination's requirements. No official page on export permits was found.",
+    "export_points": [
+      "Death notified to the Registry General by doctor or coroner",
+      "Death certificate ordered from the Registry General",
+      "Removal permit details not published; ask the funeral home"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Expected; confirm locally",
+      "embalming": "Expected; not officially published",
+      "coffin": "Sealed coffin recommended",
+      "laissez_passer": "Not used",
+      "consular": "None known; UK missions for Bermudians",
+      "permit": "Unknown; confirm with funeral home",
+      "arrival": "Local funeral home clears and collects"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Appoint a funeral home abroad and a receiving Bermuda funeral home."
+      },
+      {
+        "when": "Day 1",
+        "what": "Ask the Bermuda funeral home to confirm the entry documents and any health permit."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain the death certificate, embalming and sealed coffin, and the export permit of the country of death."
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Book the flight to L.F. Wade International Airport."
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs and health clearance; funeral home collects the coffin."
+      }
+    ],
+    "key_points": [
+      "Bermuda has its own laws; UK rules do not apply directly.",
+      "No official entry checklist was found; confirm locally."
+    ],
+    "lead_days": null,
+    "authority": "Government of Bermuda, Ministry of Health; Registry General",
+    "sources": [
+      "https://www.gov.bm/articles/birth-and-death-registration"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "BS",
+    "name": "Bahamas",
+    "status": "strict",
+    "summary": "Bahamas Government regulations require the Minister of Health to give permission before a body is landed in The Bahamas, and the body must arrive in a hermetically sealed casket with a certified death certificate. The sending funeral home should work with a Bahamian funeral home, which obtains the approvals.",
+    "documents": [
+      "Certified copy of the death certificate",
+      "Permission of the Minister of Health to land the body, obtained through a Bahamian funeral home",
+      "Embalming certificate or embalmer's statement (usually requested; not on the official sheet consulted)",
+      "Export or transit permit from the country of death"
+    ],
+    "coffin": "Hermetically sealed casket required. No witnessed sealing requirement was found.",
+    "embalming": "Not stated on the official sheet consulted, but embalming is normally expected; confirm with the Bahamian funeral home.",
+    "consular": "No consular visa was found as a requirement. The Bahamas High Commission in London advises the sending undertaker to liaise directly with a Bahamian mortician, who obtains the approvals from the Ministry of Health (Chief Medical Officer).",
+    "arrival": "The Bahamian funeral home presents the approval and documents and collects the casket. A coroner may inquire into the death of a body brought into the country. Burial timing follows the funeral home and local rules.",
+    "pouch_accepted": false,
+    "pouch": null,
+    "private_aviation": "Private flights must land at a Bahamian airport of entry with customs and immigration (for example Nassau). The Ministry of Health permission must be obtained before arrival; no specific private-aviation rule for remains was found.",
+    "private_jet_alert": true,
+    "private_jet_note": "Do not take off before the Ministry of Health has approved landing the body.",
+    "export": "Leaving The Bahamas, the death is registered with the Registrar General's Department (certificates are usually issued within a few days); after a sudden or unnatural death, a post-mortem at the Rand Morgue (Nassau) usually takes 4 to 6 working days for foreign nationals. The funeral home then provides the death certificate, an embalming certificate and a certificate permitting transfer of the remains.",
+    "export_points": [
+      "Death registered with the Registrar General's Department",
+      "Post-mortem for sudden deaths: usually 4 to 6 working days",
+      "Embalming certificate and permission to transfer the remains"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Certified copy required",
+      "embalming": "Expected; confirm with funeral home",
+      "coffin": "Hermetically sealed casket",
+      "laissez_passer": "Not used",
+      "consular": "No visa; Bahamian mortician handles approvals",
+      "permit": "Minister of Health permission to land",
+      "arrival": "Bahamian funeral home collects"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Appoint a funeral home abroad and a receiving funeral home in The Bahamas."
+      },
+      {
+        "when": "Day 1",
+        "what": "Send the death certificate and details to the Bahamian funeral home to request Ministry of Health permission."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Embalming and hermetically sealed casket; obtain the export permit of the country of death."
+      },
+      {
+        "when": "Day 2-4",
+        "what": "Receive Ministry of Health approval; book the flight."
+      },
+      {
+        "when": "Arrival",
+        "what": "Clearance at the airport of entry; Bahamian funeral home collects the casket."
+      }
+    ],
+    "key_points": [
+      "Ministry of Health permission is needed before the body lands.",
+      "A hermetically sealed casket is required.",
+      "The official instruction sheet is old (2010); confirm current rules."
+    ],
+    "lead_days": 4,
+    "authority": "Ministry of Health (Chief Medical Officer), The Bahamas",
+    "sources": [
+      "https://www.bahamashclondon.net/wp-content/uploads/2017/03/Remains.pdf",
+      "https://www.gov.uk/guidance/when-someone-dies-in-the-bahamas"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "KY",
+    "name": "Cayman Islands",
+    "status": "unknown",
+    "summary": "The Cayman Islands are a British Overseas Territory with their own public health law; UK rules do not apply directly. No official page on bringing a body into the Cayman Islands was found: plan on a death certificate, embalming certificate and sealed coffin, and confirm requirements with a Cayman funeral home and the Department of Environmental Health before shipping.",
+    "documents": [
+      "Death certificate stating the cause of death, with English translation (expected; not confirmed officially)",
+      "Embalming certificate (expected; not confirmed officially)",
+      "Export or transit permit from the country of death",
+      "Any local health clearance: not published; confirm with the receiving funeral home"
+    ],
+    "coffin": "Not published officially. A hermetically sealed coffin with outer case is the safe standard; confirm locally.",
+    "embalming": "Not published officially; embalming is normally expected for international transport.",
+    "consular": "The Cayman Islands have no consulates of their own; UK missions handle consular matters. No legalisation requirement was found; confirm with the receiving funeral home.",
+    "arrival": "The Department of Environmental Health's port health and quarantine officers carry out health surveillance at the ports and airport. The receiving funeral home normally handles customs and health clearance and the burial permit. Confirm timing locally.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "Private flights clear customs and immigration at Owen Roberts International Airport (Grand Cayman) or Charles Kirkconnell International Airport (Cayman Brac). No specific rule for human remains on private aircraft was found; arrange clearance in advance through a local funeral home.",
+    "private_jet_alert": false,
+    "private_jet_note": "Confirm with a Cayman funeral home and port health that the coffin can be cleared on arrival.",
+    "export": "Leaving the Cayman Islands, the funeral home obtains the registered death certificate, embalming and any removal permit and meets the destination's requirements. No official page on export permits was found.",
+    "export_points": [
+      "Registered death certificate",
+      "Embalming and sealed coffin",
+      "Removal permit details not published; ask the funeral home"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Expected; confirm locally",
+      "embalming": "Expected; not officially published",
+      "coffin": "Sealed coffin recommended",
+      "laissez_passer": "Not used",
+      "consular": "None known",
+      "permit": "Unknown; confirm with funeral home",
+      "arrival": "Port health and local funeral home"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Appoint a funeral home abroad and a receiving Cayman funeral home."
+      },
+      {
+        "when": "Day 1",
+        "what": "Ask the Cayman funeral home to confirm entry documents and any health clearance."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain the death certificate, embalming, sealed coffin and export permit of the country of death."
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Book the flight to Owen Roberts International Airport."
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs and port health clearance; funeral home collects."
+      }
+    ],
+    "key_points": [
+      "The Cayman Islands have their own laws; UK rules do not apply directly.",
+      "No official entry checklist was found; confirm locally."
+    ],
+    "lead_days": null,
+    "authority": "Department of Environmental Health (Port Health), Cayman Islands Government",
+    "sources": [
+      "https://gov.ky/web/deh/port-health"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "TC",
+    "name": "Turks and Caicos",
+    "status": "unknown",
+    "summary": "The Turks and Caicos Islands are a British Overseas Territory with their own health legislation; UK rules do not apply directly. The Environmental Health Department (port health, cemetery management) has no published guidance on importing human remains: plan on a death certificate, embalming certificate and sealed coffin, and confirm with a local funeral home before shipping.",
+    "documents": [
+      "Death certificate stating the cause of death, with English translation (expected; not confirmed officially)",
+      "Embalming certificate (expected; not confirmed officially)",
+      "Export or transit permit from the country of death",
+      "Any local health clearance: not published; confirm with the Environmental Health Department"
+    ],
+    "coffin": "Not published officially. A hermetically sealed coffin with outer case is the safe standard; confirm locally.",
+    "embalming": "Not published officially; embalming is normally expected for international transport.",
+    "consular": "The Turks and Caicos Islands have no consulates of their own; UK missions handle consular matters. No legalisation requirement was found.",
+    "arrival": "The receiving funeral home normally handles customs and health clearance and burial arrangements. The Environmental Health Department (ehd@gov.tc) oversees port health and cemeteries. Confirm timing locally.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "Private flights clear customs and immigration at an airport of entry such as Providenciales International. No specific rule for human remains on private aircraft was found; arrange clearance in advance through a local funeral home.",
+    "private_jet_alert": false,
+    "private_jet_note": "Confirm with a local funeral home and Environmental Health that the coffin can be cleared on arrival.",
+    "export": "No official page on export permits was found. The funeral home obtains the death certificate, embalming and any removal permit and meets the destination's requirements.",
+    "export_points": [
+      "Death certificate from the local registry",
+      "Embalming and sealed coffin",
+      "Removal permit details not published; ask the funeral home"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Expected; confirm locally",
+      "embalming": "Expected; not officially published",
+      "coffin": "Sealed coffin recommended",
+      "laissez_passer": "Not used",
+      "consular": "None known",
+      "permit": "Unknown; confirm with Environmental Health",
+      "arrival": "Local funeral home clears and collects"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Appoint a funeral home abroad and a receiving funeral home in the Turks and Caicos."
+      },
+      {
+        "when": "Day 1",
+        "what": "Confirm entry documents and any health clearance with the local funeral home or Environmental Health."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain the death certificate, embalming, sealed coffin and export permit of the country of death."
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Book the flight to Providenciales or another airport of entry."
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs and health clearance; funeral home collects."
+      }
+    ],
+    "key_points": [
+      "The territory has its own laws; UK rules do not apply directly.",
+      "No official entry checklist was found; confirm locally."
+    ],
+    "lead_days": null,
+    "authority": "Environmental Health Department, Ministry of Health, Turks and Caicos Islands Government",
+    "sources": [
+      "https://gov.tc/environmentalhealth/services/port-health"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "JM",
+    "name": "Jamaica",
+    "status": "requirements",
+    "summary": "Before human remains arrive, the receiving licensed Jamaican funeral director must obtain a permit from the Medical Officer (Health) of the parish of entry, on presentation of the death certificate with cause of death and the embalming certificate. The body must be embalmed and in a leak-proof container (hermetically sealed casket if death was from a quarantinable disease), and arrival must be notified at least 24 hours ahead.",
+    "documents": [
+      "Death certificate stating the cause of death (English translation if needed)",
+      "Embalming certificate (except where embalming is prohibited for religious reasons)",
+      "Permit from the Medical Officer (Health) of the parish of entry, applied for in writing on the prescribed form with fee",
+      "Statement that the body is in a hermetically sealed casket, if death was from a quarantinable communicable disease",
+      "Free-from-infection certificate, coroner or post-mortem report where applicable, ID of the deceased and the transit permit of the country of death (as listed by the Jamaican Consulate in Toronto)"
+    ],
+    "coffin": "Embalmed remains in a leak-proof container (puncture-resistant and sealed) if the cause of death is not a quarantinable communicable disease; a hermetically sealed casket, with documentation of the sealing, if it is (e.g. Ebola, cholera, infectious tuberculosis, plague, yellow fever, SARS). The casket should travel in an air tray or a compartment separate from baggage.",
+    "embalming": "Required, with an embalming certificate, except where embalming is prohibited for religious reasons.",
+    "consular": "No consular visa is required. Jamaican missions advise using a funeral home in the country of death and a registered Jamaican funeral home with a licensed embalmer, which obtains the permit. Documents in other languages need an English translation.",
+    "arrival": "The airline or importer notifies the Medical Officer (Health) or Chief Public Health Inspector and the Quarantine Officer at least 24 hours before arrival (airline, flight, point of entry, time, name of the deceased). The permit is presented to Customs for clearance and the funeral home collects. Without a permit, Customs detains the remains. The Medical Officer may order detention or disinfection if contamination is suspected.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "The parish health permit must be obtained before arrival and the 24-hour arrival notification applies to any flight. Private aircraft must use an airport of entry with customs (Kingston, Montego Bay or Ocho Rios). The permit is presented to Customs on arrival.",
+    "private_jet_alert": true,
+    "private_jet_note": "Obtain the parish health permit and notify health and quarantine 24 hours before landing.",
+    "export": "Only registered funeral homes with a licensed embalmer can obtain the transit permit to export a body, issued by the Kingston and St Andrew or St James Health Department on the death certificate with cause of death, embalming certificate and autopsy report where applicable. The death must be registered within 5 days unless the coroner is investigating; post-mortems are routine after sudden or violent deaths and the final death certificate can take months, so ask early which document the destination accepts.",
+    "export_points": [
+      "Transit permit from the Kingston and St Andrew or St James Health Department",
+      "Only registered funeral homes with a licensed embalmer can apply",
+      "Death registered within 5 days; post-mortem after sudden deaths",
+      "Embalming certificate required"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Required, with cause of death",
+      "embalming": "Required, except religious prohibition",
+      "coffin": "Leak-proof; hermetic if quarantinable disease",
+      "laissez_passer": "Not used",
+      "consular": "No visa; English translation if needed",
+      "permit": "Parish Medical Officer (Health) permit",
+      "arrival": "24-hour notice; Customs; funeral home"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Appoint a funeral home abroad and a registered Jamaican funeral home with a licensed embalmer."
+      },
+      {
+        "when": "Day 1",
+        "what": "Obtain the death certificate with cause of death and the export permit of the country of death; embalming."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Jamaican funeral home applies to the Medical Officer (Health) of the parish of entry and pays the fee."
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Collect the permit; notify health and quarantine officers at least 24 hours before arrival."
+      },
+      {
+        "when": "Arrival",
+        "what": "Present the permit to Customs; the funeral home collects the casket."
+      }
+    ],
+    "key_points": [
+      "Get the parish health permit before the body travels.",
+      "Notify health and quarantine at least 24 hours before arrival.",
+      "Permit fees differ between official sources; confirm the current fee."
+    ],
+    "lead_days": 3,
+    "authority": "Ministry of Health and Wellness (Environmental Health Unit); parish Medical Officer (Health)",
+    "sources": [
+      "https://congenmiami.mfaft.gov.jm/pdf/Guidelines-for-the-importation-of-Human-Remains.pdf",
+      "https://jcgtoronto.ca/?p=21439",
+      "https://mail.jhcottawa.ca/return-human-remains.html",
+      "https://www.gov.uk/guidance/when-someone-dies-in-jamaica"
+    ],
+    "confidence": "high",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "CU",
+    "name": "Cuba",
+    "status": "strict",
+    "summary": "To bring a body into Cuba, the death must first be transcribed at the Cuban consulate, and the embalming certificate, burial licence and health ministry authorisation for the transfer (with official Spanish translations) must be authenticated by the foreign ministry of the country of death and then legalised by the Cuban consulate, which also issues a declaration on the preparation of the body. The family must also contact the Funeraria de Calzada y K in Havana.",
+    "documents": [
+      "Consular transcription of the death (Transcripcion de la Defuncion)",
+      "Medical certificate that the body was embalmed according to the stipulated measures, with official Spanish translation",
+      "Burial licence from the authorities of the country of death, with official Spanish translation",
+      "Document from the health ministry of the country of death authorising the transfer, with official Spanish translation",
+      "Consular declaration that the body is prepared according to the stipulated measures"
+    ],
+    "coffin": "The Cuban consulate certifies that the body is prepared according to the stipulated measures; the exact casket specification is not published on the page consulted. Use a hermetically sealed coffin and confirm with the consulate.",
+    "embalming": "Required: a medical certificate that the body was embalmed according to the stipulated measures.",
+    "consular": "Each document and its Spanish translation is authenticated by the foreign ministry of the country of death (in Canada, Global Affairs Canada) and then legalised by the Cuban consulate. The Cuban consulates in Canada charge CAD 256 per document (each original and each translation) plus CAD 176 for the declaration on the preparation of the body. Other Cuban consulates advise families to contact them directly.",
+    "arrival": "The family contacts the Funeraria de Calzada y K in Havana with the name, date and cause of death, the person in Cuba responsible for the body and the cemetery of burial. Customs and health clearance on arrival are handled with the funeral service; timing was not found officially.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No official rule for remains on private flights was found. Private flights must land at a Cuban international airport with customs and health; flights from the United States are subject to US sanctions and export-control rules, which must be checked before planning.",
+    "private_jet_alert": true,
+    "private_jet_note": "Flights from the US to Cuba face US sanctions rules; check authorisations first.",
+    "export": "In Cuba, the local funeral director registers the death; bodies of foreign nationals are held at the Institute of Legal Medicine in Havana until repatriation, where post-mortems are done the day of arrival. The funeral home provides the Spanish death certificate, the embalming certificate and burial licence, and a certificate permitting transfer of the remains. Mortuary storage is free for 3 days, then charged daily.",
+    "export_points": [
+      "Death registered by the local funeral director",
+      "Institute of Legal Medicine holds foreign nationals' bodies",
+      "Embalming certificate and permission to transfer the remains",
+      "Mortuary storage charged after 3 days"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Transcribed at the Cuban consulate",
+      "embalming": "Required, medical certificate",
+      "coffin": "Prepared per stipulated measures",
+      "laissez_passer": "Consular declaration on body preparation",
+      "consular": "Authentication then Cuban legalisation, fees",
+      "permit": "Health ministry transfer authorisation",
+      "arrival": "Funeraria de Calzada y K, Havana"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the Cuban consulate for the place of death and a funeral home there."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Embalming; obtain the burial licence and health ministry transfer authorisation."
+      },
+      {
+        "when": "Day 2-4",
+        "what": "Official Spanish translations; authentication by the foreign ministry of the country of death."
+      },
+      {
+        "when": "Day 4-6",
+        "what": "Cuban consulate transcribes the death, legalises documents and issues its declaration."
+      },
+      {
+        "when": "Before departure",
+        "what": "Contact the Funeraria de Calzada y K in Havana to arrange reception and burial."
+      },
+      {
+        "when": "Arrival",
+        "what": "Clearance in Cuba and transfer to the cemetery."
+      }
+    ],
+    "key_points": [
+      "Every document and translation must be authenticated, then legalised by Cuba.",
+      "Consular fees are charged per document.",
+      "Procedures are published for Cuban nationals; others should ask the consulate."
+    ],
+    "lead_days": 6,
+    "authority": "Cuban consulates (Ministerio de Relaciones Exteriores, MINREX); Ministerio de Salud Publica",
+    "sources": [
+      "https://misiones.cubaminrex.cu/es/canada/servicios-consulares",
+      "https://misiones.cubaminrex.cu/es/mexico/servicios-consulares",
+      "https://www.gov.uk/guidance/when-someone-dies-in-cuba"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "HT",
+    "name": "Haiti",
+    "status": "requirements",
+    "summary": "To bring a body into Haiti, the Haitian embassy or consulate issues a consular death certificate after reviewing a file with the burial permit, certified death certificate, notarised and authenticated non-contagious disease and embalming letters, and the deceased's passport. The body must be embalmed and travel in a sealer casket, to a named funeral home in Haiti.",
+    "documents": [
+      "Death certificate issued by a Haitian consul",
+      "Burial permit from the place of death",
+      "Certified copy of the death certificate",
+      "Copy of the funeral home's health department registration and embalmer's licence",
+      "Copy of the complete funeral bill",
+      "Letter from the county health office that the deceased had no contagious disease, signed, notarised and authenticated",
+      "Letter on funeral home letterhead confirming embalming and a properly sealed coffin, signed, notarised and authenticated",
+      "Passport of the deceased (need not be current), flight itinerary and the name and address of the funeral home in Haiti"
+    ],
+    "coffin": "A sealer (properly sealed) casket is required; a wood-base air tray is acceptable.",
+    "embalming": "Mandatory, certified by a notarised and authenticated letter from the funeral home.",
+    "consular": "The consular section of the Embassy of Haiti in Washington (or a Haitian consulate) issues the death certificate for transport after reviewing the file; the Washington fee is USD 160 (money order or credit card). Other consulates may differ.",
+    "arrival": "The remains are released to the named funeral home in Haiti, which handles customs and burial. Haitian civil death certificates do not show the cause of death. Confirm timing with the receiving funeral home.",
+    "pouch_accepted": false,
+    "pouch": null,
+    "private_aviation": "Flights to Haiti have been repeatedly disrupted by the security situation, with suspensions at Port-au-Prince airport and restrictions on some foreign operators. Check current aviation notices and airport status (Cap-Haitien has been used instead) before planning, and make sure a funeral home and handling agent can receive the casket.",
+    "private_jet_alert": true,
+    "private_jet_note": "Check current airport status and aviation restrictions for Haiti before booking.",
+    "export": "Leaving Haiti, the next of kin (or a funeral director with a letter of authorisation) registers the death with the Civil Registry (Etat Civil); the funeral home provides the death certificate, an embalming certificate and a certificate permitting transfer of the remains, and meets the destination's requirements (for the US, CDC leak-proof container rules). Post-mortems are carried out by court-appointed forensic doctors.",
+    "export_points": [
+      "Death registered at the Civil Registry (Etat Civil)",
+      "Embalming certificate and permission to transfer the remains",
+      "Death certificates do not show the cause of death",
+      "Check flight availability given security conditions"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Haitian consular death certificate",
+      "embalming": "Mandatory; notarised embalming letter",
+      "coffin": "Sealer casket; wood air tray accepted",
+      "laissez_passer": "Consular death certificate serves",
+      "consular": "Embassy Washington fee USD 160",
+      "permit": "Burial permit from place of death",
+      "arrival": "Named funeral home in Haiti"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Funeral home abroad obtains the death certificate and burial permit."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Embalming and sealer casket; prepare the non-contagious disease and embalming letters."
+      },
+      {
+        "when": "Day 2-4",
+        "what": "Notarise and authenticate the letters; submit the file to the Haitian embassy or consulate and pay the fee."
+      },
+      {
+        "when": "Day 4-5",
+        "what": "Consulate issues the death certificate; book a flight to an operating Haitian airport."
+      },
+      {
+        "when": "Arrival",
+        "what": "Named Haitian funeral home receives the casket."
+      }
+    ],
+    "key_points": [
+      "A Haitian consular death certificate is required.",
+      "Embalming and a sealer casket are mandatory.",
+      "Security conditions and airport closures can disrupt flights."
+    ],
+    "lead_days": 5,
+    "authority": "Embassy of Haiti consular section and Haitian consulates; Ministere de la Sante Publique et de la Population",
+    "sources": [
+      "https://www.haiti.org/body-repatriation/",
+      "https://www.haiti.org/transporting-human-remains-from-the-united-states-to-haiti/",
+      "https://www.gov.uk/guidance/when-someone-dies-in-haiti"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  }
+]

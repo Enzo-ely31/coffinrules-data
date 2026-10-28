@@ -1,0 +1,459 @@
+[
+ {
+  "cc": "IS",
+  "name": "Iceland",
+  "status": "requirements",
+  "summary": "Iceland is a party to the 1973 Strasbourg Agreement, so a coffin from another party state travels on the laissez-passer of the country of death. Under Regulation 618/2018 on the handling and transport of corpses, every body entering Iceland must be in an airtight, watertight container inside a sturdy coffin and carry a packaging certificate and a doctor's certificate on contagious disease.",
+  "documents": [
+   "Laissez-passer for the corpse from the country of death (Strasbourg Agreement states)",
+   "Certificate on the packaging of the body (Regulation 618/2018, art. 3)",
+   "Doctor's certificate stating whether the deceased had a contagious disease or other infection risk (art. 3)",
+   "Death certificate, with English translation where needed (legalisation for non-Strasbourg origins to be confirmed with the Icelandic embassy)"
+  ],
+  "coffin": "Regulation 618/2018 (art. 2): the body must be placed in an airtight and watertight container inside a sturdy coffin and secured so that it cannot move. In practice this means a sealed zinc-lined inner coffin in a wooden coffin. Iceland does not publish who must witness the sealing; the departure country's rules apply.",
+  "embalming": "Iceland's regulation does not require embalming for an incoming body; follow the departure country's and the airline's rules.",
+  "consular": "From Strasbourg Agreement states no Icelandic consular step is needed. From other countries, no Icelandic consular permit is published; ask the Icelandic embassy or consulate whether legalised documents are required. Iceland's Foreign Ministry consular service assists families of Icelandic citizens who die abroad.",
+  "arrival": "Customs clearance at the arrival airport (normally Keflavik). If an incoming body has no certificate, it is handled under the procedures of the Chief Epidemiologist (sottvarnalaeknir) together with the district chief physicians. A body that may carry a notifiable disease is transported and kept under the Chief Epidemiologist's procedures. A local funeral director collects the coffin; Reykjavik's cemeteries run the main mortuary and two crematoria.",
+  "pouch_accepted": false,
+  "pouch": null,
+  "private_aviation": "Fly to an Icelandic airport with customs (Keflavik, or Reykjavik for general aviation, to be confirmed with the handler) and have the receiving funeral director meet the aircraft. The same packaging and medical certificates apply as for airline cargo, and the coffin must fit the aircraft's cargo door or cabin.",
+  "private_jet_alert": false,
+  "private_jet_note": null,
+  "export": "For Strasbourg Agreement destinations, Iceland's declared competent authority for the laissez-passer is the District Medical Officer (in Reykjavik, the Reykjavik Medical Office of Health), who may authorise staff doctors at health centres and hospitals to act (declaration of 4 February 1983). The body leaves in an airtight, watertight container inside a sturdy coffin with the packaging and medical certificates required by Regulation 618/2018. A doctor certifies the death and the National Registry registers it (Icelandic death certificates do not show the cause of death); a police inquiry or post-mortem can delay the release. Exhumation for transfer abroad needs a permit from the Chief Epidemiologist.",
+  "export_points": [
+   "Laissez-passer from the District Medical Officer (Strasbourg states)",
+   "Airtight inner container in a sturdy coffin",
+   "Packaging certificate and doctor's contagion certificate",
+   "Post-mortem or police inquiry can delay release"
+  ],
+  "at_a_glance": {
+   "death_certificate": "Required, translated if needed",
+   "embalming": "Not required by Iceland",
+   "coffin": "Airtight container in sturdy coffin",
+   "laissez_passer": "From country of death (Strasbourg)",
+   "consular": "Only needed for non-Strasbourg origins",
+   "permit": "Packaging and contagion certificates",
+   "arrival": "Funeral director collects at Keflavik"
+  },
+  "steps": [
+   {
+    "when": "Day 0-1",
+    "what": "Appoint funeral directors in the country of death and in Iceland"
+   },
+   {
+    "when": "Day 1-3",
+    "what": "Obtain death certificate, doctor's contagion certificate and laissez-passer"
+   },
+   {
+    "when": "Day 2-4",
+    "what": "Body placed in airtight container inside a sturdy coffin; packaging certificate issued"
+   },
+   {
+    "when": "Departure",
+    "what": "Flight to Iceland with all certificates attached to the coffin"
+   },
+   {
+    "when": "Arrival",
+    "what": "Customs clearance at Keflavik; funeral director arranges burial or cremation"
+   }
+  ],
+  "key_points": [
+   "Strasbourg Agreement party since 11 November 1975",
+   "Regulation 618/2018 requires airtight inner container",
+   "Missing certificates trigger Chief Epidemiologist procedures",
+   "Laissez-passer issuer: District Medical Officer"
+  ],
+  "lead_days": null,
+  "authority": "Ministry of Health and the Chief Epidemiologist (Directorate of Health); District Medical Officer for the laissez-passer",
+  "sources": [
+   "https://island.is/reglugerdir/nr/0618-2018",
+   "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p",
+   "https://www.gov.uk/government/publications/iceland-bereavement-pack",
+   "https://assets.publishing.service.gov.uk/media/5bf2ca58e5274a2b1639c745/Bereavement_Pack_-_BE_Reykjavik_-_Final.odt"
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "LV",
+  "name": "Latvia",
+  "status": "requirements",
+  "summary": "To bring a body into Latvia you need a transport permit from the competent authority of the country of death (the Strasbourg laissez-passer between party states), or, where no such authority exists, a certificate of the cause of death from a medical institution, doctor or law-enforcement body (Cabinet Regulation No. 523 of 2005). The coffin must be hermetically sealed, filled with absorbent material and packed in a wooden box that does not look like a coffin.",
+  "documents": [
+   "Transport permit for the body from the competent authority of the country of death (Strasbourg laissez-passer between party states)",
+   "If the country of death has no such authority: certificate stating the cause of death from a medical institution, doctor or law-enforcement body",
+   "From the USA (Latvian embassy guidance): apostilled medical cause-of-death certificate, death certificate and embalming certificate, plus a declaration that the deceased had no known infectious condition (or a removal permit) and that the coffin holds only the remains",
+   "Contact details of the Latvian funeral home that will receive the coffin"
+  ],
+  "coffin": "Regulation No. 523, paras 7-8: hermetically sealed coffin filled with absorbent material (dry sawdust, fine wood shavings or peat), with a pressure-balancing and air-filtering device if needed. A wooden coffin needs walls of at least 20 mm when it contains a soldered zinc (or other non-degradable) coffin, or at least 30 mm when it is lined outside with soldered zinc sheets. For transport the coffin goes in a solid wooden box that does not look like a coffin, marked 'handle with care'. No witness for the sealing is specified for incoming coffins.",
+  "embalming": "Latvian law does not require embalming for entry, but the Latvian embassy in the USA lists an embalming certificate (apostilled) for a coffin shipped from the US. Follow the departure country's rules.",
+  "consular": "No Latvian consular permit is required. Between Strasbourg states the laissez-passer suffices. Latvian missions (example: Washington) ask for the death, cause-of-death and embalming certificates with an apostille. For a death abroad, the Latvian Foreign Ministry advises informing the local police, the Latvian embassy or consulate and the insurer; consular duty line +371 26337711.",
+  "arrival": "Customs clearance at Riga airport. A Latvian funeral home meets the coffin with its own vehicle. Burial or cremation may not take place earlier than 24 hours after death (Regulation 523, para 18, for deaths from infectious disease). Latvia's only crematorium is in Riga.",
+  "pouch_accepted": false,
+  "pouch": null,
+  "private_aviation": "Fly to Riga (or another Latvian airport with customs) with the receiving funeral home meeting the aircraft. Regulation 523 allows coffins by air in the luggage or cargo hold, inside a wooden box that does not look like a coffin, which a small cabin may not accommodate; check the cargo door size.",
+  "private_jet_alert": false,
+  "private_jet_note": null,
+  "export": "To take a body out of Latvia you need a body transport permit from the Health Inspectorate (Veselibas inspekcija), which is also Latvia's declared Strasbourg authority since 2009. The application includes a medical certificate of cause of death with its ICD-10 code (or the death certificate showing it) and a funeral company's statement that the body is in a coffin meeting para 7 and that the coffin holds only the body and personal effects. The permit is completed in Latvian and one Council of Europe language. The Inspectorate refuses it if these requirements are not met. Transit through Latvia needs no Latvian permit. Death must be registered at the civil registry office within six working days.",
+  "export_points": [
+   "Permit from the Health Inspectorate",
+   "Cause of death with ICD-10 code",
+   "Funeral company coffin statement",
+   "Hermetic coffin, absorbent filling, outer wooden box"
+  ],
+  "at_a_glance": {
+   "death_certificate": "Required, apostilled from non-EU countries",
+   "embalming": "Not required by Latvian law",
+   "coffin": "Hermetic, absorbent filling, outer wooden box",
+   "laissez_passer": "Permit from country of death",
+   "consular": "No Latvian consular permit",
+   "permit": "Health Inspectorate permit to leave",
+   "arrival": "Funeral home meets coffin at Riga"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Inform local police, Latvian embassy and insurer"
+   },
+   {
+    "when": "Day 0-2",
+    "what": "Appoint funeral directors; obtain death and cause-of-death certificates"
+   },
+   {
+    "when": "Day 1-3",
+    "what": "Apostille documents where needed; obtain the departure country's transport permit"
+   },
+   {
+    "when": "Day 2-4",
+    "what": "Hermetic coffin with absorbent filling, packed in a wooden box"
+   },
+   {
+    "when": "Departure",
+    "what": "Flight to Riga with documents attached to the coffin"
+   },
+   {
+    "when": "Arrival",
+    "what": "Customs clearance; Latvian funeral home collects and arranges burial"
+   }
+  ],
+  "key_points": [
+   "Strasbourg Agreement party since 6 January 1997",
+   "Health Inspectorate issues exit permits and laissez-passer",
+   "Coffin travels in a box that does not look like a coffin",
+   "Transit through Latvia needs no Latvian permit"
+  ],
+  "lead_days": null,
+  "authority": "Health Inspectorate of Latvia (Veselibas inspekcija)",
+  "sources": [
+   "https://vvc.gov.lv/lv/media/6641/download",
+   "https://www.vestnesis.lv/ta/id/113048",
+   "https://www.usa.mfa.gov.lv/en/requirements-transporting-human-remains-latvia",
+   "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p",
+   "https://www.mfa.gov.lv/lv/palidziba-smagas-saslimsanas-vai-nelaimes-gadijuma-naves-gadijuma-aizturesanasapcietinajuma-gadijuma",
+   "https://www.gov.uk/government/publications/latvia-bereavement-information/latvia-bereavement-information"
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "LT",
+  "name": "Lithuania",
+  "status": "requirements",
+  "summary": "Lithuania is a party to the 1973 Strasbourg Agreement (since 2009), so a coffin from another party state travels on the departure country's laissez-passer. From other countries, Lithuanian embassies issue the permit to bring a coffin in; their pages could not be opened for this check, so confirm the document list with the Lithuanian embassy in the country of death.",
+  "documents": [
+   "Laissez-passer for the corpse from the country of death (Strasbourg Agreement states)",
+   "From non-Strasbourg countries: permit from the Lithuanian embassy or consulate (embassy pages could not be opened; confirm the list)",
+   "Death certificate, legalised or apostilled and translated into Lithuanian for non-EU documents (to be confirmed with the embassy)",
+   "Funeral director's statement that the coffin holds only the remains (reported by Lithuanian embassy pages; confirm)"
+  ],
+  "coffin": "Between Strasbourg states the coffin must meet the Agreement (sealed, zinc-lined inner coffin with absorbent material in an outer wooden coffin). Lithuanian embassy pages are reported to ask for a double coffin (metal inner, sealed wooden outer) from non-Strasbourg countries; not opened, confirm with the embassy.",
+  "embalming": "No Lithuanian embalming rule for incoming bodies was verified; follow the departure country's rules.",
+  "consular": "From Strasbourg states no consular step is normally required. From other countries, the Lithuanian embassy or consulate issues the permit to transport the coffin to Lithuania (reported on Lithuanian embassy pages that could not be opened). Ashes are reported not to need an embassy permit.",
+  "arrival": "Customs clearance at Vilnius, Kaunas or Palanga airport; a Lithuanian funeral director collects the coffin. Deaths in Lithuania are registered with the municipality within 3 days.",
+  "pouch_accepted": null,
+  "pouch": null,
+  "private_aviation": "Fly to a Lithuanian airport with customs (Vilnius, Kaunas or Palanga) with the receiving funeral director meeting the aircraft. Human remains on a private flight need the same papers as airline cargo, and the coffin must fit the aircraft's cargo door or cabin.",
+  "private_jet_alert": false,
+  "private_jet_note": null,
+  "export": "For Strasbourg destinations a laissez-passer is required. Lithuania declared the State Public Health Service under the Ministry of Health (2009) and then the Kaunas Public Health Centre (2012) as the issuing authority; today the service is listed under the National Public Health Centre (NVSC) on Lithuania's e-services portal, which could not be opened, so confirm. For non-Strasbourg destinations the funeral director notifies the transport to NVSC (not verified). A post-mortem is normally carried out and repatriation waits until the authorities need no further examinations; the full autopsy report can take about 2 months.",
+  "export_points": [
+   "Laissez-passer from the public health authority (NVSC)",
+   "Post-mortem usually done before release",
+   "Death registered at municipality within 3 days",
+   "Destination country's entry rules apply"
+  ],
+  "at_a_glance": {
+   "death_certificate": "Required, legalised and translated",
+   "embalming": "Not verified",
+   "coffin": "Sealed zinc-lined coffin (Strasbourg)",
+   "laissez_passer": "From country of death (Strasbourg)",
+   "consular": "Embassy permit from non-Strasbourg countries",
+   "permit": "Confirm with the Lithuanian embassy",
+   "arrival": "Funeral director collects at airport"
+  },
+  "steps": [
+   {
+    "when": "Day 0-1",
+    "what": "Appoint funeral directors in the country of death and in Lithuania"
+   },
+   {
+    "when": "Day 1-3",
+    "what": "Obtain death certificate and laissez-passer (or embassy permit)"
+   },
+   {
+    "when": "Day 2-4",
+    "what": "Legalise and translate documents; coffin sealed"
+   },
+   {
+    "when": "Departure",
+    "what": "Flight with documents attached to the coffin"
+   },
+   {
+    "when": "Arrival",
+    "what": "Customs clearance; funeral director arranges burial or cremation"
+   }
+  ],
+  "key_points": [
+   "Strasbourg Agreement party since 11 September 2009",
+   "Non-Strasbourg origins: Lithuanian embassy permit",
+   "Lithuanian government portals could not be opened",
+   "Confirm details with the embassy"
+  ],
+  "lead_days": null,
+  "authority": "National Public Health Centre (NVSC) under the Ministry of Health (laissez-passer, to be confirmed); Lithuanian embassies for non-Strasbourg entries",
+  "sources": [
+   "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p",
+   "https://www.gov.uk/government/publications/when-someone-dies-in-lithuania/lithuania-bereavement-information"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "LI",
+  "name": "Liechtenstein",
+  "status": "requirements",
+  "summary": "Liechtenstein has no airport: a coffin lands in Switzerland (for example Zurich or St. Gallen-Altenrhein) and continues by road inside the Swiss-Liechtenstein customs area. Under the Customs Treaty, the Berlin (1937) and Strasbourg (1973) agreements on the transfer of corpses apply in Liechtenstein, so a coffin from a party state travels on the departure country's laissez-passer.",
+  "documents": [
+   "Laissez-passer (Leichenpass) for the corpse from the country of death (Berlin or Strasbourg party states)",
+   "Death certificate from the country of death, with translation if needed",
+   "From other countries: documents required by the Swiss arrival authorities (to be confirmed with the Swiss or Liechtenstein authorities)"
+  ],
+  "coffin": "For Strasbourg or Berlin transfers, a sealed coffin meeting the agreement (zinc-lined inner coffin with absorbent material in a wooden coffin). Liechtenstein's own rules for coffins from other countries were not verified.",
+  "embalming": "Not verified for Liechtenstein; follow the departure country's rules.",
+  "consular": "From Berlin or Strasbourg states no consular step is normally needed. From other countries, ask the Swiss or Liechtenstein authorities whether legalised documents are required. The UK covers Liechtenstein from its embassy in Switzerland.",
+  "arrival": "The coffin clears customs at the Swiss arrival airport; Switzerland and Liechtenstein form one customs area, so there is no further customs border on the road to Liechtenstein. Swiss and Liechtenstein funeral directors handle the transfer. The Swiss Epidemics Act also applies in Liechtenstein.",
+  "pouch_accepted": null,
+  "pouch": null,
+  "private_aviation": "There is no airport in Liechtenstein. Plan the flight to a Swiss airport with customs (Zurich, or St. Gallen-Altenrhein near the border), meet the funeral director airside and continue by hearse. Swiss rules on human remains apply to the flight.",
+  "private_jet_alert": true,
+  "private_jet_note": "No airport: land in Switzerland and continue by road.",
+  "export": "The death is registered at the Liechtenstein civil registry office (Zivilstandsamt, Vaduz), which issues an international death certificate without cause of death. For a transfer to the UK, the family needs the death certificate, permission to remove the body and the passport; the body leaves by road to a Swiss or Austrian airport. The Liechtenstein authority that issues the Leichenpass was not verified (likely the health authorities; confirm). In Switzerland the cantons designate the Leichenpass authority (for example the civil registry office in Zug since 2025).",
+  "export_points": [
+   "Register death at the Zivilstandsamt in Vaduz",
+   "Leichenpass under Berlin/Strasbourg rules",
+   "Issuing office in Liechtenstein not verified",
+   "Departure by road to a Swiss or Austrian airport"
+  ],
+  "at_a_glance": {
+   "death_certificate": "International certificate, from country of death",
+   "embalming": "Not verified",
+   "coffin": "Sealed zinc-lined coffin (Strasbourg)",
+   "laissez_passer": "Berlin/Strasbourg Leichenpass accepted",
+   "consular": "Only needed for non-party origins",
+   "permit": "Issuing office not verified",
+   "arrival": "Swiss airport, then road"
+  },
+  "steps": [
+   {
+    "when": "Day 0-1",
+    "what": "Appoint funeral directors; obtain death certificate"
+   },
+   {
+    "when": "Day 1-3",
+    "what": "Obtain laissez-passer (Leichenpass) from the country of death"
+   },
+   {
+    "when": "Day 2-4",
+    "what": "Coffin sealed; confirm Swiss arrival handling with the funeral director"
+   },
+   {
+    "when": "Departure",
+    "what": "Flight to Zurich or St. Gallen-Altenrhein with documents"
+   },
+   {
+    "when": "Arrival",
+    "what": "Swiss customs clearance, then hearse to Liechtenstein"
+   }
+  ],
+  "key_points": [
+   "Liechtenstein has no airport",
+   "Berlin and Strasbourg agreements apply via the Customs Treaty",
+   "No customs border between Switzerland and Liechtenstein",
+   "Liechtenstein issuing office not verified"
+  ],
+  "lead_days": null,
+  "authority": "Liechtenstein Government (Amt fur Gesundheit, not verified) and Zivilstandsamt; Swiss authorities at the arrival airport",
+  "sources": [
+   "https://www.gesetze.li/konso/2026.312",
+   "https://www.gesetze.li/konso/html/2026312000?version=1&search_text=&search_loc=",
+   "https://www.gov.uk/guidance/when-someone-dies-in-liechtenstein",
+   "https://zg.ch/de/gesundheit/gesundheitsberufe-praxen-amtsaerztliches/amtsaerztliches/leichenpass"
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "MC",
+  "name": "Monaco",
+  "status": "requirements",
+  "summary": "Monaco has no airport: a coffin flown in lands in France (normally Nice Cote d'Azur) and is driven to Monaco, so French entry rules apply to the flight. Transfers between metropolitan France and Monaco are governed by the 1963 Franco-Monegasque agreement: on the Monaco side the Minister of State authorises the transport, and a hermetically sealed coffin is required beyond 200 km or 48 hours.",
+  "documents": [
+   "Documents required by France for arrival: French consular transport authorisation, or the laissez-passer from a Strasbourg/Berlin state",
+   "Death certificate from the country of death, with French translation",
+   "Authorisation from the Minister of State of Monaco for the France-Monaco leg (1963 agreement; confirm how it applies to a body arriving from abroad)"
+  ],
+  "coffin": "French rules require an airtight coffin for air transport. The 1963 Franco-Monegasque agreement requires a hermetically sealed coffin when the journey exceeds 200 km, when more than 48 hours pass between encoffining and burial, for certain contagious diseases, or when the authorities order it; otherwise a 26 mm oak coffin with iron bands and a watertight lining.",
+  "embalming": "No Monegasque embalming rule was found; follow the departure country's and French rules.",
+  "consular": "Monaco is not a party to the Strasbourg or Berlin agreements. Because the flight lands in France, the French embassy or consulate in the country of death issues the transport authorisation for non-Strasbourg/Berlin origins. Monaco's own consular requirements were not found.",
+  "arrival": "The coffin clears customs in France and is driven to Monaco. The Minister of State authorises transfers between France and Monaco under the 1963 agreement. The Mairie's civil registry records deaths and authorises cremation; burial practice in Monaco was not verified.",
+  "pouch_accepted": null,
+  "pouch": null,
+  "private_aviation": "There is no airport in Monaco (heliport only). Fly to Nice Cote d'Azur or another French airport with customs, where French rules on human remains apply, and continue by hearse.",
+  "private_jet_alert": true,
+  "private_jet_note": "No airport: land in France (Nice) under French rules, then road.",
+  "export": "For a body leaving Monaco for metropolitan France, the Minister of State authorises the transport (1963 Franco-Monegasque agreement), with a hermetic coffin beyond 200 km or 48 hours. For a flight abroad from Nice, French rules also apply; Monaco's procedure for destinations outside France was not published. Ashes are authorised the same way and must be in a protected urn.",
+  "export_points": [
+   "Minister of State authorises France-Monaco transfers",
+   "Hermetic coffin beyond 200 km or 48 hours",
+   "Departure by road to a French airport",
+   "Destination country's entry rules apply"
+  ],
+  "at_a_glance": {
+   "death_certificate": "Required, French translation",
+   "embalming": "Not verified",
+   "coffin": "Hermetic coffin for air transport",
+   "laissez_passer": "Per French arrival rules",
+   "consular": "French consulate for non-party origins",
+   "permit": "Minister of State for road leg",
+   "arrival": "Via Nice airport, then road"
+  },
+  "steps": [
+   {
+    "when": "Day 0-1",
+    "what": "Appoint funeral directors in the country of death and in Monaco"
+   },
+   {
+    "when": "Day 1-5",
+    "what": "Obtain documents for arrival in France (consular authorisation or laissez-passer)"
+   },
+   {
+    "when": "Day 2-5",
+    "what": "Monaco funeral director requests the Minister of State's transport authorisation"
+   },
+   {
+    "when": "Departure",
+    "what": "Flight to Nice Cote d'Azur with documents"
+   },
+   {
+    "when": "Arrival",
+    "what": "French customs clearance; hearse to Monaco for the funeral"
+   }
+  ],
+  "key_points": [
+   "Monaco has no airport",
+   "French rules apply to the flight leg",
+   "1963 Franco-Monegasque agreement governs the road leg",
+   "Not a Strasbourg or Berlin party"
+  ],
+  "lead_days": null,
+  "authority": "Minister of State (Government of Monaco) for transfers; Mairie de Monaco (Etat Civil); French authorities for the arrival leg",
+  "sources": [
+   "https://legimonaco.mc/tai/accord/1963/10-15-tai1l000040/",
+   "https://www.aude.gouv.fr/contenu/telechargement/27780/192489/file/2. Transport de corps à l'étranger.pdf",
+   "https://www.mairie.mc/etat-civil-2"
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "MT",
+  "name": "Malta",
+  "status": "requirements",
+  "summary": "Repatriation of human remains to, from or via Malta is supervised by Port Health Services (Health Inspectorate, Environmental Health Directorate). The coffin must arrive with a death certificate, identity certificate, embalming certificate, burial permit or coroner clearance, and a health-authority certificate that it can be transported safely, in a soldered lead or zinc inner coffin inside a wooden coffin; a fee of 64 euros applies.",
+  "documents": [
+   "Certificate of death",
+   "Certificate of identity of the deceased",
+   "Certificate of embalmment",
+   "Burial permit / coroner clearance form",
+   "Certificate from the health authority concerned that the remains can be transported without risk to public health",
+   "Port Health fee of 64 euros (office hours; extra charges outside them)"
+  ],
+  "coffin": "Soldered inner coffin of lead or zinc, or repatriation foil approved by the Environmental Health Directorate, packed inside a wooden coffin. The lid is screwed down, the screws are covered with tamper-proof seals and the coffin is wrapped in canvas or tarpaulin so the contents are not apparent. For infectious disease or advanced decomposition the body is normally placed in a body bag.",
+  "embalming": "An embalming certificate must accompany the remains. For export, Malta requires arterial embalming with formalin and saline (US Embassy Malta).",
+  "consular": "Malta is not a party to the Strasbourg Agreement. No Maltese consular permit is published; ask the Maltese embassy whether translation or apostille of the documents is required.",
+  "arrival": "Port Health Services clear the remains at Malta International Airport; a Maltese funeral director collects the coffin. Maltese law requires at least 24 hours between death and burial, and disinterment is prohibited for two years after burial. There is no crematorium in Malta.",
+  "pouch_accepted": false,
+  "pouch": null,
+  "private_aviation": "Arrive at Malta International Airport and arrange the Port Health clearance in advance through the receiving funeral director (porthealth@gov.mt). The same documents and coffin standard apply as for airline cargo; out-of-hours clearance is possible at extra cost.",
+  "private_jet_alert": false,
+  "private_jet_note": null,
+  "export": "Port Health Services supervise every departure. The body must be embalmed (formalin and saline), sealed in a zinc box in the presence of a Port Health inspector, placed in a wooden coffin and packed in an airtight cover or sealed wooden box. Documents attached: death certificate with cause, identity certificate, embalming certificate, a public health certificate that the coffin was hermetically sealed before a port health inspector and the deceased was free of infectious disease, and a police burial permit (also valid for international transport). A magisterial inquiry into an unnatural death can delay release.",
+  "export_points": [
+   "Port Health inspector witnesses the zinc sealing",
+   "Embalming with formalin and saline required",
+   "Police burial permit valid for transport",
+   "Magisterial inquiry can delay release"
+  ],
+  "at_a_glance": {
+   "death_certificate": "Required, with cause of death",
+   "embalming": "Required, certificate needed",
+   "coffin": "Soldered lead/zinc inner, wooden outer",
+   "laissez_passer": "Not a Strasbourg party",
+   "consular": "No Maltese consular permit published",
+   "permit": "Port Health clearance, 64 euros",
+   "arrival": "Port Health clears; funeral director collects"
+  },
+  "steps": [
+   {
+    "when": "Day 0-1",
+    "what": "Appoint funeral directors in the country of death and in Malta"
+   },
+   {
+    "when": "Day 1-3",
+    "what": "Obtain death, identity, embalming and public health certificates and burial permit"
+   },
+   {
+    "when": "Day 2-4",
+    "what": "Seal body in soldered zinc/lead inner coffin in a wooden coffin"
+   },
+   {
+    "when": "Day 2-4",
+    "what": "Maltese funeral director notifies Port Health Services of the arrival"
+   },
+   {
+    "when": "Departure",
+    "what": "Flight to Malta with documents attached to the coffin"
+   },
+   {
+    "when": "Arrival",
+    "what": "Port Health clearance (64 euros); funeral director arranges burial"
+   }
+  ],
+  "key_points": [
+   "Port Health Services supervise all repatriations",
+   "Embalming certificate required",
+   "No crematorium in Malta",
+   "Not a Strasbourg Agreement party"
+  ],
+  "lead_days": null,
+  "authority": "Port Health Services, Health Inspectorate (Environmental Health Directorate, Ministry for Health)",
+  "sources": [
+   "https://environmentalhealth.gov.mt/en/ehs/phs/repatriation-of-human-remains/",
+   "https://mt.usembassy.gov/death-of-a-u-s-citizen/",
+   "https://www.gov.uk/government/publications/malta-bereavement-guide/malta-bereavement-information",
+   "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10"
+ }
+]

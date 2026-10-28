@@ -1,0 +1,751 @@
+[
+  {
+    "cc": "ES",
+    "status": "requirements",
+    "name": "Spain",
+    "summary": "Entry of a coffin into Spain must be authorised by Sanidad Exterior (Ministry of Health) at the point of entry, requested by the Spanish funeral company through the SISAEX electronic platform. From Strasbourg or Berlin agreement countries the mortuary laissez-passer is the only document needed; from other countries a Documento Unico from the Spanish consulate is required first.",
+    "coffin": "A coffin suitable for international transport, hermetically sealed; the US Embassy notes a certificate of placement in a sealed coffin is issued for shipments. Simplified bilateral rules with France and Portugal apply to land transport only.",
+    "embalming": "Bodies via the consular route need an embalming or temporary conservation certificate, and bodies leaving Spain must be embalmed or temporarily conserved. Embalming must be done 24-48 hours after death under medical supervision; embalmed bodies must be buried within 96 hours. A person who died of a contagious disease cannot be embalmed.",
+    "consular": "From countries outside the Strasbourg and Berlin agreements, the family applies to the Spanish consulate in the country of death, which reviews the documents and issues a Documento Unico to be presented to Sanidad Exterior on arrival. From agreement countries no consular step is needed.",
+    "arrival": "The funeral company requests entry through SISAEX to the Sanidad Exterior service at the entry point; once approved, the authorisation is downloaded and presented to customs for release. The receiving funeral director handles burial or cremation under regional mortuary health rules.",
+    "pouch": null,
+    "private_aviation": "Human remains on a private or charter flight need the same documents as airline cargo; they travel with the coffin and are shown to customs and health officials at the arrival airport. A sealed international coffin is long and heavy, so it must fit the aircraft's cargo door or a cabin configured for it, which rules out many light and midsize jets. Land at an airport with customs facilities and have the receiving funeral director meet the aircraft airside. The Sanidad Exterior authorisation names the entry point, so the private flight must land at the airport declared in the SISAEX request.",
+    "export": "The funeral company files the exit request via SISAEX with Sanidad Exterior in the province of death or of exit. The body must be embalmed or temporarily conserved and placed in a coffin suitable for international transport. For Strasbourg/Berlin destinations Sanidad Exterior issues the salvoconducto mortuorio; other destinations need their consulate's entry authorisation first. The US Embassy estimates 9-10 working days for an overseas shipment.",
+    "authority": "Ministry of Health, Sanidad Exterior (via SISAEX)",
+    "last_checked": "2026-10",
+    "documents": [
+      "Salvoconducto mortuorio (laissez-passer) from a Strasbourg or Berlin agreement state, OR Documento Unico from the Spanish consulate",
+      "Consular route: medical cause-of-death certificate, embalming or temporary conservation certificate, civil registry death certificate, judicial permit if the death was violent",
+      "Sanidad Exterior entry authorisation obtained through SISAEX by the funeral company"
+    ],
+    "sources": [
+      "https://www.sanidad.gob.es/en/areas/sanidadExterior/controlHS/trasladoIntCad.htm",
+      "https://es.usembassy.gov/wp-content/uploads/sites/58/2025/03/Disposition_of_Remains_Report_Spain_2025.pdf",
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+    ],
+    "pouch_accepted": null,
+    "private_jet_alert": true,
+    "at_a_glance": {
+      "death_certificate": "Required; consular route for non-treaty states",
+      "embalming": "Embalming or temporary conservation",
+      "coffin": "Sealed international transport coffin",
+      "laissez_passer": "Sufficient from Strasbourg/Berlin states",
+      "consular": "Spanish consulate Documento Unico otherwise",
+      "permit": "Sanidad Exterior entry via SISAEX",
+      "arrival": "Customs release at declared entry point"
+    },
+    "steps": [
+      {
+        "when": "Day 0-1",
+        "what": "Appoint funeral directors; obtain death and medical certificates"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Embalming and sealing in international transport coffin"
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Laissez-passer (treaty states) or Spanish consulate Documento Unico"
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Spanish funeral company files SISAEX entry request"
+      },
+      {
+        "when": "Arrival",
+        "what": "Present authorisation to customs; funeral director takes charge"
+      }
+    ],
+    "key_points": [
+      "Sanidad Exterior is the single health authority for entry and exit",
+      "Entry point is fixed in the authorisation",
+      "Ashes have no health formalities"
+    ],
+    "export_points": [
+      "Funeral company files request via SISAEX",
+      "Embalming or temporary conservation required",
+      "Salvoconducto for Strasbourg/Berlin destinations",
+      "Other destinations: their consulate's authorisation first"
+    ],
+    "private_jet_note": "Spain's entry authorisation names the entry point: land only at the declared airport.",
+    "confidence": "high",
+    "lead_days": 3
+  },
+  {
+    "cc": "FI",
+    "status": "requirements",
+    "name": "Finland",
+    "summary": "Finland is a party to the 1973 Strasbourg Agreement (in force 15 March 1989), so a coffin from another party state travels on the laissez-passer issued in the country of death. On arrival, the cause-of-death documents go to the police of the deceased's home municipality (or of the burial municipality), and no separate burial permit is needed.",
+    "coffin": "Strasbourg standard, reproduced on Finnish municipal laissez-passer forms: impermeable coffin with absorbent material, either an outer wooden coffin (sides at least 20 mm) with an inner soldered coffin of zinc or other self-destroying material, or a wooden coffin of at least 30 mm lined with zinc or other self-destroying material; for air transport, a purifying (pressure-equalising) device or guarantees of strength accepted by the departure authority. Finland's rule for coffins from non-Strasbourg countries is not published; the departure country's rules apply.",
+    "embalming": "No Finnish entry requirement is published. The departure country's rules and the airline's requirements apply.",
+    "consular": "No Finnish consular permit is needed for entry. The Finnish embassy or consulate in the country of death advises on burial, cremation and transport, and can receive notice of the death for a Finnish citizen. The death must also be notified to the Digital and Population Data Services Agency with the original foreign death certificate (which may need legalisation or translation).",
+    "arrival": "When a coffin or urn is brought to Finland, contact the police of the deceased's last home municipality, or of the municipality of burial. The cause-of-death documents are handed to that police department, which may order an additional investigation in Finland if the foreign one is inadequate and establishes identity. No separate burial permit is required. The receiving Finnish funeral home collects the coffin.",
+    "pouch": null,
+    "private_aviation": "No rule specific to private flights; the coffin needs the same documents as airline cargo. Finland is in the Schengen area: a flight from outside Schengen must land at an airport with border and customs control. A sealed international coffin is long and heavy, so it must fit the aircraft's cargo door or a cabin configured for it, which rules out many light and midsize jets.",
+    "export": "The hospital or doctor issues the Finnish death certificate; if the death is unexpected, the police may order a forensic autopsy (the final cause-of-death certificate can take 4-6 months). Under Decree 226/1989 (amended 849/1993), the laissez-passer for a corpse (ruumiinkuljetuslupa) is issued by the health inspector designated by the municipal body of the municipality where the international transport begins (municipal environmental health services). It certifies the Strasbourg coffin standard and states the cause of death in English or French, by WHO code, or in a sealed envelope. A Finnish funeral director arranges the coffin and transport; confirm embalming needs with the destination country and airline.",
+    "authority": "Police of the home or burial municipality (entry); municipal health inspector (laissez-passer for exit); Digital and Population Data Services Agency (registration)",
+    "last_checked": "2026-10",
+    "documents": [
+      "Laissez-passer for a corpse from the departure state (Strasbourg countries), or the removal permit and documents required by the country of death",
+      "Foreign death certificate (legalisation or translation may be needed; a funeral home can arrange it)",
+      "Cause-of-death investigation documents, which travel with the coffin for the Finnish police",
+      "Embalming certificate and certificate of non-contagious death where the departure country or airline requires them"
+    ],
+    "sources": [
+      "https://www.suomi.fi/guides/death-of-a-close-family-member/when-a-death-occurs/if-a-close-family-member-dies-outside-finland",
+      "https://www.haapajarvi.fi/sites/haapajarvi.fi/files/liitetiedostot/LO17_Ruumiinkuljetuslupa.pdf",
+      "https://ahjojulkaisu.hel.fi/741E3148-B0F3-C68E-80D0-7B71E0700005.pdf",
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p",
+      "https://www.gov.uk/government/publications/finland-bereavement-packinformation"
+    ],
+    "pouch_accepted": null,
+    "private_jet_alert": false,
+    "at_a_glance": {
+      "death_certificate": "Foreign certificate, legalised or translated if needed",
+      "embalming": "Per departure country and airline",
+      "coffin": "Sealed watertight coffin (Strasbourg standard)",
+      "laissez_passer": "Yes, Strasbourg party since 1989",
+      "consular": "No Finnish consular permit needed",
+      "permit": "No separate burial permit in Finland",
+      "arrival": "Documents to home-municipality police"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the Finnish embassy and appoint funeral homes in the country of death and in Finland."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain the death certificate, cause-of-death documents and the departure country's removal permit or laissez-passer."
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Preparation and sealing of the coffin; book the flight."
+      },
+      {
+        "when": "Arrival",
+        "what": "Funeral home collects the coffin; cause-of-death documents go to the police of the home or burial municipality."
+      },
+      {
+        "when": "After arrival",
+        "what": "Notify the death to the Digital and Population Data Services Agency; burial with no separate permit."
+      }
+    ],
+    "key_points": [
+      "Strasbourg Agreement party since 15 March 1989",
+      "Finnish police receive the foreign cause-of-death documents",
+      "Families pay repatriation costs unless insured"
+    ],
+    "export_points": [
+      "Laissez-passer from the municipal health inspector",
+      "Cause of death in English/French, WHO code or sealed envelope",
+      "Strasbourg-standard sealed coffin; pressure device for air",
+      "Police clearance if the death is investigated"
+    ],
+    "private_jet_note": "From outside Schengen, land at a Finnish airport with border and customs control.",
+    "confidence": "medium",
+    "lead_days": null
+  },
+  {
+    "cc": "FJ",
+    "status": "requirements",
+    "name": "Fiji",
+    "summary": "Before a casket arrives, an application letter to the Permanent Secretary and supporting documents are emailed to the Ministry of Health and Medical Services and the Nadi Airport Health Office, which clears the remains on arrival. Processing takes about 24 to 48 hours and a clearance fee of FJD 172.50 is paid on arrival.",
+    "coffin": "The funeral home must issue a sealing certificate stating that the casket is hygienically sealed and safe for air or sea transport. No further casket specification (such as zinc lining) is published; confirm with the airline.",
+    "embalming": "Required: an embalming certificate stating how the remains were embalmed must accompany the application.",
+    "consular": "No consular permit is required, but documents must be in English or certified translation. Fiji embassies can write a supporting letter to help expedite the repatriation.",
+    "arrival": "The Nadi Airport Health Office carries out the clearance on arrival, and original documents must be presented. Fee FJD 172.50 on arrival; FJD 230 if the remains arrive without prior notification; FJD 345 if infectious remains need health supervision. Contact Air Terminal Services (Fiji) in advance to ensure space and staff to handle the remains; a local funeral home collects.",
+    "pouch": null,
+    "private_aviation": "The published procedure applies to all flights and vessels and is handled through the Nadi Airport Health Office. For a private flight, send the documents in advance and arrange arrival at Nadi with customs, quarantine and the airport health officer present.",
+    "export": "The same Ministry of Health procedure applies to remains leaving Fiji: application letter to the Permanent Secretary, death certificate, non-infectious disease letter, embalming certificate, funeral home sealing certificate, passports and itinerary, emailed in advance to the Nadi Airport Health Office. Departure fee FJD 115. Processing about 24 to 48 hours, longer at weekends and public holidays.",
+    "authority": "Ministry of Health and Medical Services (Nadi Airport Health Office)",
+    "last_checked": "2026-10",
+    "documents": [
+      "Application letter to the Permanent Secretary, Ministry of Health and Medical Services",
+      "Death certificate or medical cause of death certificate",
+      "Doctor's letter that the death was not from an infectious disease and the remains are not infectious",
+      "Embalming certificate stating how the body was embalmed",
+      "Funeral home sealing certificate that the casket is hygienically sealed for transport",
+      "Passport bio page of the deceased and of the consignee; flight itinerary",
+      "English or certified English translation; originals presented on arrival"
+    ],
+    "sources": [
+      "https://fijihighcommission.au/wp-content/uploads/2023/11/Fiji-Human-Remain-Repatriation-Requirements.pdf",
+      "https://www.foreignaffairs.gov.fj/?p=38708"
+    ],
+    "pouch_accepted": false,
+    "private_jet_alert": true,
+    "at_a_glance": {
+      "death_certificate": "Required, English or certified translation",
+      "embalming": "Required, with embalming certificate",
+      "coffin": "Sealed casket with funeral home certificate",
+      "laissez_passer": "Not used",
+      "consular": "Embassy support letter optional",
+      "permit": "Ministry of Health clearance, 24-48 h",
+      "arrival": "Nadi airport health clearance, FJD 172.50"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Appoint funeral homes abroad and in Fiji; obtain the death certificate."
+      },
+      {
+        "when": "Day 1",
+        "what": "Embalming, casket sealing and the non-infectious disease letter."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Email the application and documents to the Ministry of Health and Nadi Airport Health Office."
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Approval received; confirm handling capacity with Air Terminal Services."
+      },
+      {
+        "when": "Arrival",
+        "what": "Nadi airport health clearance, fee paid, funeral home collects."
+      }
+    ],
+    "key_points": [
+      "Unnotified arrivals pay a higher fee (FJD 230).",
+      "Processing can take longer at weekends and public holidays.",
+      "Ashes follow a lighter procedure (fee FJD 57.50)."
+    ],
+    "export_points": [
+      "Ministry of Health application with the same documents",
+      "Embalming and sealing certificates required",
+      "Departure fee FJD 115 to Nadi Airport Health Office",
+      "About 24 to 48 hours processing"
+    ],
+    "private_jet_note": "Pre-clear with the Nadi Airport Health Office; remains arriving unnotified incur a higher fee.",
+    "confidence": "high",
+    "lead_days": 2
+  },
+  {
+    "cc": "FK",
+    "status": "requirements",
+    "name": "Falkland Islands",
+    "summary": "Any repatriation into the Falkland Islands must be notified to HM Coroner in Stanley on form COR25B (death certificate, passport copy, burial or cremation certificate, next-of-kin consent, route and arrival date). It is not required before travel, but missing information delays release and burial. The aircraft also needs a Falklands Civil Aviation permit at least 14 days ahead.",
+    "coffin": "Not specified by Falklands rules. Use a sealed coffin that meets the requirements of the airline or the South Atlantic Airbridge and of the countries of transit; confirm with the carrier.",
+    "embalming": "Not stated as mandatory; the Coroner asks for any embalming certificate issued. Confirm embalming needs with the carrier and the transit countries.",
+    "consular": "Not applicable: the Falklands are a British Overseas Territory with no consulates of their own. The UK is not a party to the 1973 Strasbourg Agreement. HM Coroner (Courts and Tribunals Department, Stanley) is the point of contact.",
+    "arrival": "HM Coroner must be notified of every incoming repatriation, with the details on form COR25B; the form need not be filed before travel, but the information is required on arrival and delays in providing it may delay release or burial. A local undertaker receives the coffin; confirm customs clearance with the undertaker. Deaths are registered at the Registry in Stanley.",
+    "pouch": null,
+    "private_aviation": "Any aircraft landing in the Falklands needs a Foreign Carrier Permit from the Falkland Islands Civil Aviation Department (FICAD); charters use a Short Term permit (up to 14 days) and private flights a Letter of Permission carried on board. Apply at least 14 days before the flight (medical flights excepted). Prior permission is required to land at Stanley (SFAL) or Mount Pleasant (EGYP). UK-registered aircraft need no permit but must notify FICAD. Usual routes for remains are the South Atlantic Airbridge from RAF Brize Norton or LATAM via South America.",
+    "export": "No permission from HM Coroner is needed to take a body out, but by local practice the Coroner confirms no objection; file form COR25 with the Coroner's office. For the South Atlantic Airbridge you need: who is financially responsible, confirmation an undertaker will meet the flight at RAF Brize Norton, Customs confirmation, a Certificate of Death or Interim Certificate of Fact of Death, a Coroner's Order for Removal of Body from Jurisdiction, a certificate of personal particulars, a Free From Infection Certificate from King Edward VII Memorial Hospital, an Order for Burial/Cremation if applicable, and the passport. Deaths are registered at the Registry in Stanley (within 5 days in Stanley, 14 elsewhere).",
+    "authority": "HM Coroner, Courts and Tribunals Department, Falkland Islands Government; Falkland Islands Civil Aviation Department; Registry Services",
+    "last_checked": "2026-10",
+    "documents": [
+      "Form COR25B, Notification to HM Coroner of intended repatriation to the Falkland Islands",
+      "Certificate of Death or a Coroner's Interim Certificate of the Fact of Death",
+      "Copy of the deceased's passport",
+      "Certificate for burial or cremation",
+      "Consent of the next of kin (if the applicant is not the next of kin)",
+      "Other documents issued about the death, such as inquest notes, freedom from infection certificate and embalming certificate"
+    ],
+    "sources": [
+      "https://www.gov.fk/courts/?p=145",
+      "https://www.gov.fk/courts/wp-content/uploads/sites/12/2025/12/COR-25B-Notification-of-repatriation_compressed.pdf",
+      "https://www.gov.fk/registry/death-register/",
+      "https://www.gov.fk/civilaviation/flying-to-the-falklands/",
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+    ],
+    "pouch_accepted": null,
+    "private_jet_alert": true,
+    "at_a_glance": {
+      "death_certificate": "Required, with passport copy",
+      "embalming": "Certificate requested if issued",
+      "coffin": "Sealed coffin per airline rules",
+      "laissez_passer": "Not applicable; UK territory",
+      "consular": "None; notify HM Coroner in Stanley",
+      "permit": "Form COR25B; aircraft permit 14 days",
+      "arrival": "Coroner releases; local undertaker collects"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Apply to FICAD for the aircraft permit and landing permission (at least 14 days ahead)"
+      },
+      {
+        "when": "Day 0-2",
+        "what": "Obtain the death certificate, burial/cremation certificate, embalming and infection certificates"
+      },
+      {
+        "when": "Day 2-4",
+        "what": "Send form COR25B with documents and next-of-kin consent to HM Coroner, Stanley"
+      },
+      {
+        "when": "Before flight",
+        "what": "Arrange the Falklands undertaker and customs clearance"
+      },
+      {
+        "when": "Arrival",
+        "what": "Coroner checks the information; undertaker collects the coffin for burial"
+      }
+    ],
+    "key_points": [
+      "Every incoming repatriation must be notified to HM Coroner",
+      "Aircraft permit must be requested at least 14 days ahead",
+      "Only Stanley and Mount Pleasant accept international flights"
+    ],
+    "export_points": [
+      "File form COR25 with HM Coroner",
+      "Coroner's Order for Removal from Jurisdiction",
+      "Free From Infection Certificate from KEMH hospital",
+      "Airbridge: undertaker must meet flight at Brize Norton"
+    ],
+    "private_jet_note": "Foreign Carrier Permit and prior landing permission needed; apply at least 14 days ahead.",
+    "confidence": "medium",
+    "lead_days": 14
+  },
+  {
+    "cc": "FM",
+    "status": "requirements",
+    "name": "Micronesia",
+    "summary": "The FSM Embassy in Washington publishes the document list the FSM national and state governments require for remains entering the country: certified death certificate, burial transit permit, non-contagious disease letter, embalmer's affidavit and report, ID copy, bill of lading and itinerary, with originals enclosed with the remains. Copies should be shared with the Embassy or a Consulate, which coordinates with the receiving FSM authorities.",
+    "coffin": "No FSM-specific casket standard is published: the Embassy states that funeral homes must comply with the airline's casket and shipping requirements and should consult the carrier.",
+    "embalming": "Embalming is expected: the Embassy's checklist requires an embalmer's affidavit and report for a body. Cremated remains need only the death certificate, cremation certificate and an ID copy.",
+    "consular": "The FSM Embassy in Washington and the Consulates General (Honolulu, Guam) coordinate the request with the FSM authorities receiving the remains. The Embassy says travel authorization documents for remains are no longer required. No consular fee or legalisation requirement is published. The FSM Government does not pay repatriation costs.",
+    "arrival": "Arrival is at the airport of the receiving state (Pohnpei, Chuuk, Yap or Kosrae), with the original documents enclosed with the remains. Pohnpei State has its own application for the importation of human remains; confirm local clearance with the receiving state's health department. The family or its designee collects. No legal burial deadline was found in national law; the Director of Health Services may regulate interments and dead bodies (41 FSMC 102).",
+    "pouch": null,
+    "private_aviation": "No rule specific to human remains on private flights was found. A private aircraft needs FSM landing clearance and the usual border formalities at the state airport; the casket must still travel with the original documents listed by the Embassy.",
+    "export": "No published national export procedure was found. Confirm the required certificates and health clearance with the state health department, and the entry rules of the destination country (for the US, CDC import rules).",
+    "authority": "FSM Department of Health and Social Affairs and state health departments; FSM Embassy (Washington) and Consulates",
+    "last_checked": "2026-10",
+    "documents": [
+      "Certified death certificate (original)",
+      "Certified burial transit permit (original)",
+      "Certified letter of non-contagious disease (original)",
+      "Embalmer's affidavit and report",
+      "Copy of the deceased's passport, birth certificate, ID or driver's licence",
+      "Bill of lading (air waybill)",
+      "Travel itinerary"
+    ],
+    "sources": [
+      "https://fsmembassy.fm/wp-content/uploads/2023/11/RequirementsforShippingHR_FSM.pdf",
+      "https://fsmembassy.fm/fsm-citizen-information/",
+      "https://www.fsmgov.org/us_info.pdf",
+      "http://www.fsmlaw.org/fsm/code/title41/T41_Ch01_2014.html",
+      "https://hsa.gov.fm/applications/"
+    ],
+    "pouch_accepted": null,
+    "private_jet_alert": false,
+    "at_a_glance": {
+      "death_certificate": "Certified original travels with casket",
+      "embalming": "Required (embalmer's affidavit)",
+      "coffin": "Airline casket rules apply",
+      "laissez_passer": "Not used; burial transit permit",
+      "consular": "FSM Embassy or Consulate coordinates",
+      "permit": "Non-contagious disease letter needed",
+      "arrival": "State airport, family collects"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Funeral home obtains the certified death certificate and burial transit permit at the place of death."
+      },
+      {
+        "when": "Day 1",
+        "what": "Embalming; physician issues the non-contagious disease letter; embalmer issues affidavit and report."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Send copies of all documents to the FSM Embassy (Washington) or a Consulate (Honolulu, Guam), which coordinates with the receiving authorities."
+      },
+      {
+        "when": "Day 2-4",
+        "what": "Book cargo (usually via Honolulu or Guam) or a private aircraft; originals travel with the casket."
+      },
+      {
+        "when": "Arrival",
+        "what": "Clearance at Pohnpei, Chuuk, Yap or Kosrae with the original documents; family collects for burial."
+      }
+    ],
+    "key_points": [
+      "Official FSM Embassy checklist (June 2023) lists the entry documents",
+      "No separate travel authorization for remains is required any more",
+      "Ashes need only death and cremation certificates plus ID copy",
+      "Family pays all costs; the Embassy estimates up to USD 8,000+",
+      "Pohnpei State has its own importation application"
+    ],
+    "export_points": [
+      "No published export procedure; ask the state health department",
+      "Remains going to the US must meet CDC import rules"
+    ],
+    "private_jet_note": "Send the document set to the FSM Embassy or Consulate before take-off so the receiving state is notified.",
+    "confidence": "medium",
+    "lead_days": 3
+  },
+  {
+    "cc": "GB",
+    "status": "requirements",
+    "name": "United Kingdom",
+    "summary": "The UK has no import permit for a coffin. It must arrive with a certified English translation of the foreign death certificate and the foreign authority's permission to remove the body. In England and Wales the registrar then issues a certificate of no liability to register; Scotland requires approval from the Death Certification Review Service before burial or cremation.",
+    "coffin": "UK law sets no specific import coffin standard. The coffin must meet the requirements of the airline and of the country of departure; confirm with the funeral directors.",
+    "embalming": "Not required by UK law for import; the departure country or airline may require it. Tell the funeral director if a UK inquest is likely.",
+    "consular": "No UK consular legalisation or entry permit is needed. British embassies can give lists of funeral directors but cannot pay costs. The UK is not a party to the Strasbourg Agreement.",
+    "arrival": "The UK funeral director collects the coffin. In England and Wales, take the foreign death certificate to the register office for the area of the funeral to get a certificate of no liability to register. Tell the coroner if the death was violent, unnatural or of unknown cause, as an inquest is likely. In Scotland, the body cannot be buried or cremated until DCRS has authorised it; DCRS aims to do this within 5 working days. Northern Ireland has its own process.",
+    "pouch": null,
+    "private_aviation": "There is no specific rule for private flights; human remains on a private or charter flight need the same documents as on an airline, and they travel with the coffin for customs and health checks at the arrival airport. A sealed international coffin is long and heavy, so it must fit through the cargo door or into a cabin set up for it, which rules out many light and midsize jets. For international general aviation flights, a General Aviation Report must be submitted online in advance through an approved method (penalty up to GBP 10,000). Arrive at an airport able to provide customs clearance and declare the remains.",
+    "export": "To take a body out of England, the funeral director gives notice (Form 104) to the coroner for the area where the body lies, using the death certificate, the deceased's passport and the applicant's passport. The coroner issues the Out of England form (Form 103), usually within 4 working days when the death is not being investigated, longer after a post-mortem. Do not book travel until the funeral director has Form 103. Scotland and Northern Ireland have their own procedures.",
+    "authority": "Register office and coroner (England and Wales); Death Certification Review Service (Scotland); HM Revenue and Customs at entry",
+    "last_checked": "2026-10",
+    "documents": [
+      "Foreign death certificate with certified English translation",
+      "Permission to remove the body issued by a coroner or equivalent authority abroad",
+      "Embalming and non-contagious disease certificates where issued by the departure country",
+      "Passport of the deceased",
+      "For cremation in England and Wales: coroner's certificate (form Cremation 6)",
+      "For Scotland: DCRS Form Y (request for repatriation) with supporting documents"
+    ],
+    "sources": [
+      "https://www.gov.uk/after-a-death/death-abroad",
+      "https://www.hertfordshire.gov.uk/services/births-deaths-marriages-and-citizenship/deaths/coroner-service/take-a-body-out-of-england.aspx",
+      "https://www.gov.scot/publications/certification-death-scotland-act-2011-statutory-guidance-2/pages/3/",
+      "https://blogs.gov.scot/funeral-industry/wp-content/uploads/sites/54/2026/07/Deaths-Abroad-Handy-Guide-for-Funeral-Directors-v1.00.pdf",
+      "https://www.gov.uk/government/publications/general-aviation-operators-and-pilots-notification-of-flights"
+    ],
+    "pouch_accepted": null,
+    "private_jet_alert": true,
+    "at_a_glance": {
+      "death_certificate": "Foreign certificate plus certified English translation",
+      "embalming": "Not required by UK law",
+      "coffin": "No UK standard; airline rules apply",
+      "laissez_passer": "Not a Strasbourg party",
+      "consular": "No UK legalisation needed",
+      "permit": "Removal permit from country of death",
+      "arrival": "Registrar certificate; Scotland needs DCRS approval"
+    },
+    "steps": [
+      {
+        "when": "Day 0-1",
+        "what": "Register the death abroad and appoint local and UK funeral directors"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain the foreign death certificate, certified translation and permission to remove the body"
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Embalming if required and sealing of the coffin; for Scotland, send Form Y to DCRS"
+      },
+      {
+        "when": "Day 3-4",
+        "what": "Flight to the UK; coffin cleared through customs at the arrival airport"
+      },
+      {
+        "when": "After arrival",
+        "what": "Registrar issues certificate of no liability to register (England and Wales); coroner informed if required"
+      }
+    ],
+    "key_points": [
+      "A death registered abroad is not registered again in the UK",
+      "Cremation in England and Wales needs the coroner's Cremation 6",
+      "Scotland: no burial or cremation without DCRS authorisation",
+      "Do not cremate abroad if a UK inquest may be needed"
+    ],
+    "export_points": [
+      "Form 104 notice to the coroner where the body lies",
+      "Coroner issues Out of England form (Form 103)",
+      "About 4 working days; longer if investigated",
+      "Do not book flights before Form 103 is issued"
+    ],
+    "private_jet_note": "Submit a General Aviation Report before the flight and land where customs clearance is available.",
+    "confidence": "high",
+    "lead_days": 2
+  },
+  {
+    "cc": "GD",
+    "status": "requirements",
+    "name": "Grenada",
+    "summary": "Grenada's Human Remains (Importation Control) Regulations require a cause-of-death certificate, a certified preparer's statement and a transit permit. The body must be embalmed (or fully disinfected) and placed in an impervious, hermetically sealed coffin, or embalmed in a sealed plastic container or air disaster bag.",
+    "coffin": "Impervious coffin: a container hermetically sealed by gasket or by soldered/welded metal, or a plastic container sealed by heat or adhesive. No official witnessing of the sealing is described.",
+    "embalming": "Proper embalming, or thorough washing and disinfection with packing and a disinfectant-soaked sheet, before shipment.",
+    "consular": "No legalisation step is set out in the regulations. Ask the Grenada mission in the country of death whether documents must be authenticated.",
+    "arrival": "The documents must accompany the shipment. Customs and health clearance at the port of entry; the local funeral home collects. No legal burial deadline was found.",
+    "pouch": "The regulations allow a properly embalmed body in an air disaster bag or in a plastic container sealed by heat or adhesive; confirm with the airline what outer packaging it requires.",
+    "private_aviation": "No private-flight rules found. Land at an airport of entry with customs and health officers and keep the documents with the remains.",
+    "export": "Leaving Grenada: the death certificate (English, with cause of death) is issued by the Registrar General's Department, usually within a few days. Post-mortems usually take place 2-3 days after the body reaches the mortuary. The local funeral director provides the certificate of embalming and permission to transfer the remains. One crematorium operates on the island.",
+    "authority": "Ministry of Health (port health) and Customs, under the Human Remains (Importation Control) Regulations",
+    "last_checked": "2026-10",
+    "documents": [
+      "Official certificate of the cause of death from the registrar of deaths or similar authority",
+      "Statement by the person who prepared the remains, certified by an appropriate authority, describing the preparation and confirming the coffin holds only the body and clothing",
+      "Transit permit stating name, age and sex (or a permit also naming cause of death, embalmer, coroner and public health officer)"
+    ],
+    "sources": [
+      "https://gndembassyprc.mofa.gov.gd/wp-content/uploads/2024/08/Importation-to-Grenada-of-Human-Remains.pdf",
+      "https://www.gov.uk/guidance/when-someone-dies-in-grenada"
+    ],
+    "pouch_accepted": true,
+    "private_jet_alert": false,
+    "at_a_glance": {
+      "death_certificate": "Official cause-of-death certificate",
+      "embalming": "Embalming or full disinfection required",
+      "coffin": "Hermetically sealed impervious coffin",
+      "laissez_passer": "Not applicable",
+      "consular": "No legalisation in the regulations",
+      "permit": "Transit permit from place of death",
+      "arrival": "Customs/health clearance; funeral home collects"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Appoint funeral homes at departure and in Grenada"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain the cause-of-death certificate and transit permit"
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Embalm and seal in an impervious coffin; certified preparer's statement"
+      },
+      {
+        "when": "Day 3",
+        "what": "Send copies to the Grenada funeral home; book the flight"
+      },
+      {
+        "when": "Arrival",
+        "what": "Documents shown at entry; funeral home collects"
+      }
+    ],
+    "key_points": [
+      "Rules set by the Human Remains (Importation Control) Regulations",
+      "Air disaster bag allowed for embalmed bodies under the law",
+      "Confirm current practice with the Ministry of Health"
+    ],
+    "export_points": [
+      "Registrar General's death certificate within a few days",
+      "Post-mortem usually 2-3 days after arrival at mortuary",
+      "Funeral director provides embalming certificate and transfer permit"
+    ],
+    "confidence": "medium",
+    "lead_days": null
+  },
+  {
+    "cc": "FR",
+    "status": "requirements",
+    "name": "France",
+    "summary": "Entry of a coffin into France is authorised by the French embassy or consulate in the country of death, which issues a transport authorisation for the body. An airtight metal-lined coffin is mandatory for any air transport, and burial or cremation must take place within 14 calendar days of the body entering France.",
+    "coffin": "For air transport an airtight coffin (cercueil hermétique, a metal box) is mandatory. Confirm with the receiving French funeral director in advance if cremation is planned after arrival.",
+    "embalming": "No French rule specific to incoming bodies is published on the official pages; embalming depends on the departure country and the airline.",
+    "consular": "The French embassy or consulate (with the Crisis and Support Centre where relevant) issues the authorisation to transport the body or ashes to France, and can transcribe the local death certificate into French civil status. It can give an indicative cost and contacts for local and French funeral directors. Families bear all costs. France has been a party to the Strasbourg Agreement since 10 June 2000.",
+    "arrival": "The receiving French funeral director takes charge at the airport. Burial or cremation must take place no later than the 14th calendar day after the body enters France (CGCT art. R2213-33, decree 2024-790). The prefect may grant exceptions; a local derogation cannot go beyond the 21st calendar day.",
+    "pouch": null,
+    "private_aviation": "There is no specific rule for private flights; human remains on a private or charter flight need the same documents as on an airline, and they travel with the coffin for customs and health checks at the arrival airport. An airtight metal-lined coffin is long and heavy, so it must fit through the cargo door or into a cabin set up for it, which rules out many light and midsize jets. France requires an airtight coffin for any air transport, including private flights. A flight from outside the Schengen area must land at an airport with border and customs control.",
+    "export": "To send a coffin out of France, the funeral company obtains authorisation from the prefect of the place where the coffin is closed. The same rule applies to EU and non-EU destinations. An airtight (metal-lined) coffin is mandatory for air transport. Ashes need authorisation from the prefect of the place of cremation or of the applicant's residence. The destination country's consular requirements also apply. The death is registered at the town hall (mairie), which issues the death certificate.",
+    "authority": "French embassy or consulate abroad (entry); prefect of the department (exit)",
+    "last_checked": "2026-10",
+    "documents": [
+      "Local death certificate (transcription into the French civil register by the consulate is recommended)",
+      "Authorisation to transport the body issued by the French embassy or consulate (or the laissez-passer for the corpse when the death occurred in another Strasbourg Agreement country)",
+      "Medical certificate stating the death was not from a contagious disease, where the departure country requires it",
+      "Embalming certificate where required by the departure country",
+      "Burial or cremation arrangements in France (receiving funeral director)"
+    ],
+    "sources": [
+      "https://www.service-public.gouv.fr/particuliers/vosdroits/F35706",
+      "https://www.diplomatie.gouv.fr/fr/services-aux-francaises-et-aux-francais/assistance-et-securite/deces-a-l-etranger",
+      "https://www.gov.uk/guidance/what-to-do-after-a-british-person-dies-in-france",
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p",
+      "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049946142"
+    ],
+    "pouch_accepted": false,
+    "private_jet_alert": false,
+    "at_a_glance": {
+      "death_certificate": "Local certificate; consular transcription advised",
+      "embalming": "Per departure country and airline",
+      "coffin": "Airtight metal-lined coffin mandatory by air",
+      "laissez_passer": "Strasbourg party since 2000",
+      "consular": "French consulate authorises entry",
+      "permit": "Consular transport authorisation",
+      "arrival": "Funeral within 14 days of entry"
+    },
+    "steps": [
+      {
+        "when": "Day 0-1",
+        "what": "Register the death locally, contact the French consulate and appoint funeral directors"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain the local death certificate, medical certificates and embalming"
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Body placed in an airtight metal-lined coffin and sealed; consulate issues the transport authorisation"
+      },
+      {
+        "when": "Day 3-5",
+        "what": "Flight to France with the documents travelling with the coffin"
+      },
+      {
+        "when": "Within 14 days of entry",
+        "what": "Burial or cremation in France"
+      }
+    ],
+    "key_points": [
+      "Families pay repatriation costs; check insurance first",
+      "Plan any cremation with the French funeral director",
+      "The 14-day deadline runs from entry into France"
+    ],
+    "export_points": [
+      "Prefect of the place where the coffin is closed authorises transport abroad",
+      "Airtight metal-lined coffin mandatory by air",
+      "Death certificate from the town hall (mairie)",
+      "Check the destination consulate's requirements"
+    ],
+    "private_jet_note": "An airtight metal-lined coffin is mandatory on any aircraft.",
+    "confidence": "high",
+    "lead_days": 3
+  },
+  {
+    "cc": "GF",
+    "status": "requirements",
+    "name": "French Guiana",
+    "summary": "French Guiana is a French overseas department and follows French rules: entry of a body from abroad is authorised by the French embassy or consulate in the country of departure, and an airtight (metal-lined) coffin is mandatory for air transport.",
+    "coffin": "An airtight coffin (cercueil hermétique, a metal box) is mandatory for air transport under French rules. Confirm with the receiving funeral director in advance if cremation is planned.",
+    "embalming": "No French rule specific to incoming bodies is published on the official pages; embalming depends on the departure country and the airline. Confirm with the consulate.",
+    "consular": "The French embassy or consulate in the country of death issues the authorisation to transport the body or ashes and can transcribe the foreign death certificate. Families pay all costs. France is a party to the 1973 Strasbourg Agreement; whether its laissez-passer is used for French Guiana was not confirmed, and none of the neighbouring South American countries is a party.",
+    "arrival": "The receiving funeral director takes charge of the coffin at the airport. Burial or cremation must take place no later than the 14th calendar day after the body arrives in the overseas department (CGCT art. R2213-33, decree 2024-790). The prefect may grant exceptions; a local derogation cannot go beyond the 21st calendar day.",
+    "pouch": null,
+    "private_aviation": "The French airtight-coffin rule applies to any air transport, including private flights. Land at Cayenne Felix Eboue (the international airport with customs) and arrange for the receiving funeral director to meet the aircraft. The documents travel with the coffin.",
+    "export": "A funeral director handles the procedure. Transport of a body out of French Guiana, abroad or to mainland France, is authorised by the prefect of the department where the coffin is closed (Prefecture of French Guiana). An airtight coffin is mandatory by air. Ashes need authorisation from the prefect of the place of cremation or of the applicant's residence. The destination country's consular rules also apply.",
+    "authority": "French embassy or consulate abroad (entry); Prefect of French Guiana (exit)",
+    "last_checked": "2026-10",
+    "documents": [
+      "Local death certificate (transcription into French civil status recommended)",
+      "Medical certificate of cause of death or non-contagious disease (usually asked)",
+      "Embalming or conservation certificate where the departure country requires it",
+      "Body transport authorisation issued by the French embassy or consulate",
+      "Burial or cremation arrangements in French Guiana (receiving funeral director)"
+    ],
+    "sources": [
+      "https://www.service-public.gouv.fr/particuliers/vosdroits/F35706?lang=en",
+      "https://www.diplomatie.gouv.fr/fr/services-aux-francaises-et-aux-francais/assistance-et-securite/deces-a-l-etranger",
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p",
+      "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049946142"
+    ],
+    "pouch_accepted": false,
+    "private_jet_alert": false,
+    "at_a_glance": {
+      "death_certificate": "Local certificate; consulate can transcribe",
+      "embalming": "As required by departure country",
+      "coffin": "Airtight metal-lined coffin mandatory by air",
+      "laissez_passer": "French consular transport authorisation",
+      "consular": "French consulate authorises entry",
+      "permit": "Consular authorisation; prefect for exit",
+      "arrival": "Funeral director collects; 14-day funeral limit"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Register the death locally and contact the French consulate; appoint funeral directors"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain death certificate, medical certificate and embalming as required locally"
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Seal the body in an airtight metal-lined coffin; consulate issues transport authorisation"
+      },
+      {
+        "when": "Day 3-5",
+        "what": "Flight to Cayenne with documents travelling with the coffin"
+      },
+      {
+        "when": "Arrival",
+        "what": "Receiving funeral director collects the coffin and arranges the funeral"
+      }
+    ],
+    "key_points": [
+      "Same rules as mainland France",
+      "Plan any cremation with the funeral director",
+      "Families pay repatriation costs; check insurance"
+    ],
+    "export_points": [
+      "Prefect of French Guiana authorises transport",
+      "Airtight coffin mandatory by air",
+      "Ashes: prefect authorisation",
+      "Check destination consulate requirements"
+    ],
+    "private_jet_note": "An airtight metal-lined coffin is mandatory for any flight into French Guiana.",
+    "confidence": "medium",
+    "lead_days": 3
+  },
+  {
+    "cc": "GH",
+    "status": "requirements",
+    "name": "Ghana",
+    "summary": "Remains enter Ghana embalmed, in a hermetically sealed casket inside an all-wood outer container, with documents authenticated by a Ghana mission. If the deceased held a valid Ghanaian passport, the London High Commission says no further document from it is normally needed; otherwise it issues a letter that serves as a travel document.",
+    "coffin": "A hermetically sealed casket in an all-wood outer shipping container (Ghana Embassy, Washington).",
+    "embalming": "Required: the Washington embassy lists embalming by the US standard method; the London High Commission asks for an embalming certificate.",
+    "consular": "The Washington embassy authenticates the file for USD 50, with documents in triplicate (original plus two copies). In London, a valid Ghanaian passport normally means no further High Commission document is needed; otherwise the High Commission issues a letter that serves as the travel document (fee GBP 30), on a certified death certificate, embalming certificate, free-from-infection certificate, Ghanaian ID of the deceased (or of a relative with a letter confirming identity and relationship) and two passport photos. Ghana is not a party to the 1973 Strasbourg Agreement.",
+    "arrival": "Not officially detailed. The family or a Ghanaian funeral home collects the casket at Accra Kotoka. Cremated remains need the death certificate, cremation certificate and a hermetically sealed container.",
+    "pouch": null,
+    "private_aviation": "No published rule specific to private or charter flights was found. A private aircraft carrying a casket must land at an international airport with customs, immigration and health services; have the local handling agent and receiving funeral home confirm in advance that the remains can be cleared from a private flight.",
+    "export": "The death is registered at the local births and deaths registry, usually by the funeral director. The hospital issues the cause-of-death certificate, usually within a week. An export licence is needed, which the funeral director obtains. For transfer to the UK, the body must be embalmed and placed in a zinc-lined coffin. A post-mortem is performed when the death is unknown, unnatural, sudden or violent.",
+    "authority": "Ghana embassy or High Commission; Ghana registry and funeral director (exit)",
+    "last_checked": "2026-10",
+    "documents": [
+      "Certified copy of the death certificate",
+      "Burial and/or transit permit issued in the country of death",
+      "Embalmer's (non-contagious) affidavit or embalming certificate",
+      "Non-contagious disease letter or free-from-infection certificate from the local health authority",
+      "Copy of the deceased's passport or other Ghanaian identification"
+    ],
+    "sources": [
+      "https://washington.mfa.gov.gh/services/repatriation-of-a-body",
+      "https://london.mfa.gov.gh/services/repatriation-of-a-body",
+      "https://www.gov.uk/guidance/when-someone-dies-in-ghana"
+    ],
+    "pouch_accepted": null,
+    "private_jet_alert": false,
+    "at_a_glance": {
+      "death_certificate": "Certified copy, authenticated",
+      "embalming": "Required",
+      "coffin": "Sealed casket, all-wood outer box",
+      "laissez_passer": "Mission letter if no Ghana passport",
+      "consular": "Authentication, e.g. USD 50 (Washington)",
+      "permit": "Burial or transit permit",
+      "arrival": "Accra Kotoka; family collects"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Obtain the death certificate and the burial or transit permit locally."
+      },
+      {
+        "when": "Day 1",
+        "what": "Embalming, the embalmer's affidavit and hermetic sealing of the casket."
+      },
+      {
+        "when": "Day 1",
+        "what": "Non-contagious disease letter from the local health authority."
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Authentication by the Ghana embassy (triplicate copies), or High Commission letter if no valid Ghanaian passport."
+      },
+      {
+        "when": "Arrival",
+        "what": "Clearance at Kotoka, then collection by the family or a funeral home."
+      }
+    ],
+    "key_points": [
+      "A valid Ghanaian passport simplifies the consular step",
+      "The casket must have an all-wood outer container",
+      "Leaving Ghana requires an export licence"
+    ],
+    "export_points": [
+      "Cause-of-death certificate from the hospital, usually within a week",
+      "Registration of the death and an export licence",
+      "Embalming and a zinc-lined coffin",
+      "A post-mortem may be required"
+    ],
+    "private_jet_note": "Confirm with the Accra Kotoka handling agent that the casket can be cleared from a private aircraft.",
+    "confidence": "medium",
+    "lead_days": 3
+  }
+]

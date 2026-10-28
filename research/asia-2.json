@@ -1,0 +1,414 @@
+[
+  {
+    "cc": "PK",
+    "name": "Pakistan",
+    "status": "requirements",
+    "summary": "A casket can enter Pakistan with a No Objection Certificate (NOC) from the Pakistani embassy or consulate in the country of death. The NOC is issued on the death certificate, embalming certificate, non-communicable disease certificate and the deceased's passport or CNIC/NICOP.",
+    "documents": [
+      "Death certificate (original and copy)",
+      "Embalming certificate from the funeral home",
+      "Certificate that the death was not caused by a communicable disease",
+      "Passport and/or CNIC/NICOP of the deceased (some missions ask for a notarised copy)",
+      "Burial transit permit (requested by some missions, e.g. Houston)",
+      "Letter from the funeral director confirming the certificates (requested by the Australian mission)",
+      "Confirmed flight / air waybill details for the remains",
+      "NOC for transportation of the dead body issued by the Pakistani mission"
+    ],
+    "coffin": "The published mission checklists give no coffin specification. Airlines and the NOC usually expect a hermetically sealed (zinc-lined) coffin in an outer case, but we could not confirm a written official rule. Confirm with the mission and the airline. No official witness of the sealing is mentioned.",
+    "embalming": "Required: every Pakistani mission checklist we reviewed asks for an embalming certificate.",
+    "consular": "The Pakistani embassy or consulate covering the place of death issues the NOC. It is free at the UK missions, and Birmingham accepts walk-ins without an appointment. Application documents differ slightly from mission to mission. The published checklists do not mention apostille or legalisation of the death certificate.",
+    "arrival": "On arrival, the remains are released at the airport against the NOC and the accompanying documents to the family or a funeral service. Muslim burial normally follows quickly. Detailed customs and health clearance steps at Pakistani airports are not published; confirm with the airline or handling agent.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "The official sources we reviewed say nothing about private flights carrying remains. Foreign private and charter flights need landing permission from the Pakistan Civil Aviation Authority, which is filed through an authorised permit agent (not confirmed from an official source). Use an international airport with customs and health staff (e.g. Karachi, Lahore, Islamabad).",
+    "private_jet_alert": true,
+    "private_jet_note": "Get the PCAA landing permit early (reportedly several days for landing). Fly into a customs airport with the mission's NOC on board.",
+    "export": "To take a body out of Pakistan, you need: the death certificate issued by the local government (a hospital certificate is accepted only if the police confirm there was no criminal involvement), an embalming certificate, the passport, and an NOC for repatriation from the Ministry of Foreign Affairs. For the UK, you also need a letter from the British High Commission confirming that a UK NOC is not required. Airlines may also ask for a police no-objection certificate, a letter to customs requesting release, a declaration that the coffin contains no restricted items, and the receiving funeral director's details. Post-mortems are done by forensic doctors, usually within 24 hours. Mortuary facilities exist only in the larger cities.",
+    "export_points": [
+      "MoFA NOC and local government death certificate needed",
+      "Police may need to confirm no criminal involvement",
+      "Embalming certificate required by airlines",
+      "Mortuaries limited to large cities: decide quickly"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Original plus copy",
+      "embalming": "Required, certificate needed",
+      "coffin": "Sealed coffin; confirm specs with airline",
+      "laissez_passer": "Not used; mission NOC instead",
+      "consular": "Pakistani mission NOC, usually free",
+      "permit": "NOC plus non-communicable disease certificate",
+      "arrival": "Released at airport to family"
+    },
+    "steps": [
+      {"when": "Day 0", "what": "Register the death locally and obtain the death certificate."},
+      {"when": "Day 0-1", "what": "Funeral home embalms the body and issues embalming and non-communicable disease certificates."},
+      {"when": "Day 1", "what": "Apply to the Pakistani embassy or consulate for the NOC with passport/CNIC, death certificate and flight details."},
+      {"when": "Day 1-2", "what": "Book cargo or a private flight; for private flights obtain the PCAA landing permit."},
+      {"when": "Day 2-3", "what": "Fly the sealed coffin with the NOC; family collects at the Pakistani airport."}
+    ],
+    "key_points": [
+      "Each Pakistani mission publishes a slightly different checklist",
+      "Overseas Pakistanis may get help with transport costs via government welfare bodies",
+      "Coffin specifications are set in practice by the airline"
+    ],
+    "lead_days": 2,
+    "authority": "Pakistani embassy/consulate (NOC); Ministry of Foreign Affairs, Pakistan",
+    "sources": [
+      "https://www.gov.uk/guidance/when-someone-dies-in-pakistan",
+      "https://pakistanconsulatebirmingham.com/transport-of-deceased-to-pakistan",
+      "https://www.pakistanconsulatehouston.org/consular-services/transportation-of-deceased",
+      "https://pakconsulate.org.au/repatriation-of-dead-body/"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "BD",
+    "name": "Bangladesh",
+    "status": "requirements",
+    "summary": "A casket can enter Bangladesh with a No Objection Certificate (NOC) from the Bangladesh embassy or consulate in the country of death. The NOC is issued on the death certificate, the passport and, after an accident, a police or autopsy report. The family must name the person who will receive the body at the airport.",
+    "documents": [
+      "Death certificate (original and copy)",
+      "Passport of the deceased (original and copy)",
+      "Death notification or medical report",
+      "Police report, autopsy report or case papers if the death was accidental",
+      "Embalming certificate (listed by Bangladeshi missions in some countries, e.g. Singapore)",
+      "Name and phone number of the person receiving the body at the airport in Bangladesh",
+      "NOC issued by the Bangladesh mission"
+    ],
+    "coffin": "The official sources we reviewed give no coffin specification. In practice airlines expect a sealed, zinc-lined coffin in an outer case. Confirm with the mission and the airline.",
+    "embalming": "Embalming is expected: some Bangladeshi missions list an embalming certificate, and airlines require one. No published rule refuses or exempts embalming.",
+    "consular": "The Bangladesh embassy or consulate issues the NOC free of charge. The Dubai consulate, for example, issues it the same day. The sponsor, employer or relatives can apply. For migrant workers, missions may also require proof that outstanding wages were paid. The published checklists do not mention apostille or legalisation.",
+    "arrival": "The remains are handed over at the airport to the receiving person named in the NOC application. Muslim burials in Bangladesh normally take place on the day of death or the next day, so families arrange burial immediately after arrival.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No official guidance on private flights carrying remains was found. Use an international airport with customs and health staff (Dhaka, Chittagong, Sylhet) and hold the mission's NOC. Foreign private aircraft need landing permission from the Civil Aviation Authority of Bangladesh (not confirmed from an official page).",
+    "private_jet_alert": false,
+    "private_jet_note": "Land at an international airport and carry the mission NOC and receiver details.",
+    "export": "To take a body from Bangladesh, you need: a death certificate from a doctor or hospital, the passport, an embalming certificate and a permit to transfer the body (both usually arranged by a local funeral director), and a letter of no objection from the destination country's mission (e.g. the British High Commission in Dhaka). The formalities normally take 2 to 3 working days. A post-mortem may be held for unnatural, sudden or violent deaths, and a police investigation can delay release.",
+    "export_points": [
+      "Doctor or hospital death certificate plus passport",
+      "Embalming and transfer certificates via local funeral director",
+      "Destination country's no-objection letter",
+      "Usually 2-3 working days"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Original plus copy",
+      "embalming": "Expected; certificate usually required",
+      "coffin": "Sealed coffin; confirm with airline",
+      "laissez_passer": "Not used; mission NOC instead",
+      "consular": "Bangladesh mission NOC, free",
+      "permit": "NOC plus police report if accident",
+      "arrival": "Named receiver collects at airport"
+    },
+    "steps": [
+      {"when": "Day 0", "what": "Obtain the death certificate and, for accidents, the police or autopsy report."},
+      {"when": "Day 0-1", "what": "Funeral home embalms and coffins the body."},
+      {"when": "Day 1", "what": "Apply to the Bangladesh mission for the NOC, naming the receiver at the airport."},
+      {"when": "Day 1-2", "what": "Book the flight and send the documents with the remains."},
+      {"when": "Day 2-3", "what": "Receiver collects at the Bangladeshi airport; burial follows quickly."}
+    ],
+    "key_points": [
+      "NOC is free and often issued the same day",
+      "Burial in Bangladesh usually same or next day",
+      "Mission checklists differ by country"
+    ],
+    "lead_days": 2,
+    "authority": "Bangladesh embassy/consulate (NOC); Ministry of Foreign Affairs, Bangladesh",
+    "sources": [
+      "https://www.gov.uk/guidance/when-someone-dies-in-bangladesh",
+      "https://bcgdubai.gov.bd/dead-body-repatriation/"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "LK",
+    "name": "Sri Lanka",
+    "status": "requirements",
+    "summary": "Remains can enter Sri Lanka only through Bandaranaike International Airport (Colombo), and the Airport Health Officer must approve them beforehand. The approval is based on the Sri Lankan mission's no-objection letter, the death certificate with the cause of death, an embalming certificate and a coffin with a lead or zinc lining.",
+    "documents": [
+      "Death certificate stating the cause of death (coroner's certificate where applicable)",
+      "Health authority certificate that the death was not from a contagious or quarantinable disease (including Covid-19)",
+      "Embalming certificate from the funeral director or health authority, stating the body is packed as required and the coffin contains only the deceased",
+      "Coffin-closing authorisation and coffin certificate from the undertaker",
+      "Police report, coroner's certificate or forensic report for unnatural deaths",
+      "Sri Lankan passport of the deceased (cancelled by the mission)",
+      "Next of kin's written request and affidavit attested by a Justice of the Peace",
+      "No-objection letter from the Sri Lankan embassy or high commission",
+      "Prior approval of the Airport Health Officer (APHO), Bandaranaike International Airport"
+    ],
+    "coffin": "The body must be embalmed and placed in a hardwood coffin with a lead or zinc lining. If it is not embalmed, it must be packed in a hardwood coffin with a hermetically sealed lead or zinc lining, with disinfectant (chloride of lime or zinc sulphate mixed with sawdust) filling the empty spaces. Missions ask for a coffin-closing authorisation from the undertaker. No official witness is mentioned.",
+    "embalming": "Required in practice: every mission asks for an embalming certificate. The rules also allow an unembalmed body in a hermetically sealed lead or zinc-lined coffin packed with disinfectant.",
+    "consular": "The Sri Lankan mission issues a no-objection letter after receiving the next of kin's request and Justice-of-the-Peace affidavit, the documents and the cancelled passport. The letter is free for Sri Lankan citizens; Canberra charges AUD 45 for former citizens. All documents must be in English or come with a certified English translation. Repatriation is limited to Sri Lankan nationals, former citizens, and foreigners married to, or children of, Sri Lankan citizens.",
+    "arrival": "The airline submits the documents to the APHO at Bandaranaike International Airport, which aims to approve within one working day. No remains may be flown without this approval. Remains are released at the airport to the consignee; an affidavit is needed to release them to another nominated person. Unnatural deaths may need an inquest at District General Hospital Negombo before release. The Director of Quarantine may restrict or refuse remains linked to a communicable disease.",
+    "pouch_accepted": false,
+    "pouch": null,
+    "private_aviation": "Remains must enter through Bandaranaike International Airport (BIA), and the APHO must approve them before departure. On a private flight, the operator or handling agent must obtain this approval, a role normally filled by the airline (not confirmed for private flights).",
+    "private_jet_alert": true,
+    "private_jet_note": "Land at Colombo BIA only and get APHO approval before take-off.",
+    "export": "To take a body out of Sri Lanka, you need: a death certificate (issued after the attending doctor or Judicial Medical Officer completes a Notice of Death and the death is registered with the local Registrar), an embalming certificate, and an export permit for human remains. Local authorities must authorise release, and suspicious deaths may be referred to the Magistrates' Court. Once all documents are available, repatriation generally takes 3 to 4 working days. Local funeral directors usually handle the formalities.",
+    "export_points": [
+      "Death registered with Registrar; JMO for unexplained deaths",
+      "Embalming certificate and export permit for human remains",
+      "Usually 3-4 working days once documents are ready",
+      "Magistrate referral can cause long delays"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Must state cause of death, in English",
+      "embalming": "Required, certificate needed",
+      "coffin": "Hardwood, lead or zinc lined",
+      "laissez_passer": "Not used; mission letter instead",
+      "consular": "Sri Lankan mission no-objection letter",
+      "permit": "Prior Airport Health Officer approval",
+      "arrival": "Colombo BIA only; consignee collects"
+    },
+    "steps": [
+      {"when": "Day 0", "what": "Obtain the death certificate with cause of death and, if unnatural, the police or coroner report."},
+      {"when": "Day 0-1", "what": "Next of kin in Sri Lanka signs a Justice-of-the-Peace affidavit consenting to receive the remains."},
+      {"when": "Day 1", "what": "Funeral home embalms, places the body in a lead or zinc-lined hardwood coffin, issues certificates."},
+      {"when": "Day 1-2", "what": "Sri Lankan mission cancels the passport and issues the no-objection letter."},
+      {"when": "Day 2-3", "what": "Airline or agent obtains APHO approval at Colombo (about one working day)."},
+      {"when": "Day 3-4", "what": "Fly to Colombo BIA; consignee collects the remains at the airport."}
+    ],
+    "key_points": [
+      "Foreigners without Sri Lankan family ties may not qualify",
+      "Remains with Covid or quarantinable disease are refused",
+      "All documents in English or translated"
+    ],
+    "lead_days": 3,
+    "authority": "Airport Health Officer, Bandaranaike International Airport (Ministry of Health); Sri Lankan missions (Consular Affairs Division, Ministry of Foreign Affairs)",
+    "sources": [
+      "https://abudhabi.embassy.gov.lk/consular-services/repatriation-burial-dead-bodies/",
+      "https://lankamission.org/repatriation-of-human-remains",
+      "https://www.slhcaust.org/registration-of-deaths-2",
+      "https://www.gov.uk/government/publications/bereavement-information-pack/when-someone-dies-in-sri-lanka"
+    ],
+    "confidence": "high",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "NP",
+    "name": "Nepal",
+    "status": "requirements",
+    "summary": "A casket can enter Nepal with a No Objection Letter from the Nepalese embassy in the country of death. The letter is issued on the death certificate, the passport, an embalming certificate and a certificate of no infectious or quarantinable disease, with a next-of-kin request naming the receiver in Nepal.",
+    "documents": [
+      "Death certificate",
+      "Passport of the deceased (copy, or original for cancellation in the US)",
+      "Embalming certificate",
+      "Certificate of freedom from infection / no quarantinable disease from the local health authority",
+      "Coroner's certificate or police report for unnatural or accidental deaths",
+      "Funeral director's declaration; burial transit permit in the US",
+      "Next of kin's application naming the receiver in Nepal (in the US, filed online through Nepal's Department of Consular Services)",
+      "No Objection Letter from the Nepalese embassy"
+    ],
+    "coffin": "The Nepalese embassy pages give no coffin specification. Airlines normally require a sealed, zinc-lined coffin in an outer case. Confirm with the airline.",
+    "embalming": "Required: the embassies ask for an embalming certificate.",
+    "consular": "The Nepalese embassy issues a free No Objection Letter: the same day in London, 3 to 4 business days in Washington (applications through a licensed funeral shipping company). In Japan the embassy requires local documents to be attested first by the Japanese Ministry of Foreign Affairs. Other missions may have similar legalisation rules.",
+    "arrival": "The remains arrive at Tribhuvan International Airport, Kathmandu, and are released to the receiver named in the application. Cremation is the norm in Nepal and burial is used by some communities. Detailed customs and health clearance steps on arrival are not published.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No official guidance on private flights carrying remains was found. Kathmandu (Tribhuvan) is the main international port of entry. Foreign private aircraft need permission from the Civil Aviation Authority of Nepal (not confirmed from an official page).",
+    "private_jet_alert": false,
+    "private_jet_note": "Plan for Kathmandu as port of entry and carry the embassy letter.",
+    "export": "From Nepal, a death certificate is issued after an autopsy. Autopsies are mandatory for unnatural deaths and for remains repatriated with insurance, and are carried out at the Department of Forensic Medicine, Institute of Medicine, Kathmandu, usually within 24 hours. An embalming certificate is needed to clear customs and immigration. Through Kathmandu funeral agents, repatriation normally takes about 1 to 10 days. It can take 4 to 5 weeks if handled by an agent based outside Nepal. Refrigeration costs about NPR 2,500 per day.",
+    "export_points": [
+      "Autopsy at the Institute of Medicine, Kathmandu",
+      "Embalming certificate needed for customs",
+      "Usually 1-10 days via Kathmandu funeral agents",
+      "Destination country's embassy supplies its documents"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Copy required with application",
+      "embalming": "Required, certificate needed",
+      "coffin": "Sealed coffin; confirm with airline",
+      "laissez_passer": "Not used; embassy letter instead",
+      "consular": "Free No Objection Letter from embassy",
+      "permit": "No-infection certificate; police report if unnatural",
+      "arrival": "Kathmandu; named receiver collects"
+    },
+    "steps": [
+      {"when": "Day 0", "what": "Obtain the death certificate and, for unnatural deaths, the coroner or police report."},
+      {"when": "Day 0-1", "what": "Funeral home embalms and issues embalming and no-infection certificates."},
+      {"when": "Day 1", "what": "Next of kin applies to the Nepalese embassy, naming the receiver in Nepal."},
+      {"when": "Day 1-4", "what": "Embassy issues the No Objection Letter (same day in London, 3-4 days in the US)."},
+      {"when": "Day 2-5", "what": "Fly to Kathmandu; the named receiver collects the remains."}
+    ],
+    "key_points": [
+      "Embassy letter is free of charge",
+      "Cremation is the usual custom in Nepal",
+      "Processing time differs by embassy"
+    ],
+    "lead_days": 2,
+    "authority": "Nepalese embassy/consulate; Department of Consular Services, Ministry of Foreign Affairs, Nepal",
+    "sources": [
+      "https://uk.nepalembassy.gov.np/pages/repatriation-of-dead-body/",
+      "https://us.nepalembassy.gov.np/pages/other-services-11/",
+      "https://www.gov.uk/government/publications/nepal-bereavement-information"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "BT",
+    "name": "Bhutan",
+    "status": "unknown",
+    "summary": "Bhutan does not publish official rules for bringing a casket into the country. Contact the Royal Bhutanese embassy or consulate (missions exist in New Delhi, Kolkata and a few other cities) before planning.",
+    "documents": [
+      "Death certificate (likely required; not published)",
+      "Embalming certificate (likely required by airlines; not published)",
+      "Clearance from the Royal Bhutanese embassy or consulate (not published; confirm)"
+    ],
+    "coffin": "Not published. Assume a hermetically sealed, zinc-lined coffin in an outer case, as airlines require, and confirm with the Bhutanese mission.",
+    "embalming": "Not published; confirm with the Bhutanese mission.",
+    "consular": "Not published. In a 2024 case of a Bhutanese national who died abroad, the Royal Bhutanese embassy assisted, including with a certificate for transit through third countries. Confirm the current procedure with the mission.",
+    "arrival": "Not published. Paro is the only international airport. Cremation is the usual custom.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "Not published for remains. Paro is a demanding mountain airport where foreign private aircraft need prior permission from the Bhutan Civil Aviation Authority and crews with specific approval (not confirmed from an official page).",
+    "private_jet_alert": true,
+    "private_jet_note": "Paro needs prior permission and qualified crews; many cases route via India.",
+    "export": "Bhutan's Ministry of Home Affairs adopted a Standard Operating Procedure for deaths of foreign nationals in 2016, but its text could not be retrieved. The British High Commission in Kolkata covers consular help for British nationals in Bhutan. Confirm the procedure with the deceased's embassy and Bhutanese authorities.",
+    "export_points": [
+      "Government SOP on foreigners' deaths exists (2016)",
+      "Contact the deceased's embassy covering Bhutan",
+      "Paro is the only international airport"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Likely required; confirm",
+      "embalming": "Not published; confirm",
+      "coffin": "Sealed coffin likely; confirm",
+      "laissez_passer": "Not used",
+      "consular": "Contact Royal Bhutanese embassy",
+      "permit": "Not published",
+      "arrival": "Paro airport only"
+    },
+    "steps": [
+      {"when": "Day 0", "what": "Obtain the death certificate in the country of death."},
+      {"when": "Day 0-1", "what": "Contact the Royal Bhutanese embassy or consulate for its requirements."},
+      {"when": "Day 1-2", "what": "Funeral home embalms and seals the coffin; gather certificates."},
+      {"when": "Day 2+", "what": "Arrange the flight to Paro (or via India) once Bhutanese clearance is confirmed."}
+    ],
+    "key_points": [
+      "No official published import rules found",
+      "Paro airport has strict operating restrictions",
+      "Allow extra time for confirmation"
+    ],
+    "lead_days": null,
+    "authority": "Royal Bhutanese embassies; Ministry of Home Affairs, Bhutan",
+    "sources": [
+      "https://www.gov.uk/foreign-travel-advice/bhutan/getting-help"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "MV",
+    "name": "Maldives",
+    "status": "unknown",
+    "summary": "The Maldives does not publish official rules for bringing a casket into the country. Contact the Maldivian embassy or high commission before planning. The Maldives is a Muslim country where cremation is not permitted.",
+    "documents": [
+      "Death certificate with English translation (likely required; not published)",
+      "Embalming certificate (likely required by airlines; not published)",
+      "Clearance from the Maldivian mission (not published; confirm)"
+    ],
+    "coffin": "Not published. Assume a hermetically sealed, zinc-lined coffin in an outer case, as airlines require, and confirm with the Maldivian mission.",
+    "embalming": "Not published; confirm with the Maldivian mission.",
+    "consular": "Not published; contact the Maldivian embassy or high commission in the country of death.",
+    "arrival": "Not published. Velana International Airport (Malé) is the main port of entry. Cremation is not permitted in the Maldives.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No official guidance on private flights carrying remains was found. Velana International Airport (Malé) is the main international port of entry with customs and health staff.",
+    "private_jet_alert": false,
+    "private_jet_note": "Plan arrival at Malé (Velana) and confirm clearance in advance.",
+    "export": "To take a body out of the Maldives, you need a death certificate and a police report from the local authorities, plus an official translation if they are not in English. The repatriation company also needs a letter of no objection from the destination country's mission (e.g. the British High Commission in Malé), issued after the next of kin confirms in writing. The Maldives does not carry out post-mortem examinations. Mortuaries exist in Malé, Hulhumalé and some regional centres, so remains from resort islands must be moved there. The official sources do not publish embalming availability or typical delays.",
+    "export_points": [
+      "Death certificate and police report from local authorities",
+      "Destination embassy's letter of no objection",
+      "No post-mortems; no cremation in the Maldives",
+      "Mortuaries only in Malé, Hulhumalé, regional centres"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Likely required; confirm",
+      "embalming": "Not published; confirm",
+      "coffin": "Sealed coffin likely; confirm",
+      "laissez_passer": "Not used",
+      "consular": "Contact Maldivian embassy",
+      "permit": "Not published",
+      "arrival": "Malé (Velana) airport"
+    },
+    "steps": [
+      {"when": "Day 0", "what": "Obtain the death certificate in the country of death."},
+      {"when": "Day 0-1", "what": "Contact the Maldivian embassy or high commission for its requirements."},
+      {"when": "Day 1-2", "what": "Funeral home embalms and seals the coffin; gather certificates."},
+      {"when": "Day 2+", "what": "Fly to Malé once clearance is confirmed; arrange local burial."}
+    ],
+    "key_points": [
+      "No official published import rules found",
+      "Cremation is not permitted in the Maldives",
+      "Outbound: no post-mortems are carried out"
+    ],
+    "lead_days": null,
+    "authority": "Maldivian embassies; Maldives Police Service and local authorities (outbound)",
+    "sources": [
+      "https://www.gov.uk/government/publications/maldives-bereavement-death-abroad/maldives-bereavement-death-abroad",
+      "https://www.gov.uk/world/maldives"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "AF",
+    "name": "Afghanistan",
+    "status": "unknown",
+    "summary": "Afghanistan publishes no reliable official rules for bringing a casket into the country, and many foreign governments have no embassy in Kabul. Confirm the requirements with the airline or handling agent, and with any Afghan mission still operating in the country of death, before planning.",
+    "documents": [
+      "Death certificate with translation (likely required; not published)",
+      "Embalming certificate (likely required by airlines; not published)",
+      "Clearance from an Afghan mission (not published; mission status varies by country)"
+    ],
+    "coffin": "Not published. Assume a hermetically sealed, zinc-lined coffin in an outer case, as airlines require.",
+    "embalming": "Not published; confirm with the airline and the receiving funeral service.",
+    "consular": "Not published. Many Afghan missions abroad have closed or operate with limited services, and several countries (including the UK) have no embassy in Afghanistan. Confirm which mission, if any, can issue documents.",
+    "arrival": "Not published. Kabul is the main international airport. Muslim burial normally takes place quickly.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No official guidance was found. Many governments advise against all travel to Afghanistan, and foreign private flights face heavy permission, security and insurance restrictions. Check with an experienced operator.",
+    "private_jet_alert": true,
+    "private_jet_note": "High-risk destination; permits, insurance and security clearance are uncertain.",
+    "export": "Taking a body out of Afghanistan: no official procedure published. The UK has no embassy in Afghanistan and cannot give in-person consular help, and the same is true for many other countries. Expect delays, and confirm the documents with the airline and the destination country's authorities.",
+    "export_points": [
+      "No official published procedure found",
+      "Many foreign embassies closed in Kabul",
+      "Expect delays and limited consular help"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Likely required; confirm",
+      "embalming": "Not published; confirm",
+      "coffin": "Sealed coffin likely; confirm",
+      "laissez_passer": "Not used",
+      "consular": "Limited; mission status varies",
+      "permit": "Not published",
+      "arrival": "Kabul airport; quick burial"
+    },
+    "steps": [
+      {"when": "Day 0", "what": "Obtain the death certificate in the country of death."},
+      {"when": "Day 0-2", "what": "Check with the airline and any Afghan mission which documents are accepted."},
+      {"when": "Day 1-2", "what": "Funeral home embalms and seals the coffin; gather certificates."},
+      {"when": "Day 2+", "what": "Arrange the flight once acceptance is confirmed; family collects in Kabul."}
+    ],
+    "key_points": [
+      "No reliable official rules published",
+      "Consular services severely limited",
+      "Private flights face major restrictions"
+    ],
+    "lead_days": null,
+    "authority": "Not clearly established; confirm with the airline and Afghan mission",
+    "sources": [
+      "https://www.gov.uk/foreign-travel-advice/afghanistan",
+      "https://www.gov.uk/foreign-travel-advice/afghanistan/getting-help"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  }
+]

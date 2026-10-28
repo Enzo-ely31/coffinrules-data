@@ -1,0 +1,752 @@
+[
+  {
+    "cc": "KN",
+    "name": "Saint Kitts and Nevis",
+    "status": "requirements",
+    "summary": "The receiving funeral home in Saint Kitts and Nevis files the departure documents with the Ministry of Health (Chief Medical Officer, via the Basseterre Health Centre), which issues a letter permitting the remains to be shipped in. The body must be embalmed and placed in a hermetically sealed container inside an all-wood outer shipping case.",
+    "documents": [
+      "Death certificate (original or certified copy; the London High Commission asks for the original)",
+      "Statement of death",
+      "Burial / transit permit from the place of death",
+      "Embalming certificate or embalmer's affidavit",
+      "Letter of non-contagious disease (free from infection) from the local health authority",
+      "Coffin sealing certificate",
+      "Funeral home letter: only remains in the casket, hermetically sealed container in an all-wood outer case, consignee name and contacts, flight details and arrival time",
+      "Proof of identity / citizenship of the deceased (passport bio page or birth certificate)",
+      "Copies notarised (London High Commission guidance)"
+    ],
+    "coffin": "The body must be in a hermetically sealed container placed inside an all-wood outer shipping container, and a coffin sealing certificate is required. The sealing is done and certified by the funeral home at departure; no witnessing by a Kittitian official is described.",
+    "embalming": "Embalming is required: an embalming certificate (or embalmer's affidavit) is part of the file.",
+    "consular": "Documents go to a Saint Kitts and Nevis mission (the Toronto consulate asks for them at least 14 days before departure; the London High Commission asks for notarised copies sent to the local funeral director). On receipt, the Chief Medical Officer issues a letter permitting the remains to be shipped into the Federation. No Strasbourg laissez-passer arrangement applies.",
+    "arrival": "The person accompanying the remains presents the original documents on arrival and all contents must be declared to Customs. The local funeral director, who processed the file with the Ministry of Health, collects the casket. No legal burial deadline was found in official sources.",
+    "pouch_accepted": false,
+    "pouch": null,
+    "private_aviation": "No rules specific to private flights were found. The Chief Medical Officer's permission letter must be issued before departure and the casket must clear Customs at a port of entry; the flight details and arrival time are part of the file, so give the exact private flight details to the funeral home.",
+    "private_jet_alert": true,
+    "private_jet_note": "Get the Chief Medical Officer's permission letter before take-off; flight details are part of the file.",
+    "export": "Leaving Saint Kitts and Nevis: the death is registered with the Registrar General (St Kitts) or Registrar General Department (Nevis); the certificate (English, with cause of death) is usually issued within 2 days of a post-mortem. The local funeral director provides the embalming certificate and a permit to transfer the remains. Post-mortems are common for foreign nationals and can take 3-5 days or more because the medical examiner is based in Barbados.",
+    "export_points": [
+      "Death registered with the Registrar General; certificate usually within 2 days of post-mortem",
+      "Post-mortem can take 3-5+ days (examiner based in Barbados)",
+      "Local funeral director provides embalming certificate and transfer permit",
+      "Cremation available locally (Liamuiga Funeral Home)"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Original certificate, copies notarised",
+      "embalming": "Required, with embalming certificate",
+      "coffin": "Hermetically sealed, inside all-wood outer case",
+      "laissez_passer": "Not applicable",
+      "consular": "File sent to a Kittitian mission",
+      "permit": "Chief Medical Officer permission letter",
+      "arrival": "Declare to Customs; local funeral home collects"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Appoint a funeral home at departure and a receiving funeral home in Saint Kitts and Nevis"
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Obtain death certificate, transit permit, non-contagious disease letter; embalming"
+      },
+      {
+        "when": "Day 2-4",
+        "what": "Seal body in hermetic container inside wooden case; sealing certificate and funeral home letter"
+      },
+      {
+        "when": "About 14 days before flight",
+        "what": "Send the file to the Kittitian consulate / receiving funeral home for the Ministry of Health"
+      },
+      {
+        "when": "Before take-off",
+        "what": "Chief Medical Officer issues the permission letter"
+      },
+      {
+        "when": "Arrival",
+        "what": "Present originals, declare to Customs; local funeral home collects"
+      }
+    ],
+    "key_points": [
+      "Toronto consulate asks for documents 14 days before departure",
+      "Chief Medical Officer letter is the entry authorisation",
+      "Casket must be hermetically sealed in an all-wood outer case"
+    ],
+    "lead_days": 10,
+    "authority": "Ministry of Health, Chief Medical Officer (via Basseterre Health Centre)",
+    "sources": [
+      "https://sknhcottawa.gov.kn/wp-content/uploads/2018/07/Cremated-Human-Remains.pdf",
+      "https://stkittsnevishcuk.gov.kn/repatriation",
+      "https://www.gov.uk/guidance/when-someone-dies-in-st-kitts-and-nevis"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "MS",
+    "name": "Montserrat",
+    "status": "unknown",
+    "summary": "Montserrat is a British Overseas Territory with its own health and customs laws; the UK's own rules do not apply on entry. No official published procedure for bringing a casket into Montserrat was found; arrange it through a local funeral home and confirm requirements with the Ministry of Health and Social Services (Environmental Health Department) in advance.",
+    "documents": [
+      "Death certificate (English or translated) - expected, not confirmed",
+      "Certificate of cause of death / non-contagious disease certificate - expected, not confirmed",
+      "Embalming certificate - expected, not confirmed",
+      "Transit / removal permit from the place of death - expected, not confirmed",
+      "Confirm the exact list with the Montserrat Ministry of Health and Social Services"
+    ],
+    "coffin": "Not published. A hermetically sealed casket in an outer shipping case is the norm in the region and is required by most airlines; confirm with the Environmental Health Department.",
+    "embalming": "Not published; embalming is expected in practice. Confirm with the Ministry of Health and Social Services.",
+    "consular": "Montserrat is a UK Overseas Territory: there is no Montserrat consulate abroad. Contact the Government of Montserrat (Ministry of Health and Social Services, tel +1 664 491 2880/2881) directly; British consulates abroad do not issue entry permits for Montserrat.",
+    "arrival": "The Environmental Health Department carries out port public health surveillance; customs clearance applies at the port of entry. Who issues the import clearance and any burial deadline are not published.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "Montserrat's only airport (John A. Osborne) has a very short runway served by small turboprops; most business jets cannot land there, so a casket often travels by small aircraft or ferry via Antigua. Confirm aircraft suitability and port health/customs presence before planning.",
+    "private_jet_alert": true,
+    "private_jet_note": "Very short runway: most jets cannot land; plan a transfer via Antigua.",
+    "export": "No official procedure for sending a body out of Montserrat was found. In practice the local funeral home obtains the death registration, embalming and a removal/transit permit; the Ministry of Health and Social Services should be consulted. The UK requirements for arrival in the UK apply on the receiving side.",
+    "export_points": [
+      "Procedure not published; confirm with the Ministry of Health and Social Services",
+      "Local funeral home arranges registration, embalming and transit papers",
+      "Transfer usually via Antigua because of the small airport"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Expected; confirm with Ministry of Health",
+      "embalming": "Expected; not officially published",
+      "coffin": "Sealed casket expected; confirm locally",
+      "laissez_passer": "Not applicable",
+      "consular": "No consulates; contact Government of Montserrat",
+      "permit": "Not published; ask Environmental Health",
+      "arrival": "Port health and customs at entry"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact a Montserrat funeral home and the Ministry of Health and Social Services"
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Obtain death certificate, non-contagious disease certificate and embalming at departure"
+      },
+      {
+        "when": "Day 2-4",
+        "what": "Seal the casket and gather the transit permit; confirm the list with Environmental Health"
+      },
+      {
+        "when": "Before travel",
+        "what": "Arrange transfer via Antigua if the aircraft cannot use Montserrat's airport"
+      },
+      {
+        "when": "Arrival",
+        "what": "Port health and customs clearance; local funeral home collects"
+      }
+    ],
+    "key_points": [
+      "UK Overseas Territory with its own laws",
+      "No official entry procedure published online",
+      "Airport only takes small aircraft"
+    ],
+    "lead_days": null,
+    "authority": "Ministry of Health and Social Services (Environmental Health Department), Government of Montserrat",
+    "sources": [
+      "https://www.gov.ms/government/ministries/ministry-of-health-and-social-services/",
+      "https://www.gov.ms/government/ministries/ministry-of-health-and-social-services/environmental-health-department/"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "GP",
+    "name": "Guadeloupe",
+    "status": "requirements",
+    "summary": "Guadeloupe is a French overseas department: French rules apply. A casket coming from abroad needs a transport authorisation from the French embassy or consulate in the country of death, and for air transport the body must be in an airtight metal-lined coffin.",
+    "documents": [
+      "Local death certificate (transcription into French civil status advised, done by the consulate)",
+      "Medical certificate / non-contagious disease certificate as required by the departure country",
+      "Embalming (soins de conservation) certificate where required at departure",
+      "Authorisation to transport the body issued by the French embassy or consulate (or a mortuary laissez-passer from a Strasbourg Agreement state)",
+      "Coffin closing / sealing report",
+      "Receiving funeral director and burial or cremation arrangements in Guadeloupe"
+    ],
+    "coffin": "For any air transport an airtight coffin is mandatory under French rules (in practice a soldered zinc lining inside a wooden coffin). A hermetic coffin cannot normally be cremated without being reopened, so plan cremation before departure.",
+    "embalming": "France does not impose embalming on every incoming body; it is normally required by the departure country and by carriers for long journeys. Confirm with the consulate.",
+    "consular": "The French embassy or consulate in the country of death issues the authorisation to transport the body to France (including overseas departments) and can transcribe the death certificate. France is a party to the 1973 Strasbourg Agreement, so a laissez-passer from another party state is accepted. From mainland France, no consulate is involved: the prefect of the department where the coffin is closed authorises transport to Guadeloupe.",
+    "arrival": "The receiving funeral director in Guadeloupe takes charge on arrival after customs and health formalities. French law sets a 14-day limit for burial or cremation; for deaths abroad the official guidance counts it from the body's entry into mainland France, so confirm with the prefecture of Guadeloupe how it is applied for direct arrivals in Guadeloupe.",
+    "pouch_accepted": false,
+    "pouch": null,
+    "private_aviation": "Same documents as airline cargo; they travel with the coffin and are shown to customs and health officials at the arrival airport. The airtight zinc-lined coffin rule applies to any flight. Use an airport with customs (the main international airport) and arrange for the funeral director to meet the aircraft.",
+    "private_jet_alert": false,
+    "private_jet_note": "Airtight zinc-lined coffin mandatory on any flight into France, including overseas departments.",
+    "export": "To send a coffin out of Guadeloupe, the funeral director obtains authorisation from the prefect of Guadeloupe (the department where the coffin is closed), for EU, non-EU and mainland France destinations alike. An airtight metal coffin is mandatory for air transport. The destination country's consular requirements also apply.",
+    "export_points": [
+      "Prefect of Guadeloupe authorises transport",
+      "Airtight metal-lined coffin mandatory by air",
+      "Same prefect authorisation for transport to mainland France",
+      "Check the destination consulate's requirements"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Local certificate; consular transcription advised",
+      "embalming": "Per departure country and airline",
+      "coffin": "Airtight zinc-lined coffin by air",
+      "laissez_passer": "Accepted from Strasbourg Agreement states",
+      "consular": "French consulate authorises transport",
+      "permit": "Consular authorisation (prefect if from France)",
+      "arrival": "Funeral within 14 days; confirm locally"
+    },
+    "steps": [
+      {
+        "when": "Day 0-1",
+        "what": "Register the death locally; contact the French consulate; appoint funeral directors"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain death certificate, medical certificate and embalming as required at departure"
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Coffin placed in airtight zinc-lined coffin and sealed; consulate issues transport authorisation"
+      },
+      {
+        "when": "Day 3-5",
+        "what": "Flight to Guadeloupe with documents travelling with the coffin"
+      },
+      {
+        "when": "On arrival",
+        "what": "Customs/health formalities; local funeral director collects; funeral within the legal limit"
+      }
+    ],
+    "key_points": [
+      "French national rules apply in full",
+      "Hermetic coffins complicate cremation",
+      "Strasbourg laissez-passer accepted"
+    ],
+    "lead_days": 3,
+    "authority": "French embassy or consulate abroad (entry); Prefect of Guadeloupe (exit)",
+    "sources": [
+      "https://www.service-public.gouv.fr/particuliers/vosdroits/F35706?lang=en",
+      "https://www.diplomatie.gouv.fr/fr/services-aux-francaises-et-aux-francais/assistance-et-securite/deces-a-l-etranger",
+      "https://www.notaires.fr/fr/actualites/allongement-des-delais-dinhumation-et-de-cremation-14-jours"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "DM",
+    "name": "Dominica",
+    "status": "unknown",
+    "summary": "No official published procedure for bringing a casket into Dominica was found. Work through a Dominica funeral home, which deals with the Ministry of Health (Environmental Health) and Customs, and expect embalming and a sealed casket with a full set of departure documents.",
+    "documents": [
+      "Death certificate - expected, not confirmed",
+      "Certificate of cause of death / non-contagious disease certificate - expected, not confirmed",
+      "Embalming certificate - expected, not confirmed",
+      "Transit / removal permit from the place of death - expected, not confirmed",
+      "Confirm the list with a Dominica consulate or the Ministry of Health"
+    ],
+    "coffin": "Not published. A hermetically sealed casket in an outer case is standard in the region and required by most airlines; confirm locally.",
+    "embalming": "Not published for entry; embalming is expected in practice.",
+    "consular": "No official consular procedure was found online. Ask the Dominica High Commission or consulate in the country of death whether documents must be authenticated.",
+    "arrival": "Customs and health clearance at the port of entry; the local funeral home collects. No official burial deadline found. Dominica has no crematorium.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No private-flight rules were found. Use an airport of entry with customs and arrange for the funeral home to meet the aircraft; confirm the entry clearance before take-off.",
+    "private_jet_alert": false,
+    "private_jet_note": null,
+    "export": "Leaving Dominica: the death is registered at the Registry Department (births, marriages and deaths); a post-mortem is usually carried out for all deaths, usually within four days. If no death certificate can be issued (for example during a police investigation), the police issue a permissive warrant allowing repatriation. The local funeral director provides the certificate of embalming and the permit to transfer the remains. There is no crematorium: cremation requires transfer to Barbados or Saint Lucia.",
+    "export_points": [
+      "Death registered at the Registry Department (EC$20 per copy)",
+      "Post-mortem usual, normally within about 4 days",
+      "Police permissive warrant if no death certificate yet",
+      "No crematorium on the island"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Expected; confirm with consulate",
+      "embalming": "Expected; not officially published",
+      "coffin": "Sealed casket expected",
+      "laissez_passer": "Not applicable",
+      "consular": "Ask a Dominica consulate",
+      "permit": "Not published; confirm with Ministry of Health",
+      "arrival": "Customs clearance; local funeral home collects"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Appoint a funeral home at departure and one in Dominica"
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Obtain death certificate, non-contagious disease certificate and embalming"
+      },
+      {
+        "when": "Day 2-4",
+        "what": "Seal the casket; ask the Dominica consulate whether documents need authentication"
+      },
+      {
+        "when": "Before take-off",
+        "what": "Receiving funeral home confirms clearance with Health and Customs"
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs clearance; funeral home collects"
+      }
+    ],
+    "key_points": [
+      "Entry rules not published online",
+      "Post-mortem usual for all deaths in Dominica",
+      "No crematorium in Dominica"
+    ],
+    "lead_days": null,
+    "authority": "Ministry of Health (Environmental Health Department); Customs",
+    "sources": [
+      "https://www.gov.uk/guidance/what-to-do-after-a-british-person-dies-in-dominica"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "MQ",
+    "name": "Martinique",
+    "status": "requirements",
+    "summary": "Martinique is a French overseas department: French rules apply. A casket coming from abroad needs a transport authorisation from the French embassy or consulate in the country of death, and for air transport the body must be in an airtight metal-lined coffin.",
+    "documents": [
+      "Local death certificate (transcription into French civil status advised, done by the consulate)",
+      "Medical certificate / non-contagious disease certificate as required by the departure country",
+      "Embalming (soins de conservation) certificate where required at departure",
+      "Authorisation to transport the body issued by the French embassy or consulate (or a mortuary laissez-passer from a Strasbourg Agreement state)",
+      "Coffin closing / sealing report",
+      "Receiving funeral director and burial or cremation arrangements in Martinique"
+    ],
+    "coffin": "For any air transport an airtight coffin is mandatory under French rules (in practice a soldered zinc lining inside a wooden coffin). A hermetic coffin cannot normally be cremated without being reopened, so plan cremation before departure.",
+    "embalming": "France does not impose embalming on every incoming body; it is normally required by the departure country and by carriers for long journeys. Confirm with the consulate.",
+    "consular": "The French embassy or consulate in the country of death issues the authorisation to transport the body to France (including overseas departments) and can transcribe the death certificate. France is a party to the 1973 Strasbourg Agreement, so a laissez-passer from another party state is accepted. From mainland France, no consulate is involved: the prefect of the department where the coffin is closed authorises transport to Martinique.",
+    "arrival": "The receiving funeral director in Martinique takes charge on arrival after customs and health formalities. French law sets a 14-day limit for burial or cremation; for deaths abroad the official guidance counts it from the body's entry into mainland France, so confirm with the prefecture of Martinique how it is applied for direct arrivals in Martinique.",
+    "pouch_accepted": false,
+    "pouch": null,
+    "private_aviation": "Same documents as airline cargo; they travel with the coffin and are shown to customs and health officials at the arrival airport. The airtight zinc-lined coffin rule applies to any flight. Use an airport with customs (the main international airport) and arrange for the funeral director to meet the aircraft.",
+    "private_jet_alert": false,
+    "private_jet_note": "Airtight zinc-lined coffin mandatory on any flight into France, including overseas departments.",
+    "export": "To send a coffin out of Martinique, the funeral director obtains authorisation from the prefect of Martinique (the department where the coffin is closed), for EU, non-EU and mainland France destinations alike. An airtight metal coffin is mandatory for air transport. The destination country's consular requirements also apply.",
+    "export_points": [
+      "Prefect of Martinique authorises transport",
+      "Airtight metal-lined coffin mandatory by air",
+      "Same prefect authorisation for transport to mainland France",
+      "Check the destination consulate's requirements"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Local certificate; consular transcription advised",
+      "embalming": "Per departure country and airline",
+      "coffin": "Airtight zinc-lined coffin by air",
+      "laissez_passer": "Accepted from Strasbourg Agreement states",
+      "consular": "French consulate authorises transport",
+      "permit": "Consular authorisation (prefect if from France)",
+      "arrival": "Funeral within 14 days; confirm locally"
+    },
+    "steps": [
+      {
+        "when": "Day 0-1",
+        "what": "Register the death locally; contact the French consulate; appoint funeral directors"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain death certificate, medical certificate and embalming as required at departure"
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Coffin placed in airtight zinc-lined coffin and sealed; consulate issues transport authorisation"
+      },
+      {
+        "when": "Day 3-5",
+        "what": "Flight to Martinique with documents travelling with the coffin"
+      },
+      {
+        "when": "On arrival",
+        "what": "Customs/health formalities; local funeral director collects; funeral within the legal limit"
+      }
+    ],
+    "key_points": [
+      "French national rules apply in full",
+      "Hermetic coffins complicate cremation",
+      "Strasbourg laissez-passer accepted"
+    ],
+    "lead_days": 3,
+    "authority": "French embassy or consulate abroad (entry); Prefect of Martinique (exit)",
+    "sources": [
+      "https://www.service-public.gouv.fr/particuliers/vosdroits/F35706?lang=en",
+      "https://www.diplomatie.gouv.fr/fr/services-aux-francaises-et-aux-francais/assistance-et-securite/deces-a-l-etranger",
+      "https://www.notaires.fr/fr/actualites/allongement-des-delais-dinhumation-et-de-cremation-14-jours"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "LC",
+    "name": "Saint Lucia",
+    "status": "requirements",
+    "summary": "Saint Lucia's Public Health (Transportation of Human Remains) Regulations require the cause-of-death certificate, a preparer's statement and a transit permit, a hermetically sealed impervious coffin, and clearance from an environmental health officer before the remains leave the port of entry.",
+    "documents": [
+      "Official certificate of cause of death from the registrar of deaths or similar authority",
+      "Statement by the person who prepared the remains, certified by an appropriate authority, describing the preparation and confirming the coffin holds only the body, clothing and packing",
+      "Transit permit from the competent authority at the place of death, stating the deceased's names and age",
+      "Documents in the official language (English) of Saint Lucia",
+      "Environmental health officer's clearance at the port of entry"
+    ],
+    "coffin": "Remains must be placed in a hermetically sealed impervious coffin; an outer wooden box or special fabric may be added for protection. Alternatively an embalmed body may be sealed in a plastic container placed in a non-impervious coffin. A durable plaque on the outside must show the name, age and final destination.",
+    "embalming": "The law allows either thorough disinfection (orifices packed, body wrapped in a disinfectant sheet) in an impervious coffin, or arterial and cavity embalming. Embalming is mandatory if the deceased had a quarantinable disease.",
+    "consular": "No consular legalisation step is set out in the regulations; documents must be in English. Ask the Saint Lucia mission in the country of death whether authentication is expected.",
+    "arrival": "Human remains may not leave the port of entry until an environmental health officer issues clearance (prescribed form). Copies of the documents must travel with the remains or reach the environmental health officer within 24 hours. The local funeral director collects. No legal burial deadline found.",
+    "pouch_accepted": false,
+    "pouch": "Not accepted on its own: an embalmed body sealed in a plastic container must still be placed in a coffin.",
+    "private_aviation": "No private-flight rules found. Land at a port of entry where an environmental health officer can issue the clearance; arrange it in advance, especially outside office hours.",
+    "private_jet_alert": true,
+    "private_jet_note": "Remains cannot leave the airport until an environmental health officer clears them.",
+    "export": "Leaving Saint Lucia: the death is registered at the Registry of Civil Status; the certificate (English, with cause of death) is usually issued within 2 days of the post-mortem, which is usually within a week. The same regulations apply to anyone transporting remains: documents go to the Chief Medical Officer, a fee of EC$250 is paid to the Accountant General, and the Chief Medical Officer's certificate must appear on the outside of the coffin.",
+    "export_points": [
+      "Chief Medical Officer certifies the coffin; certificate fixed on the outside",
+      "Transport fee EC$250 to the Accountant General",
+      "Hermetically sealed impervious coffin with name plaque",
+      "Post-mortem usually within a week; certificate within 2 days after"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Official cause-of-death certificate, in English",
+      "embalming": "Embalming or disinfection; mandatory if infectious",
+      "coffin": "Hermetically sealed impervious coffin, plaque outside",
+      "laissez_passer": "Not applicable",
+      "consular": "No legalisation step in the law",
+      "permit": "Transit permit plus port health clearance",
+      "arrival": "Environmental health officer clears at port"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Appoint funeral homes at departure and in Saint Lucia"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain cause-of-death certificate and transit permit at the place of death"
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Embalm, seal in an impervious coffin with name plaque; preparer's certified statement"
+      },
+      {
+        "when": "Day 3",
+        "what": "Send copies to the Saint Lucia funeral home to alert Environmental Health"
+      },
+      {
+        "when": "Arrival",
+        "what": "Environmental health officer clears the remains; funeral home collects"
+      }
+    ],
+    "key_points": [
+      "Rules set by the Public Health (Transportation of Human Remains) Regulations",
+      "Port health clearance is mandatory before removal",
+      "Documents must be in English"
+    ],
+    "lead_days": null,
+    "authority": "Ministry of Health: Chief Medical Officer and Environmental Health officers",
+    "sources": [
+      "https://www.attorneygeneralchambers.com/laws-of-saint-lucia/public-health-act/public-health-(transportation-of-human-remains)-regulations-section-9-(statutory-instruments-19-1978-and-31-2020)",
+      "https://www.attorneygeneralchambers.com/laws-of-saint-lucia/public-health-act/section-3-14",
+      "https://www.attorneygeneralchambers.com/laws-of-saint-lucia/public-health-act/section-4-02",
+      "https://www.attorneygeneralchambers.com/laws-of-saint-lucia/public-health-act/section-5-18",
+      "https://www.attorneygeneralchambers.com/laws-of-saint-lucia/public-health-act/section-8a",
+      "https://www.gov.uk/guidance/when-someone-dies-in-st-lucia"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "VC",
+    "name": "Saint Vincent and the Grenadines",
+    "status": "requirements",
+    "summary": "Bodies for burial must arrive in a hermetically sealed impervious coffin with an embalming certificate, an official cause-of-death certificate and a non-contagious disease certificate, all originals. The SVG official responsible for entry of human remains must be told the arrival time and flight in advance.",
+    "documents": [
+      "Official certificate of the cause of death (original)",
+      "Certificate that the deceased did not have a contagious disease at death (original)",
+      "Embalming certificate (original)",
+      "Passport or official ID of the deceased"
+    ],
+    "coffin": "Hermetically sealed impervious coffin required for burial. No official witnessing of the sealing is described.",
+    "embalming": "Required: an embalming certificate must be presented to the officials in Saint Vincent and the Grenadines.",
+    "consular": "The SVG High Commission guidance asks for originals of all documents; no legalisation step is described. Many routings transit Barbados, so that country's transit requirements must also be checked.",
+    "arrival": "The official in SVG responsible for entry of human remains must be given the arrival time and flight number and advises on charges. The local funeral home collects after clearance. No legal burial deadline found.",
+    "pouch_accepted": false,
+    "pouch": null,
+    "private_aviation": "No rules specific to private flights found. A direct private flight avoids the usual transhipment via Barbados; still give the SVG entry official the flight details and arrival time in advance and land at an airport of entry.",
+    "private_jet_alert": false,
+    "private_jet_note": "Notify the SVG official for human remains of the flight and arrival time.",
+    "export": "Leaving SVG: the death is registered at the Civil Registry (Kingstown or the district); copies take about 2 days. A magistrate issues the medical warrant and, after a post-mortem, the warrant to bury. The local funeral director provides the embalming certificate, transit documents and permission to transfer the remains.",
+    "export_points": [
+      "Civil Registry death certificate (about 2 days)",
+      "Magistrate's warrant to bury after post-mortem",
+      "Embalming certificate and transit documents from funeral director",
+      "Government offices open Monday-Friday, 8am-4pm"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Original cause-of-death certificate",
+      "embalming": "Required, certificate needed",
+      "coffin": "Hermetically sealed impervious coffin",
+      "laissez_passer": "Not applicable",
+      "consular": "Originals required; no legalisation described",
+      "permit": "Notify SVG entry official in advance",
+      "arrival": "Officials clear; local funeral home collects"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Appoint funeral homes at departure and in SVG"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain original cause-of-death and non-contagious disease certificates"
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Embalm and seal in a hermetically sealed coffin"
+      },
+      {
+        "when": "Before flight",
+        "what": "Send flight number and arrival time to the SVG official for human remains"
+      },
+      {
+        "when": "Arrival",
+        "what": "Present originals; clearance and collection by the funeral home"
+      }
+    ],
+    "key_points": [
+      "All documents must be originals",
+      "Commercial routings usually transit Barbados",
+      "Scattering ashes in SVG needs permission"
+    ],
+    "lead_days": null,
+    "authority": "Government of Saint Vincent and the Grenadines official for entry of human remains (health authorities)",
+    "sources": [
+      "https://www.svgconsulate.vc/documents/consular/nationals/n-human-remains.pdf",
+      "https://www.gov.uk/government/publications/st-vincent-bereavement-packinformation"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "BB",
+    "name": "Barbados",
+    "status": "unknown",
+    "summary": "No official published procedure for bringing a casket into Barbados was found. A Barbados funeral home must receive the casket and handle health and customs clearance; expect embalming, a sealed casket and the usual departure documents, and confirm with a Barbados mission first.",
+    "documents": [
+      "Death certificate - expected, not confirmed",
+      "Certificate of cause of death / non-contagious disease certificate - expected, not confirmed",
+      "Embalming certificate - expected, not confirmed",
+      "Transit / removal permit from the place of death - expected, not confirmed",
+      "Confirm the list with the Barbados High Commission or consulate"
+    ],
+    "coffin": "Not published. A hermetically sealed casket in an outer case is the regional norm and is required by most airlines.",
+    "embalming": "Not published for entry; embalming is expected in practice.",
+    "consular": "No official consular procedure was found online. Contact the Barbados High Commission or consulate in the country of death. Barbados is often a transit point for remains bound for neighbouring islands.",
+    "arrival": "Customs and health clearance at the port of entry; the local funeral director collects. No official burial deadline found.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No private-flight rules found. Grantley Adams International is the port of entry; arrange customs and health clearance and the funeral home's airside collection in advance.",
+    "private_jet_alert": false,
+    "private_jet_note": null,
+    "export": "Leaving Barbados: the death is registered at the Registration Department or a Magistrate's Court. Post-mortems are usual for foreign nationals, normally within 48 hours, and the death certificate (English, without cause of death) usually follows within 3 days. The local funeral director provides the death certificate, certificate of embalming and permission to transfer the remains.",
+    "export_points": [
+      "Post-mortem usual for foreigners, normally within 48 hours",
+      "Death certificate within about 3 days, no cause of death shown",
+      "Funeral director provides embalming certificate and transfer permit",
+      "One crematorium on the island"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Expected; confirm with Barbados mission",
+      "embalming": "Expected; not officially published",
+      "coffin": "Sealed casket expected",
+      "laissez_passer": "Not applicable",
+      "consular": "Ask a Barbados mission",
+      "permit": "Not published; confirm locally",
+      "arrival": "Customs clearance; funeral home collects"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Appoint funeral homes at departure and in Barbados"
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Obtain death certificate, non-contagious disease certificate and embalming"
+      },
+      {
+        "when": "Day 2-4",
+        "what": "Seal the casket; confirm requirements with the Barbados mission"
+      },
+      {
+        "when": "Before take-off",
+        "what": "Receiving funeral home confirms clearance arrangements"
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs and health clearance; funeral home collects"
+      }
+    ],
+    "key_points": [
+      "Entry rules not published online",
+      "Barbados certificates do not state the cause of death",
+      "Common transit point for nearby islands"
+    ],
+    "lead_days": null,
+    "authority": "Ministry of Health and Wellness; Barbados Revenue Authority (Customs)",
+    "sources": [
+      "https://www.gov.uk/guidance/what-to-do-after-a-british-person-dies-in-barbados"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "GD",
+    "name": "Grenada",
+    "status": "requirements",
+    "summary": "Grenada's Human Remains (Importation Control) Regulations require a cause-of-death certificate, a certified preparer's statement and a transit permit. The body must be embalmed (or fully disinfected) and placed in an impervious, hermetically sealed coffin, or embalmed in a sealed plastic container or air disaster bag.",
+    "documents": [
+      "Official certificate of the cause of death from the registrar of deaths or similar authority",
+      "Statement by the person who prepared the remains, certified by an appropriate authority, describing the preparation and confirming the coffin holds only the body and clothing",
+      "Transit permit stating name, age and sex (or a permit also naming cause of death, embalmer, coroner and public health officer)"
+    ],
+    "coffin": "Impervious coffin: a container hermetically sealed by gasket or by soldered/welded metal, or a plastic container sealed by heat or adhesive. No official witnessing of the sealing is described.",
+    "embalming": "Proper embalming, or thorough washing and disinfection with packing and a disinfectant-soaked sheet, before shipment.",
+    "consular": "No legalisation step is set out in the regulations. Ask the Grenada mission in the country of death whether documents must be authenticated.",
+    "arrival": "Documents must accompany the shipment; customs and health clearance at the port of entry; the local funeral home collects. No legal burial deadline found.",
+    "pouch_accepted": true,
+    "pouch": "The regulations allow a properly embalmed body in an air disaster bag or heat/adhesive-sealed plastic container; carriers usually still require a rigid outer container.",
+    "private_aviation": "No private-flight rules found. Land at an airport of entry with customs and health officers and keep the documents with the remains.",
+    "private_jet_alert": false,
+    "private_jet_note": null,
+    "export": "Leaving Grenada: the death certificate (English, with cause of death) is issued by the Registrar General's Department, usually within a few days. Post-mortems usually take place 2-3 days after the body reaches the mortuary. The local funeral director provides the certificate of embalming and permission to transfer the remains. One crematorium operates on the island.",
+    "export_points": [
+      "Registrar General's death certificate within a few days",
+      "Post-mortem usually 2-3 days after arrival at mortuary",
+      "Funeral director provides embalming certificate and transfer permit"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Official cause-of-death certificate",
+      "embalming": "Embalming or full disinfection required",
+      "coffin": "Hermetically sealed impervious coffin",
+      "laissez_passer": "Not applicable",
+      "consular": "No legalisation in the regulations",
+      "permit": "Transit permit from place of death",
+      "arrival": "Customs/health clearance; funeral home collects"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Appoint funeral homes at departure and in Grenada"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain the cause-of-death certificate and transit permit"
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Embalm and seal in an impervious coffin; certified preparer's statement"
+      },
+      {
+        "when": "Day 3",
+        "what": "Send copies to the Grenada funeral home; book the flight"
+      },
+      {
+        "when": "Arrival",
+        "what": "Documents shown at entry; funeral home collects"
+      }
+    ],
+    "key_points": [
+      "Rules set by the Human Remains (Importation Control) Regulations",
+      "Air disaster bag allowed for embalmed bodies under the law",
+      "Confirm current practice with the Ministry of Health"
+    ],
+    "lead_days": null,
+    "authority": "Ministry of Health (port health) and Customs, under the Human Remains (Importation Control) Regulations",
+    "sources": [
+      "https://gndembassyprc.mofa.gov.gd/wp-content/uploads/2024/08/Importation-to-Grenada-of-Human-Remains.pdf",
+      "https://www.gov.uk/guidance/when-someone-dies-in-grenada"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "TT",
+    "name": "Trinidad and Tobago",
+    "status": "strict",
+    "summary": "Importing a body requires prior approval from the Ministry of Health and the Ministry of Homeland Security, obtained by the Ministry of Foreign and CARICOM Affairs after a Trinidad and Tobago mission certifies the original documents; Customs then clears the casket. For non-nationals, the family must first obtain approval from the Ministry of Homeland Security.",
+    "documents": [
+      "Letter from the competent authority at the place of death confirming the documents are authentic",
+      "Original death certificate, apostilled or authenticated in the country of death",
+      "Original non-contagious disease letter from the coroner, doctor or hospital",
+      "Original permit to dispose of or transport human remains",
+      "Original embalming certificate from the funeral home abroad",
+      "Deceased's Trinidad and Tobago passport (or other passport); otherwise treated as a non-national",
+      "English translations by a registered translator, apostilled or authenticated, if needed",
+      "Non-nationals: letter to the Permanent Secretary, Ministry of Homeland Security, explaining ties to Trinidad and Tobago",
+      "Fee set by the processing mission"
+    ],
+    "coffin": "The handbook does not set casket specifications; an embalming certificate is required. Airlines generally require a sealed casket in an outer case. Confirm with the receiving funeral home.",
+    "embalming": "Required: an original embalming certificate from the funeral home abroad.",
+    "consular": "The nearest Trinidad and Tobago mission (or honorary consul, or the local foreign ministry where there is none) certifies the original documents and sends them to the Consular Affairs Division in Port of Spain, which obtains the Ministry of Health and Ministry of Homeland Security approvals. Do not book confirmed flights before approval.",
+    "arrival": "After approval, the Ministry of Foreign and CARICOM Affairs issues a letter to the Customs and Excise Division; the local funeral home collects it and obtains customs clearance (a no-objection document). The local funeral home collects the casket. No legal burial deadline found.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "Approvals must be in hand before the flight is confirmed; most airlines require them and a private operator should too. The casket clears through the Customs and Excise Division at the port of entry with the receiving funeral home.",
+    "private_jet_alert": true,
+    "private_jet_note": "Do not fly before Health and Homeland Security approvals are granted.",
+    "export": "Leaving Trinidad and Tobago: register the death with the District Registrar (certificate usually within a week, longer if police investigate). The UK guidance lists the death certificate, permission to remove the body issued by a coroner, the passport and a letter confirming embalming and sealing of the coffin. The Consular Affairs Division may authenticate or apostille the death certificate. Post-mortems usually take place within 2-3 days.",
+    "export_points": [
+      "District Registrar death certificate, usually within a week",
+      "Coroner's permission to remove the body",
+      "Letter confirming embalming and coffin sealing",
+      "Death certificate apostille from the Ministry of Foreign and CARICOM Affairs if needed"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Original, apostilled or authenticated",
+      "embalming": "Required, original certificate",
+      "coffin": "Not specified; sealed casket expected",
+      "laissez_passer": "Not applicable",
+      "consular": "T&T mission certifies original documents",
+      "permit": "Health and Homeland Security approvals",
+      "arrival": "Customs clearance via local funeral home"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Appoint funeral homes abroad and in Trinidad and Tobago"
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Gather originals: death certificate (apostilled), non-contagious letter, transport permit, embalming certificate"
+      },
+      {
+        "when": "Day 3-4",
+        "what": "Submit to the nearest T&T mission for certification"
+      },
+      {
+        "when": "Following days",
+        "what": "Ministry of Foreign and CARICOM Affairs obtains Health and Homeland Security approvals"
+      },
+      {
+        "when": "After approval",
+        "what": "Letter to Customs; book the flight"
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs clearance; local funeral home collects"
+      }
+    ],
+    "key_points": [
+      "Never confirm flights before approval",
+      "Non-nationals need prior Ministry of Homeland Security approval",
+      "Non-English documents need certified, apostilled translations"
+    ],
+    "lead_days": null,
+    "authority": "Ministry of Foreign and CARICOM Affairs (Consular Affairs Division), with Ministry of Health and Ministry of Homeland Security approval",
+    "sources": [
+      "https://foreign.gov.tt/documents/1823/Handbook_on_the_Repatriation_of_Human_Remains_2025_SugupUC.pdf",
+      "https://foreign.gov.tt/documents/979/Handbook_on_the_Repatriation_of_Human_Remains_-_24-11-2021.pdf",
+      "https://foreign.gov.tt/services/death-overseas/",
+      "https://www.gov.uk/guidance/what-to-do-after-a-british-person-dies-in-trinidad-and-tobago"
+    ],
+    "confidence": "high",
+    "last_checked": "2026-10"
+  }
+]

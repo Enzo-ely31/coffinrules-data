@@ -1,0 +1,681 @@
+[
+ {
+  "cc": "IQ",
+  "name": "Iraq",
+  "status": "requirements",
+  "summary": "To bring a casket into Iraq, the Iraqi embassy or consulate in the country of death registers the death and must receive a written request from the next of kin naming the entry airport, so the approvals can be obtained before the flight. Expect an authenticated or apostilled foreign death certificate, Iraqi ID of the deceased and, for non-Iraqis, a consular fee.",
+  "documents": [
+   "Foreign death certificate, authenticated or apostilled in the country of death",
+   "Iraqi Civil Status ID and Nationality Certificate, or Unified National Card, of the deceased",
+   "ID of the relative reporting the death",
+   "Iraqi death certificate application filed online (icass.mofa.gov.iq) with consular appointment",
+   "Written request from the next of kin naming the entry point (airport) for the body",
+   "Burial or transit permit and health certificate from the country of death (confirm the current list with the consulate)"
+  ],
+  "coffin": "No Iraqi rule on casket construction was found in official sources. In practice a hermetically sealed, metal-lined casket in an outer wooden case is expected for air transport; confirm with the consulate and the airline or operator.",
+  "embalming": "No official Iraqi entry rule on embalming was found. Many departure countries and airlines require it; Muslim families may ask to avoid it. Confirm with the Iraqi consulate.",
+  "consular": "The Iraqi embassy or consulate registers the death (free within 30 days of death, late fines after that) and handles the request to transport the body for burial in Iraq. The Iraqi Embassy in Washington lists a USD 3,200 fee for transporting the remains of Arabs or foreigners for burial in Iraq.",
+  "arrival": "The body enters through the airport named in the request, where it is cleared by Iraqi authorities and released to the family or a funeral service. Muslim burial takes place as soon as possible.",
+  "pouch_accepted": null,
+  "pouch": null,
+  "private_aviation": "The Iraqi consular approval is tied to a named entry point, so the private flight must land at that airport (for example Baghdad, Najaf, Basra or Erbil) and the operator must hold Iraqi landing and overflight permits. Check current conflict-zone notices for Iraqi airspace before planning.",
+  "private_jet_alert": true,
+  "private_jet_note": "Name the arrival airport in the consular request and get Iraqi landing permits before take-off.",
+  "export": "Leaving Iraq is governed by the Funerals Transfer Law No. 52 of 1967. The death is registered in Iraq (certificate in Arabic showing the cause of death); an autopsy is usually required outside the Kurdistan Region and carried out unless the cause is very clear inside it. Bodies are usually moved to the Baghdad funeral office at Bab Almoazam, next to the Institute of Forensic Medicine. Iraqi authorities require a No Objection letter from the deceased's embassy, and a consular officer witnesses the sealing of the casket and legalises the death certificate.",
+  "export_points": [
+   "Funerals Transfer Law No. 52 of 1967 allows repatriation",
+   "Autopsy is usual; Baghdad forensic institute or Kurdistan mortuaries",
+   "Embassy No Objection letter required by Iraqi authorities",
+   "Consular officer witnesses casket sealing"
+  ],
+  "at_a_glance": {
+   "death_certificate": "Apostilled, registered at Iraqi consulate",
+   "embalming": "Not confirmed; ask the consulate",
+   "coffin": "Sealed metal-lined casket expected",
+   "laissez_passer": "Iraqi consular transport approval",
+   "consular": "Request naming the entry airport",
+   "permit": "Burial or transit permit from origin",
+   "arrival": "Airport clearance, prompt Muslim burial"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Contact the Iraqi embassy or consulate in the country of death and appoint a funeral home."
+   },
+   {
+    "when": "Day 1",
+    "what": "Obtain the local death certificate and have it authenticated or apostilled."
+   },
+   {
+    "when": "Day 1-2",
+    "what": "File the Iraqi death registration online and book the consular appointment."
+   },
+   {
+    "when": "Day 2-4",
+    "what": "Submit the written request naming the arrival airport and pay any transport fee."
+   },
+   {
+    "when": "Day 4-5",
+    "what": "Fly the sealed casket to the named airport; family or funeral service collects after clearance."
+   }
+  ],
+  "key_points": [
+   "The consular request must name the entry airport",
+   "Fee of USD 3,200 listed for non-Iraqi remains (Washington embassy)",
+   "Register the death within 30 days to avoid fines",
+   "Kurdistan Region has its own representation; check which office handles the case"
+  ],
+  "lead_days": 4,
+  "authority": "Iraqi Ministry of Foreign Affairs (embassies and consulates)",
+  "sources": [
+   "https://www.gov.uk/government/publications/iraq-bereavement-information-pack/iraq-bereavement-information-pack",
+   "https://mofa.gov.iq/losangeles/?p=2387",
+   "https://iraqiembassy.us/?p=1085"
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "IR",
+  "name": "Iran",
+  "status": "requirements",
+  "summary": "To bring a casket into Iran, contact the Iranian embassy or consulate in the country of death, which registers the death and handles the transfer request. No official published checklist was found, so confirm the documents with the mission; private flights face serious sanctions and airspace constraints.",
+  "documents": [
+   "Original local death certificate, legalised as the Iranian mission requires",
+   "Iranian identity documents of the deceased (shenasnameh, passport, national ID card)",
+   "ID of the applicant",
+   "Transfer request filed with the Iranian consulate (death registration is often started on the Mikhak consular portal)",
+   "Embalming certificate and non-contagious disease certificate from the country of death (practice; confirm)",
+   "Export or transit permit from the country of death"
+  ],
+  "coffin": "No Iranian official rule was found. A hermetically sealed, metal-lined casket in an outer case is the usual standard for air transport; confirm with the mission and the carrier.",
+  "embalming": "Not confirmed for entry. For exits from Iran, embalming is done only at the state forensic mortuary in Tehran and airlines usually require it.",
+  "consular": "The Iranian embassy or consulate registers the death and processes the request to transfer the body. Consular availability varies by country; confirm opening and procedure first.",
+  "arrival": "No official description of arrival formalities was found. Expect customs and health checks at the arrival airport, with release to the family or a funeral service and prompt Muslim burial.",
+  "pouch_accepted": null,
+  "pouch": null,
+  "private_aviation": "US sanctions matter: OFAC General License J-1, which allowed non-US operators to fly eligible US-origin civil aircraft to Iran on temporary sojourn, is marked suspended indefinitely from 8 September 2026. Most business jets contain enough US content to be caught, so a private flight to Iran needs specialist sanctions advice. Also check current conflict-zone notices for Iranian airspace.",
+  "private_jet_alert": true,
+  "private_jet_note": "US sanctions may bar business jets from Iran; get sanctions clearance before quoting.",
+  "export": "Leaving Iran: the body goes to the Legal Medicine (State Forensic) Organization in Tehran, which decides on autopsy and is the only place that embalms for repatriation. The local death certificate must be translated from Farsi and certified by the Iranian Ministry of Foreign Affairs. A police report and permits from local authorities are needed, plus a no-objection letter from the deceased's embassy. For residents the visa is cancelled with the Immigration Police. The coffin is checked and sealed by customs at the airport (Imam Khomeini), with the next of kin or representative present. If tests are pending, the cause may be shown as under investigation; results can take up to 3 months.",
+  "export_points": [
+   "Legal Medicine Organization in Tehran handles autopsy and embalming",
+   "Death certificate translated and certified by the Iranian MFA",
+   "Police report and local permits; embassy no-objection letter",
+   "Coffin sealed by customs at the airport"
+  ],
+  "at_a_glance": {
+   "death_certificate": "Original, legalised for Iranian mission",
+   "embalming": "Usual practice; confirm with mission",
+   "coffin": "Sealed metal-lined casket expected",
+   "laissez_passer": "Iranian consular transfer processing",
+   "consular": "Iranian embassy or consulate involved",
+   "permit": "Export permit from country of death",
+   "arrival": "Airport clearance, prompt Muslim burial"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Contact the Iranian embassy or consulate and a funeral home in the country of death."
+   },
+   {
+    "when": "Day 1",
+    "what": "Obtain the death certificate and local export permits; legalise as the mission asks."
+   },
+   {
+    "when": "Day 1-3",
+    "what": "Register the death and file the transfer request with the Iranian mission."
+   },
+   {
+    "when": "Before booking",
+    "what": "For a private flight, obtain sanctions and airspace clearance for Iran."
+   },
+   {
+    "when": "Departure",
+    "what": "Fly the sealed casket; family or funeral service collects after airport clearance."
+   }
+  ],
+  "key_points": [
+   "No official Iranian entry checklist was found online",
+   "OFAC General License J-1 for aircraft to Iran is suspended",
+   "Iranian deaths abroad are registered through the consular system",
+   "Exits from Iran run through the Tehran forensic organisation"
+  ],
+  "lead_days": null,
+  "authority": "Iranian Ministry of Foreign Affairs (embassies and consulates)",
+  "sources": [
+   "https://www.gov.uk/guidance/when-someone-dies-in-iran",
+   "https://www.schweiz-iran.eda.admin.ch/en/shipment-of-remains",
+   "https://ofac.treasury.gov/media/7971/download"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "IL",
+  "name": "Israel",
+  "status": "requirements",
+  "summary": "To bring a casket into Israel for burial, the Israeli embassy or consulate in the country of death issues a permit for transfer of the body, after a licensed Israeli burial society (Chevra Kadisha or other) confirms the burial place and the collection at Ben Gurion Airport. Jewish burial follows quickly, so arrangements are made before the flight.",
+  "documents": [
+   "Original death certificate, authenticated as the Israeli mission requires",
+   "Passport or Israeli ID of the deceased",
+   "Body transfer form signed by the next of kin",
+   "Commitment from a licensed Israeli burial society (Chevra Kadisha, local council or kibbutz) for the burial place",
+   "Approval for collection of the coffin at Ben Gurion Airport by a registered funeral service or ambulance",
+   "Proof of preservation (embalming or dry ice packing)",
+   "Israeli consular permit for transfer of the body for burial"
+  ],
+  "coffin": "Israeli sources found do not set a casket construction standard; the container is set by the departure country, the airline or operator and the burial society. Three configurations are used: a sealed casket in an air tray, a plain wooden coffin without metal parts, or a human remains pouch in a combination tray. Burial in Israel is usually in shrouds without a coffin or in plain wood, as arranged with the burial society.",
+  "embalming": "Israeli missions ask for proof that the body was preserved, by embalming or dry ice. Jewish practice generally avoids embalming, so dry ice or refrigeration is common where the departure country and carrier allow it.",
+  "consular": "The Israeli embassy or consulate registers the death and issues the permit for transfer for burial; no permit is required for ashes. Missions do not recommend funeral firms. For Israeli residents, a National Insurance residency certificate is passed to the burial society.",
+  "arrival": "The coffin arrives at Ben Gurion Airport and is released from customs and Ministry of Health formalities by the burial society, which collects it and buries quickly, often the same day. Burial in Jewish cemeteries is for people of the Jewish faith; civil burial areas exist.",
+  "pouch_accepted": true,
+  "pouch": "Accepted in practice: a human remains pouch in a combination tray can be used as the transport container, provided the departure country, the funeral home and the carrier allow it and the Israeli burial society agrees before the flight. No Israeli official text on the container was found.",
+  "private_aviation": "No rule specific to remains on private aircraft was found. The private flight lands at Ben Gurion, clears Israeli security and customs, and the burial society or registered ambulance must be booked to meet the aircraft. Check current airport and airspace notices, as Ben Gurion operations can be disrupted.",
+  "private_jet_alert": false,
+  "private_jet_note": "Confirm the burial society will meet the jet at Ben Gurion before take-off.",
+  "export": "Leaving Israel: the Ministry of the Interior issues the death certificate in Hebrew. If police request an autopsy it is done only at the National Centre of Forensic Medicine in Tel Aviv, needs next-of-kin consent or a court order, and the body is usually released within a couple of days. Without an autopsy no cause of death appears on the certificate; the forensic centre and Ministry of Health may review other documents in exceptional cases. A local funeral director handles the export paperwork with the destination funeral director.",
+  "export_points": [
+   "Death certificate in Hebrew from the Ministry of the Interior",
+   "Autopsies only at the Tel Aviv forensic centre, usually a couple of days",
+   "No cause of death on certificate without autopsy",
+   "Local funeral director handles the export paperwork"
+  ],
+  "at_a_glance": {
+   "death_certificate": "Original, authenticated for the Israeli mission",
+   "embalming": "Preservation proof: embalming or dry ice",
+   "coffin": "Casket, plain wood or pouch in tray",
+   "laissez_passer": "Israeli consular permit for burial",
+   "consular": "Israeli mission issues the transfer permit",
+   "permit": "Licensed burial society commitment",
+   "arrival": "Ben Gurion, burial society collects"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Contact a licensed Israeli burial society to fix the burial place and airport collection."
+   },
+   {
+    "when": "Day 0",
+    "what": "Contact the Israeli embassy or consulate in the country of death."
+   },
+   {
+    "when": "Day 1",
+    "what": "Obtain the death certificate and local export permits; arrange preservation (dry ice or embalming)."
+   },
+   {
+    "when": "Day 1-2",
+    "what": "Submit documents to the Israeli mission and receive the transfer permit."
+   },
+   {
+    "when": "Day 2",
+    "what": "Fly to Ben Gurion; the burial society clears and collects the body for burial."
+   }
+  ],
+  "key_points": [
+   "The burial society's commitment comes before the consular permit",
+   "Dry ice is accepted as preservation proof by Israeli missions",
+   "No permit is needed to bring ashes",
+   "Burial usually happens within hours of arrival"
+  ],
+  "lead_days": 2,
+  "authority": "Israeli Ministry of Foreign Affairs (embassies and consulates) with a licensed Israeli burial society",
+  "sources": [
+   "https://www.gov.uk/government/publications/bereavement-information-israel-the-opts",
+   "https://assets.publishing.service.gov.uk/media/69132836d7081798fa18ad6f/when-someone-dies-in-Israel.odt",
+   "https://web.archive.org/web/2024id_/https://embassies.gov.il/stockholm-en/ConsularServices/Pages/Burial-Services.aspx",
+   "https://elysiumjet.com/coffin-or-human-remains-pouch-israel/"
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "PS",
+  "name": "Palestine",
+  "status": "unknown",
+  "summary": "Palestine has no operating airport, so a casket for burial in the West Bank arrives by air in Israel (Ben Gurion) or Jordan (Amman) and continues by road through crossings controlled by Israel. No official published procedure was found; contact the Palestinian embassy and the Israeli or Jordanian mission in the country of death well before the flight.",
+  "documents": [
+   "Original death certificate, legalised as the missions require",
+   "Passport or Palestinian ID of the deceased",
+   "Non-contagious disease certificate and embalming certificate from the country of death (practice; confirm)",
+   "Export or transit permit from the country of death",
+   "Permits from the transit state (Israel or Jordan) and for the crossing into the West Bank (confirm with the missions)"
+  ],
+  "coffin": "No official rule found. A hermetically sealed, metal-lined casket in an outer case is the usual standard for air transport and transit by road.",
+  "embalming": "No official rule found. Transit through a third country and land crossings often make preservation necessary; Muslim families may prefer to avoid embalming. Confirm with the missions and carrier.",
+  "consular": "The Palestinian embassy usually coordinates with the transit state. Requirements of the transit state (Israel or Jordan) also apply. No official checklist was found.",
+  "arrival": "After landing in Israel or Jordan, the coffin crosses into the West Bank by road, with Israeli security clearance at the crossing (Allenby / King Hussein Bridge from Jordan). Gaza crossings have been closed to general traffic since May 2024.",
+  "pouch_accepted": null,
+  "pouch": null,
+  "private_aviation": "A private jet cannot land in the West Bank or Gaza; it must land at Ben Gurion (Israel) or an airport in Jordan, then the coffin continues by road under the transit state's rules.",
+  "private_jet_alert": true,
+  "private_jet_note": "No airport in Palestine; plan landing in Israel or Jordan and the road crossing.",
+  "export": "No official published procedure for sending a body out of the West Bank or Gaza was found. Exits go through Israel or Jordan and need the transit state's clearance. Gaza crossings have been closed to general traffic since May 2024.",
+  "export_points": [
+   "No airport; exit via Israel or Jordan by road",
+   "Transit state clearance needed at the crossing",
+   "Gaza crossings closed to general traffic since May 2024",
+   "Confirm every step with the embassies involved"
+  ],
+  "at_a_glance": {
+   "death_certificate": "Original, legalised; confirm with embassy",
+   "embalming": "Not confirmed; ask the missions",
+   "coffin": "Sealed metal-lined casket expected",
+   "laissez_passer": "Not published; ask the embassy",
+   "consular": "Palestinian embassy plus transit state",
+   "permit": "Transit state and crossing clearance",
+   "arrival": "Land in Israel or Jordan, then road"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Contact the Palestinian embassy and a funeral home in the country of death."
+   },
+   {
+    "when": "Day 0-1",
+    "what": "Choose the transit airport (Ben Gurion or Amman) and contact that state's mission."
+   },
+   {
+    "when": "Day 1-3",
+    "what": "Gather the death certificate, health certificates and export permit; obtain transit and crossing approvals."
+   },
+   {
+    "when": "Departure",
+    "what": "Fly the sealed casket to the transit airport."
+   },
+   {
+    "when": "Arrival",
+    "what": "Road transfer across the crossing to the family for burial."
+   }
+  ],
+  "key_points": [
+   "There is no usable airport in Palestine",
+   "Transit through Israel or Jordan adds approvals",
+   "Crossings can close at short notice",
+   "Gaza is currently not reachable for repatriation"
+  ],
+  "lead_days": null,
+  "authority": "Palestinian embassy in the country of death, with the transit state's authorities",
+  "sources": [
+   "https://www.gov.uk/foreign-travel-advice/the-occupied-palestinian-territories"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "EG",
+  "name": "Egypt",
+  "status": "requirements",
+  "summary": "To bring a casket into Egypt, the Egyptian embassy or consulate in the country of death certifies and translates the death certificate and issues a permit to transport the body to Egypt. It asks for a non-contagious disease certificate, the local transport and burial permit, and a funeral home certificate that the body was embalmed or prepared and placed in a casket under international health rules.",
+  "documents": [
+   "Original death certificate, certified and translated into Arabic by the Egyptian mission",
+   "Egyptian passport of the deceased (stamped cancelled) or Egyptian national ID card",
+   "Certificate from the health authorities of the country of death that death was not caused by a contagious epidemic disease",
+   "Permit from the authorities of the country of death to transport and bury the body",
+   "Funeral home certificate that the body was prepared, embalmed and cased under international health rules",
+   "Egyptian consular permit to transport the body to Egypt"
+  ],
+  "coffin": "The funeral home must place the body in a casket meeting international health rules; in practice a hermetically sealed, metal-lined casket in an outer case. Egypt is reported as a party to the 1937 Berlin Arrangement on the conveyance of corpses, which calls for a sealed metal inner coffin.",
+  "embalming": "The Egyptian mission asks for a funeral home certificate that the body was embalmed or prepared for travel. Embalming is also required for bodies leaving Egypt.",
+  "consular": "The Egyptian embassy or consulate reviews the originals, certifies and translates the death certificate (the Washington embassy lists fees of USD 47 for certification and USD 52 for translation) and issues the transport permit. Mailed files are returned within about 10 business days.",
+  "arrival": "The coffin is cleared at the arrival airport (often the Cairo cargo village) and released to the family or a funeral service. Burial follows quickly, in line with Muslim or Christian practice.",
+  "pouch_accepted": null,
+  "pouch": null,
+  "private_aviation": "No rule specific to remains on private aircraft was found. Land at an airport with customs and health services and have the handling agent arrange clearance of the coffin.",
+  "private_jet_alert": false,
+  "private_jet_note": null,
+  "export": "Leaving Egypt: the death is registered at the district health office and an Arabic death certificate is issued. Embalming is required. The local undertaker needs a signed and stamped permission letter from the deceased's embassy. Postmortems can be carried out without next-of-kin consent; if the forensic report is not final, the certificate may say the cause is not yet determined, which still allows repatriation.",
+  "export_points": [
+   "Register the death at the district health office",
+   "Embalming is required",
+   "Embassy permission letter for the local undertaker",
+   "Pending postmortem does not block repatriation"
+  ],
+  "at_a_glance": {
+   "death_certificate": "Certified and translated by Egyptian mission",
+   "embalming": "Embalming or travel preparation certificate",
+   "coffin": "Sealed casket, international health rules",
+   "laissez_passer": "Egyptian consular transport permit",
+   "consular": "Egyptian mission certifies and issues permit",
+   "permit": "Local transport and burial permit",
+   "arrival": "Airport clearance, prompt burial"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Appoint a funeral home and contact the Egyptian embassy or consulate."
+   },
+   {
+    "when": "Day 1",
+    "what": "Obtain the death certificate, non-contagious certificate and local transport permit."
+   },
+   {
+    "when": "Day 1-2",
+    "what": "Funeral home embalms, cases the body and issues its certificate."
+   },
+   {
+    "when": "Day 2-3",
+    "what": "Egyptian mission certifies, translates and issues the transport permit."
+   },
+   {
+    "when": "Day 3",
+    "what": "Fly the casket; family or funeral service collects after airport clearance."
+   }
+  ],
+  "key_points": [
+   "The Egyptian mission translates the death certificate into Arabic",
+   "Embalming is expected both ways",
+   "State help with costs exists only for families who prove need",
+   "Cremation is not available in Egypt"
+  ],
+  "lead_days": 3,
+  "authority": "Egyptian Ministry of Foreign Affairs (embassies and consulates)",
+  "sources": [
+   "https://egyptembassy.net/consular-services/civil-affairs/death-certificate/",
+   "https://www.gov.uk/government/publications/egypt-bereavement-information-pack/egypt-bereavement-information",
+   "https://webbut.unitbv.ro/index.php/Series_VII/article/download/4607/3528/8755"
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "LY",
+  "name": "Libya",
+  "status": "unknown",
+  "summary": "No official Libyan procedure for bringing a casket into Libya was found. Contact the Libyan embassy or consulate in the country of death before arranging anything; expect a legalised death certificate, health certificates and a sealed casket, and check the security situation and airspace restrictions first.",
+  "documents": [
+   "Original death certificate, legalised as the Libyan mission requires",
+   "Passport or national ID of the deceased",
+   "Non-contagious disease certificate and embalming certificate (practice; confirm)",
+   "Export or transit permit from the country of death",
+   "Any Libyan consular authorisation requested"
+  ],
+  "coffin": "No official rule found. A hermetically sealed, metal-lined casket in an outer case is the usual standard for air transport.",
+  "embalming": "No official rule found; confirm with the Libyan mission and the carrier.",
+  "consular": "Not published. Confirm with the Libyan embassy or consulate whether it issues a transfer authorisation and which documents must be legalised.",
+  "arrival": "Not published. Expect customs and health clearance at the arrival airport and prompt Muslim burial.",
+  "pouch_accepted": null,
+  "pouch": null,
+  "private_aviation": "Libya is a conflict-affected country: the UK advises against all travel except to a few cities (against all but essential travel there) and gives no in-person consular support. US operators face long-standing FAA restrictions on Libyan airspace. Check current conflict-zone notices, airport status and landing permits before planning.",
+  "private_jet_alert": true,
+  "private_jet_note": "Conflict zone: check airspace bans, airport status and permits before quoting.",
+  "export": "No official published procedure for sending a body out of Libya was found. The UK handles Libya cases from its embassy in Tunis. Confirm the local steps (death certificate, police and prosecutor release, sealing) with a local funeral service and the deceased's embassy.",
+  "export_points": [
+   "No official exit procedure published",
+   "UK consular help for Libya comes from Tunis",
+   "Expect police or prosecutor release before export",
+   "Security conditions can delay everything"
+  ],
+  "at_a_glance": {
+   "death_certificate": "Original, legalised; confirm with mission",
+   "embalming": "Not confirmed; ask the mission",
+   "coffin": "Sealed metal-lined casket expected",
+   "laissez_passer": "Not published; ask the mission",
+   "consular": "Contact the Libyan embassy first",
+   "permit": "Export permit from country of death",
+   "arrival": "Not published; prompt Muslim burial"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Contact the Libyan embassy or consulate and a funeral home in the country of death."
+   },
+   {
+    "when": "Day 0-1",
+    "what": "Check airspace restrictions and arrival airport status for the flight."
+   },
+   {
+    "when": "Day 1-3",
+    "what": "Gather the death certificate, health certificates and export permit; legalise as required."
+   },
+   {
+    "when": "Departure",
+    "what": "Fly the sealed casket once the mission confirms the paperwork."
+   },
+   {
+    "when": "Arrival",
+    "what": "Family or funeral service collects after airport clearance."
+   }
+  ],
+  "key_points": [
+   "No official Libyan checklist was found",
+   "Travel advisories and airspace restrictions apply",
+   "Allow extra time for document legalisation",
+   "Confirm the receiving party in Libya before flying"
+  ],
+  "lead_days": null,
+  "authority": "Libyan embassy or consulate in the country of death",
+  "sources": [
+   "https://www.gov.uk/foreign-travel-advice/libya"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "TN",
+  "name": "Tunisia",
+  "status": "requirements",
+  "summary": "To bring a casket into Tunisia, contact the Tunisian consulate with jurisdiction over the place of death, which handles the transfer of nationals. No official published checklist was found; expect the death certificate, a non-contagious disease certificate, a sealed coffin certificate, the export permit of the country of death and the deceased's passport.",
+  "documents": [
+   "Death certificate (legalised or apostilled if the consulate asks)",
+   "Certificate that death was not from a contagious disease",
+   "Funeral home certificate of coffining and hermetic sealing",
+   "Transport or export authorisation from the country of death",
+   "Passport or national ID of the deceased",
+   "Any consular form or authorisation requested by the Tunisian consulate"
+  ],
+  "coffin": "No Tunisian text was found. A hermetically sealed, zinc-lined coffin inside a wooden coffin is the usual standard for air transport.",
+  "embalming": "No official Tunisian rule was found. Airlines often require embalming, while Muslim families may prefer to avoid it; confirm with the consulate and carrier.",
+  "consular": "The Tunisian consulate handles the paperwork for nationals. Press reports say the State has long covered repatriation costs of Tunisians who die abroad; this could not be confirmed on an official page, so ask the consulate.",
+  "arrival": "The coffin is cleared at the arrival airport and released to the family or a funeral service. Muslim burial takes place as soon as possible.",
+  "pouch_accepted": null,
+  "pouch": null,
+  "private_aviation": "No rule specific to remains on private aircraft was found. Land at an airport with customs and health services and have the handling agent arrange clearance.",
+  "private_jet_alert": false,
+  "private_jet_note": null,
+  "export": "Leaving Tunisia: the death is registered at the municipality (death certificate within 72 hours, French version available, cause not stated). Documents needed: local death certificate, doctor's non-contagious certificate, police permission to remove the body, the passport of the deceased and an undertaker's statement that the body is properly coffined and the coffin is fit for transport. The deceased's embassy may add a covering statement. A post-mortem may be held for sudden, unnatural or unexplained deaths.",
+  "export_points": [
+   "Death certificate from the municipality within 72 hours",
+   "Police permission to remove the body",
+   "Non-contagious certificate and undertaker's coffin statement",
+   "Post-mortem possible for unexplained deaths"
+  ],
+  "at_a_glance": {
+   "death_certificate": "Original, legalised as consulate asks",
+   "embalming": "Not set officially; ask consulate",
+   "coffin": "Hermetically sealed, zinc-lined",
+   "laissez_passer": "Tunisian consular paperwork",
+   "consular": "Tunisian consulate handles nationals",
+   "permit": "Export permit from country of death",
+   "arrival": "Airport clearance, prompt Muslim burial"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Contact the Tunisian consulate and a funeral home in the country of death."
+   },
+   {
+    "when": "Day 1",
+    "what": "Obtain the death certificate, non-contagious certificate and export permit."
+   },
+   {
+    "when": "Day 1-2",
+    "what": "Funeral home seals the coffin and issues its certificate."
+   },
+   {
+    "when": "Day 2-3",
+    "what": "Consulate completes its paperwork for the transfer."
+   },
+   {
+    "when": "Day 3",
+    "what": "Fly the casket; family or funeral service collects after clearance."
+   }
+  ],
+  "key_points": [
+   "No official Tunisian entry checklist was found online",
+   "Ask the consulate about State coverage of costs for nationals",
+   "Cremation is not practised in Tunisia",
+   "Exit needs police permission to remove the body"
+  ],
+  "lead_days": 3,
+  "authority": "Tunisian Ministry of Foreign Affairs (consulates)",
+  "sources": [
+   "https://www.gov.uk/guidance/when-someone-dies-in-tunisia"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "DZ",
+  "name": "Algeria",
+  "status": "requirements",
+  "summary": "Algerian law (Executive Decree 16-77 of 24 February 2016) makes burial in Algeria of a person who died abroad subject to a repatriation and transport authorisation issued by the Algerian embassy or consulate in the country of death. Consulates ask for the death certificate, a free-from-infection certificate, an embalming certificate, an undertaker's certificate on the coffin, a certificate of Muslim ritual preparation and the deceased's ID.",
+  "documents": [
+   "Death certificate",
+   "Medical certificate that the body is free from infection",
+   "Embalming certificate from the funeral services",
+   "Undertaker's certificate that the coffin contains only the named deceased",
+   "Certificate that the body was prepared according to Muslim rites",
+   "Export or release permit from the country of death (for example a coroner's out of England certificate)",
+   "Identity documents of the deceased, including the consular card; birth certificate if not registered at the consulate"
+  ],
+  "coffin": "A hermetically sealed, zinc-lined coffin inside a wooden coffin is expected. Under Decree 16-77 a hermetic coffin is compulsory when transport exceeds 100 km and more than 24 hours pass between coffining and burial, when death was due to a contagious disease, or when the wali so decides.",
+  "embalming": "Algerian consulates list an embalming certificate among the required documents, together with a certificate of Muslim ritual washing. Ask the consulate if a non-embalmed body is acceptable.",
+  "consular": "The Algerian consulate issues the transfer authorisation and the Algerian death certificate, and informs the family and Algerian authorities of the arrival date. The funeral services appointed by the family usually file the paperwork.",
+  "arrival": "The coffin is cleared at the arrival airport and released to the family or a funeral service. The president of the communal people's assembly (APC) of the burial place issues the burial authorisation. Muslim burial takes place as soon as possible.",
+  "pouch_accepted": null,
+  "pouch": null,
+  "private_aviation": "No rule specific to remains on private aircraft was found. The consular transfer authorisation must travel with the coffin, and the handling agent must arrange clearance at the arrival airport.",
+  "private_jet_alert": false,
+  "private_jet_note": "Carry the original consular transfer authorisation on board.",
+  "export": "Leaving Algeria: the death is registered at the town hall (certificate in Arabic or French, no cause of death). For a foreign national, transport of the body to the home country is authorised by the wali of the place of death, and the Minister of the Interior is informed (Decree 16-77, art. 10). The deceased's embassy issues a mortuary pass and power of attorney. Autopsies, when ordered, are usually done within 24 hours. If repatriation does not happen within 15 days, local authorities can proceed with burial; the public prosecutor can approve one extension.",
+  "export_points": [
+   "Wali of the place of death authorises export of a foreigner's body",
+   "Hermetic coffin for long transport or contagious disease",
+   "Embassy mortuary pass and power of attorney",
+   "Local burial can follow if not repatriated within 15 days"
+  ],
+  "at_a_glance": {
+   "death_certificate": "Original plus consular registration",
+   "embalming": "Embalming certificate requested by consulates",
+   "coffin": "Hermetically sealed, zinc-lined",
+   "laissez_passer": "Algerian consular transfer authorisation",
+   "consular": "Consulate authorisation required by law",
+   "permit": "Export permit from country of death",
+   "arrival": "Airport clearance, APC burial permit"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Contact the Algerian consulate and a funeral home in the country of death."
+   },
+   {
+    "when": "Day 1",
+    "what": "Obtain the death certificate, free-from-infection certificate and export permit."
+   },
+   {
+    "when": "Day 1-2",
+    "what": "Ritual washing, embalming and sealing; funeral home issues its certificates."
+   },
+   {
+    "when": "Day 2-3",
+    "what": "Consulate issues the Algerian death certificate and transfer authorisation."
+   },
+   {
+    "when": "Day 3",
+    "what": "Fly the casket; family or funeral service collects and buries promptly."
+   }
+  ],
+  "key_points": [
+   "The consular authorisation is a legal requirement (Decree 16-77)",
+   "A certificate of Muslim ritual preparation is requested",
+   "Cremation is not available in Algeria",
+   "Check the wording of the non-infection certificate carefully"
+  ],
+  "lead_days": 3,
+  "authority": "Algerian embassies and consulates; Ministry of the Interior and walis for exits",
+  "sources": [
+   "https://algerian-consulate.org.uk/civil-status/death-transfer-of-corpse",
+   "https://www.gov.uk/guidance/when-someone-dies-in-algeria",
+   "https://archive.gazettes.africa/archive/dz/2016/dz-government-gazette-dated-2016-02-28-no-12.pdf"
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "MA",
+  "name": "Morocco",
+  "status": "requirements",
+  "summary": "Under Decree 2-22-218 of 31 May 2022, bringing a body into Morocco needs an entry authorisation from the Ministry of Foreign Affairs or the service it delegates (in practice the Moroccan consulate), requested with the route and burial place. The file includes the foreign death certificate, a non-contagious certificate, a report that the body was placed in a hermetically sealed coffin, and IDs; without it the body can be refused on arrival.",
+  "documents": [
+   "Written request stating the route of the body and the place of burial",
+   "Copy of the Moroccan electronic ID card (or other ID) of the deceased and of the applicant",
+   "Death certificate issued by the authorities of the country of death",
+   "Report (proces-verbal) of placing the body in a hermetically sealed coffin, issued by the competent authorities of the country of death",
+   "Certificate that the body is not contagious, from the health services of the country of death",
+   "Document from the judicial authorities of the country of death if the death was unnatural or suspected to be"
+  ],
+  "coffin": "Hermetically sealed and sealed coffin, with an official sealing report from the country of death. Morocco's 2025 health and safety order describes a zinc coffin of at least 0.45 mm with a filter, fixed inside a sealed wooden coffin 30 mm thick, and requires transport coffins to meet the standard set on a health doctor's opinion.",
+  "embalming": "No general embalming requirement appears in the decree. For certain infectious diseases the 2025 order requires the body to be coffined without washing or embalming. Airlines may require embalming; confirm with the consulate and carrier.",
+  "consular": "The Moroccan consulate processes the entry authorisation on behalf of the Ministry of Foreign Affairs and registers the death. That authorisation also counts as the transport permit inside Morocco. Translations into Arabic or French may be requested.",
+  "arrival": "Airport health services check the documents, then the body is released to the family or a funeral company. The burial permit is issued by the president of the communal council of the burial place on the basis of the entry authorisation. Muslim burial takes place quickly.",
+  "pouch_accepted": false,
+  "pouch": null,
+  "private_aviation": "The entry authorisation is requested with the route of the body, so the private flight and arrival airport should be stated in the request and match the authorisation. Land at an airport with health control and customs.",
+  "private_jet_alert": true,
+  "private_jet_note": "State the private flight route and arrival airport in the consular request.",
+  "export": "Leaving Morocco: the exit authorisation is issued by the governor (amel) of the prefecture or province where the body is, on a request naming the destination country, with ID, a non-contagious certificate, the consent of the destination country's embassy or consulate, judicial authorisation for unnatural deaths, and a sealing report of the hermetic coffin drawn up by the national police or Royal Gendarmerie (Decree 2-22-218, art. 10). Files go to a one-stop desk at the communal hygiene office with a morgue. The King's Prosecutor orders an autopsy for non-natural deaths and deaths of foreigners. CMPF is cited as the only firm able to repatriate non-Muslim foreigners. Formalities usually take 2 to 3 days.",
+  "export_points": [
+   "Governor's exit authorisation (Decree 2-22-218)",
+   "Coffin sealed with a police or gendarmerie report",
+   "Destination country's consular consent required",
+   "Usually 2 to 3 days; autopsy for many foreign deaths"
+  ],
+  "at_a_glance": {
+   "death_certificate": "Foreign certificate plus consular registration",
+   "embalming": "Not required by decree; ask carrier",
+   "coffin": "Hermetic zinc-lined, sealing report",
+   "laissez_passer": "Moroccan entry authorisation (MFA/consulate)",
+   "consular": "Consulate issues entry authorisation",
+   "permit": "Request naming route and burial place",
+   "arrival": "Airport health check, communal burial permit"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Contact the Moroccan consulate and a funeral home in the country of death."
+   },
+   {
+    "when": "Day 1",
+    "what": "Obtain the death certificate, non-contagious certificate and local export permit."
+   },
+   {
+    "when": "Day 1-2",
+    "what": "Coffin is hermetically sealed and the official sealing report issued."
+   },
+   {
+    "when": "Day 2-3",
+    "what": "Consulate issues the entry authorisation naming route and burial place."
+   },
+   {
+    "when": "Day 3",
+    "what": "Fly the casket; airport health check, then release for burial."
+   }
+  ],
+  "key_points": [
+   "Entry authorisation is required by Decree 2-22-218",
+   "An official sealing report must accompany the coffin",
+   "Cremation is not practised in Morocco",
+   "A pouch alone does not meet the hermetic coffin rule"
+  ],
+  "lead_days": 3,
+  "authority": "Moroccan Ministry of Foreign Affairs (consulates); governors for exits",
+  "sources": [
+   "https://adala.justice.gov.ma/api/uploads/2024/09/03/مرسوم يتعلق بمعاينة الوفاة ودفن الجثث ونقلها وإخراجها من القبور-1725353161404.pdf",
+   "https://adala.justice.gov.ma/api/uploads/2026/03/13/قرار مشترك لوزير الداخلية ووزير الصحة  رقم 1250.25 يتعلق ب-1773405442468.pdf",
+   "https://www.gov.uk/government/publications/morocco-bereavement-information-pack/morocco-bereavement-death-abroad"
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10"
+ }
+]

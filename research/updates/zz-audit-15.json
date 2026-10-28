@@ -1,0 +1,387 @@
+[
+  {
+    "cc": "VI",
+    "status": "requirements",
+    "name": "US Virgin Islands",
+    "summary": "US Virgin Islands is a US territory, so a casket arriving from abroad is subject to the same federal CDC rules as the US mainland (42 CFR 71 expressly covers US Virgin Islands): the remains must be in a leak-proof container and, unless embalmed, travel with a death certificate stating the cause of death. A licensed local funeral home receives the remains after CBP clearance.",
+    "coffin": "CDC requires all non-cremated remains to be fully contained in a leak-proof container (for example a casket with a leak-proof lining or a sealed metal transfer case). No territorial rule on zinc lining or witnessed sealing was found; the country of departure may impose a hermetically sealed zinc-lined coffin.",
+    "embalming": "Not required by US federal rules for entry, but embalmed remains are exempt from the CDC death-certificate requirement. Remains of a person who died of certain infectious diseases may need a CDC import permit unless embalmed. Most departure countries and airlines require embalming anyway.",
+    "consular": "No legalisation is required for entry. If a US citizen dies abroad, the US embassy or consulate can issue a Consular Report of Death Abroad and, where no death certificate exists, a Consular Mortuary Certificate. Foreign-language documents need an English translation.",
+    "arrival": "CBP clears the remains at the first US port of entry, with CDC requirements checked against the documents. Under 42 CFR 71.55 the remains must go directly to a licensed mortuary, cemetery or crematory. The receiving funeral home then handles the local burial or cremation formalities with the Virgin Islands Department of Health Office of Vital Records and Statistics; the territory's own requirements are not published online.",
+    "pouch": null,
+    "private_aviation": "Human remains on a private or charter flight need the same documents as airline cargo; the documents travel with the coffin and are presented to customs and health officials at the arrival airport. The coffin (typically about 2.2 m long, 70-100 kg once zinc-lined) must physically fit the aircraft's cargo door or a cabin configured for it, which rules out many light and midsize jets. An international arrival into US Virgin Islands must clear US Customs and Border Protection, so plan the flight to an airport where CBP clearance can be arranged in advance and have the receiving funeral home meet the aircraft. A flight from the US mainland is a domestic flight and needs no CBP entry, but the state burial-transit permit must travel with the remains.",
+    "export": "Not published online. The Department of Health Office of Vital Records and Statistics registers deaths and works with funeral homes; a licensed funeral home normally obtains the death certificate and a removal or burial-transit permit before departure. For destinations outside the US, the destination consulate's requirements (embalming, sealed coffin, legalisation) apply. Confirm with the Office of Vital Records (St Thomas or St Croix).",
+    "authority": "US CDC and CBP (entry); Virgin Islands Department of Health, Office of Vital Records and Statistics (exit)",
+    "last_checked": "2026-10",
+    "documents": [
+      "Death certificate stating the cause of death (English or with a translation), unless the remains are embalmed",
+      "Embalming certificate where the body is embalmed",
+      "Consular Report of Death Abroad or Consular Mortuary Certificate from the US embassy if the deceased was a US citizen",
+      "Removal or export permit from the country of departure",
+      "Passport of the deceased and air waybill or flight manifest",
+      "Name and contact of the receiving licensed funeral home in US Virgin Islands"
+    ],
+    "sources": [
+      "https://www.cdc.gov/importation/human-remains/index.html",
+      "https://www.ecfr.gov/current/title-42/chapter-I/subchapter-F/part-71/subpart-A/section-71.1",
+      "https://www.ecfr.gov/current/title-42/chapter-I/subchapter-F/part-71/subpart-F/section-71.55",
+      "https://doh.vi.gov/programs/vital-records-statistics/"
+    ],
+    "pouch_accepted": null,
+    "private_jet_alert": false,
+    "at_a_glance": {
+      "death_certificate": "Required unless embalmed; English translation",
+      "embalming": "Not required by federal law for entry",
+      "coffin": "Leak-proof container or sealed casket",
+      "laissez_passer": "Not applicable (US rules)",
+      "consular": "US consular mortuary certificate if needed",
+      "permit": "CDC permit only for infectious diseases",
+      "arrival": "CBP clearance; licensed funeral home receives"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Register the death abroad and appoint a local funeral director and a receiving funeral home in US Virgin Islands"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain the death certificate (cause of death), embalming certificate and local removal permit"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "If a US citizen, request the Consular Report of Death or Mortuary Certificate from the US embassy"
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Place the body in a leak-proof sealed casket and book the flight with CBP clearance arranged"
+      },
+      {
+        "when": "On arrival",
+        "what": "CBP clearance, then direct transfer to the licensed funeral home for burial or cremation permits"
+      }
+    ],
+    "key_points": [
+      "Federal CDC rules apply exactly as on the US mainland",
+      "Embalming removes the death-certificate requirement for CDC purposes",
+      "Local exit rules are not published online; confirm with the funeral home"
+    ],
+    "export_points": [
+      "Funeral home obtains certified death certificate and removal permit",
+      "Office of Vital Records and Statistics registers the death",
+      "Destination consulate's requirements apply abroad",
+      "Territorial rules not published online; confirm locally"
+    ],
+    "private_jet_note": "International arrivals must clear CBP; arrange clearance before take-off.",
+    "confidence": "medium",
+    "lead_days": null
+  },
+  {
+    "cc": "VN",
+    "status": "strict",
+    "name": "Vietnam",
+    "summary": "A body may enter Vietnam only with a permit from the Vietnamese embassy or consulate in the country of death, which needs prior written consent from the People's Committee (or cemetery) where the body will be buried. The body must travel in a three-layer coffin with a hermetically sealed zinc inner layer, and deaths from transmissible diseases cannot be brought in.",
+    "coffin": "Vietnamese law (Ministry of Health Circular 21/2021) requires a three-layer coffin for cross-border transport: an inner layer of zinc or other non-leaking load-bearing material, lined with absorbent and hermetically sealed; a wooden middle layer; and a plywood outer layer. Vietnamese embassy guidance (Ottawa, New Delhi) describes a zinc-covered coffin lined with PVC sheets and absorbent material, placed in an outer wooden case sealed by security and health authorities in the country of departure.",
+    "embalming": "Not explicitly required by the embassy pages consulted. Vietnamese hygiene rules limit holding a body to 48 hours without refrigeration and 7 days refrigerated at 4 C or below, so embalming is in practice expected for air transport.",
+    "consular": "The Vietnamese embassy or consulate in the country of death issues the entry permit (Circular 01/2011: within 1 working day of a complete file; embassies in Ottawa and New Delhi announce 5 to 7 business days). The permit also cancels the deceased's Vietnamese passport and is notified to border customs and immigration. Group A infectious disease deaths (e.g. Ebola, cholera, SARS, plague) are refused.",
+    "arrival": "Border customs and health quarantine at the arrival airport check the permit and documents before release to the family or funeral service. Remains must comply with Vietnamese customs and quarantine law.",
+    "pouch": null,
+    "private_aviation": "The embassy permit application names the arrival airport, carrier, flight number and arrival time, so a private flight must be scheduled before the permit is requested. Use an international airport with customs and health quarantine.",
+    "export": "To take a body out of Vietnam, the funeral director obtains an international medical quarantine certificate (in Hanoi from the International Centre for Disease Control) and permission from the Quarantine and Customs and Immigration Office; a certificate of preservation, the death certificate and passport are also needed. Local authorities require a diplomatic note from the deceased's embassy confirming the family's wishes. Hospitals normally embalm. Local formalities take about one week (gov.uk); the death certificate takes about a week.",
+    "authority": "Vietnamese embassy or consulate (Ministry of Foreign Affairs, Consular Department); local People's Committee; border health quarantine",
+    "last_checked": "2026-10",
+    "documents": [
+      "Vietnamese embassy permit application form (with landing airport, carrier, flight number and arrival time)",
+      "Written consent of the local People's Committee in Vietnam where the body will be buried, obtained by a relative in Vietnam",
+      "Death certificate (certified copy)",
+      "Applicant's passport or ID and proof of relationship",
+      "Deceased's passport and proof of Vietnamese origin where relevant",
+      "Certificate of no infectious or contagious disease and local quarantine / transit permit",
+      "Funeral director certificate that only the body is in the casket"
+    ],
+    "sources": [
+      "https://vietnamembassy-usa.org/consular/permit-transport-remains-and-dead-bodies-vietnam",
+      "https://vietnamembassydelhi.in/cremated-remains-dead-body-to-vietnam/",
+      "https://vietnamembassy.ca/?p=513",
+      "https://www.gov.uk/guidance/when-someone-dies-in-vietnam"
+    ],
+    "pouch_accepted": false,
+    "private_jet_alert": true,
+    "at_a_glance": {
+      "death_certificate": "Certified copy with embassy application",
+      "embalming": "Expected; time limits on holding bodies",
+      "coffin": "Three layers, sealed zinc inner coffin",
+      "laissez_passer": "Not applicable",
+      "consular": "Vietnamese embassy entry permit required",
+      "permit": "People's Committee burial consent required",
+      "arrival": "Customs and health quarantine at airport"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "A relative in Vietnam requests written consent from the local People's Committee where the body will be buried."
+      },
+      {
+        "when": "Day 1",
+        "what": "Obtain the death certificate, no-contagious-disease certificate, transit permit and embalming in the country of death."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Prepare the three-layer coffin with sealed zinc inner layer; have the outer case sealed as required."
+      },
+      {
+        "when": "Day 2-5",
+        "what": "Apply to the Vietnamese embassy or consulate with the flight details; the permit is issued in 1 to 7 working days depending on the post."
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs and health quarantine clear the coffin; the family or funeral service collects it for burial."
+      }
+    ],
+    "key_points": [
+      "Local People's Committee consent is needed first",
+      "Group A infectious-disease deaths are refused",
+      "Three-layer coffin with zinc inner is mandatory"
+    ],
+    "export_points": [
+      "International medical quarantine certificate (CDC)",
+      "Quarantine and Customs and Immigration Office permission",
+      "Diplomatic note from the deceased's embassy",
+      "About one week of local formalities"
+    ],
+    "private_jet_note": "The Vietnamese permit is issued for a named flight and arrival airport; change of flight may require amendment.",
+    "confidence": "high",
+    "lead_days": 5
+  },
+  {
+    "cc": "YT",
+    "status": "requirements",
+    "name": "Mayotte (France)",
+    "summary": "Mayotte is an overseas department of France and follows French rules: from abroad, the French embassy or consulate in the country of death authorises the transport; from mainland France, the prefect of the department where the coffin is closed authorises it. An airtight (metal-lined) coffin is mandatory by air.",
+    "coffin": "Airtight coffin with a metal box (in practice soldered zinc inside a wooden coffin) is mandatory for air transport under French rules. A hermetic coffin complicates later cremation.",
+    "embalming": "French rules do not impose embalming for an incoming body; the departure country and airline usually require it for long journeys.",
+    "consular": "From abroad, entry into France (including overseas departments) and transport to the place of burial or cremation require authorisation from the French embassy or consulate. France is a party to the 1973 Strasbourg Agreement; whether a Strasbourg laissez-passer alone suffices for this department is not stated, confirm with the consulate. Families bear all costs.",
+    "arrival": "The receiving funeral director takes the coffin at the airport. French law (CGCT art. R2213-33) sets burial or cremation no later than the 14th calendar day after the body enters the territory of the overseas department when it comes from abroad; the prefect may grant exceptions. Most of the population is Muslim and families usually seek a rapid burial; prepare paperwork before the flight.",
+    "pouch": null,
+    "private_aviation": "Same documents as airline cargo; the coffin must be airtight for any air transport. Plan arrival at Dzaoudzi-Pamandzi international airport, with customs (douane) and border police, and have the receiving funeral director meet the aircraft. The runway at Dzaoudzi-Pamandzi is short, which limits some long-range jets; check aircraft performance with the operator.",
+    "export": "The funeral company handles formalities. To mainland France or abroad, the prefect of the department where the coffin is closed authorises the transport; air transport requires an airtight coffin. Ashes need authorisation from the prefect of the place of cremation or of the applicant's residence. The destination country's consular rules also apply.",
+    "authority": "French embassy or consulate abroad (entry from abroad); Prefect of Mayotte (exit) and prefect where the coffin is closed",
+    "last_checked": "2026-10",
+    "documents": [
+      "Local death certificate (transcription into French civil status by the consulate recommended)",
+      "Medical certificate of cause of death or non-contagion certificate",
+      "Embalming or conservation certificate where required by the departure country",
+      "Transport authorisation from the French embassy or consulate (from abroad) or from the prefect where the coffin is closed (from mainland France or another DOM)",
+      "Coffin closure/sealing certificate",
+      "Details of the receiving funeral director and cemetery or crematorium"
+    ],
+    "sources": [
+      "https://www.service-public.gouv.fr/particuliers/vosdroits/F35706",
+      "https://www.diplomatie.gouv.fr/fr/services-aux-francaises-et-aux-francais/assistance-et-securite/deces-a-l-etranger",
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p",
+      "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049946142"
+    ],
+    "pouch_accepted": false,
+    "private_jet_alert": false,
+    "at_a_glance": {
+      "death_certificate": "Local certificate; French transcription advised",
+      "embalming": "Usually required by departure country",
+      "coffin": "Airtight metal-lined coffin mandatory",
+      "laissez_passer": "French consular authorisation from abroad",
+      "consular": "French consulate authorises entry",
+      "permit": "Prefect authorisation from mainland France",
+      "arrival": "Burial within 14 days of entry"
+    },
+    "steps": [
+      {
+        "when": "Day 0-1",
+        "what": "Register the death and contact the French consulate (abroad) or a funeral company (mainland)"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain death certificate, medical certificate and embalming as required"
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Coffin sealed in airtight zinc-lined coffin; consular or prefect authorisation issued"
+      },
+      {
+        "when": "Day 3-5",
+        "what": "Flight with documents travelling with the coffin"
+      },
+      {
+        "when": "On arrival",
+        "what": "Local funeral director collects; burial or cremation within 14 days of entry"
+      }
+    ],
+    "key_points": [
+      "Same rules as France",
+      "Airtight coffin compulsory for any air transport",
+      "Muslim families usually seek rapid burial"
+    ],
+    "export_points": [
+      "Prefect authorises transport out of the department",
+      "Airtight metal-lined coffin mandatory by air",
+      "Ashes: prefect of cremation place or residence",
+      "Family bears costs; check insurance"
+    ],
+    "private_jet_note": "An airtight zinc-lined coffin is mandatory for any flight.",
+    "confidence": "medium",
+    "lead_days": 3
+  },
+  {
+    "cc": "ZA",
+    "status": "strict",
+    "name": "South Africa",
+    "summary": "A coffin can enter South Africa only with an import permit issued in advance by the National Department of Health (Director-General of Health); no permit is issued at the point of entry. The body must be embalmed (unless religion forbids it) and sealed in an airtight container inside a sturdy non-transparent coffin.",
+    "coffin": "For non-infectious remains, the body is sealed in an airtight container and placed in a sturdy, non-transparent coffin. Infectious remains must also be placed in a polythene bag, and their sealed container may not be opened without approval of the medical officer (Regulation R363, reg. 12).",
+    "embalming": "Embalming is required and certified. If embalming cannot be done for religious reasons, a statement from the relevant authority describing the alternative preservation method must be supplied. Bodies of persons who died of smallpox, anthrax or viral haemorrhagic fever must not be embalmed.",
+    "consular": "A South African embassy or the funeral undertaker can submit the permit application; the Consulate General in New York, for example, sends a request letter with the deceased's particulars to Pretoria. Documents not in English need a certified translation. South Africa is not a party to the Strasbourg Agreement.",
+    "arrival": "Port Health (Border Management Authority) detains and inspects human remains on arrival and grants clearance only once permit conditions are met. Remains arriving without a permit can be held in a mortuary at the importer's cost and, if no permit follows within 30 days, buried by order of the Director-General. A certified local undertaker receives the coffin.",
+    "pouch": null,
+    "private_aviation": "The permit application must name the point of entry and the type of transport, so a private flight must land at the declared port of entry with Port Health (Border Management Authority) presence. The regulations require an airtight container in a sealed coffin on public transport and an approved coffin or container otherwise; confirm acceptable containers with the Department of Health.",
+    "export": "Leaving South Africa also requires an export permit from the National Department of Health (applied for by email; about 2 working days once complete). The file includes a cover letter naming the exit point and transport, death certificate with cause of death, ID or passport (or a police affidavit), an embalming certificate stamped by the undertaker and embalmer with the address of the embalming premises, a family request letter, a non-infectious disease certificate, the Notice of Death form (BI-1663), the Burial Order from the Department of Home Affairs and the undertaker's Certificate of Competence.",
+    "authority": "National Department of Health (Director-General of Health); Port Health, Border Management Authority",
+    "last_checked": "2026-10",
+    "documents": [
+      "Import permit from the National Department of Health, applied for by email to humanremainspermits@health.gov.za (valid 30 days)",
+      "Cover letter from the embassy or funeral undertaker naming the deceased, place of burial, date, place and cause of death, the South African point of entry and the type of transport",
+      "Death certificate clearly stating the cause of death (certified English translation if needed)",
+      "ID document or passport of the deceased",
+      "Embalming certificate (or statement of the alternative preservation method if embalming is refused for religious reasons)",
+      "Letter from a family member requesting the import, with their ID or passport and contact details",
+      "Non-infectious (or infectious) disease certificate signed by a registered medical practitioner or forensic pathologist",
+      "Certificate of Competence of the South African funeral undertaker who will receive the remains"
+    ],
+    "sources": [
+      "https://www.health.gov.za/wp-content/uploads/2024/03/Approved-Guidelines-on-Issuance-of-Human-Remains-Permits-1.pdf",
+      "https://ugu.gov.za/wp-content/uploads/2024/07/Regulation-R363-Relating-to-the-Management-of-Human-remains.pdf",
+      "https://www.sars.gov.za/latest-news/updated-prohibited-and-restricted-imports-and-exports-list-21/",
+      "https://dirco.gov.za/newyork/importing-mortal-remains/",
+      "https://www.gov.uk/guidance/when-someone-dies-in-south-africa"
+    ],
+    "pouch_accepted": null,
+    "private_jet_alert": true,
+    "at_a_glance": {
+      "death_certificate": "Required, cause of death in English",
+      "embalming": "Required unless religious exemption",
+      "coffin": "Airtight container in sturdy opaque coffin",
+      "laissez_passer": "Export permit of country of death",
+      "consular": "Embassy may submit; translations certified",
+      "permit": "Health Department import permit before departure",
+      "arrival": "Port Health inspection, certified undertaker"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Obtain the death certificate and appoint a funeral home in the country of death and a certified undertaker in South Africa."
+      },
+      {
+        "when": "Day 0-1",
+        "what": "Embalming, non-infectious disease certificate and sealing of the airtight container and coffin."
+      },
+      {
+        "when": "Day 1",
+        "what": "Email the complete import permit application to the National Department of Health."
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Permit issued (target 2 working days); obtain the local exit permit and book the flight to the named point of entry."
+      },
+      {
+        "when": "Arrival",
+        "what": "Port Health inspection and clearance, then handover to the South African undertaker."
+      }
+    ],
+    "key_points": [
+      "No permit is issued at the airport",
+      "Permit valid 30 days and names the entry point",
+      "Incomplete applications are not processed",
+      "Ashes need no permit, only death and cremation certificates"
+    ],
+    "export_points": [
+      "Department of Health export permit, about 2 working days",
+      "Burial Order from Home Affairs and BI-1663 notice of death",
+      "Embalming and airtight container in a sealed coffin",
+      "Port Health inspection at departure"
+    ],
+    "private_jet_note": "The Department of Health permit must be issued before take-off and must name your arrival airport.",
+    "confidence": "high",
+    "lead_days": 3
+  },
+  {
+    "cc": "ZM",
+    "status": "strict",
+    "name": "Zambia",
+    "summary": "Bringing remains into Zambia needs prior written consent from the Permanent Secretary, Ministry of Foreign Affairs in Lusaka, requested through the Zambian embassy. The body must be in a hermetically sealed casket inside a wooden outer box, attested by the local health authority.",
+    "coffin": "Hermetically sealed casket inside a wooden outer box, attested by a notarised statement from the local health authority of the country of death.",
+    "embalming": "The Zambian embassy checklist (Washington) does not list embalming. Airlines and departure countries usually require it; confirm with the Zambian embassy.",
+    "consular": "Contact the Zambian embassy's consular section and send a scanned application package; prior written consent comes from the Permanent Secretary, Ministry of Foreign Affairs in Lusaka. No fee or processing time is published. Zambia is not a party to the 1973 Strasbourg Agreement.",
+    "arrival": "The application must name the Zambian residents who will take charge of the remains. Arrival clearance details are not published; originals should travel with the coffin for customs and health checks.",
+    "pouch": null,
+    "private_aviation": "No published rule specific to private or charter flights was found. Human remains travel with the same documents as on an airline (originals with the coffin), and the aircraft should land at an international airport with customs, immigration and port-health officers on duty; usual landing and overflight permissions for foreign-registered aircraft apply. The zinc-lined coffin (about 2.2 m, often 100 kg or more) must fit the cargo door or a cabin configured for it. Main international airports include Lusaka (Kenneth Kaunda) and Ndola.",
+    "export": "The UK FCDO guide covers death registration (Registrar General, Lusaka, or local Boma offices; certificates in English, collectable within 48 hours), body identification and release from the morgue by the next of kin or a nominee. It does not detail export permits, embalming or coffin rules or timelines; the funeral director handles them. Post-mortems and police cases can delay release.",
+    "authority": "Ministry of Foreign Affairs, Lusaka (Permanent Secretary), via Zambian embassies",
+    "last_checked": "2026-10",
+    "documents": [
+      "Application with the deceased's name and details, reason for the request and tentative transport schedule",
+      "Names and addresses of the Zambian residents responsible for the remains in Zambia",
+      "Notarised statement from the local health authority that there is no danger of infection",
+      "Notarised statement from the local health authority that the body is in a hermetically sealed casket and wooden outer box",
+      "Locally issued burial and/or transit permit",
+      "Certified copy of the death certificate"
+    ],
+    "sources": [
+      "https://www.zambiaembassy.org/node/1846",
+      "https://www.gov.uk/government/publications/lusaka-bereavement-death-abroad/zambia-bereavement-information",
+      "https://www.gov.uk/guidance/what-to-do-after-a-british-person-dies-in-zambia",
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+    ],
+    "pouch_accepted": null,
+    "private_jet_alert": true,
+    "at_a_glance": {
+      "death_certificate": "Certified copy required",
+      "embalming": "Not listed; usually done, confirm",
+      "coffin": "Hermetically sealed casket in wooden box",
+      "laissez_passer": "Not applicable",
+      "consular": "Zambian embassy forwards to Lusaka",
+      "permit": "Prior written consent from Foreign Ministry",
+      "arrival": "Named Zambian residents take charge"
+    },
+    "steps": [
+      {
+        "when": "Day 0-1",
+        "what": "Register the death locally; contact the Zambian embassy consular section"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain death certificate, burial/transit permit and health authority statements"
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Send scanned application package naming the receiving family in Zambia"
+      },
+      {
+        "when": "After consent",
+        "what": "Seal casket in wooden outer box and confirm flight"
+      },
+      {
+        "when": "Arrival",
+        "what": "Named family or funeral home in Zambia takes charge of the remains"
+      }
+    ],
+    "key_points": [
+      "Consent from the Foreign Ministry in Lusaka is needed before shipping",
+      "Health authority must attest the hermetic sealing",
+      "Processing time is not published; allow extra days"
+    ],
+    "export_points": [
+      "Death certificate from the Registrar General within 48 hours",
+      "Next of kin or nominee releases the body from the morgue",
+      "Export permits not published; funeral director arranges",
+      "Confirm destination consulate rules"
+    ],
+    "private_jet_note": "Do not take off before Lusaka's written consent is received.",
+    "confidence": "medium",
+    "lead_days": null
+  }
+]

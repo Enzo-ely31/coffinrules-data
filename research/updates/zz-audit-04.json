@@ -1,0 +1,814 @@
+[
+  {
+    "cc": "CW",
+    "status": "requirements",
+    "name": "Curaçao",
+    "summary": "The Landsbesluit implementing art. 40 of the Begrafenisverordening (P.B. 1975 no. 46, consolidated text P.B. 2025 no. 145) allows a body to be brought into Curaçao if it is embalmed or otherwise preserved, sealed in a hermetic coffin of impermeable material with absorbent material inside a sound outer coffin, labelled, and accompanied by a medical/death statement, an embalming statement and a transport statement from the authority of the place of death. Burial must take place as soon as possible with written leave from the civil registrar.",
+    "coffin": "Hermetically sealed coffin made of impermeable material with absorbent material, containing only the body, its clothing, packing material and personal effects, packed to the satisfaction of the doctor designated by the Minister of Health, Environment and Nature in a well-closing outer coffin. The law does not name the material (zinc is not specified); confirm with the receiving funeral home. Name, first names, date of birth, date and place of death and destination must be clearly marked on the coffin. The law does not say who must witness the sealing at origin.",
+    "embalming": "Required: the body must be embalmed or properly preserved by another method. If the death was due to a quarantinable disease, arterial and cavity embalming is mandatory.",
+    "consular": "No consular step is set by the law; the transport statement must come from the competent authority of the country where the death occurred. Confirm with the receiving funeral home or the Curaçao civil registry whether legalisation, apostille or translation of foreign documents is needed.",
+    "arrival": "The three statements are presented on arrival. Bodies brought into Curaçao must be buried as soon as possible and only with written leave, issued free of charge, from the civil registrar (ambtenaar van de burgerlijke stand), which cannot be issued before the death statement is produced.",
+    "pouch": null,
+    "private_aviation": "No published rule specific to private aircraft. The same coffin and document rules apply as for cargo; confirm customs and health clearance arrangements for the arrival airport and arrange collection by a local funeral home.",
+    "export": "Leaving Curaçao: the same rules apply. The body must be embalmed or otherwise preserved, sealed in a hermetic impermeable coffin with absorbent material inside an outer coffin to the satisfaction of the doctor designated by the Minister of Health, Environment and Nature, labelled, and accompanied by the medical/death statement, the embalming statement and a transport statement for the authorities of the destination. Exhumed remains travel in a hermetically sealed coffin with the exhumation/transport permit where required and a death certificate extract. No typical delay is published.",
+    "authority": "Ministry of Health, Environment and Nature (GMN) and the Civil Registry (Burgerlijke Stand), Curaçao",
+    "last_checked": "2026-10",
+    "documents": [
+      "Medical statement from the competent doctor where the death occurred, or an extract of the death certificate (name, birth date/age, date and place of death, cause of death or statement that death was natural / not due to a contagious disease)",
+      "Statement from the person who embalmed or otherwise preserved the body, describing the method used",
+      "Statement from the competent authority of the place of death on how and by which route the body will be transported"
+    ],
+    "sources": [
+      "https://gobiernu.cw/wp-content/uploads/2025/11/145-GT.-Lbham-tuv-art.-40-Begrafenisvo-1.pdf"
+    ],
+    "pouch_accepted": false,
+    "private_jet_alert": false,
+    "at_a_glance": {
+      "death_certificate": "Death statement or certificate extract required",
+      "embalming": "Required (or other preservation method)",
+      "coffin": "Hermetically sealed, impermeable, outer case",
+      "laissez_passer": "Transport statement from origin authority",
+      "consular": "No consular step set by law",
+      "permit": "Civil registrar burial leave on arrival",
+      "arrival": "Bury as soon as possible"
+    },
+    "steps": [
+      {
+        "when": "Before departure",
+        "what": "Funeral home at origin obtains the death certificate/medical statement and embalms or preserves the body."
+      },
+      {
+        "when": "Before departure",
+        "what": "Origin authority issues a statement on how and by which route the body will travel."
+      },
+      {
+        "when": "Before departure",
+        "what": "Body sealed in a hermetic coffin inside an outer coffin, labelled with identity and destination."
+      },
+      {
+        "when": "Arrival",
+        "what": "The three statements are presented on arrival; local funeral home collects."
+      },
+      {
+        "when": "After arrival",
+        "what": "Civil registrar issues free written burial leave; burial as soon as possible."
+      }
+    ],
+    "key_points": [
+      "Hermetic sealing and preservation are legal requirements, so a pouch alone is not acceptable",
+      "Curaçao has its own legislation within the Kingdom of the Netherlands (text consolidated in 2025)",
+      "Burial must take place as soon as possible after arrival, with free written leave from the civil registrar"
+    ],
+    "export_points": [
+      "Embalming or other preservation is mandatory",
+      "Hermetic impermeable coffin inside an outer coffin, approved by the designated doctor",
+      "Death/medical statement, embalming statement and transport statement must travel with the body",
+      "No typical delay published"
+    ],
+    "private_jet_note": "Coffin must be hermetically sealed and labelled; have the three statements in hand for customs on landing.",
+    "confidence": "high",
+    "lead_days": null
+  },
+  {
+    "cc": "CY",
+    "status": "requirements",
+    "name": "Cyprus",
+    "summary": "Cyprus is a party to the Strasbourg Agreement; its competent authority for the laissez-passer for a corpse is the Director of the Department of Medical Services, Ministry of Health. A coffin from another party state travels on the departure country's laissez-passer in a hermetically sealed coffin meeting the Agreement's standard; rules for coffins from non-party countries are not published online.",
+    "coffin": "From Strasbourg states: hermetically sealed coffin with absorbent material, as required by the Agreement (in practice a zinc or other sealed metal liner inside a wooden coffin). Cyprus-specific rules for incoming coffins are not published online; confirm with the receiving Cypriot funeral director.",
+    "embalming": "Embalming is a legal requirement for repatriation from Cyprus. For incoming bodies follow the departure country's rules and confirm with the receiving funeral director; funerals in Cyprus are normally held within 24-48 hours of death.",
+    "consular": "From Strasbourg states the laissez-passer is sufficient. From other countries, ask the Cypriot embassy or consulate whether legalised documents are needed; Ministry of Health rules for incoming coffins are not published online.",
+    "arrival": "Customs and health clearance at the arrival airport; the receiving Cypriot funeral director arranges burial. There are no cremation facilities in Cyprus.",
+    "pouch": null,
+    "private_aviation": "Human remains on a private or charter flight need the same documents as airline cargo; they travel with the coffin and are shown to customs and health officials at the arrival airport. A sealed coffin is large and heavy, so it must fit the aircraft's cargo door or a cabin configured for it, which rules out many light and midsize jets. Land at a Republic of Cyprus airport (Larnaca or Paphos): the Republic treats entry through the north, such as Ercan airport, as illegal entry.",
+    "export": "A local funeral director arranges repatriation: embalming is a legal requirement, and the funeral director provides the special casket and the documents, including a certificate of embalming. For Strasbourg destinations the laissez-passer is issued under the authority of the Director of Medical Services, Ministry of Health. Exhumation rules and typical delays are not published; confirm with the funeral director.",
+    "authority": "Ministry of Health, Department of Medical Services",
+    "last_checked": "2026-10",
+    "documents": [
+      "Laissez-passer for a corpse from the departure country (Strasbourg states) or its equivalent transport permit",
+      "Death certificate",
+      "Embalming certificate (where the departure country requires embalming)",
+      "Other documents as advised by the receiving Cypriot funeral director"
+    ],
+    "sources": [
+      "https://www.gov.uk/government/publications/cyprus-bereavement-information/bereavement-information-for-cyprus",
+      "https://www.gov.uk/foreign-travel-advice/cyprus/entry-requirements",
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+    ],
+    "pouch_accepted": null,
+    "private_jet_alert": true,
+    "at_a_glance": {
+      "death_certificate": "Required; issued in Greek, Turkish, English",
+      "embalming": "Required to leave; confirm for arrivals",
+      "coffin": "Hermetically sealed coffin (Strasbourg standard)",
+      "laissez_passer": "Sufficient from Strasbourg states",
+      "consular": "Ask consulate for non-treaty countries",
+      "permit": "Ministry of Health (Medical Services)",
+      "arrival": "Larnaca or Paphos; funeral within days"
+    },
+    "steps": [
+      {
+        "when": "Day 0-1",
+        "what": "Appoint funeral directors; obtain death certificate"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Embalming and sealing in a hermetically sealed coffin"
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Departure laissez-passer or transport permit"
+      },
+      {
+        "when": "Departure",
+        "what": "Flight to Larnaca or Paphos; customs and health clearance"
+      },
+      {
+        "when": "Arrival",
+        "what": "Cypriot funeral director arranges burial"
+      }
+    ],
+    "key_points": [
+      "No cremation facilities in Cyprus",
+      "Embalming is a legal requirement for repatriation from Cyprus",
+      "Entry through the north (e.g. Ercan) is treated as illegal by the Republic"
+    ],
+    "export_points": [
+      "Embalming legally required",
+      "Funeral director provides casket and certificate of embalming",
+      "Laissez-passer from the Director of Medical Services (Strasbourg destinations)",
+      "No crematorium in Cyprus"
+    ],
+    "private_jet_note": "Land at Larnaca or Paphos; the Republic treats entry via Ercan (north) as illegal.",
+    "confidence": "medium",
+    "lead_days": null
+  },
+  {
+    "cc": "CZ",
+    "status": "requirements",
+    "name": "Czechia",
+    "summary": "Czechia applies the Strasbourg Agreement and the 1937 Berlin agreement, so a coffin from a party state travels on the departure country's laissez-passer. From other countries, the Czech embassy or consulate in the country of death must approve the repatriation and issues the accompanying document (pruvodni list) for a 200 CZK fee.",
+    "coffin": "A sturdy coffin with a zinc liner meeting the international agreements (Strasbourg articles 6 and 7: watertight, absorbent material, only the body and personal effects).",
+    "embalming": "Embalming is not usually mandatory in Czechia; follow the departure country's rules for incoming bodies. Bodies leaving Czechia normally travel with an embalming certificate.",
+    "consular": "From non-treaty countries the Czech embassy or consulate must agree to the repatriation and issues the pruvodni list in paper form, sent to the funeral service by post (fee 200 CZK in local currency). The foreign death certificate needs an apostille or consular legalisation so it can be registered at the special registry office (zvlastni matrika) in Brno.",
+    "arrival": "The coffin is cleared on arrival with its transport documents. The body must be handed to a licensed funeral service, which arranges burial or cremation; for a Czech citizen, the foreign death certificate is registered with the special registry office (zvlastni matrika).",
+    "pouch": null,
+    "private_aviation": "Human remains on a private or charter flight need the same documents as airline cargo; they travel with the coffin and are shown to customs and health officials at the arrival airport. A zinc-lined coffin is about 2.2 m long and often 70-100 kg or more, so it must fit the aircraft's cargo door or a cabin configured for it, which rules out many light and midsize jets. Land at an airport with customs facilities and have the receiving funeral director meet the aircraft airside.",
+    "export": "For a foreigner who dies in Czechia, the regional public health station (krajska hygienicka stanice) issues the pruvodni list (laissez-passer) required under the applicable agreement. For a destination outside the agreements, that state's embassy or consulate must consent, based on proof of death and confirmation of no criminal or health objection. On request and at the applicant's cost, customs can seal the coffin at the funeral home, crematorium or public health station and record the seal on the transport documents. The body is normally embalmed and travels in a zinc-lined coffin. Funerals must be ordered within 96 hours, though authorities normally allow more time for foreigners.",
+    "authority": "Regional public health stations (Ministry of Health); Czech embassies and consulates (Ministry of Foreign Affairs)",
+    "last_checked": "2026-10",
+    "documents": [
+      "Laissez-passer for a corpse from the departure country (treaty states), or the Czech consulate's accompanying document (pruvodni list)",
+      "Foreign death certificate with apostille or consular legalisation, and an official translation if requested",
+      "Embalming certificate where required by the departure country"
+    ],
+    "sources": [
+      "https://portal.gov.cz/en/rozcestniky/repatriation-of-bodies-RZC-41",
+      "https://portal.gov.cz/sluzby-vs/umrti-obcana-cr-vzahranici-S10378",
+      "https://mzv.gov.cz/jnp/cz/zahranicni_vztahy/vyrocni_zpravy_a_dokumenty/poskytnute_informace/preprava_lidskych_pozustatku.html",
+      "https://celnisprava.gov.cz/cz/celni-urad-pro-hlavni-mesto-prahu/Documents/119037-5r18_poskytnute_informace.pdf",
+      "https://www.gov.uk/government/publications/czech-republic-bereavement-packinformation/czech-republic-bereavement-information",
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+    ],
+    "pouch_accepted": null,
+    "private_jet_alert": false,
+    "at_a_glance": {
+      "death_certificate": "Apostille or consular legalisation needed",
+      "embalming": "Per departure country's rules",
+      "coffin": "Sealed coffin with zinc liner",
+      "laissez_passer": "Sufficient from treaty states",
+      "consular": "Czech consulate approves non-treaty cases",
+      "permit": "Pruvodni list (200 CZK) if needed",
+      "arrival": "Licensed Czech funeral service collects"
+    },
+    "steps": [
+      {
+        "when": "Day 0-1",
+        "what": "Contact insurer or Czech consulate; appoint funeral services"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Death certificate obtained and apostilled or legalised"
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Embalming if required; sealing in zinc-lined coffin"
+      },
+      {
+        "when": "Day 2-4",
+        "what": "Laissez-passer or Czech consular pruvodni list issued"
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs clearance; Czech funeral service arranges burial; death registered in Brno"
+      }
+    ],
+    "key_points": [
+      "Treaty states: laissez-passer suffices",
+      "Other states: Czech consulate must approve",
+      "Urns need no permit to enter Czechia"
+    ],
+    "export_points": [
+      "Pruvodni list from the regional public health station",
+      "Non-treaty destinations need their consulate's consent",
+      "Zinc-lined coffin; customs seal possible",
+      "Funeral to be ordered within 96 hours"
+    ],
+    "confidence": "high",
+    "lead_days": 3
+  },
+  {
+    "cc": "DE",
+    "status": "requirements",
+    "name": "Germany",
+    "summary": "Germany signed but never ratified the Strasbourg Agreement; it applies the 1937 Berlin agreement, under which a corpse laissez-passer (Leichenpass) from the departure country is the key document. Burial law is set by each federal state, and the receiving German funeral director handles local burial or cremation formalities.",
+    "coffin": "Under the Berlin agreement: a hermetically closed (soldered) metal coffin, with absorbent material in the bottom, placed inside a wooden coffin at least 3 cm thick with watertight joints. Zinc is the usual metal; confirm any state-specific rules with the receiving funeral director.",
+    "embalming": "No federal embalming rule for incoming bodies is published; follow the departure country's rules and confirm with the receiving German funeral director.",
+    "consular": "German embassies and consulates can help with contacts to local authorities abroad. Whether foreign documents need legalisation, an apostille or a translation depends on the country of death; ask the German mission or the receiving funeral director.",
+    "arrival": "Customs clearance at the arrival airport; the receiving German funeral director arranges burial or cremation. Burial and cremation rules differ between the federal states.",
+    "pouch": null,
+    "private_aviation": "Human remains on a private or charter flight need the same documents as airline cargo; they travel with the coffin and are shown to customs and health officials at the arrival airport. A zinc-lined coffin is about 2.2 m long and often 70-100 kg or more, so it must fit the aircraft's cargo door or a cabin configured for it, which rules out many light and midsize jets. Land at an airport with customs facilities and have the receiving funeral director meet the aircraft airside.",
+    "export": "The Leichenpass is issued by the local authority of the place of death (e.g. the public order office in Stuttgart, EUR 70), on application by the funeral company, with the medical death certificate, the civil death certificate and all documents required for a burial. If there are signs of an unnatural death or the person is unidentified, approval by the public prosecutor or a judge is required first. Under the Berlin agreement the body travels in a soldered metal coffin inside a wooden coffin; the rules of the destination and transit countries also apply.",
+    "authority": "Local authorities of the federal states (Leichenpass); German missions abroad",
+    "last_checked": "2026-10",
+    "documents": [
+      "Laissez-passer for a corpse (Leichenpass) issued by the departure country's authority",
+      "Death certificate (an international multilingual version can avoid translation)",
+      "Medical certificate of cause of death",
+      "Embalming certificate where required by the departure country"
+    ],
+    "sources": [
+      "https://www.stuttgart.de/organigramm/leistungen/leichenpass-beantragen",
+      "https://www.gov.uk/guidance/what-to-do-after-a-british-person-dies-in-germany",
+      "https://be.brussels/en/identity-nationality/death-and-funerals/coffining-and-transport-abroad/coffining-and-transport-germany-or-another-country-not-bound-strasbourg-agreement",
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+    ],
+    "pouch_accepted": null,
+    "private_jet_alert": false,
+    "at_a_glance": {
+      "death_certificate": "Required; multilingual version avoids translation",
+      "embalming": "Per departure country's rules",
+      "coffin": "Soldered metal coffin, wooden outer",
+      "laissez_passer": "Leichenpass from departure country",
+      "consular": "Ask German mission about legalisation",
+      "permit": "Federal state burial rules apply",
+      "arrival": "Funeral director handles burial formalities"
+    },
+    "steps": [
+      {
+        "when": "Day 0-1",
+        "what": "Register death locally; appoint local and German funeral directors"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain death certificate and medical certificate"
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Sealing in soldered metal coffin; obtain laissez-passer"
+      },
+      {
+        "when": "Departure",
+        "what": "Flight to Germany with documents on the coffin"
+      },
+      {
+        "when": "Arrival",
+        "what": "German funeral director handles burial or cremation under state law"
+      }
+    ],
+    "key_points": [
+      "Germany follows Berlin 1937, not Strasbourg 1973 (signed, never ratified)",
+      "Burial law differs between the 16 states",
+      "Rules of transit countries also apply"
+    ],
+    "export_points": [
+      "Leichenpass from the local authority, applied for by funeral company",
+      "Prosecutor or judge release if death unnatural",
+      "Soldered metal coffin in wooden outer coffin",
+      "Check destination and transit country rules"
+    ],
+    "confidence": "medium",
+    "lead_days": null
+  },
+  {
+    "cc": "DK",
+    "status": "requirements",
+    "name": "Denmark",
+    "summary": "Every body transported into Denmark must travel with a corpse laissez-passer (ligpas) issued by the competent authority of the sending state (Executive Order 152/1983). Denmark is not a party to the Strasbourg Agreement but applies equivalent coffin rules; Nordic transfers are simplified.",
+    "coffin": "Moisture-proof coffin with absorbent material: either an outer wooden coffin with sides at least 20 mm thick and a carefully soldered zinc inner coffin, or a single wooden coffin at least 30 mm thick lined with zinc. For air transport a pressure-equalising device with filter is required unless the coffin has a soldered zinc inner coffin and the body is embalmed. Transfers to and from Finland, Iceland, Norway and Sweden only need a tight, solid coffin.",
+    "embalming": "Not required as such. For air transport, a coffin with a soldered zinc inner coffin needs either an embalming certificate or a certificate for an approved pressure-equalising device with filter; a single zinc-lined wooden coffin always needs the device. For incoming bodies the sending state's rules also apply.",
+    "consular": "No Danish consular step is set by the regulation: the sending state's ligpas is the key document. The Danish embassy or consulate can advise on bringing a coffin or urn home; ask it whether the foreign death certificate needs legalisation or translation.",
+    "arrival": "The death is reported to the parish (church) office, which also serves as the burial request; the receiving Danish undertaker arranges this. Burial or cremation generally takes place within eight days of death.",
+    "pouch": null,
+    "private_aviation": "Human remains on a private or charter flight need the same documents as airline cargo; they travel with the coffin and are shown to customs and health officials at the arrival airport. A zinc-lined coffin is about 2.2 m long and often 70-100 kg or more, so it must fit the aircraft's cargo door or a cabin configured for it, which rules out many light and midsize jets. Land at an airport with customs facilities and have the receiving funeral director meet the aircraft airside. The Danish coffin rules for air transport (zinc inner coffin plus embalming, or an approved pressure valve) apply to any aircraft.",
+    "export": "The ligpas for a body leaving Denmark is issued by the Danish Patient Safety Authority (Styrelsen for Patientsikkerhed, which took over the former embedslaege role). The request form records the route and transport mode and the undertaker's attestation that the coffin meets Executive Order 152/1983 and holds only the body and permitted personal effects, with a soldering certificate for a zinc inner coffin and, for air transport, an embalming certificate or a pressure-equalising device certificate. Transport must start as soon as possible and no later than 8 days after death unless the issuing authority grants an extension.",
+    "authority": "Danish Patient Safety Authority (Styrelsen for Patientsikkerhed) for the ligpas; parish offices for burial",
+    "last_checked": "2026-10",
+    "documents": [
+      "Ligpas (laissez-passer for a corpse) from the sending state's competent authority",
+      "Death certificate (translation may be requested)",
+      "Embalming certificate where required by the sending state"
+    ],
+    "sources": [
+      "https://www.retsinformation.dk/eli/lta/1983/152",
+      "https://www.borger.dk/sundhed-og-sygdom/doedsfald--hospice-og-behandlingstestamente/doedsfald-i-udlandet",
+      "https://stps.dk/Media/638484279056493252/Ligtransport-ua.pdf",
+      "https://www.gov.uk/government/publications/denmark-bereavement-packinformation/denmark-bereavement-information",
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+    ],
+    "pouch_accepted": false,
+    "private_jet_alert": false,
+    "at_a_glance": {
+      "death_certificate": "Required; translation may be requested",
+      "embalming": "Or pressure valve, for zinc coffins flown",
+      "coffin": "Soldered zinc inner coffin, wooden outer",
+      "laissez_passer": "Ligpas from sending state required",
+      "consular": "No Danish consular step required",
+      "permit": "Parish office burial approval",
+      "arrival": "Burial usually within 8 days"
+    },
+    "steps": [
+      {
+        "when": "Day 0-1",
+        "what": "Appoint funeral directors; obtain death certificate"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Embalming and sealing in zinc-lined coffin"
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Sending state issues the ligpas (laissez-passer)"
+      },
+      {
+        "when": "Day 2-4",
+        "what": "Flight to Denmark with ligpas on the coffin"
+      },
+      {
+        "when": "Arrival",
+        "what": "Danish undertaker obtains parish burial approval"
+      }
+    ],
+    "key_points": [
+      "Ligpas required in both directions",
+      "Not a Strasbourg party; Nordic rules simplified",
+      "Ashes need no ligpas"
+    ],
+    "export_points": [
+      "Ligpas from the Danish Patient Safety Authority",
+      "Undertaker attests coffin; soldering certificate for zinc",
+      "Embalming or pressure-valve certificate for air",
+      "Leave within 8 days of death"
+    ],
+    "private_jet_note": "Coffins flown need a soldered zinc inner coffin with embalming, or an approved pressure valve.",
+    "confidence": "high",
+    "lead_days": 2
+  },
+  {
+    "cc": "DO",
+    "status": "requirements",
+    "name": "Dominican Republic",
+    "summary": "The Dominican consulate in the country of death processes the shipping documents: for a body, the original death certificate from the vital records office, a certificate of no contagious disease from the local health department, and a notarised embalming certificate signed by the funeral director or embalmer. The receiving Dominican funeral home clears the coffin at the airport.",
+    "coffin": "Not specified on the consulate page. A hermetically sealed coffin is the usual international standard for air transport; confirm with the Dominican consulate and the airline.",
+    "embalming": "Required in practice: the consulate's list for a body includes a notarised embalming certificate. The UK government also lists an embalming certificate among documents for repatriation out of the Dominican Republic.",
+    "consular": "Documents are submitted to the Dominican consulate covering the place of death (the New York consulate publishes the checklist; tel. +1 212 768 2480, infony@mirex.gob.do). For cremated remains the death and cremation certificates must be apostilled by the US Department of State. Holders of a valid Dominican electronic ordinary passport are covered by a free repatriation insurance with Seguros Reservas (up to USD 9,000; notify Seguros Reservas within 48 hours of the death; 6-month waiting period for death from illness), per the Direccion General de Pasaportes.",
+    "arrival": "Not published officially. The receiving Dominican funeral home normally handles customs and health clearance at the airport. Confirm burial or cremation formalities with the funeral home.",
+    "pouch": null,
+    "private_aviation": "Human remains on a private or charter flight need the same documents as airline cargo; the documents travel with the coffin and are presented to customs and health officials at the arrival airport. The coffin (typically about 2.2 m long, 70-100 kg once zinc-lined) must physically fit the aircraft's cargo door or a cabin configured for it, which rules out many light and midsize jets. Land at an international airport with customs and health officers (for example Santo Domingo Las Americas or Punta Cana) and have the receiving funeral home meet the aircraft. No specific rule for private flights carrying remains was found.",
+    "export": "To send a body out of the Dominican Republic, the death is registered at the Civil Registry office nearest to where it occurred; the death certificate is usually issued within 3 working days. All foreign nationals who die in the country undergo a post-mortem at the Pathology Institute in Santo Domingo or Santiago. The UK government lists the documents for repatriation as the civil registry death certificate, a certificate of embalming and a certificate giving permission to transfer the remains. Dominican death certificates are in Spanish and do not state the cause of death; check whether the destination requires it.",
+    "authority": "Dominican consulate in the country of departure (Ministry of Foreign Affairs, MIREX); Civil Registry and Pathology Institute (exit)",
+    "last_checked": "2026-10",
+    "documents": [
+      "Original death certificate issued by the vital records office of the place of death",
+      "Certificate of no contagious disease (certificacion de no contagio) from the local health department",
+      "Embalming certificate signed by the funeral director or embalmer, notarised",
+      "Removal or transit permit where the country of departure issues one (confirm with the consulate)"
+    ],
+    "sources": [
+      "https://usa.mirex.gob.do/consular/new-york/traducciones/",
+      "https://pasaportes.gob.do/wp-content/uploads/2026/07/DOCUMENTO-GUIA-DEL-USUARIO-SERVICIO-DE-REPATRI_260218_190723.pdf",
+      "https://www.gov.uk/guidance/what-to-do-after-a-british-person-dies-in-the-dominican-republic"
+    ],
+    "pouch_accepted": null,
+    "private_jet_alert": false,
+    "at_a_glance": {
+      "death_certificate": "Original vital records certificate",
+      "embalming": "Notarised embalming certificate required",
+      "coffin": "Sealed coffin usual; not officially specified",
+      "laissez_passer": "Not a Strasbourg party",
+      "consular": "Dominican consulate processes documents",
+      "permit": "Certificate of no contagious disease",
+      "arrival": "Funeral home handles clearance"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the Dominican consulate; if the deceased held a Dominican e-passport, notify Seguros Reservas within 48 hours."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain the death certificate, no-contagious-disease certificate and notarised embalming certificate, plus any removal permit required at origin."
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Submit the documents to the Dominican consulate covering the place of death."
+      },
+      {
+        "when": "Day 3-5",
+        "what": "Seal the coffin and fly to an international airport with customs."
+      },
+      {
+        "when": "On arrival",
+        "what": "Funeral home clears the coffin and arranges burial or cremation."
+      }
+    ],
+    "key_points": [
+      "Consulate checklist: death certificate, no-contagion and embalming certificates",
+      "Dominican e-passport holders have repatriation insurance up to USD 9,000",
+      "Foreigners dying in the country always have a post-mortem"
+    ],
+    "export_points": [
+      "Death certificate from the Civil Registry, usually within 3 working days",
+      "Post-mortem for all foreign nationals at the Pathology Institute",
+      "Embalming certificate and permission to transfer the remains needed",
+      "Death certificate in Spanish without cause of death"
+    ],
+    "private_jet_note": "Have the consulate process the originals before take-off; they travel with the coffin.",
+    "confidence": "medium",
+    "lead_days": null
+  },
+  {
+    "cc": "DZ",
+    "status": "requirements",
+    "name": "Algeria",
+    "summary": "Algerian law (Executive Decree 16-77 of 24 February 2016) makes burial in Algeria of a person who died abroad subject to a repatriation and transport authorisation issued by the Algerian embassy or consulate in the country of death. Consulates ask for the death certificate, a free-from-infection certificate, an embalming certificate, an undertaker's certificate on the coffin, a certificate of Muslim ritual preparation and the deceased's ID.",
+    "coffin": "Under Decree 16-77 (art. 12) a hermetic coffin, built to specifications set by joint order of the Interior and Health ministers, is compulsory when transport exceeds 100 km and more than 24 hours pass between coffining and burial, when death was due to a contagious disease, or when the wali so decides. A coffin flown from abroad therefore needs to be hermetically sealed; confirm the liner type (usually zinc) with the consulate and the funeral home.",
+    "embalming": "Algerian consulates list an embalming certificate among the required documents, together with a certificate of Muslim ritual washing. Ask the consulate if a non-embalmed body is acceptable.",
+    "consular": "The Algerian consulate issues the transfer authorisation and the Algerian death certificate, and informs the family and Algerian authorities of the arrival date. The funeral services appointed by the family usually file the paperwork.",
+    "arrival": "The coffin is cleared at the arrival airport and released to the family or a funeral service. The president of the communal people's assembly (APC) of the burial place issues the burial authorisation. Muslim burial takes place as soon as possible.",
+    "pouch": null,
+    "private_aviation": "No rule specific to remains on private aircraft was found. The consular transfer authorisation must travel with the coffin, and the handling agent must arrange clearance at the arrival airport.",
+    "export": "Leaving Algeria: the death is registered at the town hall (certificate usually in Arabic or French, no cause of death). For a foreign national, transport of the body to the home country is authorised by the wali of the place of death, and the Minister of the Interior is informed (Decree 16-77, art. 10). For British nationals, the British Embassy issues a mortuary pass and power of attorney; other nationals should ask their embassy. Autopsies, when ordered, are usually done within 24 hours. If repatriation does not happen within 15 days, local authorities proceed with burial; the public prosecutor can approve one extension.",
+    "authority": "Algerian embassies and consulates; Ministry of the Interior and walis for exits",
+    "last_checked": "2026-10",
+    "documents": [
+      "Death certificate",
+      "Medical certificate that the body is free from infection",
+      "Embalming certificate from the funeral services",
+      "Undertaker's certificate that the coffin contains only the named deceased",
+      "Certificate that the body was prepared according to Muslim rites",
+      "Export or release permit from the country of death (for example a coroner's out of England certificate)",
+      "Identity documents of the deceased, including the consular card; birth certificate if not registered at the consulate"
+    ],
+    "sources": [
+      "https://algerian-consulate.org.uk/civil-status/death-transfer-of-corpse",
+      "https://www.gov.uk/guidance/when-someone-dies-in-algeria",
+      "https://www.joradp.dz/FTP/jo-francais/2016/F2016012.pdf"
+    ],
+    "pouch_accepted": null,
+    "private_jet_alert": false,
+    "at_a_glance": {
+      "death_certificate": "Original plus consular registration",
+      "embalming": "Embalming certificate requested by consulates",
+      "coffin": "Hermetically sealed coffin required",
+      "laissez_passer": "Algerian consular transfer authorisation",
+      "consular": "Consulate authorisation required by law",
+      "permit": "Export permit from country of death",
+      "arrival": "Airport clearance, APC burial permit"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the Algerian consulate and a funeral home in the country of death."
+      },
+      {
+        "when": "Day 1",
+        "what": "Obtain the death certificate, free-from-infection certificate and export permit."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Ritual washing, embalming and sealing; funeral home issues its certificates."
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Consulate issues the Algerian death certificate and transfer authorisation."
+      },
+      {
+        "when": "Day 3",
+        "what": "Fly the casket; family or funeral service collects and buries promptly."
+      }
+    ],
+    "key_points": [
+      "The consular authorisation is a legal requirement (Decree 16-77)",
+      "A certificate of Muslim ritual preparation is requested",
+      "Cremation is not available in Algeria",
+      "Check the wording of the non-infection certificate carefully"
+    ],
+    "export_points": [
+      "Wali of the place of death authorises export of a foreigner's body",
+      "Hermetic coffin for long transport or contagious disease",
+      "Embassy mortuary pass (British Embassy for UK nationals)",
+      "Local burial can follow if not repatriated within 15 days"
+    ],
+    "private_jet_note": "Carry the original consular transfer authorisation on board.",
+    "confidence": "high",
+    "lead_days": 3
+  },
+  {
+    "cc": "EC",
+    "status": "requirements",
+    "name": "Ecuador",
+    "summary": "Ecuador requires a free sanitary entry authorisation (autorizacion sanitaria de ingreso) issued by the Ministry of Public Health office at the international airport or border post of arrival, on presentation of an apostilled, Spanish-translated death certificate, an embalming certificate and the transfer permit from the country of death (Regulation 000001-2022, art. 34). Packaging must follow the IATA rules.",
+    "coffin": "Regulation 000001-2022 (art. 27) requires entry and exit of bodies to comply with the IATA cargo manual conditions; art. 34 says the coffin must meet the regulation's technical characteristics. The regulation does not name a material; confirm the coffin type (usually hermetically sealed, metal-lined, in an outer case) with the airline and the receiving funeral home. No official witness of sealing is required by the text.",
+    "embalming": "Required for entry: an embalming certificate (or cremation certificate) is a mandatory document (art. 34). The preservation certificate must state why it was done, identification data, the technique and the substances and materials used (art. 23). Embalming is prohibited for the infectious-disease cases listed in Annex 1 of the regulation (art. 19).",
+    "consular": "No consular transfer permit is listed for entry; the death certificate must be apostilled (Ecuador is a Hague Apostille party) or legalised and translated into Spanish. If no relatives are present, a special power of attorney or a diplomatic note from the consular representative authorising final disposal is accepted (art. 29). Ecuador is not a party to the 1973 Strasbourg Agreement.",
+    "arrival": "The Ministry of Public Health office at the point of entry checks the documents and issues the authorisation form, free of charge. Offices: Quito Mariscal Sucre airport (Mon-Fri 07:00-22:30), Guayaquil Jose Joaquin de Olmedo airport (24 h daily), and the Rumichaca, Huaquillas and Macara land borders. Documents can be sent in advance by email. A local funeral home then collects the coffin.",
+    "pouch": null,
+    "private_aviation": "No rule specific to private flights. Arrive at Quito or Guayaquil, where the Ministry of Public Health has an office issuing the entry authorisation; note Quito's office is open Mon-Fri 07:00-22:30 only, while Guayaquil is open 24 hours. Send the documents by email beforehand.",
+    "export": "Exit needs a Ministry of Public Health sanitary authorisation issued at the point of exit (art. 35), free of charge, on presentation of: a legalised copy of the Registro Civil death record (or an authorisation certified by the destination country's consul in Ecuador), the embalming or cremation certificate, the autopsy report if any, and the applicant's ID. The destination country's rules must also be met (art. 36). Medical death certificate on the INEC form, post-mortem for sudden, violent or unexplained deaths; cremation not allowed after violent deaths.",
+    "authority": "Ministry of Public Health (Ministerio de Salud Publica), offices at international points of entry; Regulation 000001-2022",
+    "last_checked": "2026-10",
+    "documents": [
+      "Death certificate or equivalent from the country of death, apostilled or legalised, in the original language with Spanish translation",
+      "Embalming certificate (or cremation certificate for ashes)",
+      "Transfer permit from the competent authority of the country of death showing name, surname, age, place and cause of death",
+      "Certified copy of the forensic autopsy report, legalised or apostilled, for violent deaths",
+      "Identity card or passport of the relative or applicant (relative up to 4th degree of consanguinity or 2nd of affinity)",
+      "If no relatives: sworn statement, or written authorisation of relatives to a third party with ID copies"
+    ],
+    "sources": [
+      "https://www.gob.ec/msp/tramites/emision-formulario-autorizacion-sanitaria-ingreso-territorio-ecuatoriano-cadaveres-mortinatos-piezas-anatomicas-osamentas-cenizas-humanas",
+      "https://www.gob.ec/msp/tramites/emision-formulario-autorizacion-sanitaria-transporte-fuera-territorio-nacional-cadaveres-mortinatos-piezas-anatomicas-osamentas-cenizas-humanas",
+      "https://www.salud.gob.ec/wp-content/uploads/2026/08/Acuerdo-interinstitucional_001-2022-MANUAL-MANEJO-DE-CADAVERES-2.pdf",
+      "https://www.gov.uk/guidance/when-someone-dies-in-ecuador",
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+    ],
+    "pouch_accepted": null,
+    "private_jet_alert": true,
+    "at_a_glance": {
+      "death_certificate": "Apostilled, translated into Spanish",
+      "embalming": "Embalming certificate required",
+      "coffin": "Sealed coffin per IATA rules",
+      "laissez_passer": "Not used; transfer permit of origin",
+      "consular": "No consular visa required for entry",
+      "permit": "Free MSP authorisation at arrival point",
+      "arrival": "MSP office at Quito or Guayaquil airport"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Appoint funeral homes at both ends; identify the applicant relative"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain the death certificate and transfer permit; apostille and translate into Spanish"
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Embalming (certificate) and sealing of the coffin to IATA standards"
+      },
+      {
+        "when": "Day 3-4",
+        "what": "Email the documents to the MSP office at the arrival airport and book the flight"
+      },
+      {
+        "when": "Arrival",
+        "what": "MSP office issues the free entry authorisation; funeral home collects the coffin"
+      }
+    ],
+    "key_points": [
+      "Entry authorisation is free, issued at the point of entry",
+      "Quito MSP office closed at weekends; Guayaquil 24 h",
+      "Death certificate must be in Spanish, apostilled or legalised",
+      "Ashes may not be accepted by post or courier"
+    ],
+    "export_points": [
+      "Free MSP exit authorisation at the airport",
+      "Registro Civil death record, legalised",
+      "Embalming certificate required",
+      "No cremation after violent deaths"
+    ],
+    "private_jet_note": "Quito health office is closed at weekends; Guayaquil operates 24 h. Plan arrival accordingly.",
+    "confidence": "high",
+    "lead_days": 4
+  },
+  {
+    "cc": "EE",
+    "status": "requirements",
+    "name": "Estonia",
+    "summary": "Under the Estonian Cemeteries Act, a deceased person brought into or out of Estonia must travel in a hermetically sealed zinc-lined coffin filled with a desiccant, inside a tightly closed wooden box. Estonia is a party to the Strasbourg Agreement, so the departure country's laissez-passer covers transfers from other party states.",
+    "coffin": "Hermetically sealed zinc-lined coffin filled with a desiccant, placed in a tightly closed wooden box (Cemeteries Act section 3(2)). If death was caused by an extremely dangerous, highly infectious disease (yellow fever, viral haemorrhagic fever, smallpox, plague or anthrax), the body must first be wrapped in an antiseptic-impregnated shroud.",
+    "embalming": "No Estonian embalming requirement found; follow the departure country's rules. The Cemeteries Act sets no fixed burial deadline but requires burial or cremation without undue delay.",
+    "consular": "Estonia's declared competent authorities under the Strasbourg Agreement are the Ministry of Social Affairs and Estonian diplomatic missions. From non-party countries, ask the Estonian embassy what documents or legalisation are required.",
+    "arrival": "Customs clearance at the arrival airport; the receiving Estonian funeral director arranges burial with the cemetery or cremation.",
+    "pouch": null,
+    "private_aviation": "Human remains on a private or charter flight need the same documents as airline cargo; they travel with the coffin and are shown to customs and health officials at the arrival airport. A zinc-lined coffin is about 2.2 m long and often 70-100 kg or more, so it must fit the aircraft's cargo door or a cabin configured for it, which rules out many light and midsize jets. Land at an airport with customs facilities and have the receiving funeral director meet the aircraft airside.",
+    "export": "Bodies leaving Estonia must be in a hermetically sealed zinc-lined coffin with desiccant, in a tightly closed wooden box (Cemeteries Act). A local funeral director must be instructed and works with international undertakers. A post-mortem is normally performed, always when death was not natural, and repatriation can go ahead once the authorities are content that no further examinations are needed. The death must be registered within 7 days. The authority issuing the laissez-passer is not published in English; the funeral director arranges it.",
+    "authority": "Ministry of Social Affairs; Estonian diplomatic missions",
+    "last_checked": "2026-10",
+    "documents": [
+      "Laissez-passer for a corpse from the departure country (Strasbourg states) or its equivalent transport permit",
+      "Death certificate",
+      "Embalming certificate where required by the departure country",
+      "Funeral director's sealing certificate"
+    ],
+    "sources": [
+      "https://www.riigiteataja.ee/en/akt/523012024004",
+      "https://www.gov.uk/government/publications/when-someone-dies-in-estonia/estonia-bereavement-information",
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+    ],
+    "pouch_accepted": false,
+    "private_jet_alert": false,
+    "at_a_glance": {
+      "death_certificate": "Required",
+      "embalming": "Per departure country's rules",
+      "coffin": "Sealed zinc-lined coffin required by law",
+      "laissez_passer": "Sufficient from Strasbourg states",
+      "consular": "Estonian missions are a treaty authority",
+      "permit": "No separate Estonian permit found",
+      "arrival": "Funeral director arranges burial"
+    },
+    "steps": [
+      {
+        "when": "Day 0-1",
+        "what": "Appoint funeral directors; obtain death certificate"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Embalming if required; sealing in zinc-lined coffin with desiccant"
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Departure laissez-passer or transport permit"
+      },
+      {
+        "when": "Day 2-4",
+        "what": "Flight to Estonia; customs and health clearance"
+      },
+      {
+        "when": "Arrival",
+        "what": "Estonian funeral director arranges burial or cremation"
+      }
+    ],
+    "key_points": [
+      "Zinc-lined sealed coffin with desiccant is a legal requirement",
+      "Strasbourg party since 2002",
+      "Burial or cremation without undue delay"
+    ],
+    "export_points": [
+      "Sealed zinc-lined coffin required by law",
+      "Release once authorities need no further examinations",
+      "Death registered within 7 days",
+      "Funeral director arranges laissez-passer"
+    ],
+    "confidence": "medium",
+    "lead_days": null
+  },
+  {
+    "cc": "EG",
+    "status": "requirements",
+    "name": "Egypt",
+    "summary": "To bring the casket of an Egyptian national into Egypt, the Egyptian embassy or consulate in the country of death certifies and translates the death certificate and issues a permit to transport the body to Egypt. It asks for a non-contagious disease certificate, the local transport and burial permit, and a funeral home certificate that the body was embalmed or prepared and placed in a casket under international health rules. For non-Egyptians, confirm requirements with the Egyptian consulate.",
+    "coffin": "The funeral home must place the body in a casket meeting international health rules; Egyptian missions do not publish a specific casket specification. Confirm the casket type (usually hermetically sealed, metal-lined, in an outer case) with the consulate and the airline.",
+    "embalming": "The Egyptian mission asks for a funeral home certificate that the body was embalmed or prepared for travel. Embalming is also required for bodies leaving Egypt.",
+    "consular": "The Egyptian embassy or consulate reviews the originals, certifies and translates the death certificate (the Washington embassy lists fees of USD 47 for certification and USD 52 for translation) and issues the transport permit. Mailed certification and translation files are returned within about 10 working days; no timeframe is published for the transport permit.",
+    "arrival": "The coffin is cleared at the arrival airport and released to the family or a funeral service. Burial usually follows quickly; confirm local formalities with the receiving funeral service.",
+    "pouch": null,
+    "private_aviation": "No rule specific to remains on private aircraft was found. Land at an airport with customs and health services and have the handling agent arrange clearance of the coffin.",
+    "export": "Leaving Egypt: the death is registered at the district health office and an Arabic death certificate is issued. Embalming is needed for repatriation. The local undertaker needs a permission letter signed and stamped by the deceased's embassy (as the British Embassy issues for UK nationals). Postmortems are carried out by the Egyptian authorities without next-of-kin consent; if the forensic report is not final, the certificate may say the cause is not yet determined, which still allows repatriation.",
+    "authority": "Egyptian Ministry of Foreign Affairs (embassies and consulates)",
+    "last_checked": "2026-10",
+    "documents": [
+      "Original death certificate, certified and translated into Arabic by the Egyptian mission",
+      "Egyptian passport of the deceased (stamped cancelled) or Egyptian national ID card",
+      "Certificate from the health authorities of the country of death that death was not caused by a contagious epidemic disease",
+      "Permit from the authorities of the country of death to transport and bury the body",
+      "Funeral home certificate that the body was prepared, embalmed and cased under international health rules",
+      "Egyptian consular permit to transport the body to Egypt"
+    ],
+    "sources": [
+      "https://egyptembassy.net/consular-services/civil-affairs/death-certificate/",
+      "https://www.gov.uk/government/publications/egypt-bereavement-information-pack/egypt-bereavement-information"
+    ],
+    "pouch_accepted": null,
+    "private_jet_alert": false,
+    "at_a_glance": {
+      "death_certificate": "Certified and translated by Egyptian mission",
+      "embalming": "Embalming or travel preparation certificate",
+      "coffin": "Casket under international health rules",
+      "laissez_passer": "Egyptian consular transport permit",
+      "consular": "Egyptian mission certifies and issues permit",
+      "permit": "Local transport and burial permit",
+      "arrival": "Airport clearance, prompt burial"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Appoint a funeral home and contact the Egyptian embassy or consulate."
+      },
+      {
+        "when": "Day 1",
+        "what": "Obtain the death certificate, non-contagious certificate and local transport permit."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Funeral home embalms, cases the body and issues its certificate."
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Egyptian mission certifies, translates and issues the transport permit."
+      },
+      {
+        "when": "Day 3",
+        "what": "Fly the casket; family or funeral service collects after airport clearance."
+      }
+    ],
+    "key_points": [
+      "The Egyptian mission translates the death certificate into Arabic",
+      "Embalming is expected both ways",
+      "Published consular checklist covers Egyptian nationals",
+      "No official cremation facilities in Egypt"
+    ],
+    "export_points": [
+      "Register the death at the district health office",
+      "Embalming is required",
+      "Embassy permission letter for the local undertaker",
+      "Pending postmortem does not block repatriation"
+    ],
+    "confidence": "medium",
+    "lead_days": 3
+  },
+  {
+    "cc": "ER",
+    "status": "requirements",
+    "name": "Eritrea",
+    "summary": "Eritrean consulates process the repatriation of Eritrean nationals: certified death certificates, two non-contagious disease letters, a funeral home preparation letter and proof of Eritrean nationality. The consulates prefer a steel casket in a wooden outer box; a wooden casket is accepted with a sealed steel screw-down liner and a wooden outer box.",
+    "coffin": "The consulates prefer a steel casket inside a wooden outer shipping container. A wooden casket is accepted with a steel screw-down liner for sealing and a wooden outer box.",
+    "embalming": "Not specified by the consulates. The preparation letter must describe how the body was prepared, and embalming is the usual practice.",
+    "consular": "The consulates (e.g. Washington and Frankfurt) require Eritrean nationality, shown by an Eritrean passport or national ID or other proof. Documents are submitted by email. Fees and processing time are not published. Eritrea is not a party to the 1973 Strasbourg Agreement.",
+    "arrival": "Not officially published. Plan collection at Asmara by the family or a local funeral service.",
+    "pouch": null,
+    "private_aviation": "No published rule specific to private or charter flights was found. A private aircraft carrying a casket must land at an international airport with customs, immigration and health services; have the local handling agent and receiving funeral home confirm in advance that the remains can be cleared from a private flight. Eritrea has strict entry and permit controls; obtain all authorisations before departure.",
+    "export": "To take a body out of Eritrea you need a death certificate issued by the Zoba (regional) Administration, the hospital death certificate form or dead body certificate, the passport of the deceased, a police clearance letter, an airport immigration police approval letter and an embalming certificate. The Zoba Administration also provides an English translation of the death certificate.",
+    "authority": "Eritrean embassy or consulate; Zoba Administration and police (exit)",
+    "last_checked": "2026-10",
+    "documents": [
+      "Two certified copies of the death certificate",
+      "Non-contagious disease letter from a state, county or municipal health official",
+      "Non-contagious disease letter from the attending physician",
+      "Funeral home preparation letter (procedures, casket contents, consignee name, address and phone)",
+      "Copies of the deceased's Eritrean passport or ID card, plus foreign passport or residence permit"
+    ],
+    "sources": [
+      "https://us.embassyeritrea.org/human-remains-shipment/",
+      "https://konsulat-eritrea.de/human-remains-shipment/",
+      "https://www.gov.uk/government/publications/eritrea-bereavement-pack/eritrea-bereavement-information-pack"
+    ],
+    "pouch_accepted": null,
+    "private_jet_alert": true,
+    "at_a_glance": {
+      "death_certificate": "Two certified copies",
+      "embalming": "Preparation letter required; embalming usual",
+      "coffin": "Steel casket or steel liner, outer box",
+      "laissez_passer": "Not used; consular processing",
+      "consular": "Eritrean nationality required",
+      "permit": "Two non-contagious disease letters",
+      "arrival": "Confirm with a local funeral service"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Collect the death certificates and proof of the deceased's Eritrean nationality."
+      },
+      {
+        "when": "Day 1",
+        "what": "Obtain the non-contagious disease letters from the health official and the physician."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Funeral home prepares the body, seals the casket and writes the preparation letter."
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Email the file to the Eritrean consulate and wait for clearance."
+      },
+      {
+        "when": "Arrival",
+        "what": "Clearance in Asmara, then collection by the family."
+      }
+    ],
+    "key_points": [
+      "Consular service is for Eritrean nationals",
+      "Steel casket, or sealed steel liner, required",
+      "Two separate non-contagious disease letters needed"
+    ],
+    "export_points": [
+      "Death certificate from the Zoba Administration, with English translation",
+      "Police clearance letter and airport immigration police approval letter",
+      "Embalming certificate required",
+      "Passport of the deceased"
+    ],
+    "private_jet_note": "Exit from Eritrea requires a police clearance letter and an airport immigration police approval letter.",
+    "confidence": "medium",
+    "lead_days": 3
+  }
+]

@@ -1,0 +1,687 @@
+[
+  {
+    "cc": "LK",
+    "status": "requirements",
+    "name": "Sri Lanka",
+    "summary": "Remains can enter Sri Lanka only through Bandaranaike International Airport (Colombo), and the Airport Health Officer (APHO) must approve them before the flight. The airline submits the cancelled passport, the death certificate with the cause of death and the Sri Lankan mission's no-objection letter; missions also ask for embalming and coffin certificates (hardwood coffin with lead or zinc lining).",
+    "coffin": "The body must be embalmed and placed in a hardwood coffin with a lead or zinc lining. If it is not embalmed, it must be packed in a hardwood coffin with a hermetically sealed lead or zinc lining, with disinfectant (chloride of lime or zinc sulphate mixed with sawdust) filling the empty spaces. Missions ask for a coffin-closing authorisation from the undertaker. No official witness is mentioned.",
+    "embalming": "Sri Lankan missions (for example Geneva and Canberra) ask for an embalming certificate or a certificate that the body is preserved as required. The rules also allow an unembalmed body in a hardwood coffin with a hermetically sealed lead or zinc lining packed with disinfectant. Confirm with the mission handling the case.",
+    "consular": "The Sri Lankan mission issues a no-objection letter after receiving the next of kin's request and Justice-of-the-Peace affidavit, the documents and the cancelled passport. The letter is free for Sri Lankan citizens; Canberra charges AUD 45 for former citizens. All documents must be in English or come with a certified English translation. Repatriation is limited to Sri Lankan nationals, former citizens, and foreigners married to, or children of, Sri Lankan citizens.",
+    "arrival": "The airline submits the documents to the APHO at Bandaranaike International Airport, which aims to approve within one working day. No remains may be flown without this approval. Remains are released at the airport to the consignee; an affidavit is needed to release them to another nominated person. Unnatural deaths may need an inquest at District General Hospital Negombo before release. The Director of Quarantine may restrict or refuse remains linked to a communicable disease.",
+    "pouch": null,
+    "private_aviation": "Remains must enter through Bandaranaike International Airport (BIA), and the APHO must approve them before departure. On a private flight, the operator or handling agent must obtain this approval, a role normally filled by the airline (not confirmed for private flights).",
+    "export": "To take a body out of Sri Lanka, you need: a death certificate (issued after the attending doctor or Judicial Medical Officer completes a Notice of Death and the death is registered with the local Registrar), an embalming certificate, and an export permit for human remains. Local authorities must authorise release, and suspicious deaths may be referred to the Magistrates' Court. Once all documents are available, repatriation generally takes 3 to 4 working days. Local funeral directors usually handle the formalities.",
+    "authority": "Airport Health Officer, Bandaranaike International Airport (Ministry of Health); Sri Lankan missions (Consular Affairs Division, Ministry of Foreign Affairs)",
+    "last_checked": "2026-10",
+    "documents": [
+      "Death certificate stating the cause of death (coroner's certificate where applicable)",
+      "Health authority certificate that the death was not from a contagious or quarantinable disease (including Covid-19)",
+      "Embalming certificate from the funeral director or health authority, stating the body is packed as required and the coffin contains only the deceased",
+      "Coffin-closing authorisation and coffin certificate from the undertaker",
+      "Police report, coroner's certificate or forensic report for unnatural deaths",
+      "Sri Lankan passport of the deceased (cancelled by the mission)",
+      "Next of kin's written request and affidavit attested by a Justice of the Peace",
+      "No-objection letter from the Sri Lankan embassy or high commission",
+      "Prior approval of the Airport Health Officer (APHO), Bandaranaike International Airport"
+    ],
+    "sources": [
+      "https://abudhabi.embassy.gov.lk/consular-services/repatriation-burial-dead-bodies/",
+      "https://lankamission.org/repatriation-of-human-remains",
+      "https://www.slhcaust.org/registration-of-deaths-2",
+      "https://www.gov.uk/government/publications/bereavement-information-pack/when-someone-dies-in-sri-lanka"
+    ],
+    "pouch_accepted": false,
+    "private_jet_alert": true,
+    "at_a_glance": {
+      "death_certificate": "Must state cause of death, in English",
+      "embalming": "Embalming certificate requested by missions",
+      "coffin": "Hardwood, lead or zinc lined",
+      "laissez_passer": "Not used; mission letter instead",
+      "consular": "Sri Lankan mission no-objection letter",
+      "permit": "Prior Airport Health Officer approval",
+      "arrival": "Colombo BIA only; consignee collects"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Obtain the death certificate with cause of death and, if unnatural, the police or coroner report."
+      },
+      {
+        "when": "Day 0-1",
+        "what": "Next of kin in Sri Lanka signs a Justice-of-the-Peace affidavit consenting to receive the remains."
+      },
+      {
+        "when": "Day 1",
+        "what": "Funeral home embalms, places the body in a lead or zinc-lined hardwood coffin, issues certificates."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Sri Lankan mission cancels the passport and issues the no-objection letter."
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Airline or agent obtains APHO approval at Colombo (about one working day)."
+      },
+      {
+        "when": "Day 3-4",
+        "what": "Fly to Colombo BIA; consignee collects the remains at the airport."
+      }
+    ],
+    "key_points": [
+      "Foreigners without Sri Lankan family ties may not qualify",
+      "Remains with infection risk may be restricted or refused",
+      "All documents in English or translated"
+    ],
+    "export_points": [
+      "Death registered with Registrar; JMO for unexplained deaths",
+      "Embalming certificate and export permit for human remains",
+      "Usually 3-4 working days once documents are ready",
+      "Magistrate referral can cause long delays"
+    ],
+    "private_jet_note": "Land at Colombo BIA only and get APHO approval before take-off.",
+    "confidence": "high",
+    "lead_days": 3
+  },
+  {
+    "cc": "LR",
+    "status": "requirements",
+    "name": "Liberia",
+    "summary": "The Liberian Embassy in Washington issues a Mortuary Certificate (notarial certificate to transport human remains) on a published checklist: funeral home letter and licence, embalming affidavit, burial transit permit, certified death certificate, non-contagious disease and non-contraband letters, passport and itinerary, for a US$150 fee.",
+    "coffin": "No Liberian specification published. The non-contraband letter implies the casket must contain only the remains. Airlines usually expect a hermetically sealed casket in an outer case; confirm with the embassy.",
+    "embalming": "Required for the Mortuary Certificate: an embalming affidavit is on the embassy checklist.",
+    "consular": "The Liberian embassy issues a Mortuary Certificate ('notarial certificate to transport human remains'). Washington fee: US$150, plus US$50 for next-day rush, in US currency. The form asks for the remitting and the receiving funeral homes, airline, flight number and arrival date. Not a party to the 1973 Strasbourg Agreement.",
+    "arrival": "Clearance at Roberts International Airport (Monrovia); the receiving Liberian funeral home named on the Mortuary Certificate collects. Local burial or cremation formalities for an incoming casket were not verified: confirm with the receiving funeral home and the embassy.",
+    "pouch": null,
+    "private_aviation": "No rules specific to private flights carrying remains were found. Land at Roberts International Airport with customs and carry the Mortuary Certificate and original documents with the casket; the form asks for flight details, so give the private flight details.",
+    "export": "UK guidance: funeral directors repatriate only with authorisation from the embassy, the next of kin or authorised person, and a consulate mortuary certificate. Remains of a person who died in Liberia may only be buried, cremated or otherwise disposed of with a permit to handle the body from the registrar of the district of death (Public Health Law: within 24 hours of the certificate). Death certificates are issued only by the Bureau of Vital and Health Statistics, Ministry of Health, within 7 working days of an interview; unknown causes need a court affidavit, road deaths a police report. When the body is repatriated, it is preserved by embalming rather than cold storage.",
+    "authority": "Embassy of Liberia (Mortuary Certificate); Ministry of Health, Bureau of Vital and Health Statistics (local deaths)",
+    "last_checked": "2026-10",
+    "documents": [
+      "Letter from the funeral home describing the transport arrangements",
+      "Copy of the funeral home licence",
+      "Embalming affidavit",
+      "Burial transit permit",
+      "Certified copy of the death certificate",
+      "Non-contagious disease letter",
+      "Non-contraband letter",
+      "Passport of the deceased",
+      "Flight itinerary",
+      "Liberian Mortuary Certificate application form (with photo of the deceased and receiving funeral home in Liberia)"
+    ],
+    "sources": [
+      "https://www.liberianembassyus.org/page/other-consular-services",
+      "https://www.liberianembassyus.org/sites/default/files/documents/daDeathA.pdf",
+      "https://www.gov.uk/government/publications/liberia-bereavement-death-abroad/liberia-bereavement-information"
+    ],
+    "pouch_accepted": null,
+    "private_jet_alert": false,
+    "at_a_glance": {
+      "death_certificate": "Certified copy required",
+      "embalming": "Required: embalming affidavit",
+      "coffin": "Sealed casket; non-contraband letter",
+      "laissez_passer": "Not Strasbourg party",
+      "consular": "Liberian Mortuary Certificate (US$150)",
+      "permit": "Burial transit permit",
+      "arrival": "Liberian funeral home collects"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Death certificate and appointment of a funeral home in the country of death."
+      },
+      {
+        "when": "Day 1",
+        "what": "Embalming affidavit, non-contagious disease and non-contraband letters; burial transit permit."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Agree on a receiving funeral home in Liberia and book the flight."
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Apply to the Liberian embassy for the Mortuary Certificate (next-day rush available)."
+      },
+      {
+        "when": "Arrival",
+        "what": "Clearance at Roberts International Airport; the receiving funeral home collects."
+      }
+    ],
+    "key_points": [
+      "Mortuary Certificate from the Liberian embassy",
+      "Fee US$150; US$50 extra for next-day",
+      "A receiving funeral home in Liberia must be named",
+      "Leaving Liberia, the death certificate can take a week"
+    ],
+    "export_points": [
+      "Death certificate can take 7 working days",
+      "District registrar permit to handle the body",
+      "Embassy authorisation and consular mortuary certificate",
+      "Body is embalmed for repatriation"
+    ],
+    "private_jet_note": "The Mortuary Certificate form asks for flight details: obtain it for the actual private flight.",
+    "confidence": "medium",
+    "lead_days": 3
+  },
+  {
+    "cc": "LU",
+    "status": "requirements",
+    "name": "Luxembourg",
+    "summary": "Luxembourg is a party to the 1973 Strasbourg Agreement, so a coffin from another party state travels on the departure country's laissez-passer; under Dutch rules, overland transport between the Netherlands and Luxembourg only needs the burial or cremation permit. For a death abroad, burial in Luxembourg is authorised in writing by the civil registrar of the commune, and must normally take place between the 24th and 72nd hour after death, extendable on a medical inspector's certificate.",
+    "coffin": "Between Strasbourg Agreement states the coffin must meet the Agreement's requirements (leak-proof coffin with absorbent material, typically a zinc inner coffin in a wooden outer coffin). For overland transport between the Netherlands and Luxembourg, the Dutch rules require only a watertight coffin. Luxembourg's own coffin rules for other origins were not verified.",
+    "embalming": "No Luxembourg embalming requirement for incoming bodies was verified; follow the departure country's rules.",
+    "consular": "From Strasbourg states no consular step is normally required. Luxembourg missions (or Belgian missions where Luxembourg is not represented) can help families obtain or legalise local documents; repatriation costs are paid by the family, an insurer or a mutual association.",
+    "arrival": "For a death abroad, the civil registrar of the commune of registration authorises burial in writing on the basis of the official information on the death that it judges sufficient. Burial normally between the 24th and 72nd hour after death; an extension can be granted on a medical inspector's certificate. Cremation rules for a body arriving from abroad were not verified: confirm with the commune.",
+    "pouch": null,
+    "private_aviation": "Arrive at Luxembourg Airport (Findel) with customs, the receiving funeral director meeting the aircraft. Human remains on a private flight need the same papers as airline cargo. The coffin must fit the aircraft's cargo door or cabin.",
+    "export": "To send a body abroad to a Strasbourg party state, the laissez-passer is issued by the competent authority Luxembourg designated under the Agreement: Direction de la Santé, Division de l'Inspection sanitaire. Under Dutch rules, overland transport to the Netherlands only needs the burial or cremation permit. Delays were not confirmed; the funeral director handles the process.",
+    "authority": "Civil registrar of the commune; Direction de la Santé, Division de l'Inspection sanitaire (Strasbourg laissez-passer)",
+    "last_checked": "2026-10",
+    "documents": [
+      "Laissez-passer for the transfer of a corpse from the country of death (Strasbourg Agreement states)",
+      "Death certificate / official information on the death abroad for the civil registrar",
+      "Transport permit from the departure authority (needed by the registrar to authorise burial)",
+      "From non-Strasbourg countries: documents to be confirmed with the Luxembourg embassy or consulate"
+    ],
+    "sources": [
+      "https://guichet.public.lu/fr/citoyens/famille-education/succession/deces/enterrement-incineration.html",
+      "https://mae.gouvernement.lu/fr/services-aux-citoyens/assistance-consulaire.html",
+      "https://wetten.overheid.nl/BWBR0009080/",
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+    ],
+    "pouch_accepted": null,
+    "private_jet_alert": false,
+    "at_a_glance": {
+      "death_certificate": "Required for the civil registrar",
+      "embalming": "Per departure country rules",
+      "coffin": "Leak-proof, zinc-lined coffin (Strasbourg)",
+      "laissez_passer": "From country of death (Strasbourg)",
+      "consular": "Usually none from Strasbourg states",
+      "permit": "Written burial authorisation from commune",
+      "arrival": "Burial 24-72 h, extendable"
+    },
+    "steps": [
+      {
+        "when": "Day 0-1",
+        "what": "Appoint funeral directors; obtain death certificate"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Departure authority issues laissez-passer or transport permit; coffin sealed"
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Flight to Luxembourg"
+      },
+      {
+        "when": "Arrival",
+        "what": "Civil registrar authorises burial or cremation; extension requested if needed"
+      }
+    ],
+    "key_points": [
+      "Strasbourg Agreement party since 1983",
+      "Overland to the Netherlands is simplified",
+      "Burial window normally 24-72 hours after death"
+    ],
+    "export_points": [
+      "Strasbourg laissez-passer for party states",
+      "Issued by Direction de la Santé (Inspection sanitaire)",
+      "Overland to the Netherlands: burial or cremation permit"
+    ],
+    "private_jet_note": "Book the funeral early: Luxembourg burials normally take place within 72 hours.",
+    "confidence": "medium",
+    "lead_days": 2
+  },
+  {
+    "cc": "LV",
+    "status": "requirements",
+    "name": "Latvia",
+    "summary": "To bring a body into Latvia you need a transport permit from the competent authority of the country of death (the Strasbourg laissez-passer between party states), or, where no such authority exists, a certificate of the cause of death from a medical institution, doctor or law-enforcement body (Cabinet Regulation No. 523 of 2005). The coffin must be hermetically sealed, filled with absorbent material and packed in a wooden box that does not look like a coffin.",
+    "coffin": "Regulation No. 523, paras 7-8: hermetically sealed coffin filled with absorbent material (dry sawdust, fine wood shavings or peat), with a pressure-balancing and air-filtering device if needed. A wooden coffin needs walls of at least 20 mm when it contains a soldered zinc coffin (or one of another disintegrating material), or at least 30 mm when it is covered outside with soldered zinc (or other disintegrating material) plates. For transport the coffin goes in a solid wooden box that does not look like a coffin, marked 'handle with care'. No witness for the sealing is specified for incoming coffins.",
+    "embalming": "Latvian law does not require embalming for entry, but the Latvian embassy in the USA lists an embalming certificate (apostilled) for a coffin shipped from the US. Follow the departure country's rules.",
+    "consular": "No Latvian consular permit is required. Between Strasbourg states the laissez-passer suffices. Latvian missions (example: Washington) ask for the death, cause-of-death and embalming certificates with an apostille. For a death abroad, the Latvian Foreign Ministry advises informing the local police, the Latvian embassy or consulate and the insurer; consular duty line +371 26337711.",
+    "arrival": "The receiving Latvian funeral home collects the coffin; confirm airport and customs handling with it. Regulation 523 (para 18, in the chapter on infectious diseases) says a body is buried or cremated no earlier than 24 hours after death. Latvia's only crematorium is in Riga.",
+    "pouch": null,
+    "private_aviation": "Fly to Riga (or another Latvian airport with customs) with the receiving funeral home meeting the aircraft. Regulation 523 allows coffins by air in the luggage or cargo hold, inside a wooden box that does not look like a coffin, which a small cabin may not accommodate; check the cargo door size.",
+    "export": "To take a body out of Latvia you need a body transport permit from the Health Inspectorate (Veselibas inspekcija), which is also Latvia's declared Strasbourg authority since 2009. The application includes a medical certificate of cause of death with its ICD-10 code (or the death certificate showing it) and a funeral company's statement that the body is in a coffin meeting para 7 and that the coffin holds only the body and personal effects. The permit is completed in Latvian and one Council of Europe language. The Inspectorate refuses it if these requirements are not met. Transit through Latvia needs no Latvian permit. Death must be registered at the civil registry office within six working days.",
+    "authority": "Health Inspectorate of Latvia (Veselibas inspekcija)",
+    "last_checked": "2026-10",
+    "documents": [
+      "Transport permit for the body from the competent authority of the country of death (Strasbourg laissez-passer between party states)",
+      "If the country of death has no such authority: certificate stating the cause of death from a medical institution, doctor or law-enforcement body",
+      "From the USA (Latvian embassy guidance): apostilled medical cause-of-death certificate, death certificate and embalming certificate, plus a declaration that the deceased had no known infectious condition (or a removal permit) and that the coffin holds only the remains",
+      "Contact details of the Latvian funeral home that will receive the coffin"
+    ],
+    "sources": [
+      "https://vvc.gov.lv/lv/media/6641/download",
+      "https://www.vestnesis.lv/ta/id/113048",
+      "https://www.usa.mfa.gov.lv/en/requirements-transporting-human-remains-latvia",
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p",
+      "https://www.mfa.gov.lv/lv/palidziba-smagas-saslimsanas-vai-nelaimes-gadijuma-naves-gadijuma-aizturesanasapcietinajuma-gadijuma",
+      "https://www.gov.uk/government/publications/latvia-bereavement-information/latvia-bereavement-information"
+    ],
+    "pouch_accepted": false,
+    "private_jet_alert": false,
+    "at_a_glance": {
+      "death_certificate": "Required, apostilled from non-EU countries",
+      "embalming": "Not required by Latvian law",
+      "coffin": "Hermetic, absorbent filling, outer wooden box",
+      "laissez_passer": "Permit from country of death",
+      "consular": "No Latvian consular permit",
+      "permit": "Health Inspectorate permit to leave",
+      "arrival": "Funeral home meets coffin at Riga"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Inform local police, Latvian embassy and insurer"
+      },
+      {
+        "when": "Day 0-2",
+        "what": "Appoint funeral directors; obtain death and cause-of-death certificates"
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Apostille documents where needed; obtain the departure country's transport permit"
+      },
+      {
+        "when": "Day 2-4",
+        "what": "Hermetic coffin with absorbent filling, packed in a wooden box"
+      },
+      {
+        "when": "Departure",
+        "what": "Flight to Riga with documents attached to the coffin"
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs clearance; Latvian funeral home collects and arranges burial"
+      }
+    ],
+    "key_points": [
+      "Strasbourg Agreement party since 6 January 1997",
+      "Health Inspectorate issues exit permits and laissez-passer",
+      "Coffin travels in a box that does not look like a coffin",
+      "Transit through Latvia needs no Latvian permit"
+    ],
+    "export_points": [
+      "Permit from the Health Inspectorate",
+      "Cause of death with ICD-10 code",
+      "Funeral company coffin statement",
+      "Hermetic coffin, absorbent filling, outer wooden box"
+    ],
+    "confidence": "high",
+    "lead_days": null
+  },
+  {
+    "cc": "MC",
+    "status": "requirements",
+    "name": "Monaco",
+    "summary": "Monaco has no airport: a coffin flown in lands in France (normally Nice Cote d'Azur) and is driven to Monaco, so French entry rules apply to the flight. The 1963 Franco-Monegasque agreement covers bodies of people who died in metropolitan France or Monaco: on the Monaco side the Minister of State authorises the transport, and a hermetically sealed coffin is required beyond 200 km or 48 hours. How it applies to a body arriving from abroad via France should be confirmed with the Monaco funeral director.",
+    "coffin": "French rules require an airtight coffin (metal box) for air transport. The 1963 Franco-Monegasque agreement requires a hermetically sealed coffin when the journey exceeds 200 km, when more than 48 hours pass between encoffining and burial, for certain contagious diseases, or when the authorities order it; otherwise a 26 mm oak coffin with iron bands and a watertight lining.",
+    "embalming": "No Monegasque embalming rule was found; follow the departure country's and French rules.",
+    "consular": "Monaco is not a party to the Strasbourg or Berlin agreements. Because the flight lands in France, entry into France of a body from abroad is authorised by the French embassy or consulate in the country of death. Monaco's own consular requirements were not found.",
+    "arrival": "The coffin clears customs in France and is driven to Monaco. Under the 1963 agreement the Minister of State authorises transfers between metropolitan France and Monaco. Burial and civil registry formalities in Monaco were not verified: confirm with the Monaco funeral director and the Mairie.",
+    "pouch": null,
+    "private_aviation": "There is no airport in Monaco (heliport only). Fly to Nice Cote d'Azur or another French airport with customs, where French rules on human remains apply, and continue by hearse.",
+    "export": "For a body leaving Monaco for metropolitan France, the Minister of State authorises the transport (1963 Franco-Monegasque agreement), with a hermetic coffin beyond 200 km or 48 hours. For a flight abroad from Nice, French rules also apply; Monaco's procedure for destinations outside France was not published. Ashes are authorised the same way and must be in a protected urn.",
+    "authority": "Minister of State (Government of Monaco) for France-Monaco transfers; French embassy or consulate and French authorities for the arrival leg",
+    "last_checked": "2026-10",
+    "documents": [
+      "Authorisation for entry into France from the French embassy or consulate in the country of death",
+      "Death certificate from the country of death, with French translation if needed",
+      "Authorisation from the Minister of State of Monaco for the France-Monaco leg (1963 agreement; confirm how it applies to a body arriving from abroad)"
+    ],
+    "sources": [
+      "https://legimonaco.mc/tai/accord/1963/10-15-tai1l000040/",
+      "https://www.service-public.gouv.fr/particuliers/vosdroits/F35706?lang=en"
+    ],
+    "pouch_accepted": null,
+    "private_jet_alert": true,
+    "at_a_glance": {
+      "death_certificate": "Required, French translation",
+      "embalming": "Not verified",
+      "coffin": "Hermetic coffin for air transport",
+      "laissez_passer": "French entry authorisation",
+      "consular": "French consulate authorises entry into France",
+      "permit": "Minister of State for road leg",
+      "arrival": "Via Nice airport, then road"
+    },
+    "steps": [
+      {
+        "when": "Day 0-1",
+        "what": "Appoint funeral directors in the country of death and in Monaco"
+      },
+      {
+        "when": "Day 1-5",
+        "what": "Obtain the French embassy or consulate authorisation for entry into France"
+      },
+      {
+        "when": "Day 2-5",
+        "what": "Monaco funeral director requests the Minister of State's transport authorisation"
+      },
+      {
+        "when": "Departure",
+        "what": "Flight to Nice Cote d'Azur with documents"
+      },
+      {
+        "when": "Arrival",
+        "what": "French customs clearance; hearse to Monaco for the funeral"
+      }
+    ],
+    "key_points": [
+      "Monaco has no airport",
+      "French rules apply to the flight leg",
+      "1963 Franco-Monegasque agreement governs the road leg",
+      "Not a Strasbourg or Berlin party"
+    ],
+    "export_points": [
+      "Minister of State authorises France-Monaco transfers",
+      "Hermetic coffin beyond 200 km or 48 hours",
+      "Departure by road to a French airport",
+      "Destination country's entry rules apply"
+    ],
+    "private_jet_note": "No airport: land in France (Nice) under French rules, then road.",
+    "confidence": "medium",
+    "lead_days": null
+  },
+  {
+    "cc": "MD",
+    "status": "requirements",
+    "name": "Moldova",
+    "summary": "Moldova is a party to the 1973 Strasbourg Agreement: from another party state, the laissez-passer for the corpse issued there accompanies the coffin, which must meet the Agreement's coffin rules. From other countries, Moldova's entry requirements were not published: confirm the documents with the Moldovan embassy or consulate before the flight.",
+    "coffin": "From Strasbourg states: a leak-proof coffin with absorbent material, as the Agreement requires. Moldovan rules for coffins from other countries were not verified. For shipments out of Moldova, the US Embassy reports that a galvanised casket is used and that a casket is treated as ordinary freight.",
+    "embalming": "According to the US Embassy, Moldova has no mandatory embalming rules except when a body is transported; bodies leaving Moldova must be embalmed. Whether Moldova requires embalming for an incoming body was not verified; follow the departure country's rules and confirm with the consulate.",
+    "consular": "If both countries are Strasbourg parties, the laissez-passer suffices (Moldova's own competent authority for issuing it is the Ministry of Health). Otherwise contact the Moldovan embassy or consulate in the country of death about certification and translation. Moldova applies the Agreement only on territory under government control (not Transnistria).",
+    "arrival": "Clearance at Chisinau airport and handover to a Moldovan funeral home. No maximum period before burial in Moldovan law.",
+    "pouch": null,
+    "private_aviation": "Chisinau is the main international airport. Moldova borders Ukraine, whose airspace is closed; check routing and any airspace restrictions near the border.",
+    "export": "Leaving Moldova: the body must be embalmed. US Embassy list: official death certificate, affidavit of funeral director and mortuary certificate, copy of autopsy certificate and copy of the passport. UK guidance list: civil registry death certificate (Public Services Agency, apostille via the Ministry of Justice if needed), doctor's death certificate with cause of death, embalming certificate and a certificate permitting transfer of the remains. A galvanised casket is used. Autopsy is mandatory for unknown or sudden deaths and, per UK guidance, for foreign nationals (can be waived by the regional prosecutor). The US Embassy reports an average of 10-14 days for return of remains. No crematorium (cremation in Odesa, Ukraine).",
+    "authority": "Ministry of Health (Strasbourg laissez-passer); Public Services Agency; Moldovan embassies and consulates",
+    "last_checked": "2026-10",
+    "documents": [
+      "Laissez-passer for the corpse (Strasbourg Agreement states)",
+      "Death certificate from the country of death",
+      "From non-Strasbourg countries: documents to be confirmed with the Moldovan embassy or consulate",
+      "Passport of the deceased"
+    ],
+    "sources": [
+      "https://md.usembassy.gov/death-of-a-u-s-citizen/",
+      "https://www.gov.uk/guidance/when-someone-dies-in-the-republic-of-moldova",
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+    ],
+    "pouch_accepted": null,
+    "private_jet_alert": false,
+    "at_a_glance": {
+      "death_certificate": "Required; translation per consulate",
+      "embalming": "Not verified for entry",
+      "coffin": "Leak-proof coffin (Strasbourg)",
+      "laissez_passer": "Strasbourg laissez-passer accepted",
+      "consular": "Needed only outside Strasbourg states",
+      "permit": "Laissez-passer or consulate-confirmed papers",
+      "arrival": "Chisinau, Moldovan funeral home"
+    },
+    "steps": [
+      {
+        "when": "Day 0-1",
+        "what": "Death certificate and funeral director in the country of death."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Embalming if required by the departure country; sealing of the coffin."
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Laissez-passer or transfer permit; consular check if outside Strasbourg states."
+      },
+      {
+        "when": "Day 3",
+        "what": "Flight to Chisinau."
+      },
+      {
+        "when": "Arrival",
+        "what": "Clearance and handover to the Moldovan funeral home."
+      }
+    ],
+    "key_points": [
+      "Party to the 1973 Strasbourg Agreement since 2003",
+      "Agreement not applied in Transnistria",
+      "Non-Strasbourg origins: confirm papers with the consulate"
+    ],
+    "export_points": [
+      "Embalming mandatory for transport",
+      "Galvanised casket required",
+      "Death certificate from Public Services Agency",
+      "Allow about 10-14 days"
+    ],
+    "private_jet_note": "Check airspace restrictions near the Ukrainian border when routing.",
+    "confidence": "medium",
+    "lead_days": null
+  },
+  {
+    "cc": "ME",
+    "status": "requirements",
+    "name": "Montenegro",
+    "summary": "A casket entering Montenegro needs a Montenegrin conveyance (sprovodnica) issued by the Montenegrin embassy or consulate covering the deceased's last residence, usually requested by a registered funeral company that supplies the documents. The document list is not published: confirm it with the embassy; a hermetically sealed, metal-lined coffin and embalming are the usual standard for air transport.",
+    "coffin": "Not published for entry. Montenegro's export practice is a hermetically sealed coffin with a metal container (leak-proof); the same standard is expected.",
+    "embalming": "Not published for entry; plan embalming in the departure country. For export, embalming is described as essential for overseas transport (only at the Clinical Centre in Podgorica, within 72 hours of death).",
+    "consular": "Montenegro's government states that a conveyance is the document for transporting remains (coffin or urn) across borders, for burial in Montenegro or transit. The request is made to the Montenegrin embassy or consulate general (or an authorised foreign consular office) in the area of the deceased's last residence, usually by the funeral company, which provides the documentation; the officer checks it and issues the conveyance. Fee 20 or 25 EUR. The exact document list is not published.",
+    "arrival": "Clearance at Podgorica or Tivat airport and handover to a local funeral home; the transport must be accompanied by a registered funeral agency. Burial may not take place until 24 hours after death.",
+    "pouch": null,
+    "private_aviation": "No specific rules published for private flights carrying remains. Use Podgorica or Tivat, both international airports with customs.",
+    "export": "Leaving Montenegro: the death is registered with the Ministry of Interior registry office in the municipality of death. The funeral home obtains the death certificate, medical cause-of-death certificate, sanitary inspection certificates (Ministry of Health), embalming certificate, and the funeral home affidavit that the casket is hermetically sealed. Embalming only at the Clinical Centre in Podgorica, within 72 hours. No crematorium; cremation in Belgrade or Zagreb can take 5-10 days.",
+    "authority": "Montenegrin embassies and consulates (conveyance); Ministry of Health (sanitary inspection); Ministry of Interior (civil registry)",
+    "last_checked": "2026-10",
+    "documents": [
+      "Montenegrin conveyance (sprovodnica) from the Montenegrin embassy or consulate",
+      "Documents the funeral company submits for the conveyance (list not published; typically death certificate, cause-of-death certificate, embalming certificate, departure country transfer permit and passport): confirm with the embassy or consulate"
+    ],
+    "sources": [
+      "https://www.gov.me/en/article/other-consular-services",
+      "https://me.usembassy.gov/death-of-a-u-s-citizen/",
+      "https://me.usembassy.gov/wp-content/uploads/sites/255/2025/08/2024-Disposition-of-Remains-Report.pdf",
+      "https://www.gov.uk/guidance/when-someone-dies-in-montenegro",
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+    ],
+    "pouch_accepted": null,
+    "private_jet_alert": false,
+    "at_a_glance": {
+      "death_certificate": "International or translated version",
+      "embalming": "Expected for air transport",
+      "coffin": "Sealed coffin with metal container",
+      "laissez_passer": "Montenegrin conveyance from consulate",
+      "consular": "Embassy issues conveyance, 20-25 EUR",
+      "permit": "Departure country transfer permit",
+      "arrival": "Local funeral home; burial after 24 h"
+    },
+    "steps": [
+      {
+        "when": "Day 0-1",
+        "what": "Death certificate and funeral director in the country of death."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Embalming, sealing and departure country transfer permit."
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Funeral company files documents with the Montenegrin embassy or consulate."
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Conveyance (sprovodnica) issued."
+      },
+      {
+        "when": "Day 3-4",
+        "what": "Flight to Podgorica or Tivat."
+      },
+      {
+        "when": "Arrival",
+        "what": "Clearance and handover to the Montenegrin funeral home."
+      }
+    ],
+    "key_points": [
+      "Montenegrin consular conveyance required (20-25 EUR)",
+      "Not a party to the 1973 Strasbourg Agreement on the Transfer of Corpses",
+      "No crematorium in Montenegro",
+      "Burial not before 24 h after death"
+    ],
+    "export_points": [
+      "Sanitary inspection certificates (Ministry of Health)",
+      "Embalming only in Podgorica, within 72 h",
+      "Hermetically sealed coffin with metal container",
+      "No crematorium in Montenegro"
+    ],
+    "private_jet_note": "Obtain the Montenegrin conveyance before take-off.",
+    "confidence": "medium",
+    "lead_days": null
+  },
+  {
+    "cc": "MF",
+    "status": "requirements",
+    "name": "Saint Martin (France)",
+    "summary": "Saint Martin (France) is a French overseas collectivity, so French rules apply: entry of a body from abroad is authorised by the French embassy or consulate in the country of departure, and an airtight (metal-lined) coffin is mandatory for air transport.",
+    "coffin": "For air transport an airtight coffin (metal box) is mandatory under French rules; in practice this is a soldered metal (usually zinc) lining inside a wooden coffin.",
+    "embalming": "France does not impose a single rule for incoming bodies; embalming or conservation care is normally required by the departure country and by carriers. Confirm with the consulate.",
+    "consular": "Under French rules, entry of a body from abroad into France is authorised by the French embassy or consulate in the country of death. France is a Strasbourg Agreement party, but whether a Strasbourg laissez-passer alone is accepted for this overseas collectivity was not confirmed: check with the consulate. Families bear all costs.",
+    "arrival": "The receiving funeral home takes charge at the airport. Burial or cremation deadlines in the overseas collectivity were not verified: check with the funeral home. Transfers between the collectivity and mainland France are authorised by the State's representative in the collectivity (towards mainland France) or by the prefect (from mainland France).",
+    "pouch": null,
+    "private_aviation": "Human remains on a private or charter flight need the same documents as airline cargo, travelling with the coffin, and the French airtight coffin rule applies to any air transport. The coffin must fit the aircraft's cargo door or a cabin configured for it. Saint Martin shares its island with Sint Maarten; Grand Case airport is small, so many flights use Princess Juliana airport on the Dutch side: confirm customs and the transfer across the island in advance.",
+    "export": "To send a body out of French territory, the funeral home obtains authorisation from the State's representative (prefect) for the place where the coffin is closed; for this collectivity that is the prefect delegate for Saint-Barthelemy and Saint-Martin (confirm locally). An airtight coffin is mandatory for air transport, and the destination country's consular requirements also apply.",
+    "authority": "French embassy or consulate abroad (entry); State representative, prefect delegate for Saint-Barthelemy and Saint-Martin (exit)",
+    "last_checked": "2026-10",
+    "documents": [
+      "Authorisation for entry from the French embassy or consulate in the country of death",
+      "Death certificate from the country of death",
+      "Other documents (medical certificate, embalming, sealing report) as requested by the consulate and the departure country",
+      "Name of the receiving funeral home"
+    ],
+    "sources": [
+      "https://www.service-public.gouv.fr/particuliers/vosdroits/F35706?lang=en",
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+    ],
+    "pouch_accepted": false,
+    "private_jet_alert": false,
+    "at_a_glance": {
+      "death_certificate": "Death certificate from country of death",
+      "embalming": "Usually required by departure country",
+      "coffin": "Airtight metal-lined coffin mandatory by air",
+      "laissez_passer": "Strasbourg use not confirmed; ask consulate",
+      "consular": "French consulate authorises entry",
+      "permit": "Consular transport authorisation",
+      "arrival": "Funeral home collects at airport"
+    },
+    "steps": [
+      {
+        "when": "Day 0-1",
+        "what": "Register the death locally and contact the French consulate; appoint funeral directors at both ends"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain death certificate, medical certificate and embalming as required locally"
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Coffin placed in an airtight zinc-lined coffin and sealed; consulate issues the transport authorisation"
+      },
+      {
+        "when": "Day 3-5",
+        "what": "Flight with the documents travelling with the coffin"
+      },
+      {
+        "when": "On arrival",
+        "what": "Funeral home collects the coffin and arranges the funeral"
+      }
+    ],
+    "key_points": [
+      "French rules apply in the overseas collectivities",
+      "Airtight metal coffin compulsory by air",
+      "French consulate authorises entry"
+    ],
+    "export_points": [
+      "State representative (prefect) authorises transport",
+      "Airtight metal-lined coffin mandatory by air",
+      "Destination consulate requirements apply",
+      "Families bear the costs; check insurance"
+    ],
+    "private_jet_note": "Airtight zinc-lined coffin mandatory for any flight.",
+    "confidence": "medium",
+    "lead_days": 3
+  },
+  {
+    "cc": "MG",
+    "status": "requirements",
+    "name": "Madagascar",
+    "summary": "A Malagasy embassy issues an authorisation to transport a body or urn to Madagascar on submission of a family request, a burial permit issued by the Malagasy commune of burial, the death certificate, a non-epidemic and non-contagion certificate, a coffin closing permit, a mortuary laissez-passer, a coffinning certificate and the air waybill booking. Apply to the Malagasy embassy or consulate covering the country of death.",
+    "coffin": "Malagasy embassies require a coffin closing permit and a coffinning certificate, but publish no technical specification. Standard international practice: hermetically sealed zinc-lined coffin in a wooden outer case.",
+    "embalming": "Not stated in the Malagasy embassy checklist; normally required by the sending country and airlines.",
+    "consular": "The Malagasy embassy or consulate issues the body or urn transport authorisation and transcribes the death (checklist published by the embassy in New Delhi, written for Malagasy nationals: copies of Malagasy IDs are requested). Files are lodged Monday to Friday, 09:30-12:00 (New Delhi). Fees and processing times are not published. Not a party to the 1973 Strasbourg Agreement.",
+    "arrival": "Remains arrive at Antananarivo (Ivato). The family must obtain the burial permit from the commune of burial before the authorisation is issued. Mortuary facilities are only in Antananarivo and limited; bodies for the regions travel by road. Confirm current health controls at arrival with the receiving funeral director.",
+    "pouch": null,
+    "private_aviation": "No rule specific to private flights carrying remains was found. The embassy checklist asks for flight details and an air waybill, so on a private flight provide the flight plan and confirm how the remains will be manifested. Land at an international airport with customs, normally Antananarivo.",
+    "export": "Deaths are confirmed by a doctor of the Municipal Bureau of Hygiene (BMH) or a CSB II health centre (or the head doctor in hospital) and registered with the civil registrar (acte de décès, in French). Police ask the coroner to carry out a post-mortem for unnatural, sudden or suspicious deaths (free; the family can object; report the day after the request at the soonest). The documents needed to send a body out of Madagascar are not published in official sources: the local funeral director and the destination country's consulate advise.",
+    "authority": "Malagasy embassy or consulate in the country of death; commune of burial in Madagascar",
+    "last_checked": "2026-10",
+    "documents": [
+      "Request to the Ambassador from a family member with contact details",
+      "Copy of the applicant's Malagasy ID and of the deceased's Malagasy ID",
+      "Burial permit (permis d'inhumer) issued by the commune in Madagascar where the burial will take place",
+      "Death certificate (acte de décès)",
+      "Report (procès-verbal) of the commune of the deceased's residence",
+      "Non-epidemic and non-contagion certificate",
+      "Coffin closing permit (permis de fermeture de cercueil)",
+      "Mortuary laissez-passer from the commune of the deceased's residence",
+      "Coffinning certificate (attestation de mise en bière)",
+      "Flight plan, flight number and departure date; air waybill (LTA) booking confirmation"
+    ],
+    "sources": [
+      "https://ambamad-newdelhi.diplomatie.gov.mg/index.php/services-consulaires/services-administratifs",
+      "https://www.gov.uk/government/publications/madagascar-bereavement-information-pack/madagascar-bereavement-information"
+    ],
+    "pouch_accepted": null,
+    "private_jet_alert": false,
+    "at_a_glance": {
+      "death_certificate": "Required",
+      "embalming": "Expected by airlines",
+      "coffin": "Coffin closing permit required",
+      "laissez_passer": "Mortuary laissez-passer required",
+      "consular": "Embassy body transport authorisation",
+      "permit": "Burial permit from Malagasy commune",
+      "arrival": "Antananarivo Ivato; limited mortuaries"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Death certificate and appointment of a funeral director in the country of death."
+      },
+      {
+        "when": "Day 0-1",
+        "what": "Family in Madagascar requests the burial permit from the commune of burial."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Non-contagion certificate, coffinning, coffin closing permit and mortuary laissez-passer."
+      },
+      {
+        "when": "Day 2-4",
+        "what": "Book the air waybill and file the request with the Malagasy embassy for the transport authorisation."
+      },
+      {
+        "when": "Arrival",
+        "what": "Clearance at Ivato and road transfer to the burial place."
+      }
+    ],
+    "key_points": [
+      "Burial permit from the Malagasy commune needed first",
+      "Embassy authorisation needs the flight and air waybill details",
+      "Mortuaries only in Antananarivo"
+    ],
+    "export_points": [
+      "Civil registrar death certificate in French",
+      "Free post-mortem for sudden or suspicious deaths",
+      "Mortuaries only in Antananarivo",
+      "Export documents: ask funeral director and consulate"
+    ],
+    "private_jet_note": "Give the embassy the flight plan; plan road transfer from Antananarivo for provincial burials.",
+    "confidence": "medium",
+    "lead_days": null
+  }
+]

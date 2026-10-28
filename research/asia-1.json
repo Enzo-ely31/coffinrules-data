@@ -1,0 +1,574 @@
+[
+  {
+    "cc": "JP",
+    "name": "Japan",
+    "status": "requirements",
+    "summary": "There are no specific Japanese import formalities published for a casket; the key step is getting a municipal burial or cremation permit in Japan, which is issued on the basis of a death notification supported by the foreign death certificate with a Japanese translation. For a Japanese national, the documents are usually prepared with the Japanese embassy or consulate in the country of death.",
+    "documents": [
+      "Foreign death certificate (original) with Japanese translation",
+      "Embalming certificate from the funeral home abroad",
+      "Remains certificate or transfer document issued by the Japanese embassy or consulate (for Japanese nationals)",
+      "Deceased's passport",
+      "Death notification (shibo todoke) filed with a Japanese municipality, which then issues the burial or cremation permit"
+    ],
+    "coffin": "No Japanese entry specification for the casket has been published. In practice airlines require an IATA-compliant, metal-lined sealed casket for a body.",
+    "embalming": "Not required by a published Japanese entry rule, but embalming certificates are routinely requested by airlines and by Japanese consulates abroad for transport. Japanese law forbids burial or cremation within 24 hours of death.",
+    "consular": "For Japanese nationals, the Japanese embassy or consulate in the country of death helps prepare the documents and issues a remains certificate. Japanese consulates advise families to carry the death certificate with a Japanese translation and file the death notification directly in Japan, because a notification filed abroad takes about two months to reach the family register. For foreign nationals, check with the municipality where cremation or burial will take place.",
+    "arrival": "The casket is cleared as air cargo. Under the Graveyards and Burial Act, burial or cremation needs a permit from the mayor of the municipality that received the death notification, and cannot take place within 24 hours of death. Cremation is the norm in Japan; burial space is scarce.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "Foreign-registered business jets need permission from the Japan Civil Aviation Bureau for paid passenger carriage into Japan and for landings at non-designated airports. The standard filing deadline is 10 days before the flight; since June 2023 it is 3 days for sightseeing flights, and the Minister can accept late applications when there is unavoidable cause. Thirty-six designated airports need no individual landing permission.",
+    "private_jet_alert": true,
+    "private_jet_note": "Apply for the Japan Civil Aviation Bureau permit early; the standard deadline is 10 days before the flight.",
+    "export": "The Australian Embassy in Tokyo states that no Japanese national or local law governs the export of human remains; a casket travels as ordinary freight, usually metal-lined. The death must be notified to the city, ward or town office within 7 days. Embalming cannot start until 24 hours after death. A local funeral director issues the embalming certificate and the IATA coffin certificate, and the receiving country's consulate may issue the transfer permit. Remains are normally disposed of within about a week because cold storage is scarce.",
+    "export_points": [
+      "No Japanese export permit; casket travels as freight",
+      "Register the death within 7 days at the municipal office",
+      "Embalming possible only after 24 hours",
+      "Destination consulate sets the paperwork (embalming, coffin, transfer)"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Foreign certificate with Japanese translation",
+      "embalming": "Not legally required; airlines usually ask",
+      "coffin": "Sealed metal-lined casket (airline rule)",
+      "laissez_passer": "Not applicable",
+      "consular": "Japanese consulate helps Japanese nationals",
+      "permit": "Municipal burial or cremation permit",
+      "arrival": "Cargo clearance, then funeral home collects"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Funeral home abroad obtains the death certificate and embalms the body"
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Japanese consulate issues the remains certificate (for Japanese nationals); translations prepared"
+      },
+      {
+        "when": "Day 2-4",
+        "what": "Casket sealed, flight and private-jet permit arranged"
+      },
+      {
+        "when": "Arrival",
+        "what": "Casket cleared as cargo and collected by a Japanese funeral home"
+      },
+      {
+        "when": "After arrival",
+        "what": "Death notified to the municipality, which issues the cremation or burial permit"
+      }
+    ],
+    "key_points": [
+      "Cremation is the norm in Japan",
+      "A burial or cremation permit is always required",
+      "No burial or cremation within 24 hours of death",
+      "Private jets: Civil Aviation Bureau permit needed"
+    ],
+    "lead_days": 3,
+    "authority": "Municipal office (city, ward, town) for burial and cremation permits; Japanese embassy or consulate abroad",
+    "sources": [
+      "https://www.gov.uk/guidance/what-to-do-after-a-british-person-dies-in-japan",
+      "https://japan.embassy.gov.au/tkyo/when_someone_dies.html",
+      "https://laws.e-gov.go.jp/law/323AC0000000048",
+      "https://www.mlit.go.jp/report/press/content/001612475.pdf"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "KR",
+    "name": "South Korea",
+    "status": "requirements",
+    "summary": "No official Korean entry procedure for a casket could be confirmed; the usual practice is an embalmed body in a sealed casket with the foreign death certificate, embalming and non-contagious disease certificates, cleared at the airport and collected by a Korean funeral home. Confirm the current quarantine and customs steps with the Korean embassy or consulate in the country of death.",
+    "documents": [
+      "Foreign death certificate (translated and legalised or apostilled; confirm with the Korean consulate)",
+      "Embalming certificate",
+      "Certificate of non-contagious disease",
+      "Transport or transfer permit from the country of death",
+      "Deceased's passport"
+    ],
+    "coffin": "No official Korean specification found. Assume an IATA-compliant hermetically sealed casket; confirm with the airline and the Korean consulate.",
+    "embalming": "No official Korean rule found. Embalming is standard for international transport; confirm with the Korean consulate.",
+    "consular": "Korean embassies and consulates abroad advise on the documents for bringing remains to Korea. The exact list was not confirmed from an official page.",
+    "arrival": "Quarantine and customs clearance at the airport, then the casket goes to a Korean funeral home. The exact steps were not confirmed from an official page.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No rule specific to human remains on private flights found. Foreign private aircraft need the usual Korean landing and overflight permissions; confirm with the handling agent.",
+    "private_jet_alert": false,
+    "private_jet_note": null,
+    "export": "Police investigate deaths. For non-natural deaths, the police and a prosecutor must approve release, and the police issue a completion-of-examination certificate (geomsi piljeung), which the hospital needs before releasing the body. The hospital issues the death certificate. A post-mortem by the National Forensic Service is mandatory for foreign nationals unless the cause of death is already established; the report can take up to 3 months, but repatriation does not wait for it. For the UK, documents are a translated, notarised and apostilled death certificate, embalming certificate, non-contagious disease certificate, transfer permit and the original passport.",
+    "export_points": [
+      "Police examination certificate needed before the hospital releases the body",
+      "Post-mortem usual for foreigners unless the cause is known",
+      "Death certificate translated, notarised and apostilled",
+      "Embalming and non-contagious disease certificates"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Translated and legalised; confirm with consulate",
+      "embalming": "Expected; confirm with consulate",
+      "coffin": "Sealed casket (airline rule)",
+      "laissez_passer": "Not applicable",
+      "consular": "Ask the Korean consulate abroad",
+      "permit": "Not confirmed officially",
+      "arrival": "Airport clearance, Korean funeral home collects"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Funeral home abroad obtains the death certificate and embalms the body"
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Korean consulate confirms the documents; translations and legalisation done"
+      },
+      {
+        "when": "Day 2-4",
+        "what": "Casket sealed, flight booked"
+      },
+      {
+        "when": "Arrival",
+        "what": "Airport quarantine and customs clearance"
+      },
+      {
+        "when": "After arrival",
+        "what": "Korean funeral home collects the casket for funeral or cremation"
+      }
+    ],
+    "key_points": [
+      "Entry rules not published officially; check with the Korean consulate",
+      "Leaving Korea needs police release for unnatural deaths",
+      "Post-mortem is common for foreigners"
+    ],
+    "lead_days": null,
+    "authority": "Korean embassy or consulate abroad; Korea Disease Control and Prevention Agency (quarantine) - not confirmed",
+    "sources": [
+      "https://www.gov.uk/guidance/what-to-do-after-a-british-person-dies-in-south-korea"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "CN",
+    "name": "China",
+    "status": "strict",
+    "summary": "Cross-border transport of a body is allowed only for funeral or medical purposes and must be handled by the China Funeral Association's international body transport service centre or a local funeral home. Entry needs approval from the civil affairs and foreign affairs authorities and an entry permit from border quarantine (customs).",
+    "documents": [
+      "Application filed by a relative, the consulate or the receiving unit, approved by the civil affairs, overseas Chinese affairs and foreign affairs authorities of the place of death, origin or burial",
+      "Corpse/coffin entry permit from the entry-exit inspection and quarantine authority (now under customs)",
+      "Death certificate or death report, with identity document of the deceased",
+      "Embalming and encoffining certificates (listed by the quarantine procedure; confirm the current list)",
+      "Customs declaration of the remains"
+    ],
+    "coffin": "No public text sets the casket specification; the casket is checked by border quarantine before release. Use a hermetically sealed casket to IATA standard and confirm with the designated carrier.",
+    "embalming": "Embalming certificate is part of the quarantine file. Chinese exit files also include embalming, encoffining and quarantine certificates.",
+    "consular": "The Chinese embassy or consulate in the country of death advises on approvals and document legalisation. Approval comes from Chinese civil affairs and foreign affairs authorities; only the China Funeral Association's international body transport network and authorised funeral homes may carry out the transport.",
+    "arrival": "Customs releases the remains only on the quarantine permit. The designated carrier or funeral home collects the casket. Cremation is the general rule in many areas; burial follows local funeral reform rules.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No rule specific to private flights found. The remains must still go through border quarantine and customs at an international port, with the designated carrier involved; foreign private aircraft also need CAAC permits.",
+    "private_jet_alert": true,
+    "private_jet_note": "Only the designated funeral carrier may handle the remains; plan quarantine clearance at the arrival airport.",
+    "export": "For foreigners: the hospital issues the death certificate (or a forensic certificate for unnatural deaths), and the public security exit-entry bureau issues a foreigner's death certificate when the body will go abroad. Notarisation and authentication follow if required. Only the China Funeral Association's international network and authorised funeral homes (three in Shanghai) handle repatriation; they embalm, encoff and obtain quarantine and exit permits. The Indian Embassy in Beijing reports about 25-30 days for natural deaths and about 45 days for unnatural deaths.",
+    "export_points": [
+      "Designated funeral carrier only",
+      "Foreigner's death certificate from the public security exit-entry bureau",
+      "Embalming, encoffining and quarantine certificates plus exit permit",
+      "Expect several weeks (25-45 days reported)"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Legalised, with official approval",
+      "embalming": "Certificate required",
+      "coffin": "Sealed, checked by quarantine",
+      "laissez_passer": "Not applicable",
+      "consular": "Chinese consulate advises; approvals in China",
+      "permit": "Quarantine entry permit and civil affairs approval",
+      "arrival": "Customs release, designated carrier collects"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the Chinese consulate and a carrier linked to the China Funeral Association network"
+      },
+      {
+        "when": "Day 1-5",
+        "what": "Embalming, encoffining, death certificate legalisation abroad"
+      },
+      {
+        "when": "Day 3-10",
+        "what": "Approval by Chinese civil affairs or foreign affairs authorities obtained"
+      },
+      {
+        "when": "Before flight",
+        "what": "Declaration to border quarantine (customs) for the entry permit"
+      },
+      {
+        "when": "Arrival",
+        "what": "Quarantine check and customs release; designated carrier takes the casket"
+      }
+    ],
+    "key_points": [
+      "Only funeral or medical purposes allowed",
+      "Designated funeral carrier mandatory",
+      "Quarantine permit required for customs release",
+      "Expect long lead times"
+    ],
+    "lead_days": 10,
+    "authority": "Ministry of Civil Affairs / China Funeral Association international body transport service centre; General Administration of Customs (border quarantine)",
+    "sources": [
+      "https://www.sz.gov.cn/szzt2010/zdlyzl/ggsy/mzxx/bzgl/zcfg/content/post_1320025.html",
+      "https://www.sz.gov.cn/szzt2010/zdlyzl/ggsy/mzxx/bzgl/zcfg/content/post_1320171.html",
+      "https://english.shanghai.gov.cn/en-FuneralServices/20260519/aee8d96328664c73a5f3a01c2514a9a9.html",
+      "https://www.eoibeijing.gov.in/page/death-cases/",
+      "https://guangzhou-bk.mfa.gov.tr/Content/assets/consulate/images/localCache/1/4e92dfa8-129a-4333-b3f0-eeef269bfedb.pdf"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "HK",
+    "name": "Hong Kong",
+    "status": "requirements",
+    "summary": "A written permit to import a human corpse from the Department of Health (Port Health Division) is required before the body can leave the airport; apply by email at least two working days before arrival. Every imported death (except air-to-air transit) is reported to the Coroner, who may take one to two working days to decide.",
+    "documents": [
+      "Application form DH 2437 (Import of a Human Corpse) or the online e-form",
+      "Identity document of the applicant (original and copy)",
+      "Identity document of the deceased (original and copy)",
+      "Death certificate or medical certificate of the cause of death (original or certified copy)",
+      "Embalming certificate and autopsy report, if available",
+      "Translation into Chinese or English, certified by a consulate or notary, for documents in other languages"
+    ],
+    "coffin": "Hong Kong does not publish a casket specification. The application asks whether the body is sealed in a robust leak-proof plastic bag and its infection risk category, and handling must follow the 'Precautions for Handling and Disposal of Dead Bodies' guideline. Use an IATA-compliant sealed casket for the flight.",
+    "embalming": "Not mandatory; the embalming certificate is submitted if available.",
+    "consular": "No consular transfer permit is required by Hong Kong. Documents not in Chinese or English must be translated and verified by the relevant consulate or a notary.",
+    "arrival": "Port Health Division Airport Section at HKIA (open 24 hours) checks the original documents and issues the import permit. Every imported death (except air-to-air transit) is reported to the Coroner, who may order a post-mortem at a public mortuary; a decision takes one to two working days. Burial needs authorisation from the Food and Environmental Hygiene Department; cremation needs a Department of Health cremation permit and a booking with the department. Ashes need no import permit.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "The import permit is processed by the Port Health Division Airport Section at Hong Kong International Airport, so arrival at HKIA allows 24-hour processing. Transit air-to-air shipments need the PDF form sent by fax.",
+    "private_jet_alert": false,
+    "private_jet_note": "Email the DH 2437 application to the Port Health airport team at least two working days before landing.",
+    "export": "The Deaths Registry of the Immigration Department issues the Permit for Removal of Dead Body from Hong Kong (Form 9) after the death is registered, using form SF/BDR/3. For overseas destinations, proof of import permission from the receiving country and the burial permit of the overseas cemetery are needed. Removal to the Mainland goes through the China Funeral Association's international body service centre. A licensed undertaker arranges transport.",
+    "export_points": [
+      "Register the death first",
+      "Removal permit (Form 9) from the Immigration Department Deaths Registry",
+      "Import permission from the destination country needed",
+      "Licensed undertaker arranges transport"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Original or certified copy; Chinese or English",
+      "embalming": "Not mandatory; provide certificate if done",
+      "coffin": "Sealed, leak-proof; IATA casket",
+      "laissez_passer": "Not applicable",
+      "consular": "Translations verified by consulate or notary",
+      "permit": "Department of Health import permit",
+      "arrival": "Coroner informed; 1-2 working days"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Funeral home abroad obtains the death certificate and identity documents"
+      },
+      {
+        "when": "At least 2 working days before arrival",
+        "what": "Email form DH 2437 and documents to Port Health airport team"
+      },
+      {
+        "when": "Arrival",
+        "what": "Show original documents at Port Health Airport Section; permit issued"
+      },
+      {
+        "when": "Arrival +1-2 working days",
+        "what": "Coroner decides whether further investigation is needed"
+      },
+      {
+        "when": "After release",
+        "what": "Burial authorisation (FEHD) or cremation permit (Department of Health)"
+      }
+    ],
+    "key_points": [
+      "Import permit required for a body, not for ashes",
+      "Coroner informed of every imported death",
+      "Documents must be in Chinese or English"
+    ],
+    "lead_days": 3,
+    "authority": "Department of Health, Port Health Division",
+    "sources": [
+      "https://www.dh.gov.hk/english/useful/useful_forms/useful_forms_qpd.html",
+      "https://www.dh.gov.hk/english/useful/useful_forms/files/dh2437.pdf",
+      "https://www.dh.gov.hk/english/main/main_ph/main_ph.html",
+      "https://www.fehd.gov.hk/english/cc/info_2_body_1.html",
+      "https://www.fehd.gov.hk/english/cc/info_2_body_6.html"
+    ],
+    "confidence": "high",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "MO",
+    "name": "Macao",
+    "status": "requirements",
+    "summary": "Import and export of bodies are handled by the Health Bureau (SSM), the Public Security Police (PSP) and the Municipal Affairs Bureau (IACM). The detailed procedure is not published in an accessible official source; confirm with the Health Bureau before departure.",
+    "documents": [
+      "Death certificate (translated as required; confirm with the Health Bureau)",
+      "Embalming certificate (likely; confirm)",
+      "Transfer permit from the country of death",
+      "Deceased's passport"
+    ],
+    "coffin": "Not published. Use an IATA-compliant sealed casket; confirm with the Health Bureau.",
+    "embalming": "Not published; the Health Bureau handles embalming in Macao.",
+    "consular": "Not published. Ask the Health Bureau or the Chinese or Portuguese consular network whether legalisation is needed.",
+    "arrival": "Health Bureau, Public Security Police and Municipal Affairs Bureau are involved in imports. Check with the handling agent whether the casket can arrive at Macau International Airport or must come by road via Hong Kong or Zhuhai.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No rule specific to human remains on private flights found; confirm with the Health Bureau and the airport handling agent.",
+    "private_jet_alert": false,
+    "private_jet_note": null,
+    "export": "A doctor (hospital death) or the coroner (police case) issues the death certificate. The death must be registered with the Civil Registry before the body can leave the mortuary. The Health Bureau, Public Security Police and Municipal Affairs Bureau handle transfer, embalming and export. The Health Bureau charges MOP 200 per day for cold storage after the death certificate is issued. Repatriation costs about MOP 30,000 excluding air freight (UK guidance). A Public Prosecutions Office autopsy can delay release.",
+    "export_points": [
+      "Register the death at the Civil Registry first",
+      "Health Bureau, police and IACM handle export",
+      "Cold storage MOP 200 per day",
+      "About MOP 30,000 excluding air freight"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Required; confirm translation needs",
+      "embalming": "Handled by the Health Bureau",
+      "coffin": "Sealed casket; confirm",
+      "laissez_passer": "Not applicable",
+      "consular": "Not published; confirm",
+      "permit": "Health Bureau involved; confirm",
+      "arrival": "Health Bureau and police clearance"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the Macao Health Bureau to confirm import requirements"
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Death certificate, embalming and transfer documents prepared abroad"
+      },
+      {
+        "when": "Before flight",
+        "what": "Arrival route agreed (Macau airport or via Hong Kong / Zhuhai)"
+      },
+      {
+        "when": "Arrival",
+        "what": "Health and police clearance; funeral home collects"
+      }
+    ],
+    "key_points": [
+      "Official import procedure not published",
+      "Health Bureau is the first contact",
+      "Cold storage is charged daily"
+    ],
+    "lead_days": null,
+    "authority": "Health Bureau (Servicos de Saude, SSM)",
+    "sources": [
+      "https://www.gov.uk/government/publications/bereavement-information-for-macao/macao-bereavement-information"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "TW",
+    "name": "Taiwan",
+    "status": "requirements",
+    "summary": "Before a body enters Taiwan, the death certificate or another document proving the cause of death must be filed with the quarantine unit (Taiwan CDC) to apply for quarantine. Deaths from a communicable disease are handled under the Communicable Disease Control Act; ashes and bones are exempt.",
+    "documents": [
+      "Death certificate or other document stating the cause of death (for the quarantine application)",
+      "Embalming certificate (usual for transport; not confirmed officially)",
+      "Transfer permit from the country of death",
+      "Deceased's passport"
+    ],
+    "coffin": "No Taiwanese casket specification found. Use an IATA-compliant sealed casket.",
+    "embalming": "No official Taiwanese rule found; embalming is standard for international transport.",
+    "consular": "Not confirmed. Taiwan's representative offices abroad (TECO) can advise on legalisation of the death certificate.",
+    "arrival": "Quarantine by the Taiwan CDC quarantine unit at the port of entry under the Port Quarantine Rules (Article 26), then customs clearance and collection by a funeral home. Deaths from a communicable disease follow the Communicable Disease Control Act.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "The quarantine application must be made before entry wherever the aircraft lands. No other rule specific to private flights found.",
+    "private_jet_alert": false,
+    "private_jet_note": "File the quarantine application with the Taiwan CDC before departure.",
+    "export": "The same rule applies on departure: the body must have a quarantine application with the death certificate filed with the quarantine unit before it leaves Taiwan. Ashes and bones are exempt. Other export documents depend on the destination country.",
+    "export_points": [
+      "Quarantine application with the death certificate before departure",
+      "Ashes and bones exempt from quarantine",
+      "Destination country's consulate sets other requirements"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Must show the cause of death",
+      "embalming": "Standard; not confirmed officially",
+      "coffin": "Sealed casket (airline rule)",
+      "laissez_passer": "Not applicable",
+      "consular": "TECO office advises",
+      "permit": "Quarantine application to Taiwan CDC",
+      "arrival": "Quarantine check, then funeral home"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Funeral home abroad obtains the death certificate stating the cause of death"
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Embalming, sealing and legalisation as advised by the TECO office"
+      },
+      {
+        "when": "Before flight",
+        "what": "Quarantine application filed with the Taiwan CDC quarantine unit"
+      },
+      {
+        "when": "Arrival",
+        "what": "Quarantine and customs clearance; funeral home collects"
+      }
+    ],
+    "key_points": [
+      "Quarantine application needed in both directions",
+      "Infectious-disease deaths follow special rules",
+      "Ashes are exempt from quarantine"
+    ],
+    "lead_days": null,
+    "authority": "Taiwan Centers for Disease Control (quarantine units)",
+    "sources": [
+      "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0050002"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "KP",
+    "name": "North Korea",
+    "status": "unknown",
+    "summary": "No reliable official information on bringing a casket into North Korea was found. Borders have been largely closed since 2020, many embassies including the British Embassy remain closed, and any repatriation would have to go through the DPRK Ministry of Foreign Affairs.",
+    "documents": [
+      "Not published; confirm through the DPRK Ministry of Foreign Affairs or a DPRK embassy"
+    ],
+    "coffin": "Not published.",
+    "embalming": "Not published.",
+    "consular": "The British Embassy liaised with the Consular Department of the DPRK Ministry of Foreign Affairs for funeral matters. Foreign consular help is severely limited now that many embassies are closed.",
+    "arrival": "Not published. Entry is tightly controlled by the state; borders have been closed to general entry since 2020.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No information; flights into North Korea are very limited and need state authorisation. Sanctions rules may also apply to aircraft and payments.",
+    "private_jet_alert": true,
+    "private_jet_note": "Private flights to North Korea are very unlikely to be authorised; check sanctions and DPRK permits first.",
+    "export": "Not published. The British Embassy's 2020 guidance said visitors should go through their guide or sponsor or the embassy, which would liaise with the DPRK Ministry of Foreign Affairs Consular Department. With most embassies closed, assistance is severely limited.",
+    "export_points": [
+      "Go through the tour sponsor and the DPRK Ministry of Foreign Affairs",
+      "Foreign consular help is very limited",
+      "No published procedure"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Not published",
+      "embalming": "Not published",
+      "coffin": "Not published",
+      "laissez_passer": "Not applicable",
+      "consular": "DPRK Foreign Ministry handles everything",
+      "permit": "State authorisation required",
+      "arrival": "Not published"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact your foreign ministry and a DPRK embassy"
+      },
+      {
+        "when": "Following days",
+        "what": "Obtain DPRK state authorisation for entry of the remains"
+      },
+      {
+        "when": "Before flight",
+        "what": "Check sanctions and flight permissions"
+      }
+    ],
+    "key_points": [
+      "No published procedure",
+      "Borders largely closed since 2020",
+      "Expect long delays and uncertainty"
+    ],
+    "lead_days": null,
+    "authority": "DPRK Ministry of Foreign Affairs (Consular Department)",
+    "sources": [
+      "https://www.gov.uk/foreign-travel-advice/north-korea",
+      "https://assets.publishing.service.gov.uk/media/5f49326bd3bf7f0a2f2e5024/funeral_directors_list_DPRK.odt"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "IN",
+    "name": "India",
+    "status": "requirements",
+    "summary": "Remains need public health clearance from the Airport Health Officer (APHO) on arrival, with a no-objection certificate (NOC) from the Indian embassy or consulate and an embalmed body in a hermetically sealed casket. The consignee and the airline must notify the APHO by email at least 48 hours before arrival.",
+    "documents": [
+      "Embalming certificate stating the body is embalmed and in a hermetically sealed (airtight and waterproof) casket",
+      "Death certificate stating the cause of death (or true copy), with English translation",
+      "No-objection certificate (NOC) from the Indian embassy, high commission or consulate",
+      "Cancelled passport of the deceased",
+      "Certificate of packaging per WHO guidelines",
+      "Consignee certificate that the casket contains only the named remains",
+      "Municipal or government certificate from the country of origin (endorsed by the Indian mission) with name, age, place, date and cause of death and confirming the sealing"
+    ],
+    "coffin": "Body in a zinc or other metal shell with all joints soldered to seal it hermetically, placed in a strong teak or hardwood coffin, inside a zinc- or tin-lined wooden packing case. Unembalmed remains (drowning, severe burns) go in a hermetically sealed container; the APHO may require extra packing. The package must not be opened in transit.",
+    "embalming": "Required: an embalming certificate from an authorised agency. Unembalmed remains only in a hermetically sealed container under APHO conditions.",
+    "consular": "The Indian mission in the country of death issues the NOC (via the eCARe system at many missions) after local formalities, cancels the passport and endorses the origin certificate. If there is no Indian mission, the Airport Health Officer may waive the NOC.",
+    "arrival": "Remains are kept at a separate designated place at the airport and cannot leave until the Airport Health Officer authorises removal in writing; the consignee then disposes of them under local municipal rules. Bodies of people who died of yellow fever, plague, anthrax, glanders or other notified diseases may not be brought in.",
+    "pouch_accepted": false,
+    "pouch": null,
+    "private_aviation": "Same APHO clearance applies at any Indian international airport, including the 48-hour email notice to the Airport Health Officer. Foreign private aircraft also need DGCA non-scheduled flight permission; confirm with the handling agent.",
+    "private_jet_alert": true,
+    "private_jet_note": "Email the Airport Health Officer at the arrival airport at least 48 hours before landing.",
+    "export": "Export needs prior written permission from the competent authority of the destination country, and from the District Magistrate, Deputy Commissioner, Chief Presidency Magistrate or Coroner for the place of death. The death is registered locally and the death certificate is normally issued 10-15 working days after registration. The body must be embalmed before repatriation. Police release the body after a post-mortem in unnatural deaths. UK guidance says local formalities generally take about two weeks.",
+    "export_points": [
+      "Permission from the District Magistrate or equivalent for the place of death",
+      "Embalming mandatory",
+      "Destination country's requirements must be met",
+      "Allow about two weeks"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Cause of death, English translation",
+      "embalming": "Mandatory",
+      "coffin": "Soldered zinc shell, hardwood coffin, lined case",
+      "laissez_passer": "Not applicable",
+      "consular": "NOC from the Indian mission",
+      "permit": "Airport Health Officer clearance",
+      "arrival": "Written APHO release; 48 h notice"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Death registered abroad; funeral home embalms the body"
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Indian mission issues the NOC and cancels the passport"
+      },
+      {
+        "when": "At least 48 h before arrival",
+        "what": "Consignee and airline email the Airport Health Officer"
+      },
+      {
+        "when": "Departure",
+        "what": "Casket sealed in a soldered zinc shell inside a lined wooden case"
+      },
+      {
+        "when": "Arrival",
+        "what": "APHO checks the documents and authorises removal in writing; family or funeral home collects"
+      }
+    ],
+    "key_points": [
+      "48-hour advance notice to the Airport Health Officer",
+      "NOC from the Indian embassy or consulate",
+      "Hermetically sealed zinc-lined casket",
+      "Some infectious-disease deaths cannot be imported"
+    ],
+    "lead_days": 3,
+    "authority": "Ministry of Health and Family Welfare - Airport Health Organisation (APHO); Ministry of External Affairs (Indian missions)",
+    "sources": [
+      "https://ihpoe.mohfw.gov.in/humanremains.php",
+      "https://www.mea.gov.in/transfer-of-mortal-remains.htm",
+      "https://www.gov.uk/government/publications/bereavement-information-pack-india/india-bereavement-information"
+    ],
+    "confidence": "high",
+    "last_checked": "2026-10"
+  }
+]

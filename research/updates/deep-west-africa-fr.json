@@ -1,0 +1,626 @@
+[
+  {
+    "cc": "BF",
+    "name": "Burkina Faso",
+    "status": "unknown",
+    "summary": "No official Burkinabè checklist for bringing a casket into Burkina Faso was found. Contact a Burkinabè embassy or consulate for the transfer authorisation; note that the Burkinabè embassy and consulate general in Paris closed after Burkina Faso broke diplomatic relations with France in June 2026, and the French embassy and consulate in Ouagadougou are closed.",
+    "documents": [
+      "Death certificate (French translation if needed)",
+      "Removal/transport permit from the country of death",
+      "Certificate of embalming",
+      "Non-contagious disease certificate",
+      "Deceased's passport or ID",
+      "Consular authorisation from the Burkinabe mission (to be confirmed)"
+    ],
+    "coffin": "Not published. A hermetically sealed zinc-lined coffin in an outer wooden case is the international standard; confirm with the consulate.",
+    "embalming": "Not published for entry. UK guidance states bodies leaving Burkina Faso for the UK must be embalmed.",
+    "consular": "Not published online; contact a Burkinabè embassy or consulate for the authorisation, legalisation and translation requirements. Burkina Faso broke diplomatic relations with France on 26 June 2026; Burkinabè press reported that the embassy and consulate general in Paris closed and staff returned in July 2026, with pending files handed to the Haut Conseil des Burkinabè de l'Extérieur. For a death in France, ask the Burkinabè Ministry of Foreign Affairs which mission now handles the file. The French embassy and consulate general in Ouagadougou are closed (French travel advice, September 2026). Not a party to the 1973 Strasbourg Agreement.",
+    "arrival": "Customs and health clearance at Ouagadougou airport; a local funeral director collects. No official burial deadline found.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No published rule specific to private or charter flights was found. A casket on a private aircraft should arrive at an international airport with customs and health officers, with landing permission arranged through a local handling agent and the original documents travelling with the casket. France formally advises against all travel to Burkina Faso and reports curfews and checkpoints; check current airspace and security notices.",
+    "private_jet_alert": false,
+    "private_jet_note": "No Burkinabè mission in France since mid-2026; secure the consular authorisation before departure.",
+    "export": "The death is registered at the local registry office, usually by a funeral director (certificate in French; English version costs extra). Hospital deaths: certificate in about a week; other deaths need a coroner first. An export licence is required and bodies sent to the UK must be embalmed, usually after a post mortem. Cremation of foreigners is possible. From France (if the death occurred there): the funeral company files the request; the transport is authorised by the préfet of the département where the coffin is closed, and a hermetic metal-lined coffin is mandatory for air transport (service-public.gouv.fr). Because this country is not a party to the Berlin (1937) or Strasbourg (1973) agreements, the prefecture may also ask for a certificate of non-epidemic (CNE) issued by the regional health agency (ARS).",
+    "export_points": [
+      "Register the death at the local registry office",
+      "Export licence required to leave Burkina Faso",
+      "Embalming required for the UK",
+      "No French consulate in Ouagadougou (closed 2026)"
+    ],
+    "at_a_glance": {
+      "death_certificate": "French; confirm translation needs",
+      "embalming": "Expected",
+      "coffin": "Sealed zinc-lined coffin expected",
+      "laissez_passer": "Confirm with consulate",
+      "consular": "No mission in Paris since 2026",
+      "permit": "Permit from country of death",
+      "arrival": "Customs and health clearance, Ouagadougou"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Ask the Burkinabè Ministry of Foreign Affairs or nearest Burkinabè mission which office issues the transfer authorisation."
+      },
+      {
+        "when": "Day 1",
+        "what": "Obtain the death certificate, removal permit and medical certificates in the country of death."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Embalming and sealing of the coffin by the funeral director."
+      },
+      {
+        "when": "Day 2-5",
+        "what": "Obtain the consular authorisation and book the flight; check security notices."
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs and health clearance in Ouagadougou; a local funeral director collects."
+      }
+    ],
+    "key_points": [
+      "Entry rules not published officially: confirm with a Burkinabè mission",
+      "Burkinabè embassy and consulate in Paris closed after the June 2026 rupture",
+      "French travel advice formally discourages all travel to Burkina Faso",
+      "Not a party to the 1973 Strasbourg Agreement"
+    ],
+    "lead_days": null,
+    "authority": "Burkinabè Ministry of Foreign Affairs and its embassies/consulates (no mission in France since 2026)",
+    "sources": [
+      "https://www.gov.uk/guidance/when-someone-dies-in-burkina-faso",
+      "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/burkina-faso/",
+      "https://www.service-public.gouv.fr/particuliers/vosdroits/F35706",
+      "https://www.iledefrance.ars.sante.fr/certificat-de-non-epidemie-lors-dun-transfert-dun-corps-ou-des-cendres-dun-defunt"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "BJ",
+    "name": "Benin",
+    "status": "unknown",
+    "summary": "No official Beninese guidance on bringing a casket into Benin was found. Contact the Beninese embassy or consulate in the country of death before arranging transport. Expect a consular authorisation and a hermetically sealed coffin.",
+    "documents": [
+      "Death certificate (French translation if needed)",
+      "Certificate of non-contagious disease",
+      "Embalming certificate",
+      "Coffin sealing record",
+      "Transport authorisation from the country of death (in France: préfet's authorisation)",
+      "Copy of the deceased's ID or passport",
+      "Transfer attestation from the Beninese embassy or consulate (attestation de transfert de dépouille mortelle)"
+    ],
+    "coffin": "Not published for entry. For exit, the UK government describes a galvanised tin coffin with a special filter inside a strong packing case; expect the same standard for entry.",
+    "embalming": "Not published for entry; UK guidance states bodies are embalmed before leaving Benin, so embalming should be expected.",
+    "consular": "Not published in a readable form. The Beninese embassy in Paris lists an 'attestation de transfert de dépouille mortelle' among its consular services, but its pages were blocked or under maintenance when checked (October 2026), so the document list could not be verified. Contact the Beninese embassy or consulate in the country of death for the transfer attestation, legalisation and translation requirements. Benin is not a party to the 1973 Strasbourg Agreement.",
+    "arrival": "Customs and health clearance at Cotonou airport; a local funeral director collects. No official burial deadline found.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No published rule specific to private or charter flights was found. A casket on a private aircraft should arrive at an international airport with customs and health (port health) officers, with landing permission arranged through a local handling agent, and the original documents travelling with the casket.",
+    "private_jet_alert": false,
+    "private_jet_note": "Confirm entry documents with the Beninese consulate before departure.",
+    "export": "A local funeral director registers the death at the registry office (certificate in French, English version on request). The hospital certifies the cause of death, usually within a week; deaths outside hospital need a coroner and take longer. The body is embalmed and placed in a galvanised tin coffin with a special filter, inside a strong packing case. No cremation facilities in Benin. From France: the funeral company files the request; the transport is authorised by the préfet of the département where the coffin is closed, and a hermetic metal-lined coffin is mandatory for air transport (service-public.gouv.fr). Because this country is not a party to the Berlin (1937) or Strasbourg (1973) agreements, the prefecture may also ask for a certificate of non-epidemic (CNE) issued by the regional health agency (ARS).",
+    "export_points": [
+      "Death registered at the local registry office",
+      "Cause-of-death certificate takes about a week",
+      "Embalming and galvanised coffin with filter",
+      "No cremation in Benin"
+    ],
+    "at_a_glance": {
+      "death_certificate": "French; confirm translation needs",
+      "embalming": "Expected",
+      "coffin": "Sealed metal-lined coffin expected",
+      "laissez_passer": "Confirm with consulate",
+      "consular": "Embassy transfer attestation (confirm list)",
+      "permit": "Permit from country of death",
+      "arrival": "Customs and health clearance, Cotonou"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Appoint a funeral home and ask the Beninese embassy or consulate for its written document list."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "In France: the funeral company obtains the préfet's transport authorisation (and an ARS certificate of non-epidemic if the prefecture asks for it) and seals the coffin in a hermetic metal-lined casket."
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Obtain the Beninese transfer attestation and book the flight to Cotonou."
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs and health clearance in Cotonou; a local funeral director or the family collects."
+      }
+    ],
+    "key_points": [
+      "Entry list not readable online: confirm with the embassy",
+      "The Paris embassy issues a transfer attestation for remains",
+      "No cremation facilities in Benin",
+      "Not a party to the 1973 Strasbourg Agreement"
+    ],
+    "lead_days": null,
+    "authority": "Embassies/consulates of Benin; Beninese civil registry",
+    "sources": [
+      "https://www.gov.uk/guidance/when-someone-dies-in-benin",
+      "https://www.service-public.gouv.fr/particuliers/vosdroits/F35706",
+      "https://www.iledefrance.ars.sante.fr/certificat-de-non-epidemie-lors-dun-transfert-dun-corps-ou-des-cendres-dun-defunt"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "pouch_accepted": null,
+    "pouch": null,
+    "last_checked": "2026-10",
+    "cc": "CI",
+    "name": "Côte d'Ivoire",
+    "status": "requirements",
+    "summary": "Before a casket can be flown to Côte d'Ivoire, the Ivorian consulate in the country of death issues a body transfer authorisation (autorisation de transfert de corps). The funeral home files it with the death record, medical, non-contagion, non-epidemic and embalming certificates, the coffining record, the local transport authorisation and mortuary laissez-passer, and proof of identity (Ivorian embassy in Paris: EUR 10 fee).",
+    "documents": [
+      "Full copy of the death record (copie intégrale de l'acte de décès), for transcription into the Ivorian registers",
+      "Medical death certificate",
+      "Medical certificate of non-contagion",
+      "Certificate of non-epidemic",
+      "Embalming (soins de conservation) certificate",
+      "Coffining record (procès-verbal de mise en bière)",
+      "Authorisation to transport the body after coffining",
+      "Authorisation to close the coffin",
+      "Mortuary laissez-passer",
+      "Proof of identity: national ID card, ONECI identity attestation or valid passport"
+    ],
+    "coffin": "The Ivorian consulate in Paris requires the coffining record and the authorisation to close the coffin. From France, a hermetic metal-lined coffin is mandatory for air transport. No Ivorian technical specification for the coffin is published.",
+    "embalming": "Required: the Ivorian consulate in Paris asks for an embalming (soins de conservation) certificate.",
+    "consular": "The Ivorian consulate general issues the autorisation de transfert de corps. The funeral home prepares the file and lodges it at the consulate; a consular card is not required; chancery fee EUR 10 (Ivorian embassy in Paris). Processing time is not published. Côte d'Ivoire is not a party to the 1973 Strasbourg Agreement, so a mortuary laissez-passer alone is not enough.",
+    "arrival": "Customs and health clearance at Abidjan Félix-Houphouët-Boigny airport is not officially documented. The family or an Ivorian funeral home collects the casket. Cremation is not permitted in Côte d'Ivoire.",
+    "private_aviation": "No published rule specific to private or charter flights was found. A private aircraft carrying a casket must land at an international airport with customs, immigration and health services; have the local handling agent and receiving funeral home confirm in advance that the remains can be cleared from a private flight.",
+    "private_jet_alert": false,
+    "private_jet_note": "Confirm with the Abidjan handling agent that the casket can be cleared from a private aircraft.",
+    "export": "UK government guidance lists these documents for taking a body out of Côte d'Ivoire: a death certificate, a transfer authorisation, permission to remove the body issued by a coroner, and authorisation from the Ministry of Interior. The police can order an autopsy without the family's consent, often as soon as the body reaches the morgue. Cremation is not permitted. Typical delays are not published. From France: the funeral company files the request; the transport is authorised by the préfet of the département where the coffin is closed, and a hermetic metal-lined coffin is mandatory for air transport (service-public.gouv.fr). Because this country is not a party to the Berlin (1937) or Strasbourg (1973) agreements, the prefecture may also ask for a certificate of non-epidemic (CNE) issued by the regional health agency (ARS).",
+    "export_points": [
+      "Death certificate from the civil registry",
+      "Transfer authorisation and permission to remove the body",
+      "Ministry of Interior authorisation required",
+      "Cremation not permitted in Côte d'Ivoire"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Full copy of the death record",
+      "embalming": "Required (embalming certificate)",
+      "coffin": "Hermetic metal-lined, coffining record",
+      "laissez_passer": "Required, plus consular authorisation",
+      "consular": "Transfer authorisation, EUR 10 (Paris)",
+      "permit": "Local transport and coffin-closing permits",
+      "arrival": "Funeral home collects; no cremation"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Appoint a funeral home; it gathers the death record and medical certificates."
+      },
+      {
+        "when": "Day 1",
+        "what": "Embalming, coffining and closing of the coffin, with the coffining record."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "In France: the funeral company obtains the préfet's transport authorisation (and an ARS certificate of non-epidemic if the prefecture asks for it) and seals the coffin in a hermetic metal-lined casket."
+      },
+      {
+        "when": "Day 2-3",
+        "what": "The funeral home lodges the file at the Ivorian consulate and obtains the transfer authorisation."
+      },
+      {
+        "when": "Day 3+",
+        "what": "Flight to Abidjan with all originals."
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs and health clearance, then an Ivorian funeral home or the family collects the casket."
+      }
+    ],
+    "key_points": [
+      "The Ivorian consulate issues a body transfer authorisation (EUR 10 in Paris)",
+      "Embalming and non-epidemic certificates are on the list",
+      "Cremation is not permitted in Côte d'Ivoire",
+      "Leaving Côte d'Ivoire needs Ministry of Interior authorisation"
+    ],
+    "lead_days": null,
+    "authority": "Ivorian consulates abroad (entry); Ministry of Interior (exit)",
+    "sources": [
+      "https://france.diplomatie.gouv.ci/visa.php?num=5",
+      "https://www.gov.uk/guidance/when-someone-dies-in-cote-divoire",
+      "https://www.gov.uk/government/publications/cote-divoire-bereavement-death-abroad/cote-divoires-bereavement-information",
+      "https://www.service-public.gouv.fr/particuliers/vosdroits/F35706",
+      "https://www.iledefrance.ars.sante.fr/certificat-de-non-epidemie-lors-dun-transfert-dun-corps-ou-des-cendres-dun-defunt"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "cc": "SN",
+    "name": "Senegal",
+    "status": "requirements",
+    "summary": "Senegalese consulates issue a mortuary laissez-passer (laissez-passer mortuaire) for any body to be buried in Senegal. It is issued on the local death record, the deceased's Senegalese ID, sanitary coffining documents, the cause-of-death or autopsy certificate, the local transport authorisation and the freight itinerary.",
+    "documents": [
+      "Local death record (acte de décès), to be transcribed in the consulate's registers",
+      "Copy of the deceased's Senegalese ID (passport, national ID card, consular card)",
+      "Sanitary documents from the funeral company or local health authority confirming the coffining standards were met",
+      "Certificate of the type of death (natural death) or autopsy report (violent death or homicide)",
+      "Transport authorisation: from the préfet for a natural death, or from the judicial authority for a homicide (in France)",
+      "Copy of the transport itinerary of the remains, travelling as freight, with Senegal as final destination",
+      "Non-contagion and embalming certificates (cited by the consulate as usual documents)"
+    ],
+    "coffin": "The Senegalese consulate requires sanitary documents confirming compliance with coffining standards; it does not publish its own coffin specification. From France, a hermetic metal-lined coffin is mandatory for air transport.",
+    "embalming": "The Senegalese consulate in Paris cites the embalming certificate among the documents families provide. Senegal also requires an embalming certificate for bodies leaving Senegal. Ask about ritual washing before the coffin is sealed.",
+    "consular": "The Senegalese consulate general (Paris; also consulates in Bordeaux, Lyon and Marseille) issues the laissez-passer mortuaire, often in liaison with the funeral home chosen by the family. A copy of the death record, transcribed or not, must always be attached. Senegal is not a party to the Strasbourg Agreement, so the French authorisation alone is not enough. Fees and processing time are not published.",
+    "arrival": "No official description of arrival clearance at Dakar Blaise Diagne airport was found. Burial usually follows quickly; arrange a receiving funeral home or family member in advance. Cremation is not available in Senegal.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "The Senegalese consulate's checklist asks for the itinerary of the remains 'travelling as freight' to Senegal. No rule specific to private flights was found. A private flight should land at an international airport with customs and health control (normally Dakar Blaise Diagne) with all originals travelling with the coffin.",
+    "private_jet_alert": true,
+    "private_jet_note": "The consular checklist assumes air freight: ask the consulate to accept the private-flight itinerary before departure.",
+    "export": "UK government guidance for taking a body out of Senegal lists a civil registry death certificate (in French), permission to remove the body, the passport, a certificate of cause of death, a certificate of non-contagiousness, a burial permit from the town hall, a police report, an authorisation from the Ministry of Interior, a transportation certificate and a certificate of embalming. Cremation is not available in Senegal. From France: the funeral company files the request; the transport is authorised by the préfet of the département where the coffin is closed, and a hermetic metal-lined coffin is mandatory for air transport (service-public.gouv.fr). Because this country is not a party to the Berlin (1937) or Strasbourg (1973) agreements, the prefecture may also ask for a certificate of non-epidemic (CNE) issued by the regional health agency (ARS).",
+    "export_points": [
+      "Ministry of Interior authorisation required",
+      "Police report and town hall burial permit",
+      "Non-contagiousness and embalming certificates",
+      "No cremation facilities in Senegal"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Local death record, transcribed by consulate",
+      "embalming": "Embalming certificate expected",
+      "coffin": "Hermetic metal-lined, sanitary papers",
+      "laissez_passer": "Senegalese laissez-passer mortuaire required",
+      "consular": "Issued by Senegalese consulate",
+      "permit": "Préfet or judicial transport authorisation",
+      "arrival": "Burial usually soon after arrival"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Obtain the death record and appoint a funeral home in the country of death."
+      },
+      {
+        "when": "Day 1",
+        "what": "Embalming, coffining and sanitary documents; cause-of-death or autopsy certificate."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "In France: the funeral company obtains the préfet's transport authorisation (and an ARS certificate of non-epidemic if the prefecture asks for it) and seals the coffin in a hermetic metal-lined casket."
+      },
+      {
+        "when": "Day 2-3",
+        "what": "File with the Senegalese consulate (ID, death record, transport authorisation, itinerary) for the laissez-passer mortuaire."
+      },
+      {
+        "when": "Day 3+",
+        "what": "Flight to Dakar with all originals."
+      },
+      {
+        "when": "Arrival",
+        "what": "Clearance at Dakar and handover to the family or funeral home for burial."
+      }
+    ],
+    "key_points": [
+      "A Senegalese laissez-passer mortuaire is required",
+      "Homicide cases need judicial transport authorisation",
+      "Leaving Senegal needs Ministry of Interior authorisation",
+      "No cremation in Senegal"
+    ],
+    "lead_days": null,
+    "authority": "Senegalese consulates abroad (laissez-passer mortuaire); Ministry of Interior for bodies leaving Senegal",
+    "sources": [
+      "https://consulsen-paris.gouv.sn/laissez-passer-mortuaire/",
+      "https://www.gov.uk/guidance/when-someone-dies-in-senegal",
+      "https://www.service-public.gouv.fr/particuliers/vosdroits/F35706",
+      "https://www.iledefrance.ars.sante.fr/certificat-de-non-epidemie-lors-dun-transfert-dun-corps-ou-des-cendres-dun-defunt"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "ML",
+    "name": "Mali",
+    "status": "requirements",
+    "summary": "A coffin entering Mali usually needs authorisation from the Malian embassy or consulate in the country of death, supported by the death certificate, non-contagious disease and embalming certificates and the local exit permit. No official Malian checklist was found online, so confirm with the consulate.",
+    "documents": [
+      "Death certificate, translated into French if needed",
+      "Certificate of non-contagious disease",
+      "Embalming certificate",
+      "Coffin sealing certificate",
+      "Exit permit or mortuary laissez-passer from the country of death",
+      "Passport or ID of the deceased",
+      "Transfer authorisation from the Malian embassy or consulate (unconfirmed)"
+    ],
+    "coffin": "No official Malian specification found. Standard practice: hermetically sealed zinc-lined inner coffin in a wooden outer coffin; follow airline requirements.",
+    "embalming": "Normally required by the departure country and airlines. Bodies are not embalmed in Mali itself.",
+    "consular": "The Malian embassy or consulate in the country of death is expected to authorise the transfer; its document list is not published online. Not a party to the Strasbourg Agreement 1973, so a mortuary laissez-passer alone is not enough. French travel advice (September 2026) formally advises against all travel to Mali and urges French nationals to leave on remaining commercial flights.",
+    "arrival": "Remains are cleared by customs at Bamako-Senou airport and released to the family. Burial usually follows quickly; morgue capacity in Mali is limited. Cremation is not possible in Mali.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No published rule specific to private flights carrying remains was found. A private aircraft must land at an international airport with customs and health services (Bamako-Senou). The security situation is very degraded (French travel advice, September 2026); check airspace and security notices and landing permits with the handling agent.",
+    "private_jet_alert": false,
+    "private_jet_note": "Very degraded security in 2026: confirm Bamako airport status and landing permit before departure.",
+    "export": "UK guidance: the body is normally held at the General Hospital morgue; the next of kin (or a representative with written permission) must identify the deceased and pay morgue fees. The local funeral director provides the release and repatriation forms. Death registration by the medical facility or police takes a day or two; certificates are in French and do not state the cause of death. Bodies are not embalmed in Mali, which may conflict with destination or airline rules. Investigated deaths can delay release; in natural deaths the body is released after the Examining Officer's report. From France: the funeral company files the request; the transport is authorised by the préfet of the département where the coffin is closed, and a hermetic metal-lined coffin is mandatory for air transport (service-public.gouv.fr). Because this country is not a party to the Berlin (1937) or Strasbourg (1973) agreements, the prefecture may also ask for a certificate of non-epidemic (CNE) issued by the regional health agency (ARS).",
+    "export_points": [
+      "Death certificate in French, no cause of death",
+      "Bodies are not embalmed in Mali",
+      "Morgue fees paid on release",
+      "Limited morgue capacity: act quickly"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Required, French or translated",
+      "embalming": "Required on departure side",
+      "coffin": "Sealed zinc-lined coffin expected",
+      "laissez_passer": "Not Strasbourg party",
+      "consular": "Malian consulate authorisation (unconfirmed)",
+      "permit": "No published import permit",
+      "arrival": "Customs at Bamako, quick burial"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Obtain the death certificate and ask the Malian embassy or consulate for its written document list."
+      },
+      {
+        "when": "Day 1",
+        "what": "Embalming, non-contagious disease certificate and coffin sealing."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "In France: the funeral company obtains the préfet's transport authorisation (and an ARS certificate of non-epidemic if the prefecture asks for it) and seals the coffin in a hermetic metal-lined casket."
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Obtain the Malian consular authorisation; check Bamako security and airport status; book the flight."
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs clearance at Bamako-Senou and release to the family."
+      }
+    ],
+    "key_points": [
+      "No official Malian checklist published online",
+      "Bodies are not embalmed in Mali",
+      "France formally advises against all travel to Mali (2026)",
+      "No cremation in Mali"
+    ],
+    "lead_days": 3,
+    "authority": "Malian embassy or consulate in the country of death",
+    "sources": [
+      "https://www.gov.uk/government/publications/mali-bereavement-death-abroad/mali-bereavement-information",
+      "https://ml.diplomatie.gouv.fr/urgence-difficulte/accident-hospitalisation-et-deces",
+      "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/mali/",
+      "https://www.service-public.gouv.fr/particuliers/vosdroits/F35706",
+      "https://www.iledefrance.ars.sante.fr/certificat-de-non-epidemie-lors-dun-transfert-dun-corps-ou-des-cendres-dun-defunt"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "MR",
+    "name": "Mauritania",
+    "status": "unknown",
+    "summary": "No official Mauritanian checklist for bringing a casket into the country was found. Contact the Mauritanian embassy or consulate in the country of death; expect a death certificate, non-contagious disease and embalming certificates and a sealed zinc-lined coffin, and plan for a quick Muslim burial.",
+    "documents": [
+      "Death certificate (French or Arabic translation likely needed; confirm)",
+      "Certificate of non-contagious disease (confirm)",
+      "Embalming certificate (confirm)",
+      "Coffin sealing certificate",
+      "Exit permit from the country of death",
+      "Passport or ID of the deceased",
+      "Any authorisation from the Mauritanian consulate (not published)"
+    ],
+    "coffin": "No official specification found. Standard practice: hermetically sealed zinc-lined inner coffin in a wooden outer case; confirm with the consulate and airline.",
+    "embalming": "Not published. Usually required by departure countries and airlines; families may prefer minimal treatment for Muslim burial, so confirm alternatives with the airline.",
+    "consular": "The Mauritanian consulate's role is not published online. Not a party to the Strasbourg Agreement 1973, so a mortuary laissez-passer alone is not enough.",
+    "arrival": "Not published. Remains would be cleared at Nouakchott international airport. Burial customarily takes place very quickly after arrival.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No rules specific to private flights carrying remains were found. Land at an international airport with customs and carry original documents. Check security advisories and landing permits.",
+    "private_jet_alert": false,
+    "private_jet_note": "Confirm landing permit and customs at Nouakchott in advance.",
+    "export": "No official information found on permits for taking a body out of Mauritania. French consular guidance only states that the consulate advises families on the legal formalities and that costs fall on the family or insurer. Confirm with a local funeral operator and the destination country's embassy. From France: the funeral company files the request; the transport is authorised by the préfet of the département where the coffin is closed, and a hermetic metal-lined coffin is mandatory for air transport (service-public.gouv.fr). Because this country is not a party to the Berlin (1937) or Strasbourg (1973) agreements, the prefecture may also ask for a certificate of non-epidemic (CNE) issued by the regional health agency (ARS).",
+    "export_points": [
+      "No official export procedure published",
+      "Destination embassy usually issues the entry authorisation",
+      "Costs borne by family or insurer"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Required; translation likely",
+      "embalming": "Expected for air transport; confirm",
+      "coffin": "Sealed zinc-lined coffin expected",
+      "laissez_passer": "Not Strasbourg party",
+      "consular": "Ask Mauritanian consulate first",
+      "permit": "No published import permit",
+      "arrival": "Nouakchott customs; quick burial"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Death certificate and appointment of a funeral director in the country of death."
+      },
+      {
+        "when": "Day 0-1",
+        "what": "Contact the Mauritanian embassy (Paris) or consulate for its current requirements."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "In France: the funeral company obtains the préfet's transport authorisation (and an ARS certificate of non-epidemic if the prefecture asks for it) and seals the coffin in a hermetic metal-lined casket."
+      },
+      {
+        "when": "Day 2-4",
+        "what": "Any consular authorisation; book the flight to Nouakchott."
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs clearance at Nouakchott and handover for burial."
+      }
+    ],
+    "key_points": [
+      "No official checklist published online",
+      "Quick Muslim burial customary",
+      "Low confidence: confirm with the consulate"
+    ],
+    "lead_days": null,
+    "authority": "Mauritanian embassy or consulate in the country of death (unconfirmed)",
+    "sources": [
+      "https://mr.diplomatie.gouv.fr/fr/urgence-difficulte/accident-hospitalisation-et-deces",
+      "https://www.service-public.gouv.fr/particuliers/vosdroits/F35706",
+      "https://www.iledefrance.ars.sante.fr/certificat-de-non-epidemie-lors-dun-transfert-dun-corps-ou-des-cendres-dun-defunt"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "pouch_accepted": null,
+    "pouch": null,
+    "last_checked": "2026-10",
+    "cc": "GN",
+    "name": "Guinea",
+    "status": "requirements",
+    "summary": "No official Guinean page on bringing a casket into the country was found. Expect a death certificate, embalming and non-contagious disease certificates, a hermetically sealed casket and authorisation from a Guinean consulate. Confirm with the consulate.",
+    "documents": [
+      "Death certificate (French translation if needed)",
+      "Embalming certificate",
+      "Certificate that death was not due to a contagious disease",
+      "Casket sealing certificate",
+      "Consular authorisation (to be confirmed)"
+    ],
+    "coffin": "Not officially published for entry. A hermetically sealed zinc-lined casket in a wooden outer case is the usual standard.",
+    "embalming": "Not officially published for entry. Usually expected.",
+    "consular": "Not published online. Contact the Guinean embassy or consulate. Guinea is not a party to the 1973 Strasbourg Agreement.",
+    "arrival": "Not officially published. Collection in Conakry by the family or a funeral home. There is no cremation facility in Guinea.",
+    "private_aviation": "No published rule specific to private or charter flights was found. A private aircraft carrying a casket must land at an international airport with customs, immigration and health services; have the local handling agent and receiving funeral home confirm in advance that the remains can be cleared from a private flight.",
+    "private_jet_alert": false,
+    "private_jet_note": "Confirm clearance at Conakry Gbessia with the handling agent before departure.",
+    "export": "Local funeral directors provide the documents for repatriation, including the local death certificate and embalming certificate, and arrange release of the body. A letter of authorisation from the next of kin is required. If there is disagreement over who is next of kin, a family council decision may be needed. Hospitals in Conakry have cold storage, but rural areas may not. From France: the funeral company files the request; the transport is authorised by the préfet of the département where the coffin is closed, and a hermetic metal-lined coffin is mandatory for air transport (service-public.gouv.fr). Because this country is not a party to the Berlin (1937) or Strasbourg (1973) agreements, the prefecture may also ask for a certificate of non-epidemic (CNE) issued by the regional health agency (ARS).",
+    "export_points": [
+      "Death certificate and embalming certificate",
+      "Authorisation letter from the next of kin",
+      "A family council may be needed in disputes",
+      "No cremation in Guinea"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Required, French translation if needed",
+      "embalming": "Usually expected (confirm)",
+      "coffin": "Sealed zinc-lined casket (confirm)",
+      "laissez_passer": "Not published",
+      "consular": "Contact the Guinean consulate",
+      "permit": "Release arranged by funeral director",
+      "arrival": "Family collects; no cremation"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the Guinean embassy or consulate for its current list of documents."
+      },
+      {
+        "when": "Day 1",
+        "what": "Embalming, non-contagious disease certificate and casket sealing."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "In France: the funeral company obtains the préfet's transport authorisation (and an ARS certificate of non-epidemic if the prefecture asks for it) and seals the coffin in a hermetic metal-lined casket."
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Consular authorisation from the Guinean embassy; confirm Conakry has cleared the arrival."
+      },
+      {
+        "when": "Arrival",
+        "what": "Clearance in Conakry, then collection by the family or a funeral home."
+      }
+    ],
+    "key_points": [
+      "Rules for entry are not officially published",
+      "No cremation facility in Guinea",
+      "Exit requires an authorisation letter from the next of kin"
+    ],
+    "lead_days": null,
+    "authority": "Guinean consulate abroad",
+    "sources": [
+      "https://www.gov.uk/government/publications/guinea-bereavement-death-abroad/guinea-bereavement-information",
+      "https://gn.diplomatie.gouv.fr/fr/urgence-difficulte/accident-hospitalisation-et-deces",
+      "https://www.service-public.gouv.fr/particuliers/vosdroits/F35706",
+      "https://www.iledefrance.ars.sante.fr/certificat-de-non-epidemie-lors-dun-transfert-dun-corps-ou-des-cendres-dun-defunt"
+    ],
+    "confidence": "low"
+  },
+  {
+    "cc": "NE",
+    "name": "Niger",
+    "status": "unknown",
+    "summary": "Niger publishes no official procedure for bringing a coffin into the country. Expect to obtain an authorisation from the Niger embassy or consulate in the country of death and to send the body embalmed in a hermetically sealed coffin; confirm everything with the mission first.",
+    "documents": [
+      "Death certificate (French or with French translation; confirm with the Niger mission)",
+      "Certificate of non-contagious disease",
+      "Embalming certificate",
+      "Coffin sealing record",
+      "Exit or transport permit from the country of death",
+      "Passport or ID of the deceased",
+      "Authorisation or visa from the Niger embassy or consulate (not officially documented online)"
+    ],
+    "coffin": "No official Nigerien specification found. Plan for the international standard of a hermetically sealed zinc-lined inner coffin in a wooden outer coffin, and confirm with the Niger mission.",
+    "embalming": "No official rule published; embalming is normally expected for a long-haul air transfer. Confirm with the Niger mission.",
+    "consular": "Niger has no published repatriation procedure. Contact the Niger embassy or consulate in the country of death before booking; documents may need legalisation rather than an apostille. Niger is not a party to the Strasbourg Agreement, so no mortuary laissez-passer replaces the consular step. The French embassy in Niamey is closed until further notice and cannot provide consular help.",
+    "arrival": "No official information on health or customs clearance at Niamey Diori Hamani airport was found. Arrange a local receiving funeral home or family member in advance.",
+    "pouch_accepted": null,
+    "pouch": null,
+    "private_aviation": "No rule specific to private flights carrying remains was found. French travel advice (September 2026) reports exchanges of gunfire concentrated around Niamey airport and strongly advises against all travel to Niger; it also reports French nationals being turned back on arrival. A private flight needs landing permission and must use an international airport with customs and health control.",
+    "private_jet_alert": true,
+    "private_jet_note": "Gunfire reported around Niamey airport in 2026: confirm airport status and landing permit before departure.",
+    "export": "No official procedure for taking a body out of Niger was found. Expect a death certificate, a medical certificate, embalming and a sealed coffin, plus the authorisations of the local authorities and of the destination country's consulate; confirm with a local funeral home. From France: the funeral company files the request; the transport is authorised by the préfet of the département where the coffin is closed, and a hermetic metal-lined coffin is mandatory for air transport (service-public.gouv.fr). Because this country is not a party to the Berlin (1937) or Strasbourg (1973) agreements, the prefecture may also ask for a certificate of non-epidemic (CNE) issued by the regional health agency (ARS).",
+    "export_points": [
+      "No official export procedure published",
+      "French embassy in Niamey closed; French families need other channels",
+      "Destination country's consulate approval usually needed",
+      "Check airport and security situation before planning"
+    ],
+    "at_a_glance": {
+      "death_certificate": "Required; confirm translation with consulate",
+      "embalming": "Expected; not officially confirmed",
+      "coffin": "Sealed zinc-lined coffin expected",
+      "laissez_passer": "Exit permit from country of death",
+      "consular": "Contact the Niger mission before shipping",
+      "permit": "No official entry procedure published",
+      "arrival": "Niamey airport; check security first"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Obtain the death certificate and appoint a funeral home in the country of death."
+      },
+      {
+        "when": "Day 0-1",
+        "what": "Contact the Niger embassy or consulate for its written list of documents."
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Embalming, non-contagious disease certificate and sealing of the coffin."
+      },
+      {
+        "when": "Day 2-5",
+        "what": "Obtain local exit permit and the Niger consular authorisation; check Niamey airport status."
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs and health clearance in Niamey and handover to the family."
+      }
+    ],
+    "key_points": [
+      "No official Nigerien repatriation guidance was found",
+      "Security near Niamey airport has been volatile in 2026",
+      "Get the consular document list in writing"
+    ],
+    "lead_days": null,
+    "authority": "Niger embassy or consulate in the country of death (procedure not published)",
+    "sources": [
+      "https://www.gov.uk/foreign-travel-advice/niger",
+      "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/niger/",
+      "https://www.service-public.gouv.fr/particuliers/vosdroits/F35706",
+      "https://www.iledefrance.ars.sante.fr/certificat-de-non-epidemie-lors-dun-transfert-dun-corps-ou-des-cendres-dun-defunt"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  }
+]

@@ -1,0 +1,599 @@
+[
+ {
+  "cc": "GM",
+  "name": "Gambia",
+  "status": "requirements",
+  "summary": "No official Gambian checklist for bringing a casket into The Gambia was found. Plan for an embalmed body in a sealed casket with death, embalming and non-contagious disease certificates, and confirm with the Gambian High Commission or embassy before the flight.",
+  "documents": [
+   "Death certificate",
+   "Embalming certificate",
+   "Certificate that death was not due to a contagious disease",
+   "Burial/transit or removal permit from the country of death",
+   "Copy of the deceased's passport",
+   "Any attestation required by the Gambian mission (not published)"
+  ],
+  "coffin": "Not officially published for entry. A hermetically sealed casket in an outer case is the usual standard; confirm with the Gambian mission and airline.",
+  "embalming": "Not officially published for entry. UK guidance states that bodies repatriated from The Gambia must be embalmed, and embalming is expected for international air transport in either direction.",
+  "consular": "No Gambian consular procedure for incoming remains is published online by the High Commission in London or the Embassy in Washington. Ask the mission whether it attests the documents. The Gambia is not a party to the 1973 Strasbourg Agreement.",
+  "arrival": "Not officially published. Islamic burial generally takes place within 24 hours of death, so arrange collection in Banjul in advance. Christian burials have no set time limit. Cremation is illegal in The Gambia.",
+  "pouch_accepted": null,
+  "pouch": null,
+  "private_aviation": "No published rule specific to private or charter flights was found. A private aircraft carrying a casket should land at Banjul International Airport with customs, immigration and health services; have the handling agent and receiving funeral home confirm in advance that the remains can be cleared from a private flight.",
+  "private_jet_alert": false,
+  "private_jet_note": "Confirm clearance at Banjul airport with the handling agent before departure.",
+  "export": "The death is registered at the Births and Deaths registry in Banjul on a medical certificate of death or a 'brought in dead' certificate (a funeral director can register with next-of-kin authorisation). Bodies to be repatriated must be embalmed. The local funeral director provides the civil-registry death certificate, an embalming certificate and a certificate giving permission to transfer the remains. No ready-made coffins exist: making and fitting one usually takes about 72 hours. A post-mortem can delay the death certificate by several weeks.",
+  "export_points": [
+   "Register the death in Banjul",
+   "Embalming is mandatory for repatriation",
+   "Coffin must be made: about 72 hours",
+   "Post-mortem can delay things by weeks"
+  ],
+  "at_a_glance": {
+   "death_certificate": "Required",
+   "embalming": "Expected; mandatory when leaving",
+   "coffin": "Sealed casket usual (confirm)",
+   "laissez_passer": "Not Strasbourg party",
+   "consular": "Ask the Gambian High Commission",
+   "permit": "Transfer permit from country of death",
+   "arrival": "Funeral home collects; no cremation"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Contact the Gambian mission and a receiving funeral home in The Gambia."
+   },
+   {
+    "when": "Day 1",
+    "what": "Embalming, non-contagious disease certificate and sealing of the casket."
+   },
+   {
+    "when": "Day 1-2",
+    "what": "Obtain the removal or transit permit in the country of death and any consular attestation."
+   },
+   {
+    "when": "Day 2-3",
+    "what": "Book the flight and send copies of the documents to the receiving funeral home."
+   },
+   {
+    "when": "Arrival",
+    "what": "Clearance in Banjul and quick collection, often for burial within 24 hours."
+   }
+  ],
+  "key_points": [
+   "Entry rules are not published officially",
+   "Cremation is illegal in The Gambia",
+   "Muslim burial usually within 24 hours",
+   "Leaving The Gambia: coffins are made to order (about 72 hours)"
+  ],
+  "lead_days": null,
+  "authority": "Gambian diplomatic missions (entry, unpublished); Births and Deaths Registry, Banjul (exit)",
+  "sources": [
+   "https://www.gov.uk/guidance/what-to-do-after-a-british-person-dies-in-the-gambia"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "SL",
+  "name": "Sierra Leone",
+  "status": "requirements",
+  "summary": "The Embassy of Sierra Leone in Washington publishes a checklist for repatriating a Sierra Leonean's remains: original death certificate, burial/transit permit, embalmer's letter confirming embalming and a sealed casket, non-contagious disease certificate, passport (or emergency travel certificate) and itinerary, with a US$100 processing fee.",
+  "documents": [
+   "Original death certificate",
+   "Burial/transit permit from the country of death",
+   "Embalmer's letter certifying embalming and that the remains are enclosed in a sealed casket containing only the body, clothing and packing",
+   "Certificate of non-contagious disease from the treating physician or local health department",
+   "Current Sierra Leone passport of the deceased, or an Emergency Travel Certificate",
+   "Copy of the flight itinerary"
+  ],
+  "coffin": "Sealed casket required: the embalmer's letter must state that the remains are enclosed in a sealed casket containing only the body of the deceased, the clothing and packing (Embassy in Washington). Zinc lining is not specified; airlines usually expect a hermetically sealed casket in an outer case.",
+  "embalming": "Required: the embalmer must certify that the remains were embalmed according to accepted mortuary procedures.",
+  "consular": "The Sierra Leone embassy processes the funeral documents for a US$100 money order (Washington); if the deceased has no valid Sierra Leone passport, an Emergency Travel Certificate is needed, for another US$100. Originals are required. Other missions (e.g. the High Commission in London) do not publish a checklist; expect a similar list. Not a party to the 1973 Strasbourg Agreement.",
+  "arrival": "No official information on clearance at Freetown Lungi International Airport was found. Under Sierra Leone law repatriations are handled by a funeral home, so appoint a Freetown funeral home to receive the casket. Sierra Leone is predominantly Muslim; plan for a quick burial where relevant.",
+  "pouch_accepted": false,
+  "pouch": null,
+  "private_aviation": "UK guidance states that Brussels Airlines is the only commercial airline from Sierra Leone currently carrying human remains, with limited flights, so commercial repatriation can take several weeks. A private flight avoids this bottleneck but must use Freetown Lungi International Airport with customs and health control, with the original documents travelling with the casket.",
+  "private_jet_alert": false,
+  "private_jet_note": "Commercial capacity for remains is very limited; a private flight can save weeks, but carry all originals.",
+  "export": "Under Sierra Leone law all repatriations must be carried out by a funeral home. UK guidance lists the death certificate (from the local registry, distinct from the doctor's Medical Certificate of Cause of Death), a coroner's permission to remove the body, the passport and, for the UK, a Letter of No Objection from the British High Commission. Embalming is possible in Freetown but standards are lower than in the UK; outside Freetown move the body to the Freetown mortuary quickly. Only Brussels Airlines carries remains commercially, so delays of several weeks are possible. Cremation needs Ministry of Health approval.",
+  "export_points": [
+   "A funeral home must handle the repatriation",
+   "Coroner's permission to remove the body",
+   "Only one commercial airline carries remains",
+   "Destination consulate's letter may be needed"
+  ],
+  "at_a_glance": {
+   "death_certificate": "Original required",
+   "embalming": "Required, with embalmer's letter",
+   "coffin": "Sealed casket, body only",
+   "laissez_passer": "Not Strasbourg party",
+   "consular": "Embassy processes documents (US$100)",
+   "permit": "Burial/transit permit from country of death",
+   "arrival": "Freetown funeral home receives casket"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Obtain the death certificate and appoint a funeral home in the country of death."
+   },
+   {
+    "when": "Day 1",
+    "what": "Embalming, sealing of the casket and embalmer's letter; non-contagious disease certificate."
+   },
+   {
+    "when": "Day 1-2",
+    "what": "Obtain the burial/transit permit; check the passport or apply for an Emergency Travel Certificate."
+   },
+   {
+    "when": "Day 2-4",
+    "what": "Submit the originals, itinerary and fee to the Sierra Leone embassy or high commission."
+   },
+   {
+    "when": "Arrival",
+    "what": "Clearance at Freetown Lungi and handover to the local funeral home."
+   }
+  ],
+  "key_points": [
+   "Embassy checklist published by the Embassy in Washington",
+   "Processing fee US$100; travel certificate another US$100",
+   "Valid Sierra Leone passport or travel certificate needed",
+   "Only Brussels Airlines carries remains commercially"
+  ],
+  "lead_days": 3,
+  "authority": "Embassy / High Commission of Sierra Leone in the country of death",
+  "sources": [
+   "https://www.embassyofsierraleone.net/consular-services",
+   "https://www.gov.uk/guidance/when-someone-dies-in-sierra-leone"
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "LR",
+  "name": "Liberia",
+  "status": "requirements",
+  "summary": "The Liberian Embassy in Washington issues a Mortuary Certificate (notarial certificate to transport human remains) on a published checklist: funeral home letter and licence, embalming affidavit, burial transit permit, certified death certificate, non-contagious disease and non-contraband letters, passport and itinerary, for a US$150 fee.",
+  "documents": [
+   "Letter from the funeral home describing the transport arrangements",
+   "Copy of the funeral home licence",
+   "Embalming affidavit",
+   "Burial transit permit",
+   "Certified copy of the death certificate",
+   "Non-contagious disease letter",
+   "Non-contraband letter",
+   "Passport of the deceased",
+   "Flight itinerary",
+   "Liberian Mortuary Certificate application form (with photo of the deceased and receiving funeral home in Liberia)"
+  ],
+  "coffin": "No Liberian specification published. The non-contraband letter implies the casket must contain only the remains. Airlines usually expect a hermetically sealed casket in an outer case; confirm with the embassy.",
+  "embalming": "Required for the Mortuary Certificate: an embalming affidavit is on the embassy checklist.",
+  "consular": "The Liberian embassy issues a Mortuary Certificate ('notarial certificate to transport human remains'). Washington fee: US$150, plus US$50 for next-day rush, in US currency. The form asks for the remitting and the receiving funeral homes, airline, flight number and arrival date. Not a party to the 1973 Strasbourg Agreement.",
+  "arrival": "Clearance at Roberts International Airport (Monrovia); the receiving Liberian funeral home named on the Mortuary Certificate collects. Under the Public Health Law a permit to handle the remains is issued by the district registrar before burial or cremation.",
+  "pouch_accepted": null,
+  "pouch": null,
+  "private_aviation": "No rules specific to private flights carrying remains were found. Land at Roberts International Airport with customs and carry the Mortuary Certificate and original documents with the casket; the form asks for flight details, so give the private flight details.",
+  "private_jet_alert": false,
+  "private_jet_note": "The Mortuary Certificate form asks for flight details: obtain it for the actual private flight.",
+  "export": "UK guidance: funeral directors repatriate only with authorisation from the embassy, the next of kin or authorised person, and a consulate mortuary certificate. A permit to handle the body is issued by the district registrar (Public Health Law: within 24 hours). Death certificates are issued only by the Bureau of Vital and Health Statistics, Ministry of Health, within 7 working days of an interview; unknown causes need a court affidavit, road deaths a police report. Embalming only with next-of-kin approval; cold storage is an alternative.",
+  "export_points": [
+   "Death certificate can take 7 working days",
+   "District registrar permit to handle the body",
+   "Embassy authorisation and consular mortuary certificate",
+   "Embalming only with next-of-kin approval"
+  ],
+  "at_a_glance": {
+   "death_certificate": "Certified copy required",
+   "embalming": "Required: embalming affidavit",
+   "coffin": "Sealed casket; non-contraband letter",
+   "laissez_passer": "Not Strasbourg party",
+   "consular": "Liberian Mortuary Certificate (US$150)",
+   "permit": "Burial transit permit",
+   "arrival": "Liberian funeral home collects"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Death certificate and appointment of a funeral home in the country of death."
+   },
+   {
+    "when": "Day 1",
+    "what": "Embalming affidavit, non-contagious disease and non-contraband letters; burial transit permit."
+   },
+   {
+    "when": "Day 1-2",
+    "what": "Agree on a receiving funeral home in Liberia and book the flight."
+   },
+   {
+    "when": "Day 2-3",
+    "what": "Apply to the Liberian embassy for the Mortuary Certificate (next-day rush available)."
+   },
+   {
+    "when": "Arrival",
+    "what": "Clearance at Roberts International Airport; the receiving funeral home collects."
+   }
+  ],
+  "key_points": [
+   "Mortuary Certificate from the Liberian embassy",
+   "Fee US$150; US$50 extra for next-day",
+   "A receiving funeral home in Liberia must be named",
+   "Leaving Liberia, the death certificate can take a week"
+  ],
+  "lead_days": 3,
+  "authority": "Embassy of Liberia (Mortuary Certificate); Ministry of Health, Bureau of Vital and Health Statistics (local deaths)",
+  "sources": [
+   "https://www.liberianembassyus.org/page/other-consular-services",
+   "https://www.liberianembassyus.org/sites/default/files/documents/daDeathA.pdf",
+   "https://www.gov.uk/government/publications/liberia-bereavement-death-abroad/liberia-bereavement-information"
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "GW",
+  "name": "Guinea-Bissau",
+  "status": "unknown",
+  "summary": "No official Bissau-Guinean checklist for bringing a casket into the country was found, and neither the UK nor Bissau-Guinean missions publish one. Contact the Embassy or consulate of Guinea-Bissau in the country of death before booking, and expect a death certificate, non-contagious disease certificate, embalming and a sealed zinc-lined coffin.",
+  "documents": [
+   "Death certificate (Portuguese translation likely needed; confirm)",
+   "Certificate of non-contagious disease (confirm)",
+   "Embalming certificate (confirm)",
+   "Coffin sealing certificate (confirm)",
+   "Exit or transport permit from the country of death",
+   "Passport or ID of the deceased",
+   "Any authorisation required by the Bissau-Guinean consulate (not published)"
+  ],
+  "coffin": "No official Bissau-Guinean specification found. Standard international practice and airline rules call for a hermetically sealed zinc-lined inner coffin in a wooden outer case; confirm with the consulate.",
+  "embalming": "Not published. Embalming is normally required by the departure country and airlines for international transport.",
+  "consular": "The role of Guinea-Bissau's embassies and consulates (e.g. Lisbon, Brussels, Washington) in authorising entry of remains is not published. Not a party to the 1973 Strasbourg Agreement, so a mortuary laissez-passer alone is not enough. Contact the consulate in advance.",
+  "arrival": "Not published. Remains would be cleared by customs at Bissau Osvaldo Vieira International Airport; confirm who must collect them and any local burial permit.",
+  "pouch_accepted": null,
+  "pouch": null,
+  "private_aviation": "No rules specific to private flights carrying remains were found. Land at Bissau Osvaldo Vieira International Airport with customs and carry all original documents with the coffin.",
+  "private_jet_alert": false,
+  "private_jet_note": "Confirm landing permit and customs availability at Bissau before departure.",
+  "export": "No official information found on permits for taking a body out of Guinea-Bissau. Expect a local death certificate, a burial or transport permit from local authorities and a health certificate, with embalming and a sealed coffin required by the destination and airline; confirm with a local funeral operator and the destination country's embassy.",
+  "export_points": [
+   "No official export procedure published",
+   "Destination embassy usually issues the entry authorisation",
+   "Embalming and sealed coffin expected by airlines"
+  ],
+  "at_a_glance": {
+   "death_certificate": "Required; translation probably needed",
+   "embalming": "Expected for air transport; confirm",
+   "coffin": "Sealed zinc-lined coffin expected",
+   "laissez_passer": "Not Strasbourg party",
+   "consular": "Ask Bissau-Guinean consulate first",
+   "permit": "No published import permit",
+   "arrival": "Customs at Bissau airport"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Death certificate and appointment of a funeral director in the country of death."
+   },
+   {
+    "when": "Day 0-1",
+    "what": "Contact the Guinea-Bissau embassy or consulate for its current requirements in writing."
+   },
+   {
+    "when": "Day 1-2",
+    "what": "Embalming, health certificate and sealing of the zinc-lined coffin."
+   },
+   {
+    "when": "Day 2-4",
+    "what": "Local exit permit and any consular authorisation; book the flight."
+   },
+   {
+    "when": "Arrival",
+    "what": "Customs clearance at Bissau and handover to the family."
+   }
+  ],
+  "key_points": [
+   "No official checklist published online",
+   "Confirm everything with the consulate before flying",
+   "Low confidence: treat as general guidance only"
+  ],
+  "lead_days": null,
+  "authority": "Embassy or consulate of Guinea-Bissau in the country of death (unconfirmed)",
+  "sources": [],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "CV",
+  "name": "Cabo Verde",
+  "status": "requirements",
+  "summary": "Cabo Verde's Decreto-Lei 15/2015 governs bodies arriving from abroad: the transfer document (alvará) must be endorsed by the Conservador dos Registos Centrais (or the registrar of the island of entry), the death record is transcribed in Cabo Verde, and burial or cremation must take place within 72 hours of entry.",
+  "documents": [
+   "Death certificate or death record from the country of death (for transcription at the Conservatória dos Registos Centrais; Portuguese translation if needed)",
+   "Transfer/removal authorisation (alvará) from the country of death, to be endorsed (visto) by the Cabo Verdean registrar",
+   "Medical certificate of cause of death / non-contagious disease (expected)",
+   "Embalming certificate (expected for air transport)",
+   "Passport or ID of the deceased",
+   "Burial request to the receiving municipal cemetery (Annex I form)"
+  ],
+  "coffin": "A zinc coffin of at least 0.4 mm is mandatory for burial in a vault (jazigo), with gas filters and pressure devices; a wooden coffin suffices for a grave. When carried as normal freight by air or sea, the coffin must be placed in solid packaging that hides its appearance, marked 'manusear com precaução' (handle with care). Opening a zinc coffin is prohibited except on judicial order, for burial in a grave or for cremation.",
+  "embalming": "Not regulated by the decree for incoming bodies; embalming is expected by airlines and departure countries.",
+  "consular": "Decreto-Lei 15/2015 (art. 26): a body or ashes transferred from abroad need the transfer permit endorsed by the Conservador dos Registos Centrais in Praia, and the foreign death record is transcribed there; if the remains do not pass through Praia, the registrar of the area of entry endorses it. If the deceased was not Cabo Verdean, the diplomatic or consular representative of his or her country may apply. Cabo Verdean consulates do not publish a separate checklist. Not a party to the 1973 Strasbourg Agreement.",
+  "arrival": "Customs and health clearance at the international airport (Praia, Sal, Boa Vista or São Vicente); the coffin is carried by a hearse to the cemetery with a copy of the death certificate. Burial or cremation must take place within 72 hours of entry into Cabo Verde. Burial is requested from the municipal cemetery. Cremation is not available in practice.",
+  "pouch_accepted": false,
+  "pouch": null,
+  "private_aviation": "No published rule specific to private or charter flights. A casket on a private aircraft should arrive at an international airport with customs and health officers, with the original documents. Plan the arrival island carefully: the transfer permit must be endorsed by the registrar and burial must follow within 72 hours of entry.",
+  "private_jet_alert": false,
+  "private_jet_note": "Burial within 72 hours of entry: arrange the registrar endorsement and cemetery in advance.",
+  "export": "The death must be registered at the Conservatória do Registo Civil, usually by the funeral director; certificates are only in Portuguese. No coffin may be sealed in zinc before 24 hours after death, nor before the death record or certificate is issued. Post mortems can take up to 10 days (only two pathologists). Embalming is done at the hospital morgue by the funeral director. No legal timescale for repatriation; no cremation in Cabo Verde.",
+  "export_points": [
+   "Registration at the Conservatória do Registo Civil",
+   "Certificates only in Portuguese",
+   "No zinc sealing before 24 hours after death",
+   "Post mortem can take up to 10 days"
+  ],
+  "at_a_glance": {
+   "death_certificate": "Transcribed by the Central Registry",
+   "embalming": "Expected for air transport",
+   "coffin": "Zinc 0.4 mm for vaults; hidden packaging",
+   "laissez_passer": "Not Strasbourg party",
+   "consular": "Consulate may apply for foreigners",
+   "permit": "Registrar endorses transfer permit",
+   "arrival": "Burial within 72 hours of entry"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Obtain the death certificate and the transfer permit in the country of death; contact a funeral home in Cabo Verde."
+   },
+   {
+    "when": "Day 1",
+    "what": "Embalming and sealing of the coffin (zinc if a vault burial is planned)."
+   },
+   {
+    "when": "Day 1-3",
+    "what": "Send the death record and transfer permit for endorsement by the Conservatória dos Registos Centrais; reserve the cemetery."
+   },
+   {
+    "when": "Day 2-4",
+    "what": "Pack the coffin in an opaque case marked 'handle with care' and book the flight."
+   },
+   {
+    "when": "Arrival",
+    "what": "Customs and health clearance; burial within 72 hours of entry."
+   }
+  ],
+  "key_points": [
+   "Decreto-Lei 15/2015 regulates transfers from abroad",
+   "Registrar must endorse the transfer permit",
+   "Burial or cremation within 72 hours of entry",
+   "No cremation available in Cabo Verde"
+  ],
+  "lead_days": null,
+  "authority": "Conservatória dos Registos Centrais (Praia); municipal cemetery administration; Delegado de Saúde",
+  "sources": [
+   "https://boe.incv.cv/Bulletins/Download/1983",
+   "https://www.gov.uk/guidance/when-someone-dies-in-cape-verde"
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "ST",
+  "name": "São Tomé and Príncipe",
+  "status": "unknown",
+  "summary": "No official procedure for bringing a coffin into São Tomé and Príncipe was found, in Portuguese or English. Contact the São Tomé and Príncipe embassy or consulate (e.g. Lisbon) in the country of death for its document list before booking.",
+  "documents": [
+   "Death certificate (Portuguese or with translation; confirm with the mission)",
+   "Medical certificate of cause of death and non-contagious disease",
+   "Embalming certificate",
+   "Exit or transport permit from the country of death",
+   "Passport or ID of the deceased",
+   "Any authorisation required by the São Tomé and Príncipe mission (not published)"
+  ],
+  "coffin": "No official specification found. Plan for a hermetically sealed zinc-lined inner coffin in a wooden outer coffin and confirm with the mission.",
+  "embalming": "No official rule published; embalming is normally expected for international air transport.",
+  "consular": "No published consular procedure. Ask the São Tomé and Príncipe embassy or consulate whether a transfer authorisation, legalisation of documents and transcription of the death are needed. Not a party to the 1973 Strasbourg Agreement.",
+  "arrival": "No official information on clearance at São Tomé International Airport was found.",
+  "pouch_accepted": null,
+  "pouch": null,
+  "private_aviation": "No rule specific to private flights was found. A private flight should use São Tomé International Airport, with customs and health control, and carry all originals with the coffin.",
+  "private_jet_alert": false,
+  "private_jet_note": "Confirm landing permission and receiving funeral arrangements before departure.",
+  "export": "No official procedure for taking a body out of São Tomé and Príncipe was found. Expect a death certificate, medical and embalming certificates, local authority permission and the destination consulate's authorisation; confirm locally.",
+  "export_points": [
+   "No official export procedure published",
+   "Confirm with local authorities and a funeral home",
+   "Destination country's consulate approval usually needed"
+  ],
+  "at_a_glance": {
+   "death_certificate": "Required; confirm translation with consulate",
+   "embalming": "Expected; not officially confirmed",
+   "coffin": "Sealed zinc-lined coffin expected",
+   "laissez_passer": "Not Strasbourg party",
+   "consular": "Ask the country's embassy or consulate",
+   "permit": "No official entry procedure published",
+   "arrival": "Customs and health check at airport"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Obtain the death certificate and appoint a funeral home."
+   },
+   {
+    "when": "Day 0-1",
+    "what": "Ask the São Tomé and Príncipe mission for its written document list."
+   },
+   {
+    "when": "Day 1-3",
+    "what": "Embalming, health certificate and sealing of the coffin."
+   },
+   {
+    "when": "Day 2-5",
+    "what": "Obtain the local exit permit and any consular authorisation; book the flight."
+   },
+   {
+    "when": "Arrival",
+    "what": "Clearance at São Tomé airport and handover to the family."
+   }
+  ],
+  "key_points": [
+   "No official repatriation guidance was found",
+   "Get the consular document list in writing",
+   "Allow extra time for flight connections"
+  ],
+  "lead_days": null,
+  "authority": "São Tomé and Príncipe embassy or consulate in the country of death (procedure not published)",
+  "sources": [],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "SC",
+  "name": "Seychelles",
+  "status": "strict",
+  "summary": "Under section 27 of the Seychelles Public Health Act 2015, human remains, corpses or ashes may not be brought into (or taken out of) Seychelles without the written approval of the Public Health Commissioner, and a casket brought in may not be opened without the Commissioner's written approval. Obtain this approval before the flight.",
+  "documents": [
+   "Written approval of the Public Health Commissioner (Public Health Act 2015, s. 27)",
+   "Medical certificate or other evidence of name, date and cause of death and the preservation measures used (required for approval of repatriations)",
+   "Death certificate (English or French, or translated)",
+   "Embalming certificate",
+   "Exit permit from the country of death",
+   "Passport of the deceased"
+  ],
+  "coffin": "No specification published. A casket containing human remains brought into Seychelles must not be opened without the Commissioner's written approval. Plan for a hermetically sealed zinc-lined inner coffin in a wooden outer case.",
+  "embalming": "No explicit entry rule, but the approval request must describe the measures adopted to preserve the remains; embalming is expected.",
+  "consular": "Approval comes from the Public Health Commissioner (Public Health Authority), not from consulates; the Seychelles mission or receiving undertaker can help reach the Authority. Not a party to the 1973 Strasbourg Agreement.",
+  "arrival": "Clearance at Seychelles International Airport (Mahé) with the Commissioner's written approval; a local undertaker receives the coffin. Opening the casket requires a separate written approval. Bringing in remains without approval or opening the casket is an offence (fine up to SCR 50,000 or 2 years' imprisonment).",
+  "pouch_accepted": null,
+  "pouch": null,
+  "private_aviation": "Section 27 applies to any carriage, including private flights: the written approval of the Public Health Commissioner must be held before the remains are brought in. A private flight should land at Seychelles International Airport with customs and health control and carry the approval and all originals.",
+  "private_jet_alert": true,
+  "private_jet_note": "Hold the Public Health Commissioner's written approval before take-off.",
+  "export": "Exit also needs the Public Health Commissioner's written approval (s. 27 Public Health Act 2015): request it in writing with a medical certificate giving the name, date and cause of death and preservation measures, at least 48 hours before embalming and repatriation. UK guidance says local formalities can take seven days or more; the undertaker handles embalming and documents, and the passport and all original documents (post-mortem and police reports) travel with the body. Ashes need a Public Health Authority letter.",
+  "export_points": [
+   "Public Health Commissioner written approval",
+   "Apply at least 48 hours before embalming",
+   "Allow seven days or more",
+   "Original documents travel with the body"
+  ],
+  "at_a_glance": {
+   "death_certificate": "Required, with medical certificate",
+   "embalming": "Preservation must be described",
+   "coffin": "Sealed; no opening without approval",
+   "laissez_passer": "Not Strasbourg party",
+   "consular": "Approval by Public Health Commissioner",
+   "permit": "Written approval before entry",
+   "arrival": "Undertaker collects at Mahé"
+  },
+  "steps": [
+   {
+    "when": "Day 0",
+    "what": "Obtain the death certificate and appoint a funeral home in the country of death."
+   },
+   {
+    "when": "Day 0-1",
+    "what": "Contact the receiving undertaker in Seychelles and the Public Health Authority."
+   },
+   {
+    "when": "Day 1-2",
+    "what": "Embalming, medical certificate and sealing of the coffin."
+   },
+   {
+    "when": "Day 1-4",
+    "what": "Send the written request with the medical certificate to the Public Health Commissioner and get written approval."
+   },
+   {
+    "when": "Arrival",
+    "what": "Clearance at Mahé with the approval; handover to the local undertaker."
+   }
+  ],
+  "key_points": [
+   "Written approval needed both into and out of Seychelles",
+   "Do not open the casket without approval",
+   "Offence: fine up to SCR 50,000 or prison",
+   "Leaving Seychelles can take a week or more"
+  ],
+  "lead_days": null,
+  "authority": "Public Health Commissioner, Public Health Authority (Ministry of Health), Seychelles",
+  "sources": [
+   "https://commons.laws.africa/akn/sc/act/2015/13/media/publication/sc-act-2015-13-publication-document.pdf",
+   "https://www.gov.uk/government/publications/seychelles-bereavement-pack/what-to-do-after-a-british-person-dies-in-seychelles"
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "SH",
+  "name": "Saint Helena (UK)",
+  "status": "unknown",
+  "summary": "No published St Helena Government procedure for importing or exporting human remains was found; the island's Public Health and Port and Aerodrome (Health) ordinances do not set specific rules for caskets. Contact the St Helena Registrar, HM Customs and Environmental Health before arranging a flight.",
+  "documents": [
+   "Death certificate (translated into English if needed)",
+   "Medical certificate of cause of death / non-contagion certificate (expected, not published)",
+   "Embalming certificate (expected, not published)",
+   "Documents required by the departure country for export",
+   "Burial plot application on St Helena"
+  ],
+  "coffin": "No St Helena rule is published. Use a hermetically sealed metal-lined coffin in a wooden case to meet airline and departure-country rules.",
+  "embalming": "Not published for incoming remains; embalming is generally expected for international air carriage. Confirm with Environmental Health.",
+  "consular": "St Helena is a UK Overseas Territory with its own government; there is no St Helena consulate abroad. The UK is not a party to the 1973 Strasbourg Agreement. Direct questions to the St Helena Government (Registrar, HM Customs, Environmental Health).",
+  "arrival": "HM Customs operates at St Helena Airport; Environmental Health provides aircraft health clearance under the Port and Aerodrome (Health) Ordinance. Before burial the death must be registered with the Registrar using a Coroner's Certificate of Fact of Death; a burial plot application is required. Under the Public Health Ordinance 1939, the body of a person who died of an infectious disease cannot be kept unburied outside a mortuary for more than 12 hours without the Senior Medical Officer's written authority, who may order burial within a set time.",
+  "pouch_accepted": null,
+  "pouch": null,
+  "private_aviation": "St Helena Airport is the only airport and a port of entry with customs. Requirements for landing a private aircraft carrying a coffin were not found in official sources; contact the airport operator and HM Customs well in advance. Remote location and limited alternates mean careful fuel and weather planning.",
+  "private_jet_alert": true,
+  "private_jet_note": "Arrange airport and customs clearance in advance; no published procedure.",
+  "export": "No official procedure for sending a body off the island was found. Deaths are registered with the Registrar (Jamestown) on a Coroner's Certificate of Fact of Death from the Judicial Office. Export permits, embalming and coffin availability must be confirmed locally; the destination country's consular rules apply. Infectious-disease deaths may be subject to a Senior Medical Officer burial order.",
+  "export_points": [
+   "Register the death with the Registrar",
+   "Coroner's Certificate of Fact of Death",
+   "Export rules not published; confirm locally",
+   "Destination country rules apply"
+  ],
+  "at_a_glance": {
+   "death_certificate": "Required; registration via Registrar",
+   "embalming": "Not published; confirm locally",
+   "coffin": "Not published; use sealed casket",
+   "laissez_passer": "Not applicable",
+   "consular": "No consulate; contact St Helena Government",
+   "permit": "Not published; confirm with Customs",
+   "arrival": "HM Customs and Environmental Health at airport"
+  },
+  "steps": [
+   {
+    "when": "Day 0-1",
+    "what": "Contact the St Helena Registrar, HM Customs and Environmental Health."
+   },
+   {
+    "when": "Day 1-3",
+    "what": "Assemble death, medical and embalming certificates and the export permit in the country of death."
+   },
+   {
+    "when": "Day 2-4",
+    "what": "Coffin sealed; confirm airport and customs clearance for the flight."
+   },
+   {
+    "when": "Arrival",
+    "what": "Customs and health clearance at St Helena Airport; local funeral arrangements."
+   },
+   {
+    "when": "Before burial",
+    "what": "Burial plot application and death registration as required."
+   }
+  ],
+  "key_points": [
+   "No published import procedure; ask officials first",
+   "Only one airport; plan the flight carefully",
+   "Infectious-disease deaths: Senior Medical Officer controls burial"
+  ],
+  "lead_days": null,
+  "authority": "St Helena Government (Registrar of Births, Deaths and Marriages; HM Customs; Environmental Health; Senior Medical Officer)",
+  "sources": [
+   "https://www.sainthelena.gov.sh/public-services/registry-of-births-deaths-and-marriages/",
+   "https://www.sainthelena.gov.sh/public-services/environmental-health/",
+   "https://www.sainthelena.gov.sh/st-helena/government/portfolios/safety-security-and-home-affairs/hm-customs/",
+   "https://www.sainthelena.gov.sh/documents/public-health-ordinance-1939/",
+   "https://www.sainthelena.gov.sh/port-and-aerodrome-health-ordinance-updated-25032020",
+   "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ }
+]

@@ -1,0 +1,832 @@
+[
+  {
+    "cc": "TH",
+    "status": "requirements",
+    "name": "Thailand",
+    "summary": "To bring a body into Thailand, a funeral director applies to the Royal Thai Embassy or consulate in the country of death, which issues a Thai death certificate for the repatriation. At the airport, Thai Customs release the remains on the passport, air waybill and that death certificate, with no import declaration form.",
+    "coffin": "No Thai-specific casket standard was found in official sources. Use the casket required by the country of departure and the airline (usually hermetically sealed); confirm with the funeral director and airline.",
+    "embalming": "Not specified by Thai official sources for incoming remains; normally required by the country of departure and by airlines.",
+    "consular": "Royal Thai embassies state that the process must be handled by a funeral director; the embassy issues the Thai death certificate used to send the body to Thailand. Legalisation of the foreign death certificate may be required depending on the post.",
+    "arrival": "Thai Customs at the airport (e.g. Suvarnabhumi, Don Mueang) check the documents, release the remains and record them; the importer signs a pick-up document. No Import Declaration or Special Declaration form is required.",
+    "pouch": null,
+    "private_aviation": "No Thai rule specific to private flights was found. Remains are cleared by Customs at the arrival airport on the same documents; arrange customs clearance and handling in advance.",
+    "export": "Non-hospital deaths are reported to the police; the death is registered at the district office (amphur), which issues a Thai-language certificate. The UK FCDO notes a letter from the deceased's embassy may be needed for the hospital or authorities to release the body. Post-mortems are normally required for non-Thai nationals. Local funeral directors provide the death certificate, a certificate of embalming and a certificate permitting transfer. At the airport, Customs need originals and two copies of the death documents, passport, the destination embassy's certificate for return of remains and the air waybill; no export declaration form. No official overall delay is published.",
+    "authority": "Royal Thai Embassy or consulate; Thai Customs Department",
+    "last_checked": "2026-10",
+    "documents": [
+      "Death certificate issued by the Royal Thai Embassy or consulate in the country of death",
+      "Hospital letter confirming death and local death certificate",
+      "Passport of the deceased",
+      "Air waybill (original or copy)",
+      "Embalming certificate and exit permit of the country of death (if required by origin or airline)"
+    ],
+    "sources": [
+      "https://suvarnabhumi.airportthai.co.th/service/airport-guide/detail/Importing_Human_Remains_or_Ashes_BKK",
+      "https://canberra.thaiembassy.org/en/content/bringing-corpses-human-ash-into-thailand",
+      "https://www.gov.uk/guidance/what-to-do-after-a-british-person-dies-in-thailand"
+    ],
+    "pouch_accepted": null,
+    "private_jet_alert": false,
+    "at_a_glance": {
+      "death_certificate": "Thai death certificate from Thai embassy",
+      "embalming": "Expected by origin and airline",
+      "coffin": "Per departure country and airline rules",
+      "laissez_passer": "Not applicable",
+      "consular": "Funeral director applies at Thai embassy",
+      "permit": "No import declaration needed",
+      "arrival": "Customs release with passport and waybill"
+    },
+    "steps": [
+      {
+        "when": "First",
+        "what": "Appoint a funeral director, who contacts the Royal Thai Embassy or consulate in the country of death."
+      },
+      {
+        "when": "Before departure",
+        "what": "Obtain the local death certificate, hospital letter and the documents required by the country of death and the airline."
+      },
+      {
+        "when": "Before departure",
+        "what": "The Thai embassy issues the Thai death certificate for the repatriation."
+      },
+      {
+        "when": "Booking",
+        "what": "Book the flight and send the passport, air waybill and death documents to the Thai receiving party."
+      },
+      {
+        "when": "Arrival",
+        "what": "Thai Customs check the documents and release the remains; the importer signs the pick-up document."
+      }
+    ],
+    "key_points": [
+      "Only funeral directors handle the embassy process",
+      "No customs import form for remains or ashes",
+      "Ashes need death and cremation certificates"
+    ],
+    "export_points": [
+      "Register at the district office; police report if not in hospital",
+      "Embassy letter to release the body",
+      "Embalming and transfer certificates required",
+      "Customs clearance with destination embassy certificate"
+    ],
+    "private_jet_note": "Confirm customs clearance of the coffin at the Thai arrival airport before departure.",
+    "confidence": "medium",
+    "lead_days": null
+  },
+  {
+    "cc": "TJ",
+    "status": "requirements",
+    "name": "Tajikistan",
+    "summary": "No official Tajik rules for bringing a casket in were found; confirm the documents, casket and embalming requirements with the Tajik embassy or consulate in the country of death. For bodies leaving Tajikistan, the UK FCDO lists embalming, an airproof sealed zinc coffin and a Health Inspection Services certificate.",
+    "coffin": "Not published officially for entry; confirm with the Tajik consulate. For bodies leaving Tajikistan, the UK FCDO states an airproof, sealed zinc coffin is required.",
+    "embalming": "Not published officially for incoming bodies; confirm with the Tajik consulate. Embalming is mandatory for repatriation from Tajikistan (UK FCDO).",
+    "consular": "Tajikistan is not a party to the 1973 Strasbourg Agreement. Contact the Tajik embassy or consulate in the country of death about consular certification, legalisation or apostille and Tajik or Russian translations.",
+    "arrival": "Not published officially; confirm customs and sanitary clearance at the arrival airport with the Tajik consulate and the receiving funeral service. Cremation is not available in Tajikistan.",
+    "pouch": null,
+    "private_aviation": "No official rule specific to human remains on private aircraft was found. Plan arrival at an international airport with customs, border and sanitary-quarantine control, and have the handling agent confirm clearance of the coffin in advance.",
+    "export": "The civil registry (ZAGS) issues the death certificate in Tajik and Russian within 1 to 3 days of the medical certificate of death. In sudden deaths the prosecutor or criminal police issue a report before release; criminal investigations can delay release. According to the UK FCDO, repatriation needs embalming, an airproof sealed zinc coffin delivered to the airport cargo terminal at least 4 hours before the flight, the death certificate, permission to remove the body issued by a coroner, a funeral director's letter that no foreign objects were in the coffin with a list of accompanying items, and a Health Inspection Services certificate. A no-objection letter from the deceased's embassy is sometimes required.",
+    "authority": "Ministry of Foreign Affairs of Tajikistan (consular department); Health Inspection Services and ZAGS for exit",
+    "last_checked": "2026-10",
+    "documents": [
+      "Death certificate from the country of death (translation and legalisation: confirm with the Tajik consulate)",
+      "Documents required by the country of death to export the body",
+      "Passport of the deceased",
+      "Any further certificates requested by the Tajik consulate (e.g. embalming, sealing)"
+    ],
+    "sources": [
+      "https://www.gov.uk/guidance/when-someone-dies-in-tajikistan",
+      "https://www.consular.tj/",
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+    ],
+    "pouch_accepted": null,
+    "private_jet_alert": false,
+    "at_a_glance": {
+      "death_certificate": "Original; confirm translation with consulate",
+      "embalming": "Confirm; mandatory for exit",
+      "coffin": "Confirm; sealed zinc for exit",
+      "laissez_passer": "No, not a Strasbourg party",
+      "consular": "Ask the Tajik consulate first",
+      "permit": "Export permit from country of death",
+      "arrival": "Customs clearance; confirm with consulate"
+    },
+    "steps": [
+      {
+        "when": "First",
+        "what": "Obtain the death certificate and contact the Tajik embassy or consulate for the entry requirements"
+      },
+      {
+        "when": "Before departure",
+        "what": "Prepare the body and casket as required by the country of death, the airline and the Tajik consulate"
+      },
+      {
+        "when": "Before departure",
+        "what": "Obtain the export permit and any consular certification"
+      },
+      {
+        "when": "Booking",
+        "what": "Book the flight and inform the receiving funeral service"
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs clearance and handover to the receiving funeral service"
+      }
+    ],
+    "key_points": [
+      "Entry rules not published online",
+      "Embalming and zinc coffin mandatory for exit",
+      "No cremation in Tajikistan"
+    ],
+    "export_points": [
+      "Embalming is mandatory",
+      "Airproof sealed zinc coffin at cargo terminal 4 hours before flight",
+      "Health inspection certificate and removal permit",
+      "Prosecutor report in sudden deaths"
+    ],
+    "private_jet_note": "Confirm documents and customs clearance before take-off.",
+    "confidence": "medium",
+    "lead_days": null
+  },
+  {
+    "cc": "TM",
+    "status": "requirements",
+    "name": "Turkmenistan",
+    "summary": "No official Turkmen rules for bringing a casket in were found; confirm with the Turkmen consulate in the country of death well in advance. For deaths in Turkmenistan, a prosecutor's repatriation letter is needed, and burial of a foreign citizen needs special permission requested through the Ministry of Foreign Affairs.",
+    "coffin": "Not published officially for entry; confirm the casket requirements with the Turkmen consulate and the airline. For repatriation from Turkmenistan, the UK FCDO says a special casket is arranged through the local funeral director.",
+    "embalming": "Not published officially; confirm with the Turkmen consulate and the airline.",
+    "consular": "Turkmenistan is not a party to the 1973 Strasbourg Agreement. Contact the Turkmen embassy or consulate in the country of death about consular certification, legalisation and Turkmen or Russian translations. For a foreign citizen to be buried in Turkmenistan, local authorities must give special permission, requested through the Ministry of Foreign Affairs.",
+    "arrival": "Not published officially. Expect customs and sanitary clearance at the arrival airport (normally Ashgabat) and handover to a local funeral service. There are no cremation facilities in Turkmenistan.",
+    "pouch": null,
+    "private_aviation": "No official rule specific to human remains on private aircraft was found. Plan arrival at an international airport with customs, border and sanitary-quarantine control, and have the handling agent confirm clearance of the coffin in advance.",
+    "export": "The civil registry (ZAGS) issues the death certificate in Turkmen, recording the cause of death, within a few days; a consular officer may need to be present. If the cause is still being investigated, the certificate may be delayed. Leaving Turkmenistan requires a letter of repatriation from the local Prosecutor's Office confirming no signs of violent or suspicious death, and the Turkmen death certificate. A post-mortem needs next-of-kin consent except in suspected murder, infectious disease or pregnancy-related deaths.",
+    "authority": "Ministry of Foreign Affairs of Turkmenistan; Prosecutor's Office and ZAGS for exit",
+    "last_checked": "2026-10",
+    "documents": [
+      "Death certificate from the country of death (translation and legalisation: confirm with the Turkmen consulate)",
+      "Documents required by the country of death to export the body",
+      "Passport of the deceased",
+      "Any further certificates requested by the Turkmen consulate (e.g. embalming, sealing)"
+    ],
+    "sources": [
+      "https://www.gov.uk/guidance/when-someone-dies-in-turkmenistan",
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+    ],
+    "pouch_accepted": null,
+    "private_jet_alert": false,
+    "at_a_glance": {
+      "death_certificate": "Original; confirm translation with consulate",
+      "embalming": "Not published; confirm with consulate",
+      "coffin": "Not published; confirm with consulate",
+      "laissez_passer": "No, not a Strasbourg party",
+      "consular": "Ask the Turkmen consulate first",
+      "permit": "Export permit from country of death",
+      "arrival": "Customs clearance; foreigners need burial permission"
+    },
+    "steps": [
+      {
+        "when": "First",
+        "what": "Obtain the death certificate and contact the Turkmen embassy or consulate for the entry requirements"
+      },
+      {
+        "when": "Before departure",
+        "what": "Prepare the body and casket as required by the country of death, the airline and the Turkmen consulate"
+      },
+      {
+        "when": "Before departure",
+        "what": "Obtain the export permit and any consular certification"
+      },
+      {
+        "when": "Before departure",
+        "what": "For a foreign citizen, request burial permission via the Ministry of Foreign Affairs"
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs clearance and burial"
+      }
+    ],
+    "key_points": [
+      "Entry rules not published online",
+      "Prosecutor's letter needed to leave Turkmenistan",
+      "Burial of foreigners needs special permission",
+      "No cremation in Turkmenistan"
+    ],
+    "export_points": [
+      "Turkmen death certificate from ZAGS",
+      "Prosecutor's repatriation letter (no violent death)",
+      "Delays if the cause of death is investigated",
+      "Embassy consular staff can help with the prosecutor"
+    ],
+    "private_jet_note": "Confirm all documents with the Turkmen consulate well before take-off.",
+    "confidence": "medium",
+    "lead_days": null
+  },
+  {
+    "cc": "TN",
+    "status": "requirements",
+    "name": "Tunisia",
+    "summary": "Bringing the body of a Tunisian national into Tunisia needs a transport permit for a mortal remains (permis de transport de dépouille mortelle), which for entry is issued by the Tunisian embassy or consulate covering the place of death. The core documents are the death certificate extract and a medical certificate that the death was not caused by a contagious disease; on arrival the civil registrar issues the burial order on sight of these papers.",
+    "coffin": "No Tunisian text on coffin specifications for international transport was found. Use the casket required by the country of death and the airline (usually hermetically sealed); confirm with the consulate.",
+    "embalming": "Not required by any Tunisian text found. The country of departure or the airline may require it; confirm with the consulate and the carrier.",
+    "consular": "For a Tunisian who dies abroad, the Tunisian embassy or consulate with jurisdiction over the place of death issues the transport permit for entry into Tunisia (Ministry of Interior service sheet). The MFA e-consulat repatriation service requires that the deceased was Tunisian and died within the consular district, and lists the documents. The e-consulat list also includes an Arabic death extract. State coverage of repatriation costs for nationals has been reported in the press but is not confirmed on an official page; ask the consulate. For a foreign national to be buried in Tunisia, no official procedure was found; ask the Tunisian consulate.",
+    "arrival": "The coffin is cleared at the arrival airport and released to the family or funeral service. The civil registrar who receives the remains with the transport permit, the medical certificate and the death extract must issue the burial order without further inquiry into the cause of death. Cremation is not allowed in Tunisia.",
+    "pouch": null,
+    "private_aviation": "No Tunisian rule specific to remains on private aircraft was found. Land at an international airport with customs and health services and have the handling agent arrange release of the coffin with the consular permit and documents.",
+    "export": "Leaving Tunisia: the death must be registered at the municipality within 72 hours (French version of the certificate available; it does not show the cause of death). The transport permit for taking remains abroad is issued by the Direction des réglementations of the Sûreté nationale for the Tunis district governorates, and by the governor for other governorates, on the death certificate extract and a non-contagious disease certificate; the service sheet says it is issued immediately. The UK also lists police permission to remove the body, the passport and an undertaker's statement that the body is properly coffined. A post-mortem may be ordered for sudden, unnatural or unexplained deaths.",
+    "authority": "Tunisian embassies and consulates (Ministry of Foreign Affairs) for entry; Ministry of Interior (Sûreté nationale, governors) for exit",
+    "last_checked": "2026-10",
+    "documents": [
+      "Full death certificate issued by the foreign authorities (acte de décès intégral)",
+      "Death extract in Arabic",
+      "Medical certificate that the cause of death is not a contagious disease",
+      "Identity document of the deceased and proof of residence",
+      "Copy of the declarant's identity document",
+      "Copy of the deceased's medical insurance, if any",
+      "Transport or export authorisation required by the country of death",
+      "Tunisian consular transport permit for the remains, issued by the consulate after these papers are filed"
+    ],
+    "sources": [
+      "http://www.sicad.gov.tn/Fr/Permis-de-transport-de-depouille-mortelle_57_3_D2203",
+      "https://www.econsulat.tn/fr/services-sociaux/rapatriement-de-depouille-mortelle",
+      "https://www.gov.uk/guidance/when-someone-dies-in-tunisia"
+    ],
+    "pouch_accepted": null,
+    "private_jet_alert": false,
+    "at_a_glance": {
+      "death_certificate": "Full certificate plus Arabic extract",
+      "embalming": "Not required by Tunisian law found",
+      "coffin": "Per departure country and airline rules",
+      "laissez_passer": "Consular transport permit for remains",
+      "consular": "Tunisian consulate of place of death",
+      "permit": "Consulate permit; export permit abroad",
+      "arrival": "Burial order issued on documents"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Contact the Tunisian consulate covering the place of death and a funeral home; book a consular appointment."
+      },
+      {
+        "when": "Day 0-1",
+        "what": "Obtain the full death certificate and the non-contagious disease certificate; gather the deceased's ID and proof of residence."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Funeral home coffins and seals the body as required by the country of death and the airline, and obtains its export permit."
+      },
+      {
+        "when": "Day 1-3",
+        "what": "File the file at the consulate, which issues the transport permit for the remains."
+      },
+      {
+        "when": "Departure",
+        "what": "Fly the coffin with the permit, death certificate and medical certificate."
+      },
+      {
+        "when": "Arrival",
+        "what": "Airport release to the family; civil registrar issues the burial order."
+      }
+    ],
+    "key_points": [
+      "Entry permit for nationals is issued by the consulate",
+      "Non-contagious disease certificate is required",
+      "Cremation is not allowed in Tunisia",
+      "Ask the consulate about State coverage of costs"
+    ],
+    "export_points": [
+      "Register the death at the municipality within 72 hours",
+      "Transport permit: Sûreté nationale (Tunis) or governor",
+      "Non-contagious disease certificate required",
+      "Post-mortem possible for unexplained deaths"
+    ],
+    "confidence": "medium",
+    "lead_days": 3
+  },
+  {
+    "cc": "TR",
+    "status": "requirements",
+    "name": "Turkey",
+    "summary": "Turkey is a party to the 1973 Strasbourg Agreement, so a body coming from another party state travels with the international laissez-passer. For burial of a Turkish citizen in Turkey, the Turkish consulate in the country of death issues a free funeral transfer document (Cenaze Nakil Belgesi) on the basis of the death certificate, embalming certificate, non-contagious disease letter and sealed-coffin certificate.",
+    "coffin": "Turkish consulates ask for a certificate that the coffin was closed in line with international rules for transport; the Stockholm consulate specifically asks for a zinc soldering (sealing) certificate, i.e. a soldered zinc-lined coffin. Sealing is done by the funeral company in the country of death; Turkish consulates do not publish a requirement for an official witness.",
+    "embalming": "Required: Turkish consulates ask for an embalming certificate before issuing the transfer document.",
+    "consular": "The Turkish consulate in the country of death issues the Cenaze Nakil Belgesi free of charge, on application by a relative or authorised person or by the funeral company, in person or by post (practice varies by post). The name on the Turkish ID must match the death certificate; name changes must be documented. From Strasbourg Agreement states the laissez-passer is the transport document. Foreign documents used for Turkish civil registration may need legalisation or apostille and translation.",
+    "arrival": "Documents travel with the coffin. The coffin is cleared at the arrival airport and released to the family or the funeral service. There is no cremation in Turkey.",
+    "pouch": null,
+    "private_aviation": "No rule specific to remains on private aircraft was found. The laissez-passer or consular transfer document and the death and embalming certificates must travel with the coffin, and the handling agent must arrange customs clearance at an international airport.",
+    "export": "Leaving Turkey requires the Formul C multilingual death certificate from the civil registry (or the hospital death report if not yet issued), an embalming certificate and permission to transfer the body. In unnatural or unexplained deaths the prosecutor and forensic medicine are involved and a post-mortem is usually done within 1 to 3 days. For Strasbourg Agreement destinations an international laissez-passer is issued. Cremation is not legal in Turkey.",
+    "authority": "Turkish consulate abroad (Ministry of Foreign Affairs); civil registry and public prosecutor for exit",
+    "last_checked": "2026-10",
+    "documents": [
+      "Application petition from a relative or authorised person (or the funeral company), with ID copy",
+      "Original death certificate (and cause-of-death certificate where issued)",
+      "Embalming certificate (original or notarised copy)",
+      "Letter from the health authority confirming no contagious disease",
+      "Certificate that the coffin was closed for international transport (zinc soldering / sealing certificate)",
+      "Export or removal permit from the country of death",
+      "International laissez-passer for the corpse when leaving a Strasbourg Agreement state",
+      "Cenaze Nakil Belgesi issued by the Turkish consulate",
+      "Turkish passport and ID card of the deceased, if any",
+      "Flight details (air waybill or ticket copy)"
+    ],
+    "sources": [
+      "https://www.gov.uk/guidance/what-to-do-after-a-british-person-dies-in-turkey",
+      "https://houston-bk.mfa.gov.tr/Content/assets/consulate/images/localCache/1/f928eca2-5703-4690-a010-be01246b5e35.pdf",
+      "https://stokholm-be.mfa.gov.tr/Content/assets/consulate/images/localCache/1/005a93de-adbc-40f0-9bb9-eb106556c4a7.pdf",
+      "https://www.konsolosluk.gov.tr/Procedure/Index",
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+    ],
+    "pouch_accepted": null,
+    "private_jet_alert": false,
+    "at_a_glance": {
+      "death_certificate": "Original, Formul C where available",
+      "embalming": "Embalming certificate required",
+      "coffin": "Soldered zinc-lined coffin, sealing certificate",
+      "laissez_passer": "Yes, Strasbourg Agreement party",
+      "consular": "Free Turkish consular transfer document",
+      "permit": "Export permit from country of death",
+      "arrival": "Airport customs clearance with documents"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Obtain the death certificate and non-contagious disease letter"
+      },
+      {
+        "when": "Day 0-1",
+        "what": "Embalm the body and solder it into a zinc-lined coffin"
+      },
+      {
+        "when": "Day 1",
+        "what": "Obtain the export permit or Strasbourg laissez-passer"
+      },
+      {
+        "when": "Day 1",
+        "what": "The family or funeral company obtains the free Cenaze Nakil Belgesi from the Turkish consulate"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Flight, customs clearance at the Turkish airport and burial"
+      }
+    ],
+    "key_points": [
+      "Strasbourg Agreement party since 1976",
+      "Turkish consular transfer document is free",
+      "No cremation in Turkey",
+      "Name on Turkish ID must match the death certificate"
+    ],
+    "export_points": [
+      "Formul C death certificate from the civil registry",
+      "Embalming certificate and permission to transfer the body",
+      "Prosecutor and post-mortem in unnatural deaths, usually 1-3 days",
+      "Laissez-passer for Strasbourg Agreement destinations"
+    ],
+    "private_jet_note": "Fly into an international airport with customs; keep the original consular transfer document with the coffin.",
+    "confidence": "high",
+    "lead_days": 2
+  },
+  {
+    "cc": "TT",
+    "status": "strict",
+    "name": "Trinidad and Tobago",
+    "summary": "Importing a body requires prior approval from the Ministry of Health and the Ministry of Homeland Security, obtained by the Ministry of Foreign and CARICOM Affairs after a Trinidad and Tobago mission certifies the original documents; Customs then clears the casket. For non-nationals, the deceased must have ties to Trinidad and Tobago and a relative must also write to the Permanent Secretary, Ministry of Homeland Security; approval must be granted before travel is arranged.",
+    "coffin": "The official handbook does not set casket specifications; an embalming certificate is required. Use the casket required by the country of death and the airline, and confirm with the receiving funeral home.",
+    "embalming": "Required: an original embalming certificate from the funeral home abroad.",
+    "consular": "The nearest Trinidad and Tobago mission (or honorary consul, or the local foreign ministry where there is none) certifies the original documents and sends them to the Consular Affairs Division in Port of Spain, which obtains the Ministry of Health and Ministry of Homeland Security approvals. Do not book confirmed flights before approval.",
+    "arrival": "After approval, the Ministry of Foreign and CARICOM Affairs issues a letter to the Customs and Excise Division; the local funeral home collects it and obtains customs clearance (a no-objection document). The local funeral home collects the casket. No legal burial deadline found.",
+    "pouch": null,
+    "private_aviation": "Approvals must be in hand before the flight is confirmed; most airlines require them and a private operator should too. The casket clears through the Customs and Excise Division at the port of entry with the receiving funeral home.",
+    "export": "Leaving Trinidad and Tobago: register the death with the District Registrar (certificate usually within a week, longer if police investigate). The UK guidance lists the death certificate, permission to remove the body issued by a coroner, the passport and a letter confirming embalming and sealing of the coffin. The Consular Affairs Division may authenticate or apostille the death certificate. Post-mortems usually take place within 2-3 days.",
+    "authority": "Ministry of Foreign and CARICOM Affairs (Consular Affairs Division), with Ministry of Health and Ministry of Homeland Security approval",
+    "last_checked": "2026-10",
+    "documents": [
+      "Letter from the competent authority at the place of death confirming the documents are authentic",
+      "Original death certificate, apostilled or authenticated in the country of death",
+      "Original non-contagious disease letter from the coroner, doctor or hospital",
+      "Original permit to dispose of or transport human remains",
+      "Original embalming certificate from the funeral home abroad",
+      "Deceased's Trinidad and Tobago passport (or other passport); otherwise treated as a non-national",
+      "English translations by a registered translator, apostilled or authenticated, if needed",
+      "Non-nationals: letter to the Permanent Secretary, Ministry of Homeland Security, explaining ties to Trinidad and Tobago",
+      "Fee set by the processing mission"
+    ],
+    "sources": [
+      "https://foreign.gov.tt/documents/1823/Handbook_on_the_Repatriation_of_Human_Remains_2025_SugupUC.pdf",
+      "https://foreign.gov.tt/documents/979/Handbook_on_the_Repatriation_of_Human_Remains_-_24-11-2021.pdf",
+      "https://foreign.gov.tt/services/death-overseas/",
+      "https://www.gov.uk/guidance/what-to-do-after-a-british-person-dies-in-trinidad-and-tobago"
+    ],
+    "pouch_accepted": null,
+    "private_jet_alert": true,
+    "at_a_glance": {
+      "death_certificate": "Original, apostilled or authenticated",
+      "embalming": "Required, original certificate",
+      "coffin": "Not specified; confirm with funeral home",
+      "laissez_passer": "Not applicable",
+      "consular": "T&T mission certifies original documents",
+      "permit": "Health and Homeland Security approvals",
+      "arrival": "Customs clearance via local funeral home"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Appoint funeral homes abroad and in Trinidad and Tobago"
+      },
+      {
+        "when": "Day 1-3",
+        "what": "Gather originals: death certificate (apostilled), non-contagious letter, transport permit, embalming certificate"
+      },
+      {
+        "when": "Day 3-4",
+        "what": "Submit to the nearest T&T mission for certification"
+      },
+      {
+        "when": "Following days",
+        "what": "Ministry of Foreign and CARICOM Affairs obtains Health and Homeland Security approvals"
+      },
+      {
+        "when": "After approval",
+        "what": "Letter to Customs; book the flight"
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs clearance; local funeral home collects"
+      }
+    ],
+    "key_points": [
+      "Never confirm flights before approval",
+      "Non-nationals need ties to T&T and approval first",
+      "Non-English documents need certified, apostilled translations"
+    ],
+    "export_points": [
+      "District Registrar death certificate, usually within a week",
+      "Coroner's permission to remove the body",
+      "Letter confirming embalming and coffin sealing",
+      "Death certificate apostille from the Ministry of Foreign and CARICOM Affairs if needed"
+    ],
+    "private_jet_note": "Do not fly before Health and Homeland Security approvals are granted.",
+    "confidence": "high",
+    "lead_days": null
+  },
+  {
+    "cc": "TW",
+    "status": "requirements",
+    "name": "Taiwan",
+    "summary": "Under Article 26 of the Regulations Governing Quarantine at Ports, remains entering Taiwan must be presented to the quarantine unit (Taiwan CDC) with the death certificate or another document stating the cause of death. Deaths from a communicable disease are handled under the Communicable Disease Control Act; ashes and bones are exempt from quarantine.",
+    "coffin": "No Taiwanese casket specification found. Use the casket required by the country of death and the airline; confirm with the receiving funeral home.",
+    "embalming": "No official Taiwanese rule found; the country of death or the airline may require it. Confirm with the funeral homes.",
+    "consular": "Not confirmed. Ask Taiwan's representative office abroad (TECO) whether legalisation of the death certificate is needed.",
+    "arrival": "Quarantine by the Taiwan CDC quarantine unit at the port of entry under the Regulations Governing Quarantine at Ports (Article 26), then customs clearance and collection by a funeral home. Deaths from a communicable disease follow the Communicable Disease Control Act.",
+    "pouch": null,
+    "private_aviation": "The death certificate must be presented to the quarantine unit at the port of entry wherever the aircraft lands. No other rule specific to private flights found.",
+    "export": "The same rule applies on departure: the remains and the death certificate (or other document stating the cause of death) must be presented to the quarantine unit. Ashes and bones are exempt. Other export documents depend on the destination country.",
+    "authority": "Taiwan Centers for Disease Control (quarantine units)",
+    "last_checked": "2026-10",
+    "documents": [
+      "Death certificate or other document stating the cause of death (for quarantine)",
+      "Documents required by the country of death to export the body (e.g. transfer permit, embalming certificate)",
+      "Deceased's passport"
+    ],
+    "sources": [
+      "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0050002"
+    ],
+    "pouch_accepted": null,
+    "private_jet_alert": false,
+    "at_a_glance": {
+      "death_certificate": "Must show the cause of death",
+      "embalming": "No Taiwanese rule; per origin, airline",
+      "coffin": "No Taiwanese rule; per origin, airline",
+      "laissez_passer": "Not applicable",
+      "consular": "Ask TECO about legalisation",
+      "permit": "Death certificate to CDC quarantine unit",
+      "arrival": "Quarantine check, then funeral home"
+    },
+    "steps": [
+      {
+        "when": "First",
+        "what": "Funeral home abroad obtains the death certificate stating the cause of death"
+      },
+      {
+        "when": "Before flight",
+        "what": "Embalming, sealing and export documents as required by the country of death and the airline; ask TECO about legalisation"
+      },
+      {
+        "when": "Arrival",
+        "what": "Present the remains and death certificate to the Taiwan CDC quarantine unit; customs clearance; funeral home collects"
+      }
+    ],
+    "key_points": [
+      "Quarantine check in both directions",
+      "Infectious-disease deaths follow special rules",
+      "Ashes and bones are exempt from quarantine"
+    ],
+    "export_points": [
+      "Death certificate presented to the quarantine unit",
+      "Ashes and bones exempt from quarantine",
+      "Destination country's consulate sets other requirements"
+    ],
+    "private_jet_note": "Have the death certificate ready for the Taiwan CDC quarantine unit at the arrival airport.",
+    "confidence": "medium",
+    "lead_days": null
+  },
+  {
+    "cc": "TZ",
+    "status": "requirements",
+    "name": "Tanzania",
+    "summary": "A Tanzanian embassy or high commission must authenticate the paperwork and issue an embassy permit to ship the remains to Tanzania before departure. The file centres on a certified death certificate, a burial-transit permit, a health-department non-contagious-disease letter and a notarised embalming certificate.",
+    "coffin": "The Tanzanian missions' published checklists do not specify casket construction. Use the casket required by the country of death and the airline (usually hermetically sealed); confirm with the mission and the airline. No published rule on who witnesses the sealing.",
+    "embalming": "Embalming is required: the missions ask for a notarised embalming certificate.",
+    "consular": "Send the documents to the Tanzanian embassy or high commission covering the country of death (e.g. Washington; Brussels files go via the High Commission in Nairobi per the Brussels page). The mission authenticates them and issues the permit to ship the remains; the US and Brussels pages say permission is issued immediately when the file is complete. Tanzania is not a party to the 1973 Strasbourg Agreement. No fee is published; ask the mission.",
+    "arrival": "Arrival procedure is not published. Keep the original authenticated documents and the embassy permit with the coffin for clearance at the arrival airport; a family member or Tanzanian funeral home collects. No national burial deadline was found.",
+    "pouch": null,
+    "private_aviation": "No published rule specific to private or charter flights was found. Human remains need the same documents as on an airline (originals with the coffin), and the aircraft should land at an international airport with customs and health services; usual landing and overflight permissions for foreign-registered aircraft apply. Zanzibar has its own authorities; confirm with the receiving funeral home whether additional clearance is needed.",
+    "export": "Per the UK FCDO bereavement guide, local undertakers provide the special casket for international carriage, and shipping requires a civil registry death certificate, a certificate of embalming and a certificate giving permission to transfer the remains abroad. Local formalities normally take 3 to 4 days. Unnatural or unexplained deaths involve the police and possibly a post-mortem; criminal cases can delay release.",
+    "authority": "Tanzanian embassy or high commission abroad (entry); civil registry and local authorities in Tanzania (exit)",
+    "last_checked": "2026-10",
+    "documents": [
+      "Certified copy of the death certificate",
+      "Burial transit permit from the country of death",
+      "Letter from the local health department stating the death was not caused by a contagious disease",
+      "Notarised embalming letter or certificate of embalming",
+      "Passport of the deceased (or two passport photos if the passport is unavailable)",
+      "Letter from the funeral director",
+      "Embassy permit to ship human remains to Tanzania, issued by the Tanzanian mission after authentication"
+    ],
+    "sources": [
+      "https://www.us.tzembassy.go.tz/services/shipping-human-remains",
+      "https://www.be.tzembassy.go.tz/services/tanzania-citizen-services",
+      "https://www.gov.uk/government/publications/tanzania-bereavement-information-pack",
+      "https://assets.publishing.service.gov.uk/media/621f2657d3bf7f4f06550230/Bereavement_in_Tanzania_Update_02_March_2022.pdf",
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+    ],
+    "pouch_accepted": null,
+    "private_jet_alert": false,
+    "at_a_glance": {
+      "death_certificate": "Certified copy, authenticated by Tanzanian mission",
+      "embalming": "Required, notarised certificate",
+      "coffin": "Not specified; per origin and airline",
+      "laissez_passer": "Not applicable; embassy shipping permit",
+      "consular": "Tanzanian embassy authenticates and issues permit",
+      "permit": "Burial transit permit plus embassy permit",
+      "arrival": "Originals travel with the coffin"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Register the death in the country of death and appoint funeral directors in both countries"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain death certificate, burial transit permit and health-department non-contagion letter"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Embalming and notarised embalming certificate; coffin sealed for air transport"
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Submit file to the Tanzanian embassy for authentication and the shipping permit"
+      },
+      {
+        "when": "Day 3-4",
+        "what": "Flight to Tanzania with original documents; family or funeral home collects"
+      }
+    ],
+    "key_points": [
+      "Requirements are the same on the US and Brussels mission pages",
+      "Permit issued immediately once the file is complete",
+      "No published casket specification; ask the airline"
+    ],
+    "export_points": [
+      "Civil registry death certificate",
+      "Embalming certificate and permission-to-transfer certificate",
+      "Undertaker supplies casket for international carriage",
+      "Usually 3 to 4 days; longer if police investigate"
+    ],
+    "private_jet_note": "Carry the embassy shipping permit and originals on board; land at an airport with customs and port health.",
+    "confidence": "medium",
+    "lead_days": 3
+  },
+  {
+    "cc": "UA",
+    "status": "strict",
+    "name": "Ukraine",
+    "summary": "According to the US Embassy, airports in Ukraine are currently not operating, so a casket cannot be flown into Ukraine; it is normally flown to Poland and driven across the border. Ukraine requires a hermetically sealed zinc casket for remains leaving the country; confirm the entry documents and casket with the Ukrainian consulate.",
+    "coffin": "No official entry rule found; confirm with the Ukrainian consulate. For remains leaving Ukraine, a hermetically sealed zinc casket is required and must be sealed by a Ukrainian customs official.",
+    "embalming": "No official entry rule found; the country of death or airline may require it. Inside Ukraine, local morticians prefer to embalm within 48 hours, and burial may be delayed for a reasonable period if the body is embalmed.",
+    "consular": "No official Ukrainian consular procedure for incoming remains could be opened. Contact the Ukrainian embassy or consulate in the country of death about certification and translations.",
+    "arrival": "Arrival by road from Poland (or another neighbour) through a border crossing with customs. A Ukrainian funeral home collects the casket. Burial is normally permitted only in the place of residence; burial elsewhere needs prior permission from the central mortuary office in Kyiv and the local authority.",
+    "pouch": null,
+    "private_aviation": "According to the US Embassy, airports in Ukraine are currently not operating, so no flight can land there. Fly to an airport in a neighbouring country (remains are usually handled via Warsaw, Poland) and continue by hearse.",
+    "export": "Leaving Ukraine: the death must be registered at the local registry office within 3 days; the certificate is issued on the mortuary's medical cause-of-death report and the passport. Remains must be in a hermetically sealed zinc casket; the casket or urn must be sealed by a Ukrainian customs official certifying no illegal items, without which shipping is impossible. Remains are usually driven to Poland (about USD 500 during wartime) and flown from Warsaw. An autopsy is required for violent or suspicious deaths, deaths in a medical facility, or when no medical history is available (a waiver may be requested). Urns may only be shipped as airline cargo, not by post.",
+    "authority": "State Customs Service; Ukrainian consulates; local civil registry",
+    "last_checked": "2026-10",
+    "documents": [
+      "Death certificate from the country of death (translation and legalisation: confirm with the Ukrainian consulate)",
+      "Transfer or export permit from the country of death",
+      "Embalming and sealing certificates if required by the country of death or the consulate",
+      "Passport of the deceased"
+    ],
+    "sources": [
+      "https://ua.usembassy.gov/death-of-a-u-s-citizen/",
+      "https://www.gov.uk/guidance/when-someone-dies-in-ukraine",
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+    ],
+    "pouch_accepted": null,
+    "private_jet_alert": true,
+    "at_a_glance": {
+      "death_certificate": "Confirm translation with Ukrainian consulate",
+      "embalming": "Confirm with consulate and carrier",
+      "coffin": "Sealed zinc casket required for exit",
+      "laissez_passer": "Not a Strasbourg Agreement party",
+      "consular": "Confirm with Ukrainian consulate",
+      "permit": "Export permit from country of death",
+      "arrival": "By road from Poland"
+    },
+    "steps": [
+      {
+        "when": "First",
+        "what": "Death certificate and funeral director in the country of death."
+      },
+      {
+        "when": "Before departure",
+        "what": "Embalming, casket sealing and transfer permit as required by the country of death; check entry documents with the Ukrainian consulate."
+      },
+      {
+        "when": "Before departure",
+        "what": "Arrange a hearse from Poland to Ukraine."
+      },
+      {
+        "when": "Transport",
+        "what": "Flight to Poland, then road transfer to the Ukrainian border."
+      },
+      {
+        "when": "Arrival",
+        "what": "Customs clearance at the land border; handover to the Ukrainian funeral home."
+      }
+    ],
+    "key_points": [
+      "No flights into Ukraine while airports are closed",
+      "Zinc casket sealed by customs for exit",
+      "Not a party to the Strasbourg Agreement"
+    ],
+    "export_points": [
+      "Hermetically sealed zinc casket",
+      "Customs official seals and certifies contents",
+      "Road transfer to Poland, flight from Warsaw",
+      "Death registered within 3 days"
+    ],
+    "private_jet_note": "Ukrainian airports are closed: fly to Poland and continue by road.",
+    "confidence": "medium",
+    "lead_days": null
+  },
+  {
+    "cc": "UG",
+    "status": "requirements",
+    "name": "Uganda",
+    "summary": "A Ugandan embassy or consulate certifies the repatriation documents free of charge, usually within 1 to 3 working days. The file includes the death certificate, embalming certificate, local burial permit, no-contagious-disease certificate and a post-mortem or medical report.",
+    "coffin": "The Ugandan missions do not set a casket standard: the transporting airline advises on the appropriate casket.",
+    "embalming": "Embalming is required: a certificate of embalmment is part of the file.",
+    "consular": "Originals are sent by express mail to the Ugandan mission with a prepaid return envelope; the mission certifies them free of charge (1 to 3 working days in Copenhagen and Mombasa, 1 working day in Washington) and returns them with a cover note. Uganda is not a party to the 1973 Strasbourg Agreement. Ashes: request letter, passport, death certificate and cremation certificate, certified the same way.",
+    "arrival": "The certified originals travel with the coffin for clearance at the arrival airport (normally Entebbe International Airport); the family or a Ugandan funeral home collects. No national burial deadline was found.",
+    "pouch": null,
+    "private_aviation": "No published rule specific to private or charter flights was found. Human remains need the same mission-certified documents as on an airline (originals with the coffin), and the aircraft should land at an international airport with customs and health services, normally Entebbe; usual landing and overflight permissions for foreign-registered aircraft apply. Check that the casket fits the aircraft.",
+    "export": "Per the UK FCDO, shipping a body from Uganda requires a local civil registry death certificate, a certificate of embalming and a certificate giving permission to transfer the remains. The death is registered with NIRA (online or via a funeral director; Form 12, plus Form 13 for hospital deaths); the Ugandan certificate does not show the cause of death. The process usually takes 7 to 10 days.",
+    "authority": "Ugandan embassy or consulate abroad (entry); NIRA and local authorities in Uganda (exit)",
+    "last_checked": "2026-10",
+    "documents": [
+      "Signed request for certification from a responsible person (relative or employer)",
+      "Passport of the deceased",
+      "Death certificate",
+      "Certificate of embalmment",
+      "Burial permit from the local authority where the deceased lived",
+      "Certificate of no contagious diseases",
+      "Post-mortem report or comprehensive medical report from the attending doctor or facility"
+    ],
+    "sources": [
+      "https://copenhagen.mofa.go.ug/node/110",
+      "https://mombasa.mofa.go.ug/node/155",
+      "https://washington.mofa.go.ug/node/271",
+      "https://www.gov.uk/guidance/what-to-do-after-a-british-person-dies-in-uganda",
+      "https://treatydatabase.overheid.nl/en/Treaty/Details/002388_p"
+    ],
+    "pouch_accepted": null,
+    "private_jet_alert": false,
+    "at_a_glance": {
+      "death_certificate": "Original, certified by Ugandan mission",
+      "embalming": "Required, certificate needed",
+      "coffin": "Transporting airline advises on casket",
+      "laissez_passer": "Not applicable; mission certification",
+      "consular": "Ugandan mission certifies free, 1-3 days",
+      "permit": "Local burial permit from country of death",
+      "arrival": "Originals travel with the coffin to Entebbe"
+    },
+    "steps": [
+      {
+        "when": "Day 0-1",
+        "what": "Register the death locally and appoint funeral directors"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Obtain death certificate, medical or post-mortem report and no-contagion certificate"
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Embalming, sealed casket and local burial permit"
+      },
+      {
+        "when": "Day 2-4",
+        "what": "Ugandan mission certifies the originals (free, 1-3 working days)"
+      },
+      {
+        "when": "Day 4-5",
+        "what": "Flight to Entebbe with originals; family or funeral home collects"
+      }
+    ],
+    "key_points": [
+      "Mission certification is free",
+      "Send originals by express mail with a return envelope",
+      "Leaving Uganda typically takes 7 to 10 days"
+    ],
+    "export_points": [
+      "Register the death with NIRA",
+      "Embalming certificate and permission to transfer",
+      "Usually 7 to 10 days",
+      "Cause of death not on the Ugandan certificate"
+    ],
+    "private_jet_note": "Carry the mission-certified originals on board for clearance at Entebbe.",
+    "confidence": "medium",
+    "lead_days": 3
+  },
+  {
+    "cc": "US",
+    "status": "requirements",
+    "name": "United States",
+    "summary": "Human remains entering the US fall under CDC rules and are cleared by CBP at the first port of entry: non-cremated remains must be fully contained in a leak-proof container, and remains that are not embalmed must travel with a death certificate stating the cause of death (with an English translation, authenticity attested by a notary or similar official, if not in English). A US funeral home receives the remains and obtains the state burial or cremation permit.",
+    "coffin": "CDC requires all non-cremated remains to be fully contained in a leak-proof container: a double-layered puncture-resistant body bag (two sealed bags, one inside the other), a casket whose interior lining is certified leak-proof and puncture-resistant by the manufacturer, or a sealed metal body transfer case. No witnessed sealing is required by US law; the country of departure or the carrier may impose a hermetically sealed or zinc-lined coffin and an outer air tray.",
+    "embalming": "Not required by US federal rules. Embalming before import removes the need for a death certificate and for any CDC permit, including when the death was caused by an infectious disease. The country of departure often requires embalming anyway.",
+    "consular": "No legalisation or consular visa is required by the US for entry. For a US citizen, the US embassy or consulate abroad can help obtain the documents and may issue a Consular Report of Death Abroad and, where needed, a Consular Mortuary Certificate. The State Department does not pay for repatriation.",
+    "arrival": "CBP clears the remains at the first US port of entry, checking the CDC documents. A licensed US funeral director collects the remains and obtains the local burial-transit or cremation permit under state law. There is no federal burial deadline; timing follows state rules.",
+    "pouch": "Accepted by CDC as a leak-proof container only as a double-layered, puncture-resistant body bag (two sealed bags, one inside the other). The country of departure, the carrier and the receiving funeral home may still require a casket or transfer case.",
+    "private_aviation": "A private aircraft arriving from abroad must transmit the arrival manifest through eAPIS (or another CBP-approved system) no later than 60 minutes before departure and must receive CBP landing approval before leaving the foreign airport; the manifest alone does not grant landing rights. Flights from the south must generally land at the nearest designated airport to the border or coastline crossing. The remains are declared and cleared by CBP on arrival with the same CDC documents.",
+    "export": "Leaving the US: the funeral director obtains the local death certificate and a certificate of embalming (or cremation), plus the documents required by the destination country (for example a disposition permit, non-contagious disease letter, apostille or consular legalisation; confirm with the destination's consulate). Release can be delayed when a medical examiner investigates a sudden, unexpected or unattended death, or when there is a criminal investigation.",
+    "authority": "Centers for Disease Control and Prevention (CDC); US Customs and Border Protection (CBP); state vital records offices",
+    "last_checked": "2026-10",
+    "documents": [
+      "Death certificate stating the cause of death (required unless embalmed or cremated), with an English translation whose authenticity is attested by a notary or similar official if not in English",
+      "If no death certificate is available: Consular Mortuary Certificate, Affidavit of Foreign Funeral Director and Transit Permit from the US embassy or consulate, or an importer certification statement",
+      "Embalming certificate where the body was embalmed (embalmed remains are exempt from the death-certificate and permit requirements)",
+      "Export clearance documents required by the country of death",
+      "CDC import permit only if the person died of an infectious disease and the remains are not embalmed or cremated"
+    ],
+    "sources": [
+      "https://www.cdc.gov/importation/human-remains/index.html",
+      "https://www.law.cornell.edu/cfr/text/19/122.22",
+      "https://www.law.cornell.edu/cfr/text/19/122.24",
+      "https://www.gov.uk/guidance/when-someone-dies-in-the-usa"
+    ],
+    "pouch_accepted": true,
+    "private_jet_alert": true,
+    "at_a_glance": {
+      "death_certificate": "Needed unless embalmed; English translation",
+      "embalming": "Not required by US law",
+      "coffin": "Leak-proof container, casket or transfer case",
+      "laissez_passer": "Not used",
+      "consular": "No legalisation; US consulate helps citizens",
+      "permit": "CDC permit only for unembalmed infectious cases",
+      "arrival": "CBP clearance; US funeral home collects"
+    },
+    "steps": [
+      {
+        "when": "Day 0",
+        "what": "Appoint a funeral home abroad and a receiving US funeral home; inform the US embassy if the deceased was a US citizen."
+      },
+      {
+        "when": "Day 1",
+        "what": "Obtain the local death certificate with cause of death and the export clearance of the country of death."
+      },
+      {
+        "when": "Day 1-2",
+        "what": "Embalming (recommended) and placement in a leak-proof casket or transfer case; obtain the embalming certificate."
+      },
+      {
+        "when": "Day 2-3",
+        "what": "Translate documents into English if needed; for a private flight, file eAPIS and obtain CBP landing approval."
+      },
+      {
+        "when": "Arrival",
+        "what": "CBP clearance at the port of entry; the US funeral home collects and obtains the state burial or cremation permit."
+      }
+    ],
+    "key_points": [
+      "Embalmed or cremated remains need no death certificate or CDC permit for entry.",
+      "A double sealed body bag meets the CDC leak-proof rule, but airlines may want a casket.",
+      "Private flights need CBP landing approval before departure."
+    ],
+    "export_points": [
+      "Local death certificate and embalming certificate",
+      "Destination country sets permits, apostille and legalisation",
+      "Medical examiner release needed after sudden or unattended deaths"
+    ],
+    "private_jet_note": "File eAPIS and obtain CBP landing approval before take-off; keep the CDC documents on board.",
+    "confidence": "high",
+    "lead_days": 3
+  }
+]
